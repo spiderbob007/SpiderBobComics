@@ -1,0 +1,32 @@
+﻿/* copyright  page styles */
+
+	body	{
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat;	
+		background-attachment: fixed;
+		cursor: default;
+	}
+	
+	#google_translate_element {
+		height: 28px;
+		float: right;
+		margin: 2px;		
+	}
+	
+	a	{		
+		font-variant: normal; 
+		text-transform: none;
+		text-decoration: none;	
+	}
+		
+	a img	{
+		border: none;
+	}
+	
+	#disclaimer	{		
+		font-weight: bold;
+	}
+	
+	#comicsans	{
+		font-family: "Comic Sans MS", cursive, sans-serif;
+	}

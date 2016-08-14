@@ -1,0 +1,10 @@
+﻿	
+	@import "import_comics.css";
+	
+	/*autobot_comics*/
+
+	body	{
+		background-image: url('../teams/indi/transformers/images/autobot_logo01.gif'); 
+		background-repeat: repeat; 
+		background-attachment: fixed;
+	}

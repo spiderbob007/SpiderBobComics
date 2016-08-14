@@ -1,0 +1,145 @@
+﻿/*comics_corner*/
+
+	body	{
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat;	
+		background-attachment: fixed;
+		cursor: default;
+	}
+	
+	#banner	{
+		position: relative;
+		top: 5px;
+		text-align: center;	
+		margin-left: 100px;
+		margin-right: 100px;		
+	}
+	
+	#home {
+		position: absolute;
+		top: 2px;
+		left: 2px;	
+		z-index: 1;
+		border: 1px solid navy;
+		box-shadow: 5px 5px 5px #888888;
+	}
+		
+	.black_cell	{		
+		height: auto;
+		background-color: black;
+		color: white;	
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 14px; 
+		font-weight: bold; 
+		margin-bottom: -15px
+	}
+	
+	#toc_header	{
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 24px; 
+		color: navy;
+		font-weight: bold; 
+		font-style: normal; 
+		font-variant: normal;
+		text-align: left;
+	}
+	
+	#toc_body a {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 18px;
+		font-weight: bold;
+		font-style: normal; 
+		font-variant: normal; 
+		text-transform: none; 
+		text-decoration: none;	
+	}
+	
+	#toc_body a:link {
+		color: blue;
+		text-decoration: none;
+	}
+	
+	#toc_body a:visited {
+		color: blue;
+		text-decoration: none;
+	}
+	
+	.upupaway {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 18px; 
+		font-weight: bold;
+		text-align:center;		
+	}
+	
+	span.bold	{
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 18px; 
+		font-weight: bold; 
+	}
+	
+	span.title	{
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 24px; 
+		font-weight: bold; 
+		color: red;
+	}
+	
+	span.heading	{
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 20px; 
+		font-weight: bold; 
+		color: red;
+	}
+	
+	p.width {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 18px; 
+		font-weight: bold; 
+		color: white;
+		text-align: center;
+	}
+	
+	.center	{
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 12px; 
+		text-align: center;
+	}
+	
+	a {		
+		text-transform: none; 
+		text-decoration: none;	
+	}	
+	
+	a img:hover	{
+		opacity: 0.95;
+	}	
+	
+	p	{
+		font-family: Verdana, Geneva, sans-serif;
+		color: navy;
+		font-size: 18px; 
+		font-weight: bold; 
+		font-style: normal; 
+		font-variant: normal;
+		text-align: left;
+		text-transform: none; 
+		text-decoration: none; 
+	}
+
+	p :visited {
+		color: blue;
+		text-decoration: none;
+	}
+		
+	img	{
+		border: none;
+	}
+		
+	hr	{
+		height: 5px;
+		width: 100%;
+		border-width: 0;
+		color: navy;
+		background-color: navy;
+		margin: 0;
+	}

@@ -1,0 +1,60 @@
+	
+	/*  Common styles for comics database pages */
+	
+	html {
+		height: 99%;
+	}
+	
+	body	{		
+		height: 99%;
+		background-repeat: repeat;
+		background-attachment: fixed;		
+	}
+	
+	table	{
+		height: inherit;
+		width: 95%;
+		background-color: white;
+		border: solid black 1px;
+	}
+	
+	.black_cell	{
+		height: inherit;
+		background-color: black;		
+		color: white;		
+		font-weight: bold; 
+		vertical-align: top; 
+		text-align: center;
+		margin-bottom: -15px;
+		padding: 4px;
+		cursor: default;
+	}	
+
+	.image_cell	{
+		height: inherit;
+		max-width: 100px;
+		vertical-align: middle;
+		background-color: black;		
+		cursor: default;		
+	}		
+	
+	td, p, a	{
+		vertical-align: top; 
+		text-align: center; 
+		color: white;	
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 1.6vmax;
+		font-weight: bold;
+		font-style: normal; 
+		font-variant: normal; 
+		text-transform: none; 
+		text-decoration: none; 
+	}
+	
+	.image_cell img	{
+		border:	grey 3px ridge;
+		max-width: 95%;
+		max-height: 750px;
+		height: auto;
+		width: auto\9; /* ie8 */
+	}

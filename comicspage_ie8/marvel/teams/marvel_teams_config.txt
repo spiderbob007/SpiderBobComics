@@ -1,0 +1,479 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+	{FOLDER ~Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | The hero teams of the Marvel Universe.}
+	{FOLDER 123,3,4 | * | Contains listings with book icons that have biography pages. Most listings with page icons display details HERE.}
+		{ITEM 3Peace,8,20 | * | Group of rebel heroes opperating in China.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | * | Contains listings with book icons that have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Action Force,8,20 | * | European paramilitary law enforcement group.}
+		{ITEM Agents of Atlas,5,6 | ../../../teams/marvel/Agents_of_Atlas.htm,_page | Secret team of superheroes.}
+		{ITEM Alpha Flight,5,6 | ../../../teams/marvel/AlphaFlight.htm,_page | Team of Canadian superheroes.}
+		{ITEM All-Winners Squadron,5,6 | ../../../teams/marvel/Invaders.htm,_page | World War II allied superhero team.}
+		{ITEM Anachronauts,8,20 | * | Group of heroes throughout time defeated and pressed into service by Kang the Conqueror.}
+		{ITEM A.R.M.O.R.,8,20 | * | Alternate Reality Monitoring and Operational Response Agency.}
+		{ITEM Autobots,5,6 | ../../../teams/indi/transformers/Autobots.htm,_page | Group of peace loving extraterrestrial sentient robots primarily disguised as Earth vehicles}
+		{ITEM Avengers,5,6 | ../../../teams/marvel/Avengers.htm,_page | Earth's Mightiest Heroes}
+		{ITEM Avengers 1958,5,6 | ../../../teams/marvel/Agents_of_Atlas.htm,_page | Team assembled to rescue President Eisenhower from the Yellow Claw.}
+		{ITEM Avengers Academy,5,6 | ../../../teams/marvel/AvengersAcademy.htm,_page| Team of young super humans learning to use their powers in a school environment.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM B-Sides,8,20 | * | Group of minor-league superheroes from New Jersey.}
+		{ITEM Beta Flight,5,6 | ../../../teams/marvel/AlphaFlight.htm,_page | Training team of Canadian superheroes.}
+		{ITEM Big Hero Six,8,20 | * | Team of Japanese superheroes}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Cadre K,5,6 | ../../../teams/marvel/CadreK.htm,_page | Group of mutant Skrulls.}
+		{ITEM Cathari,8,20 | * | Sect of mystic warriors.}
+		{ITEM Champions,5,6 | ../../../teams/marvel/Champions.htm,_page | Group of superheroes based in Los Angeles, California}
+		{ITEM Champions of Xandar,8,20 | * | Group of superheroes drawing power from Xandarian technology.}
+		{ITEM ClanDestine,5,6 | ../../../teams/marvel/Clandestine.htm,_page | Family of immortals.}
+		{ITEM Code: Blue,8,20 | * | Elite NYPD SWAT team designed to combat superhuman threats.}
+		{ITEM Confederates of the Curious,8,20 | * | Team of heroes during the early 20th Century.}
+		{ITEM (The) Corps,8,20 | * | Multi-dimensional team of super-powered beings assembled by the sorcerer Merlyn.}
+		{ITEM Crazy Eight,8,20 | * | Group of eight ionic powered super heroes}
+		{ITEM Crazy Sues,5,6 | ../../../teams/marvel/CrazySues.htm,_page | Group of super-human soldiers.}
+		{ITEM Crusaders,8,20 | * | Group of superheroes unknowingly run by a Nazi spy}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Dare Devils 3,8,20 | * | Group of airmen during World War II.}
+		{ITEM Deadly Dozen,8,20 | * | Group of convicts volunteering for combat duty in exchange for pardons.}
+		{ITEM Defenders,5,6 | ../../../teams/marvel/Defenders.htm,_page | Loose alliance of superheroes}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Earth Force,8,20 | * | =}
+		{ITEM Earth Lords,8,20 | * | Group of ancient mystics capable of controlling nature.}
+		{ITEM Eight Immortals,8,20 | * | Group of super-powered humans protecting China.}
+		{ITEM Euroforce,8,20 | * | Group of heroes based in Europe.}
+		{ITEM Excalibur I,5,6 | ../../../teams/marvel/Excalibur.htm,_page | Team of super-powered mutants and non-mutants based in Great Britain.}
+		{ITEM Excalibur II,5,6 | ../../../teams/marvel/ExcaliburII.htm,_page | Mutant protection force operating in Genosha.}
+		{ITEM Excelsior,5,6 | ../../../teams/marvel/Excelsior.htm,_page | Group of heroes based in California.}
+		{ITEM Exiles II,5,6 | ../../../teams/marvel/ExilesII.htm,_page | Group of trans-dimensional mutants traveling through multiple realites.}
+		{ITEM Externals,8,20 | * | Loose association of immortal mutants}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Fallen Angels,8,20 | * | Group of young superheroes, mostly mutants.}
+		{ITEM Fantastic Force,8,20 | * | Group of superheroes affiliated with the Fantastic Four.}
+		{ITEM Fantastic Four,5,6 | ../../../teams/marvel/FantasticFour.htm,_page |The World's Greatest Superhero Team.}
+		{ITEM Fin Fang Four,5,6 | ../../../teams/marvel/FinFangFour.htm,_page | Ad-hoc group of former giant monsters.}
+		{ITEM First Attack Squad,8,20 | * | Official Army name for the Howling Commandos.}
+		{ITEM First Flight,8,20 | * | Team of Canadian superheroes.}
+		{ITEM First Line,8,20 | * | Group of superhuman heroes in teh 1950's.}
+		{ITEM Force Four,8,20 | * | Group of superhuman aliens from the planet Kymellia.}
+		{ITEM Force Works,8,20 | * | Group of heroes born out of the disillusion of the West Coast Avengers.}
+		{ITEM (The) Forgiven,8,20 | * | Group of vampires battling against evil.}
+		{ITEM Freedom's Five,8,20 | * | Team of heroes during World War I.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Galactic Guardians,8,20 | * | Team of intergalactic super-heroes from an alternate reality.}
+		{ITEM Gamma Corps,5,6 | ../../../teams/marvel/GammaCorps.htm,_page | Military regiment of gamma radiation powered soldiers.}
+		{ITEM Gamma Flight,5,6 | ../../../teams/marvel/AlphaFlight.htm,_page | Training team of Canadian superheroes.}
+		{ITEM G.R.A.N.D.P.A.,8,20 | * | Global Reaction Agency for Mysterious Paranormal Activity.}		
+		{ITEM Generation X,5,6 | ../../../teams/marvel/Gen-X.htm,_page | Team of young mutant superheroes}
+		{ITEM Great Lakes Avengers,5,6 | ../../../teams/marvel/GreatLakesAvengers.htm,_page | Group of amateur heroes from the Great Lakes region.}
+		{ITEM Guardians of the Galaxy,5,6 | ../../../teams/marvel/GuardiansGalaxyII.htm,_page | Team of intergalactic super-heroes from an alternate reality.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Harriers,8,20 | * | Group of mercenaries}
+		{ITEM H.A.T.E.,8,20 | * | Highest Anti-Terrorism Effort}
+		{ITEM Heroes for Hire,5,6 | ../../../teams/marvel/Heroes_for_Hire.htm,_page | Group of super-powered being willing to fight causes for cash}
+		{ITEM High-Gear Hot-Shots,8,20 | * | Group of auto racing adventurers.}
+		{ITEM Howling Commandos I,5,6 | ../../../teams/marvel/HowlingCommandosI.htm,_page | Special Forces battalion during World War II.}
+		{ITEM Howling Commandos II,5,6 | ../../../teams/marvel/HowlingCommandosII.htm,_page | Special Forces battalion of monsters.}
+		{ITEM Hulk Hunters,8,20 | * | Group of super-powered extraterrestrials sent to enlist the Hulk's assistance against the Galaxy Master.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Illuminati,5,6 | ../../../teams/marvel/Illuminati.htm,_page | Elite leaders of the superhuman community.}
+		{ITEM Immortal Weapons,5,6 | ../../../teams/marvel/ImmortalWeapons.htm,_page | Champions of the extra-dimensional Capital Cities of Heaven.}
+		{ITEM Imperial Guard,5,6 | ../../../teams/marvel/ImperialGuard.htm,_page | Para-military alliance of heroes from the Shi'ar Galaxy.}
+		{ITEM Infinity Watch,8,20 | * | Group of cosmically powered heroes.}		
+		{ITEM Inhumans,5,6 | ../../../aliens_races/marvel/Inhumans.htm,_page | Race of engineered humans granted super powers from exposure to Terrigen Mists by the Kree.}
+		{ITEM Intruders,8,20 | * | Group of superhuman Nazi hunters.}
+		{ITEM Invaders,5,6 | ../../../teams/marvel/Invaders.htm,_page | Group of superheroes that battled the Axis powers during World War II.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Jury,8,20 | * | Group of high-tech mercenaries.}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Kid Commandos,8,20 | * | Group of young superheroes that battled the Axis powers during World War II}
+		{ITEM Knights of Pendragon,8,20 | * | Team of superheroess based in Great Britain.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Lady Liberators,5,6 | ../../../teams/marvel/LadyLiberators.htm,_page | Group of female heroes.}
+		{ITEM League of Losers,5,6 | ../../../teams/marvel/League_of_Losers.htm,_page | Ad hoc collection of heroes escaping into the future.}
+		{ITEM Leatherneck Raiders,8,20 | * | Platoon of Marines lead by Captain Simon Savage. (also known as the Battlefield Raiders)}
+		{ITEM Legion,8,20 | * | Radical liberal activist group.}
+		{ITEM Legion of Night,8,20 | * | =}
+		{ITEM Les Heroes de Paris,8,20 | * | The heroes of Paris.}
+		{ITEM Liberty Legion,8,20 | * | Group of superheroes that battled the Axis powers on the home front during World War II}
+		{ITEM Lightning Rods,5,6 | ../../../teams/marvel/GreatLakesAvengers.htm,_page | Group of amateur heroes from the Great Lakes region formerly known as the Great Lakes Avengers.}
+		{ITEM Los Hermanos de la Luna,8,20 | * | Brothers of the Moon, werewolves Carlos & Eduardo Lobo.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Magistrati,8,20 | * | Cosmic arbitrators of justice and agents of the Living Tribunal.}
+		{ITEM Marvel Knights,5,6 | ../../../teams/marvel/MarvelKnights.htm,_page | Loose collection of hard luck heroes}
+		{ITEM Masters of Silence,8,20 | * | Three warriors possessed by the gods known as the Three Storms.}
+		{ITEM Micronauts,8,20 | * | Group of heroes representing different planets from a sub-atomic universe}
+		{ITEM Midnight Sons,8,20 | * | Group of mystically powered heroes.}
+		{ITEM Monster Hunters,8,20 | * | Group of adventurers that track and trap giant monsters.}
+		{ITEM Morlocks,5,6 | ../../../teams/marvel/Morlocks.htm,_page | Community of mutants living in the New York sewer system.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM New Mutants,5,6 | ../../../teams/marvel/NewMutants.htm,_page | Group of young mutant superheroes.}
+		{ITEM New Warriors,5,6 | ../../../teams/marvel/NewWarriors.htm,_page | Group of young superheroes.}
+		{ITEM New X-Men,5,6 | ../../../teams/marvel/NewXMen.htm,_page | Group of young mutant superheroes.}
+		{ITEM Nextwave Squad,5,6 | ../../../teams/marvel/Nextwave.htm,_page | Elite anti-terrorism team working for H.A.T.E.}
+		{ITEM Nightstalkers,8,20 | * | Group of vampire hunters.}
+		{ITEM Nisei Squadron,8,20 | * | Group of Japanese-American soldiers fighting during World War II.}
+		{ITEM Nova Corps,5,6 | ../../../teams/marvel/NovaCorps.htm,_page | Inter-galactic police force.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM (The) Order II,5,6 | ../../../teams/marvel/OrderII.htm,_page | Team of superhumans protecting California.}
+		{ITEM Outcasts,8,20 | * | Group of superhuman mercenaries during World War II.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Pantheon,8,20 | * | Group of superhumans named for Greek gods and heroes.}
+		{ITEM Penance Council,8,20 | * | Leaders of the secret organization the V-Battalion.}
+		{ITEM People's Protectorate,5,6 | ../../../teams/marvel/WinterGuard.htm,_page | Group of super-powered beings controlled by the Soviet government of Russia.}
+		{ITEM Power Pack,5,6 | ../../../teams/marvel/PowerPack.htm,_page | Team of adolescent heroes granted powers by a member of the alien race Kymellian.}
+		{ITEM Promise,8,20 | * | Group of telepathic mutants living in suspended animation.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Rangers,8,20 | * | Group of old-west super-heroes.}
+		{ITEM Redeemers,5,6 | ../../../teams/marvel/Redeemers.htm,_page | Group of paroled super-villains given a second chance by the Commission on Superhuman Activities.}
+		{ITEM Renegades I,8,20 | * | Group of old-west heroes erroneously branded traitors.}
+		{ITEM Runaways,5,6 | ../../../teams/marvel/Runaways.htm,_page | Group of teenagers hiding from their super-villain parents.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Santerians,8,20 | * | Group of urban heroes who gained their abilities from the mystical art of Santeria.}
+		{ITEM Scarlet Knights,8,20 | * | Family team of British mutant superheroes.}
+		{ITEM Schutz-Heiliggruppe,8,20 | * | Group of super-heroes from Germany.}
+		{ITEM Secret Defenders,5,6 | ../../../teams/marvel/Defenders.htm,_page | Group of heroes lead by Dr. Strange.}
+		{ITEM Secret Warriors,5,6 | ../../../teams/marvel/SecretWarriors.htm,_page | Group of heroes lead by Nick Fury.}
+		{ITEM Secret X-Men,5,6 | ../../../teams/marvel/SecretXMen.htm,_page | First group of mutants tasked toward rescuing the original team from the island Krakoa.}
+		{ITEM Sentinel Squad O*N*E,5,6 | ../../../teams/marvel/SentinelSquadOne.htm,_page | Elite cybernetic commando squad working for the US Government.}
+		{ITEM Shadowmasters,8,20 | * | Group of elite ninja.}
+		{ITEM S.H.I.E.L.D.,5,6 | ../../../teams/marvel/SHIELD.htm,_page | Covert espionage agency chartered with handing treats of a global scale.}
+		{ITEM S.H.I.E.L.D. Super Agents,8,20 | * | Super-powered beings working in the service of S.H.I.E.L.D.}
+		{ITEM Skrull Kill Krew,5,6 | ../../../teams/marvel/SkrullKillKrew.htm,_page | Group infected by Skrull infected beef dedicated to the eradication of Skrulls.}
+		{ITEM Sky-Wolves,8,20 | * | Group of elite pilots during World War II.}
+		{ITEM Slayers Elite,8,20 | * | Group of assassins}
+		{ITEM Space Squadron,8,20 | * | Peace keeping force in the future.}
+		{ITEM Spaceknights,8,20 | * | Peace keeping force from a distant galaxy.}
+		{ITEM Spider Society,8,20 | * | Ancient group battling evil from the shadows since the Middle Ages.}
+		{ITEM Sons of the Tiger,8,20 | * | Group of heroes deriving their power from a tiger amulent.}
+		{ITEM Sons of Yinsen,5,6 | ../../../teams/marvel/Sons_of_Yinsen.htm,_page | Leaders of a secret high-tech society devoted to the teachings of Dr. Yinsen.}
+		{ITEM Spaceknights,8,20 | * | Group of alien warriors from the planet Galador.}
+		{ITEM Spacemen,8,20 | * | Group of thieves posing as heroes.}
+		{ITEM Squadron Supreme,5,6 | ../../../teams/marvel/SquadronSupremeI.htm,_page | Alternate reality Avengers, modeled after the Justice League.}
+		{ITEM Star Corps,5,6 | ../../../teams/marvel/NovaCorps.htm,_page | Inter-galactic police force.}
+		{ITEM Star Masters,8,20 | * | Group of super-powered space based heroes.}
+		{ITEM Starjammers,5,6 | ../../../teams/marvel/Starjammers.htm,_page | Group of space faring pirates and adventurers.} 
+		{ITEM Stepford Cuckoos,5,6 | ../../../teams/marvel/StepfordCuckoos.htm,_page | Group of quintuplet mutants with telepathic abilities.}
+		{ITEM Sunset Riders,8,20 | * | Group of multi-national rebels in the 19th Century.}
+		{ITEM SURF,8,20 | * | Group of water-based heroes}
+		{ITEM S.W.O.R.D.,8,20 | * | Sentient Worlds Observation and Response Department}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Three-In-One,8,20 | * | Group of mutant telepathic siblings.}
+		{ITEM Thor Corps,8,20 | * | Group of super-heroes with powers like Thor.}
+		{ITEM Titans Three,5,6 | ../../../teams/marvel/Defenders.htm,_page | Alliance of the Sub-Mariner, Silver Surfer and Hulk before forming the Defenders.}
+		{ITEM Tough Kid Squad,8,20 | * | Group of adolecent adventurers.}
+		{ITEM Tribe of the Moon,8,20 | * | Group of ancient heroes in what is today Canada.}
+		{ITEM Trouble Shooters,8,20 | * | Quartet of teen-aged adventurers.}
+		{ITEM Thunderbolts,5,6 | ../../../teams/marvel/Thunderbolts.htm,_page | Group of reformed super-criminals.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM V-Battalion,8,20 | * | Victory Battalion: a citizens group inspired by Citizen V that battled Nazis during World War II, continues as an underground organization.}
+		{ITEM Victory Boys,8,20 | * | Group of adolecent adventurers who battled the Nazis.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Warriors Three,5,6 | ../../../teams/marvel/WarriorsThree.htm,_page | Group of three Asgardian warriors and friends.
+		{ITEM West Coast Avengers,8,20 | * | Short lived team of Avengers located in California.}
+		{ITEM W.H.O.,8,20 | * | Weird Happenings Organization}
+		{ITEM Wild Pack I,8,20 | * | Mercenary team lead by Silver Sable}
+		{ITEM Winter Guard,5,6 | ../../../teams/marvel/WinterGuard.htm,_page | After the fall of the Soviet Union the two super-teams, Soviet Super Soldiers and the People's Protectorate merged into one team.}
+		{ITEM Witches,5,6 | ../../../teams/marvel/Witches.htm,_page | Group of mystically powered women.}
+		{ITEM Wolfpack,8,20 | * | Groupo of young urban heroes.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM X-Babies,5,6 | ../../../teams/marvel/XBabies.htm,_page | Engineered adolescent replicas of the X-Men created by Mojo to boost ratings during a sweeps period.}
+		{ITEM X-Corps,5,6 | ../../../teams/marvel/XCorps.htm,_page | Super-powered mutant police force.}
+		{ITEM X-Factor,5,6 | ../../../teams/marvel/XFactor.htm,_page | Group of super-powered mutants.}
+		{ITEM X-Force I,5,6 | ../../../teams/marvel/XForce.htm,_page | Group of super-powered mutants.}
+		{ITEM X-Force II,5,6 | ../../../teams/marvel/XStatix.htm,_page | Group of industry sponsored super-powered mutants.}
+		{ITEM X-Men,5,6 | ../../../teams/marvel/XMen.htm,_page | Group of super-powered mutants }
+		{ITEM X-Statix,5,6 | ../../../teams/marvel/XStatix.htm,_page | Group of industry sponsored super-powered mutants.}
+		{ITEM Xandarian Star Corps,5,6 | ../../../teams/marvel/NovaCorps.htm,_page | Inter-galactic police force.}
+		{ITEM Xavier's Security Enforcers,5,6 | ../../../teams/marvel/XMen.htm,_page | Super-powered mutant police force.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Young Allies I,5,6 | ../../../teams/marvel/YoungAllies.htm,_page | Group of young heroes battling during World War II}
+		{ITEM Young Allies II,8,20 | * | Group of young heroes from Counter-Earth.}
+		{ITEM Young Avengers,5,6 | ../../../teams/marvel/YoungAvengers.htm,_page | Group of teen heroes with powers or histories tied to the Avengers.}
+		{ITEM Young X-Men,5,6 | ../../../teams/marvel/YoungXMen.htm,_page | Group of young mutant heroes.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | The villain teams of the Marvel Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abominations,8,20 | * | Other dimensional group lead by Abomination I}
+		{ITEM Acolytes,8,20 | * | Mutant terrorist group.}
+		{ITEM A.I.D.,8,20 | * | Advanced Ideas in Destruction}
+		{ITEM A.I.M.,5,6 | ../../../teams/marvel/AIM.htm,_page | Advanced Idea Mechanics}
+		{ITEM Alliance of Evil,8,20 | * | Group of mutant terrorist formerly lead by Apocalypse}
+		{ITEM Ani-Men I,8,20 | * | Group of villains patterned after animals}
+		{ITEM Ani-Men II,8,20 | * | Group of villains patterned after animals}
+		{ITEM Apocalypse's Horsemen,8,20 | * | Group of mutants serving Apocalypse}
+		{ITEM Augmen,8,20 | * | Group of humans augmented with abilities dissected from mutants.}
+		{ITEM Axis Mundi,8,20 | * | Group of Nazi terrorist.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM B.A.D. Girls Inc.,5,6 | ../../../teams/marvel/BADGirls.htm,_page | Former female members of the Serpent Society}
+		{ITEM Bacchae,8,20 | * | Criminal cartel composed entirely of women.}
+		{ITEM Band of the Bland,8,20 | * | Group of mediocre villains.}
+		{ITEM Batroc's Brigade,8,20 | * | Small group of super-villains lead by Batroc the Leaper.}
+		{ITEM Battle-Axis,8,20 | * | Group of super powered non-German Nazi sympathizers}
+		{ITEM Beasts from Berlin,8,20 | * | Super-intelligent apes created in East Berlin.}
+		{ITEM Black Air,8,20 | * | Black Air Operations is a division of the British Intelligence Agency that replaced W.H.O.}
+		{ITEM Black Demon Sect,8,20 | * | Chinese subversive organization.
+		{ITEM Black Spectre I,8,20 | * | =}
+		{ITEM Bogatyri,8,20 | * | Group of Russian superhumans unable to accept the colapse of the Soviet Union.}
+		{ITEM Brothers Grim II,8,20 | * | Barton and Percy Grimes}
+		{ITEM Brotherhood of Evil Mutants,5,6 | ../../../teams/marvel/BrotherhoodMutants.htm,_page | Group of mutant terrorists.}
+		{ITEM Brotherhood of Mutants,5,6 | ../../../teams/marvel/BrotherhoodMutants.htm,_page | Group of mutant terrorists.}
+		{ITEM Bruiser Brigade,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cabal of Scrier,8,20 | * | Organization inspred by the Ancient Scrier.}
+		{ITEM Chalney Brothers,8,20 | * | Team of midget acrobats hired by Mysterio to impersonate Toad Men and attack the She-Hulk.}
+		{ITEM China Force,8,20 | * | Group of superhumans utlized by the communist Chinese government.}
+		{ITEM Circus of Crime,5,6 | ../../../teams/marvel/CrimeCircus.htm,_page | Group of criminals disguised as a traveling circus.}
+		{ITEM Clan Akkaba,8,20 | * | Heirs of the mutant Apocalypse.}
+		{ITEM Clan Yashida,8,20 | * | Japanese triad employing eastern mysticism and Ninja operatives to commit crimes.}
+		{ITEM Committee,8,20 | * | Group dedicated to killing Jack Russell (Werewolf by Night).}
+		{ITEM Conspiracy,8,20 | * | Group of villains compelled by the extra-dimensional Exo-Mind.}
+		{ITEM Contingency,8,20 | * | Rogue superhuman S.H.I.E.L.D. agents.}
+		{ITEM (The) Corporation,8,20 | * | Cartel of criminal businessmen.}
+		{ITEM Council of Kangs,8,20 | * | Small council of Kangs plotting to destroy lesser Kangs.}
+		{ITEM Council of Cross-Time Kangs,5,6 | ../../../teams/marvel/Crosstime_Kangs.htm,_page | Allegiance of beings who desire a secret weapon contained within the interdimensional Time Bubble.} 
+		{ITEM Council of Seven,8,20 | * | Elite branch of a secret martial arts society.}
+		{ITEM Council of the Chosen,5,6 | ../../../teams/marvel/HellfireClub.htm,_page | Elite branch of the Hellfire Club.}
+		{ITEM Crazy Gang,8,20 | * | Group of extra-dimensional bounty hunters.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM D-Generation,8,20 | * | Group of superhuman juvenile delinquents.}
+		{ITEM Dark Avengers,5,6 | ../../../teams/marvel/DarkAvengers.htm,_page | Team of villains impersonating heroes.}
+		{ITEM Dark Riders,8,20 | * | Warriors in service of Apocalypse.}
+		{ITEM Dark X-Men,8,20 | * | Team of villains impersonating heroes.}
+		{ITEM Dawning Light,8,20 | * | Subversive terrorist group disguised as a religious movement.}
+		{ITEM Death's Head Guards,8,20 | * | Members of the empathic alien species called Gnobians that had the misfortune of inheriting the philosophy of the Nazi, Baron Von Strucker.}
+		{ITEM Death Squad,8,20 | * | Group of Iron Man villains.}
+		{ITEM Death Throws,8,20 | * | Group of criminals with juggling motifs.}
+		{ITEM Deathweb,8,20 | * | Group of arachnaid powered criminals.}
+		{ITEM Decepticons,5,6 | ../../../teams/indi/transformers/Decepticons.htm,_page | Group of war mongering extraterrestrial sentient robots primarily disguised as Earth vehicles and weapons}
+		{ITEM Delphan Brothers,8,20 | * | Group of apparent brothers of the Eternal race.}
+		{ITEM Delta Force,8,20 | * | Group of heroes that rescued the Avengers.}
+		{ITEM Demon-Fire,8,20 | * | Cadre of demons or demon possessed humans.}
+		{ITEM Desert Sword,8,20 | * | Group of superhuman Iraqi soldiers.}
+		{ITEM Dragon Circle,8,20 | * | Offshoot of the Ku Klux Klan.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Elementals,8,20 | * | Group of extra-dimensional aliens with power over the four elements.}
+		{ITEM Elements of Doom,8,20 | * | Group of anti-humanity humanoids created by Dr. Vasily Khandruvitch based on the elements in nature.}
+		{ITEM Emissaries of Evil,8,20 | * | =}
+		{ITEM Enclave,8,20 | * | Group of scientist bent on world conquest.}
+		{ITEM Enforcers,5,6 | ../../../teams/marvel/Enforcers.htm,_page | Group New York City criminals.}
+		{ITEM Euro-Trash,8,20 | * | Group of mutant assassins residing in Europe.}
+		{ITEM Evil Inhumans,8,20 | * | Group of villainous Inhumans.}
+		{ITEM Exiles I,8,20 | * | Group of Nazis allied with the Red Skull.}
+		{ITEM Exterminators,5,6 | ../../../teams/marvel/Exterminators.htm,_page | Superhuman revenge squad against Spider-Man.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Factor Three,8,20 | * | Subversive group of world conquering mutants}
+		{ITEM Fathom Five,8,20 | * | Group of Atlantian terrorists.}
+		{ITEM Fellowship of Fear,8,20 | * | Group of Daredevil villains lead by Mr. Fear I.}
+		{ITEM Femme Fatales,8,20 | * | Group of superhuman women.}
+		{ITEM Fenris,8,20 | * | The genetically altered twins Andrea and Andreas Strucker}
+		{ITEM Folding Circle,8,20 | * | Group of super-powered criminals}
+		{ITEM Force of Nature,8,20 | * | Group of villains with elemental based powers.}
+		{ITEM Freedom Force,5,6 | ../../../teams/marvel/BrotherhoodMutants.htm,_page | Group of super-powered-mutant criminals working for the U.S. government as a condition of parole.}
+		{ITEM Freemen,8,20 | * | Group of rebels lead by Killraven against Martians.}
+		{ITEM Friends of Humanity,8,20 | * | Anti-mutant organization headed by Graydon Creed}
+		{ITEM Frightful Four,5,6 | ../../../teams/marvel/FrightfulFour.htm,_page | Group of super-powered criminals fashioned after the Fantastic Four}
+	{/FOLDER}
+	{FOLDER (G),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Gatherers,8,20 | * | Team of villainous Avengers gathered from alternate realities by Proctor}
+		{ITEM Gene Nation,8,20 | * | Army of Morlock offspring.}
+		{ITEM Grapplers,8,20 | * | Group of villainous super-powered women.}
+		{ITEM Great Gambonnos,8,20 | * | Ernesto and Luigi Gambonno}
+		{ITEM Great Game,8,20 | * | Gambling operation wagering on the outcome of superhuman battles.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Hand,5,6 | ../../../teams/marvel/TheHand.htm,_page | Clan of ninja assassins.}
+		{ITEM Headmen,8,20 | * | Renegade geniuses devoted to world conquest, with a bent toward brain surgery}
+		{ITEM Hellfire Club,5,6 | ../../../teams/marvel/HellfireClub.htm,_page | Social group lead by an influential but immoral group that are secretly mutants.}
+		{ITEM Hellions,5,6 | ../../../teams/marvel/Hellions.htm,_page | Group of young mutants directed by the White Queen}
+		{ITEM Heavy Metal,8,20 | * | Group of androids both heroic and villainous}
+		{ITEM (The) Homosexuality,8,20 | * | Group of flamboyantly gay themed superpowered terrorist.}
+		{ITEM Hulk Busters,8,20 | * | Team of specialist hired by U.S. Government to capture the Hulk}
+		{ITEM (The) Hood's Gang,5,6 | ../../../teams/marvel/HoodsGang.htm,_page | Allegiance of criminals.}
+		{ITEM Human Council,5,6 | ../../../teams/marvel/HumanCouncil.htm,_page| Affiliation of anti-mutant crusaders.}
+		{ITEM HYDRA,5,6 | ../../../teams/marvel/HYDRA.htm,_page | Subversive group of terrorist with ties to the Nazi party of World War II}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Imperial Forces of America,8,20 | * | =}
+		{ITEM Institute of Evil,8,20 | * | Group of super-powered villains from another dimension.}
+		{ITEM Intelligencia,8,20 | * | Group of genius super villains.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Legion of Living Lightning,8,20 | * | Terrorist orginization utilizing electric weapons.}
+		{ITEM Lethal Legion,5,6 | ../../../teams/marvel/LethalLegion.htm,_page | Several groups of super-powered villains with a grudge against the Avengers.}
+		{ITEM Luphomoids,8,20 | * | Aliens from the Galactus devoured planet Luphom - attempting to rule the galaxy.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Maggia,8,20 | * | International criminal organization}
+		{ITEM Mandarin's Avatars,8,20 | * | Group of superhuman criminals from China.}
+		{ITEM Marauders,5,6 | ../../../teams/marvel/Marauders.htm,_page | Cadre of superhuman mutant assassins.}
+		{ITEM Masters of Evil,5,6 | ../../../teams/marvel/Masters_of_Evil.htm,_page | Several groups of super-powered villains with a grudge against the Avengers.}
+		{ITEM Masters of Menace,8,20 | * | Group of criminals disguised as a traveling circus.}
+		{ITEM Millennium Dawn,8,20 | * | Terrorist organization}
+		{ITEM MODOC Squad,8,20 | * | Military Operatives Designed Only for Combat: Elite troop of AIM soldiers that share a hive mind.}
+		{ITEM Morlocks,5,6 | ../../../teams/marvel/Morlocks.htm,_page | Community of mutants living in the New York sewer system.}
+		{ITEM Mutant Force,8,20 | * |  Militant force of mutants opposed to the Mutant Registration Act, also known as the Resistants}
+		{ITEM Mutant Liberation Front,8,20 | * | Mutant terrorist group}
+		{ITEM Mutates,8,20 | * | Group of mutants living in the Savage Land.}
+		{ITEM Mys-Tech,8,20 | * | Group of mystically powered heroes.}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM National Force,8,20 | * | Group of neo-Nazi terrorist.}
+		{ITEM New Hellions,8,20 | * | Group of young mutant superheroes}
+		{ITEM New Men,8,20 | * | Earth animals evolved by the High Evolutionary}
+		{ITEM New Paramounts,8,20 | * | Group of Not Brand Echh themed superpowered terrorist.}
+		{ITEM Night Shift,8,20 | * | Group of gothic super-villains.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Offenders,5,6 | ../../../teams/marvel/Offenders.htm,_page | Group of villains gathered to challenge the Defenders.}
+		{ITEM Omega Flight I,8,20 | * | Renegade team of Canadian superheroes acting as criminals.}
+		{ITEM (The) Order I,5,6 | ../../../teams/marvel/Defenders.htm,_page | Core group of Defenders determined to bring order to Earth no matter the method.}
+	{/FOLDER}
+	{FOLDER (P),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Pacific Overloards,8,20 | * | Super-human criminal gang based in the Pacific Rim.}
+		{ITEM (The) Pride,8,20 | * | Group of suburban villains located in the west coast.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ravagers of Creation,8,20 | * | Four monsters with elemental powers of earth, wind, fire and water.}
+		{ITEM Reavers,8,20 | * | Group of cybernetic assassins and thieves.}
+		{ITEM Redmont 4,8,20 | * | Group of super-powered beings controlled by the Soviet government of Russia.}
+		{ITEM Renegades II,8,20 | * | Group of modern-day outlaws.}
+		{ITEM Resistants,8,20 | * | Militant force of mutants opposed to the Mutant Registration Act, also known as Mutant Force}
+		{ITEM Revenge Inc.,8,20 | * | Criminal cartel.}
+		{ITEM (The) Right,8,20 | * | Subversive organization dedicated to the elimination of super-human mutants.}
+		{ITEM Riot Squad,8,20 | * | Gamma powered villains controlled by the Leader}
+		{ITEM Royalist Forces of America,8,20 | * | Military forces lead by elitist still loyal to the British royal family.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Salem's Seven,5,6 | ../../../teams/marvel/SalemsSeven.htm,_page | Coven of evil witches.}
+		{ITEM Savage Land Mutates,8,20 | * | Group of mutants living in the Savage Land.}
+		{ITEM Savage Steel,8,20 | * | Members of the Cabal}
+		{ITEM (The) Scatter,8,20 | * | Collective of extraterrestrial carnivorous insects}
+		{ITEM Scourges of the Underworld,8,20 | * | Group of mostly unknown vigilantes that assassinate super-villains. First lead by Thomas Halloway (Angel I)}
+		{ITEM Secret Empire,8,20 | * | =}
+		{ITEM Seekers,8,20 | * | Group of technologically powered bounty hunters.}
+		{ITEM Sensational Seven,8,20 | * | Group of wild-west outlaws.}
+		{ITEM Serpent Society,5,6 | ../../../teams/marvel/SerpentSociety.htm,_page | Group of super-powered villains with snake motifs.}
+		{ITEM Serpent Squad,5,6 | ../../../teams/marvel/SerpentSociety.htm,_page | Early teams of super-powered villains that would become the Serpent Society.}
+		{ITEM Shadow Council,8,20 | * | Secret terrorist orginization.}
+		{ITEM S.I.L.E.N.T.,8,20 | * | Terrorist orginization.}
+		{ITEM Sinister Six,5,6 | ../../../teams/marvel/SinisterSix.htm,_page | Group of super-villains bent on destroying Spider-Man.}
+		{ITEM Sinister Seven,5,6 | ../../../teams/marvel/SinisterSix.htm,_page | Group of super-villains bent on destroying Spider-Man.}
+		{ITEM Sinister Syndicate,5,6 | ../../../teams/marvel/SinisterSix.htm,_page | Group of super-villains bent on destroying Spider-Man.}
+		{ITEM Six Pack,8,20 | * | Group of super powered mercenaries.}
+		{ITEM Skeleton Crew,8,20 | * | Group of villains hired to find the Red Skull after he was kidnapped by Magneto.} 
+		{ITEM Sons of Satannish,8,20 | * | Followers of the underworld god Satannish.}
+		{ITEM Sons of Scarab,8,20 | * | Group of Egyptian terrorist allied with the Nazis during World War II.}
+		{ITEM Sons of the Serpent,5,6 | ../../../teams/marvel/Sons_of_Serpent.htm,_page | Ultra-right-wing, pseudo-patriotic terrorist dedicated to a racially pure America.}
+		{ITEM Sons of Set,8,20 | * | Religious group worshiping the Egyptian serpent god Set.}
+		{ITEM Sons of the Shield,8,20 | * | Members of the Sons of the Serpent pretending to follow the example of Captain America.}
+		{ITEM Soviet Super-Soldiers,5,6 | ../../../teams/marvel/WinterGuard.htm,_page | Group of super-powered beings controlled by the Soviet government of Russia.}
+		{ITEM Squadron Sinister,5,6 | ../../../teams/marvel/SquadronSinister.htm,_page | Group of villains modeled after the Squadron Supreme.}
+		{ITEM Starblasters,8,20 | * | Group of alien mercinaries.}
+		{ITEM Starforce,8,20 | * | Group of super-powered space based villains.}
+		{ITEM Super-Apes,5,6 | ../../../villains/marvel/RedGhost.htm,_page | Group of simians exposed to cosmic radiation during a Soviet moon launch.}
+		{ITEM Super-Axis,8,20 | * | Group of super-powered beings fighting for the Axis powers during World War II.}
+		{ITEM Supreme Soviets,5,6 | ../../../teams/marvel/WinterGuard.htm,_page | Group of super-powered beings controlled by the Soviet government of Russia.}
+		{ITEM (The) Surgery,8,20 | * | Group of medically themed superpowered terrorist.}
+		{ITEM (The) Sweat Shop,8,20 | * | Group of super-powered mercinaries working for the Power Broker.}
+		{ITEM System Crash,8,20 | * | Group of cybernetically enhanced computer hackers.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM THEM,5,6 | ../../../teams/marvel/HYDRA.htm,_page | Ruling council of HYDRA.}
+		{ITEM They Who Wield Power,8,20 | * | Trio of subterranian despots.}
+		{ITEM Trash,8,20 | * | Group of super-human drug dealers.}
+		{ITEM Triumvirate of Terror,8,20 | * | Trio of criminals gathered by the Mad Thinker.}
+		{ITEM Triune Understanding,8,20 | * | Subversive terrorist group disguised as a religious movement.}
+		{ITEM True Believers,8,20 | * | Offshoot of the ninja cult known as the Hand.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM U-Foes,5,6 | ../../../teams/marvel/UFoes.htm,_page | Group of super-powered criminals exposed to cosmic radiation.}
+		{ITEM U-Men,8,20 | * | Anti-mutant terrorist group.}
+		{ITEM ULTIMATUM,8,20 | * | (Underground Liberated Totally Integrated Mobile Army To Unite Mankind) Terrorist group dedicated to the unification of world governments.}
+		{ITEM Underground Militia,8,20 | * | Group of pink-skinned Kree convicts.}
+		{ITEM Upstarts,8,20 | * | Social group of mutants and humans organized around the sport of assassination.}
+		{ITEM Urban Commandos,8,20 | * | Small group of jingoistic terrorist.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Valkyrior,8,20 | * | Women warriors of Asgard that escort the honored fallen to Asgard.}
+		{ITEM (The) Vestry,8,20 | * | Group of Catholic themed superpowered terrorist.}
+		{ITEM Vigilante Squad,8,20 | * | Group of three vigilantes inspired by the Punisher, killed by the Punisher.}
+		{ITEM Vulturians,8,20 | * | Group of four criminals who used the technology of Vulture II's wings.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Warhawks,8,20 | * | Group of super-powered villains.}
+		{ITEM Warrior Wizards,8,20 | * | Group of Himalayan sorcerers.}
+		{ITEM Warstar,8,20 | * | Warriors serving in the Royal Elite of the Shi'ar Imperial Guard.}
+		{ITEM Warwolves,8,20 | * | Artificial hunters resembling wolves created by Mojo I.}
+		{ITEM Watchdogs,8,20 | * | Right-wing paramilitary group using terror and violence to end what they consider moral corruption.}
+		{ITEM Weaponeers,8,20 | * | Group of high-tech munitions dealers.}
+		{ITEM Weathermen,8,20 | * | Group of meteorologist able to control aspects of the weather.}
+		{ITEM Weird Sisters,8,20 | * | Group of super-powered villains.}
+		{ITEM Wild Pack II,8,20 | * | Group of super-powered mercenaries.}
+		{ITEM Wrecking Crew,5,6 | ../../../teams/marvel/WreckingCrew.htm,_page | The Wrecker III, Thunderball, Piledriver and Bulldozer II.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Zodiac,8,20 | * | Team of super-powered criminals fashioned after the zodiac of astrology}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

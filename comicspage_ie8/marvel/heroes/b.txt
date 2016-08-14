@@ -1,0 +1,177 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(B),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Bag-Man,5,6 | ../../../heroes/marvel/BagMan.htm,_page | Peter Benjamin Parker}
+		{ITEM Balder the Brave,5,6 | ../../../heroes/marvel/Balder.htm,_page | Balder}
+		{ITEM Bandit,8,20 | * | Donyell Taylor}
+		{ITEM Banshee,5,6 | ../../../heroes/marvel/Banshee.htm,_page | Sean Cassidy}
+		{ITEM Battering Ram,8,20 | * | =}
+		{ITEM Battle Brady,8,20 | * | Brady}
+		{ITEM Battle Star,8,20 | * | Lemar (Lem) Hoskins}
+		{ITEM Battleship Burke,,8,20 | * | Burke}
+		{ITEM Baymax,8,20 | * | =}
+		{ITEM Beak I,8,20 | * | Barnell Bohusk}
+		{ITEM Beak II,8,20 | * | Tito Bohusk}
+		{ITEM Bear Brother,8,20 | * | =}
+		{ITEM Beast,5,6 | ../../../heroes/marvel/Beast.htm,_page | Dr. Henry (Hank) Philip McCoy}
+		{ITEM Bedlam,8,20 | * | Jesse Aaronson}
+		{ITEM Beetle II,5,6 | ../../../heroes/marvel/Mach3.htm,_page | Abner (Abe) Ronald Jenkins}
+		{ITEM Beetle III,8,20 | * | Leila Davis}
+		{ITEM Beta Ray Thor,5,6 | ../../../heroes/marvel/BetaRayThor.htm,_page | Beta Ray Bill}
+		{ITEM Big Bertha,8,20 | * | Ashley Crawford}
+		{ITEM Billy Buckskin,8,20 | * | Billy}
+		{ITEM Binary,5,6 | ../../../heroes/marvel/Binary.htm,_page | Carol Susan Jane Danvers}
+		{ITEM Bird-Boy/Brain,8,20 | * | =}
+		{ITEM Bishop,5,6 | ../../../heroes/marvel/Bishop.htm,_page | =}
+		{ITEM Black Archer,8,20 | * | Wyatt McDonald}
+		{ITEM Black Avenger,8,20 | * | Jerry Carstairs}
+		{ITEM Black Axe,8,20 | * | Unknown}
+		{ITEM Black Bolt,5,6 | ../../../heroes/marvel/BlackBolt.htm,_page | Blackagar Boltagon (King of the Inhumans)}
+		{ITEM Black Brother,8,20 | * | Joshua}
+		{ITEM Black Cat,5,6 | ../../../heroes/marvel/BlackCat.htm,_page | Felicia Hardy}
+		{ITEM Black Crow,8,20 | * | Jesse Black Crow}
+		{ITEM Black Fox I,8,20 | * | Robert William Paine}
+		{ITEM Black Goliath,8,20 | * | William Barrett Foster}
+		{ITEM Black Knight I - VII,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Unknown}
+		{ITEM Black Knight VIII,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Sir Reginald}
+		{ITEM Black Knight IX,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Sir Percy of Scandia}
+		{ITEM Black Knight X,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Sir Raston}
+		{ITEM Black Knight XI,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Eobar Garrington}
+		{ITEM Black Knight XII,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Sir William}
+		{ITEM Black Knight XIII,5,6 | ../../../heroes/marvel/BlackKnight.htm,_page | Sir Henry}
+		{ITEM Black Knight XV,5,6 | ../../../heroes/marvel/BlackKnightXV.htm,_page | Dane Garrett Whitman}
+		{ITEM Black Leopard,5,6 | ../../../heroes/marvel/BlackPantherI.htm,_page | Chief T'Challa (King of Wakanda)}
+		{ITEM Black Marvel I,8,20 | * | Dan Lyons}
+		{ITEM Black Marvel II,8,20 | * | Peter Benjamin Parker}
+		{ITEM Black Panther I,5,6 | ../../../heroes/marvel/BlackPantherI.htm,_page | Bashenga}
+		{ITEM Black Panther II,5,6 | ../../../heroes/marvel/BlackPantherI.htm,_page | Chanda}
+		{ITEM Black Panther III,5,6 | ../../../heroes/marvel/BlackPantherI.htm,_page | T'Chaka}
+		{ITEM Black Panther IV,5,6 | ../../../heroes/marvel/BlackPantherI.htm,_page | T'Challa}
+		{ITEM Black Panther V,5,6 | ../../../heroes/marvel/BlackPantherII.htm,_page | Kevin (Kasper) Cole}
+		{ITEM Black Rider,5,6 | ../../../heroes/marvel/BlackRider.htm,_page | Matthew Masters}
+		{ITEM Black Tiger I,8,20 | * | Abe Brown}
+		{ITEM Black Tiger II,8,20 | * | Brillalae}
+		{ITEM Black Widow I,5,6 | ../../../heroes/marvel/BlackWidowI.htm,_page | Claire Voyant}
+		{ITEM Black Widow II,5,6 | ../../../heroes/marvel/BlackWidowII.htm,_page | Natalia (Natasha) Alianova Romanova / Rominov}
+		{ITEM Black Widow III,5,6 | ../../../heroes/marvel/BlackWidowIII.htm,_page | Yelena Belova}
+		{ITEM Blackstone the Magician,8,20 | * | Unknown}
+		{ITEM Blade,5,6 | ../../../heroes/marvel/Blade.htm,_page | Unknown alias : Eric Brook}
+		{ITEM Blaquesmith,8,20 | * | =}
+		{ITEM Blaze,5,6 | ../../../heroes/marvel/GhostRiderVII.htm,_page | John (Johnny) Blaze}
+		{ITEM Blaze Carson,8,20 | * | Dave Carson}
+		{ITEM Blazing Skull I,5,6 | ../../../heroes/marvel/BlazingSkull.htm,_page | Mark Anthony Todd}
+		{ITEM Blazing Skull II,8,20 | * | Jim Scully}
+		{ITEM Blindfold,8,20 | * | Ruth Aldine}
+		{ITEM Blink,5,6 | ../../../heroes/marvel/Blink.htm,_page | Clarice Ferguson}
+		{ITEM Blitzkrieg,8,20 | * | Franz Mittelstaedt}
+		{ITEM Blitzkrieger,8,20 | * | Franz Mittelstaedt}
+		{ITEM Bloke,8,20 | * | Mickey Tork}
+		{ITEM Blonde Phantom I,8,20 | * | Millie Collins}
+		{ITEM Blonde Phantom II,8,20 | * | Louise Grant Mason}
+		{ITEM Bloodstone I,8,20 | * | Ulysses Bloodstone}
+		{ITEM Bloodstone II,5,6 | ../../../heroes/marvel/BloodstoneII.htm,_page | Elsa Bloodstone}
+		{ITEM Blue Blade,8,20 | * | Roy Chambers}
+		{ITEM Blue Blaze,8,20 | * | Spencer Keen}
+		{ITEM Blue Bullet,8,20 | * | Johann Goldstein / Gold}
+		{ITEM Blue Diamond,8,20 | * | Dr. Elton T. Morrow}
+		{ITEM Blue Eagle,8,20 | * | James Dore Jr.}
+		{ITEM Blue Marvel,5,6 | ../../../heroes/marvel/BlueMarvel.htm,_page |  Adam Bernard Brashear}
+		{ITEM Blue Shield,8,20 | * | Joseph Cartelli}
+		{ITEM Bluebird,8,20 | * | Sally Avril}
+		{ITEM Bolt,8,20 | * | Chris Bradley}
+		{ITEM Bomblast,8,20 | * | Unknown}
+		{ITEM Boomer,5,6 | ../../../heroes/marvel/Meltdown.htm,_page | Tabitha Smith}
+		{ITEM Boom Boom II,5,6 | ../../../heroes/marvel/Meltdown.htm,_page | Tabitha Smith}
+		{ITEM Boot-Camp Brady,8,20 | * | Sgt. Brady}
+		{ITEM Bounty,8,20 | * | Uknown}
+		{ITEM Bounty Hunter,8,20 | * | Unknown}
+		{ITEM Box I,8,20 | * | Roger Bochs}
+		{ITEM Box III,8,20 | * | Walter Langkowski}
+		{ITEM Box IV,8,20 | * | Madison Jefferies}
+		{ITEM Breeze Barton,8,20 | * | Unknown}
+		{ITEM Breezy Collins,8,20 | * | Unknown}
+		{ITEM Brightsword,8,20 | * | Carter Dyam}
+		{ITEM Brother Nature,8,20 | * | Unknown}
+		{ITEM Brother Voodoo,5,6 | ../../../heroes/marvel/BrotherVoodoo.htm,_page | Jericho Drumm}
+		{ITEM Bruiser,5,6 | ../../../heroes/marvel/Bruiser.htm,_page | Molly Hayes}
+		{ITEM Bucky I,5,6 | ../../../heroes/marvel/BuckyI.htm,_page | James Michael Buchanan "Bucky" Barnes}
+		{ITEM Bucky II,5,6 | ../../../heroes/marvel/BuckyI.htm,_page | Fred Davis}
+		{ITEM Bucky III,5,6 | ../../../heroes/marvel/NomadIII.htm,_page | Jack Monroe}
+		{ITEM Bucky IV,8,20 | * | Rick Jones}
+		{ITEM Bucky V,8,20 | * | Lemar (Lem) Hoskins}
+		{ITEM Bucky VI,5,6 | ../../../heroes/marvel/BuckyVI.htm,_page | Rikki Barnes}
+		{ITEM Bug,8,20 | * | =}
+		{ITEM Butterfly,5,6 | ../../../heroes/marvel/Butterfly.htm,_page | Layla Rose Miller}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

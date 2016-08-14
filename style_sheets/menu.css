@@ -1,0 +1,62 @@
+/* Style sheet to control Encyclopedia Directory hover menu*/
+
+	#menu {
+		margin: 0;
+		padding: 0;
+		width: 175px;
+		list-style: none;
+		background: #fff;
+	}
+
+	#menu li {
+		padding: 0;
+		margin: 0;
+		height: 69px;
+		list-style: none;
+		background-repeat: no-repeat;
+		list-style-type: none;
+	}
+
+	#menu li a, #menu li a:visited {
+		display: block;
+		text-decoration: none;
+		text-indent: -9999px;
+		height: 69px;
+		background-repeat: no-repeat;
+	}
+
+	#dc {
+		background-image: url(../menu/dc_on.png);
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	#dc a {
+		background-image: url(../menu/dc_off.png);		
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	#marvel {
+		background-image: url(../menu/marvel_on.png);
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	#marvel a {
+		background-image: url(../menu/marvel_off.png);
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	#small {
+		background-image: url(../menu/small_on.png);
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	#small a {
+		background-image: url(../menu/small_off.png);
+		transition: opacity 0.25s ease-in-out;
+	}
+
+	ul#menu li a:hover {
+		background: none;
+		opacity: 0;
+	}
+	

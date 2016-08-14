@@ -1,0 +1,77 @@
+	
+	/* /*  Common styles for comics database mobile iOS pages */ */
+
+	header  {		
+		position: absolute;
+		top: 20px;		
+		text-align: center;
+		width: 100%;
+		z-index: -1;
+	}
+	
+	header h3 {		
+		background-color: white;
+		margin: 0 auto;
+		position: relative;
+		z-index: -1;
+	}
+	
+	header  a {		
+		text-transform: none; 
+		text-decoration: none;		
+	}	
+	
+	footer  {		
+		position: absolute;
+		bottom: 20px;		
+		text-align: center;
+		width: 100%;
+	}
+	
+	footer p {
+		display: inline;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		font-style: italic;		
+		position: relative;
+		z-index: -1;
+	}	
+	
+	footer  a {		
+		text-transform: none; 
+		text-decoration: none;		
+	}	
+	
+	footer img	{
+		border: none;
+		position: relative;
+		z-index: -1;
+	}
+	
+	p.click {		
+		position: relative;
+		z-index: 1;
+	}
+	
+	iframe {
+		border: 0;	
+		overflow: hidden;
+	}
+	
+	iframe#menu {		
+		height: 10px;
+		min-height: 100%; 
+		max-height: 100%; 
+		position: relative; 
+		top: 0px;
+		left: 0px;
+	}
+	
+	iframe#ref {
+		height: 10px;
+		min-height: 100%; 
+		max-height: 100%; 
+		position: absolute; 		
+		top: 0px;		
+	}

@@ -1,0 +1,21 @@
+﻿/*comics_corner*/
+
+	body	{
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat;	
+		cursor: default;
+	}
+	
+	#home {
+		position: absolute;
+		top: 2px;
+		left: 2px;	
+		z-index: 1;
+		border: 1px solid navy;
+		box-shadow: 5px 5px 5px #888888;
+	}
+	
+	#banner {
+		float: left;
+		margin-left: 100px;
+	}

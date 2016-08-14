@@ -1,0 +1,10 @@
+﻿	
+	@import "import_comics.css";
+	
+	/*marvel_comics*/
+
+	body	{
+	background-image: url('../images/marvel.gif'); 
+	background-repeat: repeat; 
+	background-attachment: fixed;
+	}

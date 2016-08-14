@@ -1,0 +1,42 @@
+
+
+	body	{
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat;	
+	}
+	
+	table	{
+		border: 0px;		
+	}
+		
+	img	{
+		border: none;
+	}
+	
+	#home {
+		position: absolute;
+		top: 2px;
+		left: 2px;	
+		z-index: 1;
+		border: 1px solid navy;
+		box-shadow: 5px 5px 5px #888888;
+	}	
+	
+	#main	{	
+		font-family: Verdana, Geneva, sans-serif;
+		position: absolute;
+		top: 80px;
+		left: 20px;	
+	}
+	
+	input {		
+		box-shadow: 2px 2px 0px 0px #ccc;
+	}
+	
+	textarea {		
+		box-shadow: 2px 2px 0px 0px #ccc;
+	}
+	
+	#submit	{
+		margin-right: 60px;
+	}

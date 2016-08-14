@@ -1,0 +1,17 @@
+.quiz_div
+{
+	/* height: auto; */ 
+	width: auto; 
+}
+.textbox, .google_top, .google_left
+{
+	display: none;
+}
+.google_mobile
+{
+	display: block;
+}
+h1
+{
+	font-size: 1em;
+}

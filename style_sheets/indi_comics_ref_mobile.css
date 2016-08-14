@@ -1,0 +1,10 @@
+﻿
+	@import "import_comics_ref_mobile.css";
+
+	/*indi_comics reference window styles*/
+
+	body	{
+		background-image: url('../images/indi.gif'); 
+		background-repeat: repeat; 
+		cursor: default;
+	}

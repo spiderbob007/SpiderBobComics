@@ -1,0 +1,266 @@
+{BUTTON Small & Indi.,1,2 | * | Small and Independent Press main page.}
+		{/ITEM}
+		{ITEM Home,7,20 | ../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM 2000 AD,17,18 | 2000AD_menu_open.htm,_self | Publisher of magazine style comics in Great Britain.}
+		{ITEM Aardvark-Vanaheim,17,18 | aardvark_menu_open.htm,_self | Independent publisher owned by Dave Sim.}		
+		{ITEM Cartoons & Television,17,18 | cartoon_menu.htm,_self | Comics based on cartoons or television shows.}
+		{ITEM Chaos,17,18 | chaos_menu.htm,_self | Publisher of horror and wrestling comics.}
+		{ITEM Dark Horse,17,18 | dh_menu.htm,_self | Publisher of creator-owned characters and movie properties.}
+		{ITEM Harris,17,18 | harris_menu.htm,_self | Publisher of Vamparella comics.}
+		{ITEM Image,17,18 | image_menu.htm,_self | Publisher of creator-owned characters.}
+		{ITEM Mirage,17,18 | mirage_menu.htm,_self | Self published imprint created by Kevin Eastman and Peter Laird.}
+		{ITEM New England Comics (NEC),3,4 | nec_menu.htm,_self | Publisher of Tick comics.}
+		{ITEM Other,17,18 | other_menu.htm,_self | Publisher or publishers of a wide variety of characters.}
+	{FOLDER ~Red Circle,17,18 | * | Publisher of superhero comics.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Amazing Boy,8,20 | * | Richard Waters}
+		{ITEM American Shield,5,6 | ../../heroes/dc/red_circle/Shield.htm,_page | Michael Steven Barnes}
+		{ITEM Agent Swift,8,20 | * | Rex Swift}
+		{ITEM Black Hood I,8,20 | * | Matt Burland}
+		{ITEM Black Hood II,8,20 | * | Thomas Burland}
+		{ITEM Black Hood III,8,20 | * | Wayne Sidmondson}
+		{ITEM Black Hood IV,8,20 | * | Nate Cray}
+		{ITEM Black Hood V,8,20 | * | Giles Coffee}
+		{ITEM Black Jack I,8,20 | * | Jack Jones}
+		{ITEM Black Jack II,8,20 | * | Rex Ventura}
+		{ITEM Black Witch II,8,20 | * | Serna Salem}
+		{ITEM Bob Phantom I,8,20 | * | Walter Whitney}
+		{ITEM Bob Phantom II,8,20 | * | Bob Brooks}
+		{ITEM Bobby Bell,8,20 | * | Robert William Bell}
+		{ITEM Captain Commando I,8,20 | * | John Grayson}
+		{ITEM Captain Commando II,8,20 | * | Unknown}
+		{ITEM Captain Flag,8,20 | * | Tom Townsend}
+		{ITEM Captain Sprocket,8,20 | * | Unknown}
+		{ITEM Captain Valor,8,20 | * | Unknown}
+		{ITEM Catgirl,8,20 | * | Lydia Fellin}
+		{ITEM (The) Comet I,8,20 | * | John Dickering}
+		{ITEM (The) Comet II,8,20 | * | Robert Alan Connors}
+		{ITEM Dan Hastings,8,20 | * | =}
+		{ITEM Darkling,8,20 | * |  Darla Lang}
+		{ITEM Doc Reeves,8,20 | * | Malcomlm Reeves}
+		{ITME Doc Strong,8,20 | * | =}
+		{ITEM Dusty,8,20 | * | Dusty Simmons}
+		{ITEM Falcon,8,20 | * | Flash Calvert}
+		{ITEM Fireball I,8,20 | * | Ted Tyler}
+		{ITEM Fireball II,8,20 | * | Josh Hawkins}
+		{ITEM Firefly I,8,20 | * | Harley Hudson}
+		{ITEM Firefly II,8,20 | * | Unknown}
+		{ITEM (The) Fly I,8,20 | * | Thomas Troy}
+		{ITEM (The) Fly II,8,20 | * | Jason Troy}
+		{ITEM Fly Girl,8,20 | * | Kim Brand}
+		{ITEM Fox I,8,20 | * | Paul Patten Sr.}
+		{ITEM Fox II,8,20 | * | Paul Patten Jr.}
+		{ITEM Fox III,8,20 | * | Travis Fox}
+		{ITEM Green Cobra,8,20 | * | Jerry Burton}
+		{ITEM Green Falcon,8,20 | * | Unknown}
+		{ITEM Hangman I,5,6 | ../../heroes/dc/red_circle/Hangman.htm,_page | Dr. Robert Dickering}
+		{ITEM Hangman II,5,6 | ../../heroes/dc/red_circle/Hangman.htm,_page | Steven Dickering}
+		{ITEM Hangman III,5,6 | ../../heroes/dc/red_circle/Hangman.htm,_page | Eric Adam}
+		{ITEM Hercules,8,20 | * | =}
+		{ITEM Inferno,8,20 | * | Frank Verrano}
+		{ITEM (The) Jaguar I,8,20 | * | Ralph Hardy}
+		{ITEM (The) Jaguar II,8,20 | * | Maria Concepcion de Guzman}
+		{ITEM Kalthar,8,20 | * | =}
+		{ITEM Kardak the Mystic,8,20 | * | John Cardy}
+		{ITEM Marvel,8,20 | * | Unknown}
+		{ITEM Mr. Justice,8,20 | * | Prince James of England}
+		{ITEM Mr. Midnight,8,20 | * | Unknown}
+		{ITEM Mr. Satan,8,20 | * | Dudley Bradshaw}
+		{ITEM Nevada Jones,8,20 | * | =}
+		{ITEM Pow-Girl,8,20 | * | Rosie Raymond}
+		{ITEM Press Guardian,8,20 | * | Perry Chase}
+		{ITEM Queen of Diamonds,8,20 | * | Unknown}
+		{ITEM Rang-A-Tang,8,20 | * | dog}
+		{ITEM Red Rube,8,20 | * | Reuben Rueben}
+		{ITEM (The) Rocket,8,20 | * | Unknown}
+		{ITEM Roy,8,20 | * | Roy Rossman}
+		{ITEM Scarlet Avenger,8,20 | * | Jim Kendell}
+		{ITEM (The) Shadow,5,6 | ../../heroes/indi/Shadow.htm,_page | Lamont Cranston}
+		{ITEM She-Fox,8,20 | * | Delilah Monaco}
+		{ITEM (The) Shield I,5,6 | ../../heroes/dc/red_circle/Shield.htm,_page | Joe Higgins}
+		{ITEM (The) Shield II,5,6 | ../../heroes/dc/red_circle/Shield.htm,_page | Lancelot Strong}
+		{ITEM (The) Shield III,5,6 | ../../heroes/dc/red_circle/Shield.htm,_page | Bill Higgins}
+		{ITEM (The) Shield IV,5,6 | ../../heroes/dc/red_circle/Shield.htm,_page | Michael Steven Barnes}
+		{ITEM Silver Fox,8,20 | * | Mr. Fox}
+		{ITEM Steel Sterling I,8,20 | * | John Sterling}
+		{ITEM Steel Sterling II,8,20 | * | Josh Sterling}
+		{ITEM Ty-Gor,8,20 | * | Tyrone Gorman}
+		{ITEM (The) Web I,5,6 | ../../heroes/dc/red_circle/Web.htm,_page | Dr. John Raymond Sr.}
+		{ITEM (The) Web II,5,6 | ../../heroes/dc/red_circle/Web.htm,_page | John Raymond Jr.}
+		{ITEM Wizard I,8,20 | * | Blain Whitney}
+		{ITEM Zambini the Miracle Man,8,20 | * | Zachary Zambini}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Baron Gestapo,8,20 | * | Unknown}
+		{ITEM Big Boy Malone,8,20 | * | =}
+		{ITEM Black Hand,8,20 | * | Unknown}
+		{ITEM Black Knight,8,20 | * | Unknown}
+		{ITEM Black Seven,8,20 | * | Unknown}
+		{ITEM Black Beard,8,20 | * | Jackson Carr}
+		{ITEM Black Witch I,8,20 | * | Unknown}
+		{ITEM Bookworm,8,20 | * | Unknown}
+		{ITEM Brain Emperor,8,20 | * | Unknown}
+		{ITEM Bra-kr,8,20 | * | =}
+		{ITEM Bullfrog,8,20 | * | Pagini}
+		{ITEM Butch Brady,8,20 | * | =}
+		{ITEM Buzzard,8,20 | * | =}
+		{ITEM Captain Balbo,8,20 | * | Unknown}
+		{ITEM Captain Murder,8,20 | * | Unknown}
+		{ITEM Captain Swastika,8,20 | * | Unknown}
+		{ITEM Claw,8,20 | * | Unknown}
+		{ITEM Clown,8,20 | * | Charles}
+		{ITEM Count Berlin,8,20 | * | Unknown}
+		{ITEM Crone,8,20 | * | Unknown}
+		{ITEM Crow,8,20 | * | Pagini}
+		{ITEM Crusader,8,20 | * | Unknown}
+		{ITEM Dr. Archer,8,20 | * | =}
+		{ITEM Dr. Defeet,8,20 | * | Unknown}
+		{ITEM Dr. Demon,8,20 | * | Unknown}
+		{ITEM Dr. Evil,8,20 | * | Unknown}
+		{ITEM Dr. Scott,8,20 | * | =}
+		{ITEM Dr. Zadar,8,20 | * | =}
+		{ITEM Deadly Force,8,20 | * | Unknown}
+		{ITEM Deuces Wilde,8,20 | * | Unknown}
+		{ITEM Dovi,8,20 | * | =}
+		{ITEM Dragonfly,8,20 | * | Unknown}
+		{ITEM Dream-Demon,8,20 | * | Unknown}
+		{ITEM Druid,8,20 | * | Unknown}
+		{ITEM Elasto,8,20 | * | Unknown}
+		{ITEM Eraser,8,20 | * | =}
+		{ITEM Evilo the Tempter,8,20 | * | Evilo}
+		{ITEM Executioner,8,20 | * | Unknown}
+		{ITEM Fang,8,20 | * | Unknown}
+		{ITEM Five By Five,8,20 | * | Unknown}
+		{ITEM Gadgeteer,8,20 | * | Unknown}
+		{ITEM (The) Gourmet,8,20 | * | Unknown}
+		{ITEM (The) Hun,8,20 | * | Unknown}
+		{ITEM (The) Hunter,8,20 | * | Unknown}
+		{ITEM Iron Fist,8,20 | * | Unknown}
+		{ITEM (The) Judge,8,20 | * | Unknown}
+		{ITEM (The) Knave,8,20 | * | Unknown}
+		{ITEM Lady Spider,8,20 | * | Linda Drake}
+		{ITEM Lodestone,8,20 | * | Unknown}
+		{ITEM Mad Professor,8,20 | * | Unknown}
+		{ITEM Madam Satan,8,20 | * | Iola}
+		{ITEM Magnetic Menace,8,20 | * | Uknown}
+		{ITEM Martial Law,8,20 | * | Unknown}
+		{ITEM Magi,8,20 | * | Unknown}
+		{ITEM Markov,8,20 | * | =}
+		{ITEM Master I,8,20 | * | Unknown}
+		{ITEM Master II,8,20 | * | Princess Ah-Ku}
+		{ITEM Master of the Living Dead,8,20 | * | Dr. Dezzero}
+		{ITEM Mighty Man,8,20 | * | James Stoker}
+		{ITEM Monocled Monster,8,20 | * | Unknown}
+		{ITEM Monster,8,20 | * | Warden Lewis}
+		{ITEM Monster-Master,8,20 | * | Unknown}
+		{ITEM Monster of Shadow Pond,8,20 | * | John Heaslip}
+		{ITEM Mother Goose,8,20 | * | John Dickson}
+		{ITEM (The) Owl,8,20 | * | Unknown}
+		{ITEM (The) Persian,8,20 | * | Unknown}
+		{ITEM Phantasmon,8,20 | * | Unknown}
+		{ITEM Pied Piper,8,20 | * | Unknown}
+		{ITEM Queen of Hearts,8,20 | * | Cleopatra}
+		{ITEM Radiatoin Rogue,8,20 | * | Hans Gerling}
+		{ITEM Radium King,8,20 | * | Unknown}
+		{ITEM Red Shark,8,20 | * | Scar Morrea}
+		{ITEM Rogue Star,8,20 | * | Unknown}
+		{ITEM Satan,8,20 | * | Unknown}
+		{ITEM Shark-Man,8,2 | * | Lobrow}
+		{ITEM Sheba,8,20 | * | Sheba Queen of Ethiopia}
+		{ITEM (The) Snail,8,20 | * | Twisto}
+		{ITEM Skull I,8,20 | * | Unknown}
+		{ITEM Skull II,8,20 | * | Unknown}
+		{ITEM So-Guli,8,20 | * | =}
+		{ITEM Spider,8,20 | * | Simon Spry}
+		{ITEM Strangler,8,20 | * | Unknown}
+		{ITEM (The) Sting,8,20 | * | =}
+		{ITEM Texa,8,20 | * | Unknown}
+		{ITEM Torgo,8,20 | * | Unknown}
+		{ITEM Ugly Man,8,20 | * | Unknown}
+		{ITEM Vulture,8,2) | * | Unknown}
+		{ITEM Walrus,8,20 | * | Unknown}
+		{ITEM Wizard II,8,20 | * | Hans Martz}
+		{ITEM Zarro the Master of Zombies,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Hercules,8,20 | * | Heracles Son of Zeus}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Brontosaurus,8,20 | * | Zombie behemoth of incredible size.}
+		{ITEM Green Ghoul,8,20 | * | Three eyed monster.}
+		{ITEM Master of the Valley of Death,8,20 | * | Demon}
+		{ITEM (The) Mummy,8,20 | * | Re-annimated Egyptian magician.}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Lxo III,8,20 | * | =}
+		{ITEM Roxr,8,20 | * | Tree-like alien.}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,3,4 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM American Crusaders,8,20 | * | Team of superheroes.}
+		{ITEM Boy Buddies,8,20 | * | Sidekicks Dusty and Roy teamup to battle crime.}
+		{ITEM Devil's Twins,8,20 | * | Twin brothers serving in the British Air Force during World War II.}
+		{ITEM Mighty Crusaders,8,20 | * | Team of superheroes.}
+		{ITEM Ultra-Men,8,20 | * | Team of superheroes.}
+		{ITEM (The) Web,8,20 | * | Team of operatives codenamed the Web.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Eliminators,8,20 | * | Team of super-villains.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Redstone,8,20 | * | Giant robot able to morph into other forms.}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../dc/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../marvel/index.htm,_top | Marvel Comics main page.}

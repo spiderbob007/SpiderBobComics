@@ -1,0 +1,157 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Dakota North,8,20 | * | =}
+		{ITEM Dagger,5,6 | ../../../heroes/marvel/Dagger.htm,_page | Tandy Bowen}
+		{ITEM Dakimh the Enchanter,8,20 | * | Dakimh}
+		{ITEM Dakor the Magician,8,20 | * | Unknown}
+		{ITEM Dakota Kid I,8,20 | * | Frank Yarrow}
+		{ITEM Dakota Kid II,8,20 | * | Cliff Morgan}
+		{ITEM Dale of the FBI,8,20 | * | Dale}
+		{ITEM Danger Man,8,20 | * | Daniel Jermain}
+		{ITEM Daredevil,5,6 | ../../../heroes/marvel/Daredevil.htm,_page | Matthew (Matt) Michael Murdock}
+		{ITEM Dark Angel I,8,20 | * | Mia Lessing}
+		{ITEM Dark Angel III,8,20 | * | Deborah & Donald Ritter}
+		{ITEM Dark-Crawler,8,20 | * | =}
+		{ITEM Darkhawk,5,6 | ../../../heroes/marvel/Darkhawk.htm,_page | Christopher (Chris) Powell}
+		{ITEM Darkstar I,5,6 | ../../../heroes/marvel/Darkstar.htm,_page | Laynia Sergievna Petrovna / Krylova}
+		{ITEM Darkstar II,5,6 | ../../../heroes/marvel/Darkstar.htm,_page | Sasha Roerich}
+		{ITEM Darkstar III,5,6 | ../../../heroes/marvel/Darkstar.htm,_page | Reena Stanicoff}
+		{ITEM Darwin,8,20 | * | Armando Munoz}
+		{ITEM Daydream,8,20 | * | Gwen}
+		{ITEM Daydreamer,8,20 | * | Catherine Moranis}
+		{ITEM Dazzler II,5,6 | ../../../heroes/marvel/DazzlerII.htm,_page | Alison Blaire}
+		{ITEM Dead Girl,5,6 | ../../../heroes/marvel/DeadGirl.htm,_page | Unknown}
+		{ITEM Deadpool,5,6 | ../../../heroes/marvel/Deadpool.htm,_page | Wade Wilson}
+		{ITEM Deathcry,8,20 | * | Uknown}
+		{ITEM Deathlok I,5,6 | ../../../heroes/marvel/DeathlokI.htm,_page | Luther Manning}
+		{ITEM Deathlok II,5,6 | ../../../heroes/marvel/DeathlokI.htm,_page | John Kelly}
+		{ITEM Deathlok III,5,6 | ../../../heroes/marvel/DeathlokI.htm,_page | Michael Collins}
+		{ITEM Deathlok IV,5,6 | ../../../heroes/marvel/DeathlokIV.htm,_page | Jack Truman}
+		{ITEM Death's Head I,5,6 | ../../../heroes/marvel/DeathsHead.htm,_page | =}
+		{ITEM Death's Head II,5,6 | ../../../heroes/marvel/DeathsHead.htm,_page | =}
+		{ITEM Death's Head 3.0,5,6 | ../../../heroes/marvel/DeathsHead.htm,_page | =}
+		{ITEM Debrii,5,6 | ../../../heroes/marvel/Debrii.htm,_page | Unknown}
+		{ITEM Deep Sea Demon,8,20 | * | Dave Dean}
+		{ITEM (The) Defender,8,20 | * | Don Stevens}
+		{ITEM Defensor,8,20 | * | Gabriel Carlos Dantes Sepulvada}
+		{ITEM Demeityr,8,20 | * | =}
+		{ITEM Demolition Man,8,20 | * | Dennis Dunphy}
+		{ITEM Derwyddon,8,20 | * | =}
+		{ITEM (The) Designate,5,6 | ../../../heroes/marvel/ThorGirl.htm,_page | Tarene}
+		{ITEM Destroyer I,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Keen Marlow}
+		{ITEM Destroyer II,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Brian Falsworth}
+		{ITEM Destroyer III,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Roger Aubrey}
+		{ITEM Destroyer V,8,20 | * | Alexander (Alex) Power}
+		{ITEM Detective Fantome,8,20 | * | Unknown}
+		{ITEM Devil Dinosaur,5,6 | ../../../gods_monsters/marvel/DevilDinosaur.htm,_page | =}
+		{ITEM Devil-Dog Dugan,8,20 | * | Dugan}
+		{ITEM Devil-Slayer,8,20 | * | Eric Simon Payne}
+		{ITEM Devlor,8,20 | * | =}
+		{ITEM Dewoz,8,20 | * | =}		
+		{ITEM Diamond Lil,8,20 | * | Lillian Crawley / Jefferies}
+		{ITEM Diamondback,8,20 | * | Rachael Leighton}
+		{ITEM Dinah Soar,8,20 | * | =}
+		{ITEM (The) Disco Dazzler,5,6 | ../../../heroes/marvel/DazzlerII.htm,_page | Alison Blaire}
+		{ITEM Doc Samson,5,6 | ../../../heroes/marvel/DocSamson.htm,_page | Dr. Leonard Samson}
+		{ITEM Docteur Q,8,20 | * | Unknown}
+		{ITEM Dominic Fortune I,5,6 | ../../../heroes/marvel/DominicFortune.htm,_page | Duvid Jerome T. Fortunov}
+		{ITEM Dominic Fortune II,5,6 | ../../../heroes/marvel/DominicFortune.htm,_page | Jerome Fortunov}
+		{ITEM Domino II,5,6 | ../../../heroes/marvel/Domino.htm,_page | Neena Thurman}
+		{ITEM Domo,8,20 | * | =}
+		{ITEM Doop,5,6 | ../../../heroes/marvel/Doop.htm,_page | =}
+		{ITEM Doorman,8,20 | * | Demarr Davis}
+		{ITEM Douglock,8,20 | * | Warlock}
+		{ITEM Dr. Decibel,8,20 | * | Dr. Anton Decibel}
+		{ITEM Dr. Droom,8,20 | * | Dr. Anthony Ludgate Druid}
+		{ITEM Dr. Druid,8,20 | * | Dr. Anthony Ludgate Druid}
+		{ITEM Dr. Mime,8,20 | * | =}
+		{ITEM Dr. Spectrum I,8,20 | * | Joseph Ledger}
+		{ITEM Dr. Strange II,5,6 | ../../../heroes/marvel/DrStrangeII.htm,_page | Dr. Stephen Vincent Strange}
+		{ITEM Dragon Lord III,8,20 | * | Ral Dorn}
+		{ITEM Dragona,8,20 | * | =}
+		{ITEM Dragonfly,8,20 | * | Andre LeRoux}
+		{ITEM Dragonheart,8,20 | * | Ulysses Dragonheart}
+		{ITEM Drax the Destroyer,5,6 | ../../../heroes/marvel/Drax.htm,_page | Arthur Sampson Douglas}
+		{ITEM Dreamwalker,8,20 | * | Lloyd McGann}
+		{ITEM Dull Knife,8,20 | * | =}
+		{ITEM Dum-Dum Dugan,8,20 | * | Dugan}
+		{ITEM Dusk II,8,20 | * | Peter Parker}
+		{ITEM Dusk III,8,20 | * | Cassie St. Commons}
+		{ITEM Dust II,5,6 | ../../../heroes/marvel/DustII.htm,_page | Sooraya Qadir}
+		{ITEM Dyna-Mite,8,20 | * | Roger Aubrey}
+		{ITEM Dynaman,8,20 | * | Legaro}
+		{ITEM Dynamic Man,8,20 | * | android}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

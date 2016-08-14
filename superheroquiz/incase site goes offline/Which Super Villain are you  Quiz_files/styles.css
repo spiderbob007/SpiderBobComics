@@ -1,0 +1,26 @@
+body
+{
+	font-family: arial;
+	font-size: 1em;
+}
+.quiz_div
+{
+	background-color: #FFFFFF; 
+	overflow: auto; 
+	width: 450px;
+	height: 230px; 
+	border: 1px solid black;
+	padding:0px; 
+	margin: 0px
+}
+fieldset, legend
+{
+	margin: 1px;
+	padding: 1px;
+
+}
+.google_mobile
+{
+	display: none;
+}
+

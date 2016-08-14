@@ -1,0 +1,10 @@
+﻿
+	@import "import_comics.css";
+
+	/*recircle_comics*/
+
+	body	{
+	background-image: url('../images/redcircle.gif'); 
+	background-repeat: repeat; 
+	background-attachment: fixed;
+	}

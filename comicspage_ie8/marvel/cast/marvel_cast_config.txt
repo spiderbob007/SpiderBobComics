@@ -1,0 +1,172 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+	{FOLDER ~Supporting Cast,17,18 | * | The cast members of the Marvel Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abel Stack,8,20 | * | Creator and father of X-51 / Machine Man.}
+		{ITEM Agatha Harkness,8,20 | * | Master of witchcraft.}
+		{ITEM Alicia Masters,8,20 | * | New York City sculptor and friend of the Fantastic Four and Silver Surfer.}
+		{ITEM Angela Lipscombe,8,20 | * | Neuro-Psychiatrist and former classmate / girlfriend of Dr. Robert Bruce Banner (Hulk II).}
+		{ITEM Anna Watson,8,20 | * | Aunt of Mary Jane Watson-Parker.}
+		{ITEM Ancient One,8,20 | * | Mentor to Dr. Strange II (also known as The Master or High Lama)}
+		{ITEM Arranger,8,20 | * | Oswald P. Silkworth, former personal secretary of the Kingpin, Wilson Fisk}
+		{ITEM Aunt May Parker,5,6 | ../../../cast/marvel/AuntMay.htm,_page | May Reilly Parker, aunt of Peter Parker (Spider-Man I)}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM "Battling" Jack Murdock,8,20 | * | Professional boxer and father to Matthew Michael Murdock (Daredevil). Killed by Fixer I for not throwing a fight.}
+		{ITEM Ben Urich,5,6 | ../../../cast/marvel/BenUrich.htm,_page | Investigative reporter for the Daily Bugle newspaper}
+		{ITEM Bereet,8,20 | * | Extraterrestrial film-maker that chronicled the adventures of the Hulk II.}
+		{ITEM Bernadette (Bernie) Rosenthal,8,20 | * | One time girlfriend of Steve Rogers (Captain America I)}
+		{ITEM Bethany Cabe,8,20 | * | Security consultant to Stark International}
+		{ITEM Betty Brant,8,20 | * | Personal Assistant to J. Jonah Jamison / Daily Bugle investigative journalist. (Also known as Betty Leeds)}
+		{ITEM Betty Ross,5,6 | ../../../cast/marvel/BettyBanner.htm,_page | Daughter of General Thaddeus (Thunderbolt) Ross, love interest and once wife of Dr. Robert Bruce Banner (Hulk II) and Major Glenn Talbot.}
+		{ITEM Blaquesmith,8,20 | * | Mentor of Cable}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cameron Hodge,8,20 | * | Former PR director of X-Factor, became one with the Phalanx before dying.}
+		{ITEM Candy Southern,8,20 | * | Deceased girlfriend of Warren Kenneth Worthington III (Angel II)}
+		{ITEM Carina,8,20 | * | Daughter of the Collector}
+		{ITEM Clay Quartermain,8,20 | * | S.H.I.E.L.D agent}
+		{ITEM Clea,8,20 | * | Regent of the Dread Dormammu's dark dimension and disciple of Dr. Strange II}
+		{ITEM Colleen Wing,5,6 | ../../../heroes/marvel/ColleenWing.htm,_page | Private Investigator}
+		{ITEM Countessa Valentina,8,20 | * | Former leader of S.H.I.E.L.D.'s Femme Force (full name: Countessa Valentina Allegra de la Fontaine).}
+		{ITEM Crusher Hogan,5,6 | ../../../cast/marvel/CrusherHogan.htm,_page | Professional wrestler challenged by Peter Parker before he became Spider-Man.}
+	{/FOLDER}
+	{FOLDER (D),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Debra Whitman,8,20 | * | Teaching assistant at Empire State University, and friend of Peter Parker (Spider-Man I)}
+		{ITEM Dr. Basil Frankenstein,8,20 | * | Descendant of Victor Frankenstein and creator of the zombie monster Frankenstein}
+		{ITEM Dr. Jane Foster-Kincaid,8,20 | * | Former assistant nurse to Dr. Donald Blake (Thor). Currently a doctor at the hospital worked at by Jake Olsen (Thor)}
+		{ITEM Dr. Phineas Thomas Horton,8,20 | * | Creator of the androids Human Torch I and Adam-II}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Edwin Jarvis,8,20 | * | Butler to Tony Stark and the Avengers.}
+		{ITEM Elizabeth (Betty) Ross Talbot Banner,5,6 | ../../../cast/marvel/BettyBanner.htm,_page | Daughter of General Thaddeus (Thunderbolt) Ross, love interest and once wife of Dr. Robert Bruce Banner (Hulk II) and Major Glenn Talbot.}
+		{ITEM Elizabeth (Liz) Allen Osborn,8,20 | * | Major shareholder of Osborn Industries Inc. Widow of Harold (Harry) Osborn (Green Goblin II) and mother to Norman Osborn II, grand-son of Norman Osborn I (Green Goblin I)}
+		{ITEM Eugene (Flash) Thompson,5,6 | ../../../cast/marvel/FlashThompson.htm,_page | Occasional friend but mostly tormentor of Peter Parker (Spider-Man I).  Ironically Thompson is a fierce advocate of Spider-Man.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Fen,8,20 | * | Atlantean mother of Namor MacKenzie (Sub-Mariner)}
+		{ITEM Flash Thompson,5,6 | ../../../cast/marvel/FlashThompson.htm,_page | Occasional friend but mostly tormentor of Peter Parker (Spider-Man I).  Ironically Thompson is a fierce advocate of Spider-Man.}
+		{ITEM Franklin (Foggy) Nelson,5,6 | ../../../cast/marvel/FoggyNelson.htm,_page | Law partner of Matthew Michael Murdock (Daredevil)}
+		{ITEM Franklin Richards,5,6 | ../../../heroes/marvel/FranklinRichards.htm,_page | Son of Reed and Sue Richards (Mr. Fantastic & Invisible Woman).}
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Gabriel (Gabe) Jones,8,20 | * | Agent of S.H.I.E.L.D. and former Howling Commando.}
+		{ITEM General Samuel (Sam) Sawyer,8,20 | * | Commanding officer or the Howling Commandos, Mauler and Deadly Dozen.  Died shielding Captain America from an explosive.}
+		{ITEM General Thunderbolt Ross,5,6 | ../../../cast/marvel/GeneralRoss.htm,_page | Commander of Gamma Base and advesary of the Hulk.}
+		{ITEM George Stacy,8,20 | * | N.Y.P.D. police captain, killed during battle between Spider-Man I & Dr. Octopus I.  Father of Gwen Stacey.}
+		{ITEM Gloria (Glory) Grant,8,20 | * | Secretary for J. Jonah Jameson, owner of the Daily Bugle.}
+		{ITEM Graydon Creed,8,20 | * | Son of Victor Creed and Raven Darkholme (Sabretooth and Mystique) and former Presidential candidate} 
+		{ITEM Gwendolyn (Gwen) Stacy,5,6 | ../../../cast/marvel/GwenStacy.htm,_page | First girlfriend of Peter Parker (Spider-Man I), killed by Green Goblin I.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Harold (Happy) Hogan,8,20 | * | Assistant to Tony Stark (Iron Man I)}
+		{ITEM Henry Peter Gyrich,8,20 | * | Member of the National Security Council and one time liaison to the Avengers}
+		{ITEM Howard the Duck,5,6 | ../../../heroes/marvel/HowardTheDuck.htm,_page | Howard}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Igor Drenkov,8,20 | * | Russian spy responsible for creating the Hulk II (Dr. Robert Bruce Banner) by detonating the Gamma Bomb.}
+		{ITEM Izzy Cohen,8,20 | * | Mechanic and former member of the Howling Commandos}
+	{/FOLDER}
+	{FOLDER (J),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Janis Jones,8,20 | * | Grand-daughter of Rick and Marlo Jones}
+		{ITEM Jarella,8,20 | * | Empress of the sub-atomic world of K'ai and former fiancée of Dr. Robert Bruce Banner.}
+		{ITEM Jasper Sitwell,8,20 | * | S.H.I.E.L.D. agent}
+		{ITEM Jean DeWolff,8,20 | * | N.Y.P.D Detective killed by Sin-Eater.}
+		{ITEM John Jonah Jameson,5,6 | ../../../cast/marvel/JJJameson.htm,_page | Owner and publisher of Daily Bugle}
+		{ITEM Jim "Dum Dum" Dugan,8,20 | * | Agent of S.H.I.E.L.D., Nick Fury's second in command}
+		{ITEM John-Paul "Frenchie" DuChamp,8,20 | * | Former member of the Werewolf hunting group the Committee, later employed by Marc Spector (Moon Knight)}
+	{/FOLDER}
+	{FOLDER (K),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Karen Page,5,6 | ../../../cast/marvel/KarenPage.htm,_page | Off-again on-again girlfriend of Matthew Michael Murdock (Daredevil).  Killed by Bullseye II.}
+		{ITEM Katherine (Kate) Cushing,8,20 | * | City editor for the Daily Bugle.}
+		{ITEM Katherine (Kat) Farrell,5,6 | ../../../cast/marvel/KatFarrell.htm,_page | Investigative reporter for the Daily Bugle and the Pulse.}
+	{/FOLDER}
+	{FOLDER (L),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Lady Dorma I,8,20 | * | Consort to Namor MacKenzie (Sub-Mariner)}
+		{ITEM Leonard MacKenzie,8,20 | * | Human father of Namor MacKenzie (Sub-Mariner)}
+		{ITEM Lila Cheney,8,20 | * | Rock musician and ally of the X-Men.  Has the ability to teleport across interstellar distances.}
+		{ITEM Lord Vashti,8,20 | * | Advisor to Namor MacKenzie (Sub-Mariner)}
+		{ITEM Luna,8,20 | * | Infant daughter of Crystalia Amaquelin and Pietro Maximoff (Crystal and Quicksilver)}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Mariko Yashida,8,20 | * | Former fiancee of Logan (Wolverine) and cousin of Shiro Yashida (Sunfire)}
+		{ITEM Marlo Chandler-Jones,8,20 | * | On again off again wife of Rick Jones}
+		{ITEM Mary Jane Watson-Parker,5,6 | ../../../cast/marvel/MaryJane.htm,_page | Wife of Peter Parker (Spider-Man I)}
+		{ITEM Misty Knight,5,6 | ../../../heroes/marvel/MistyKnight.htm,_page | Private investigator} 
+		{ITEM Morgan Stark,8,20 | * | Nare-do-well cousin of Tony Stark (Iron Man I)}
+		{ITEM Moira Kinross MacTaggart,8,20 | * | Specialist in mutant genetics}
+		{ITEM Mrs. Abrogst,8,20 | * | Former executive assistant to Tony Stark and Heroes for Hire (full name is Bambina Teresa Bliss Arbogast).}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Nicholas (Nick) Katzenberg,8,20 | * | Daily Bugle photographer.}
+		{ITEM Edward (Ned) Leeds,8,20 | * | Daily Bugle reporter and imposter of Hobgoblin II}
+		{ITEM Noah Baxter,8,20 | * | Owner of the Baxter Building and patron of the Fantastic Four.}
+	{/FOLDER}
+	{FOLDER (O),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Oskar,8,20 | * | German born chauffeur to Lord Montgomery Falsworth (Union Jack I).}
+	{/FOLDER}
+	{FOLDER (P),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Peggy Carter,8,20 | * | U.S. operative during World War II, one time girlfriend of Captain America I and former Avengers communications officer.  Older sister of Sharon Carter (Agent 13).}
+		{ITEM Pendleton Asquith,8,20 | * | Art thief.}
+		{ITEM Pepper Potts,8,20 | * | Virginia Potts - Assistant to Tony Stark (Iron Man I).}
+		{ITEM Percival (Pinky) Pinkerton,8,20 | * | Member of the Howling Commandos and the Deadly Dozen.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Rachel Van Helsing,8,20 | * | Vampire hunter and great-granddaughter of Abraham Van Helsing}
+		{ITEM Redwing,8,20 | * | Falcon's pet falcon and ally.}
+		{ITEM Rick Jones,8,20 | * | Friend and side-kick to Hulk II, Captain America I and Captain Marvel I & III.}
+		{ITEM Joe (Robbie) Robertson,8,20 | * | Editor-in-chief of Daily Bugle.}
+		{ITEM Robert (Reb) Ralston,8,20 | * | Member of the Howling Commandos and U.S. Senator.}
+		{ITEM Rusty Collins,8,20 | * | Deceased X-Factor trainee}
+	{/FOLDER}
+	{FOLDER (S),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sergeant Duff,8,20 | * | World War II sergeant to Steven Grant Rogers (Captain America I)}
+		{ITEM Shalla Bal,8,20 | * | Empress of Zenn-La, former lover and ally of Norrin Radd (Silver Surfer).}
+		{ITEM Sister Grace (Maggie) Murdock,8,20 | * | Nun and mother of Matthew Michael Murdock (Daredevil)}
+		{ITEM Stick,8,20 | * | Ninja that trained Matthew Michael Murdock and Elektra Natchios (Daredevil and Elektra) in the martial arts}
+		{ITEM Stone I,8,20 | * | Ninja of the Hand}
+	{/FOLDER}
+	{FOLDER (T),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Topaz,8,20 | * | Empath and healer associated with Dr. Strange II}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Uncle Benjamin (Ben) Parker,8,20 | * | Ben Parker uncle to Peter Parker (Spider-Man I)}
+	{/FOLDER}
+	{FOLDER (V),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Valeria Richards,5,6 | ../../../cast/marvel/ValeriaRichards.htm,_page | Daughter of Reed and Sue Richards (Mr. Fantastic & Invisible Woman).}
+		{ITEM Valerie Cooper,8,20 | * | Special assistant to the national Security Advisor of the President of the United States and chairman of the Commission on Superhuman Activities.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Walter Hardy,8,20 | * | Father of Felicia Hardy (Black Cat) and a former cat-burglar.}
+		{ITEM William (Willie) Lumpkin,8,20 | * | Postman that delivered mail to the Fantastic Four.}
+		{ITEM Wong,5,6 | ../../../cast/marvel/Wong.htm,_page | Servant and friend to Dr. Steven Strange (Dr. Strange II}
+		{ITEM Wyatt Wingfoot,8,20 | * | Ally of the Fantastic Four}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Yinsen,8,20 | * | Scientist who helped Anthony (Tony) Stark design and build the first Iron Man armor}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Zabu,8,20 | * | Sabretooth Tiger kept by Kazar}
+		{ITEM Zhilla,8,20 | * | Succubus mother of the Dream Queen}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

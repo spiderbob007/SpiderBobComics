@@ -1,0 +1,353 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(Green Lantern Corps),17,18 | * | Listings of Green Lantern Corp members from across the universe.}
+		{ITEM GL of -7Pi,8,20 | * | Apros}
+		{ITEM GL of Aegri Somnia 3,8,20 | * | Selaya}
+		{ITEM GL of Aeros,8,20 | * | Uknown}
+		{ITEM GL I of Arden,8,20 | * | Lodar Monak}
+		{ITEM GL II of Arden,8,20 | * | Meeno Monak}
+		{ITEM GL of Barrio III,8,20 | * | Chaselon}
+		{ITEM GL of Bellatrix,8,20 | * | Boodikka}
+		{ITEM GL of Betrassus,8,20 | * | Iolande}
+		{ITEM GL I of Bolovax Vik,8,20 | * | Branwilla}
+		{ITEM GL II of Bolovax Vik,5,6 | ../../../heroes/dc/Kilowog.htm,_page | Kilowog}
+		{ITEM GL of Criq,8,20 | * | Driq}
+		{ITEM GL of Cxrsee,8,20 | * | Joanqin}
+		{ITEM GL I of Cyc,8,20 | * | Unknown}
+		{ITEM GL II of Cyc,8,20 | * | Spol}
+		{ITEM GL I of Cygnus,8,20 | * | Archon Z'gmora}
+		{ITEM GL II of Cygnus,8,20 | * | Brokk}
+		{ITEM GL of D'xe,8,20 | * | Kaylark}
+		{ITEM GL of Daxam,8,20 | * | Sodam Yat}
+		{ITEM GL of Dryad,8,20 | * | Brik}
+		{ITEM GL of Durla,8,20 | * | Von Daggle}
+		{ITEM Green Lantern II of Earth,5,6 | ../../../heroes/dc/GreenLanternII.htm,_page | Harold (Hal) Jordan}
+		{ITEM Green Lantern III of Earth,5,6 | ../../../heroes/dc/GreenLanternIII.htm,_page | John Stewart}
+		{ITEM Green Lantern IV of Earth,5,6 | ../../../heroes/dc/GreenLanternIV.htm,_page | Guy Gardner}
+		{ITEM Green Lantern V of Earth,5,6 | ../../../heroes/dc/GreenLanternV.htm,_page | Kyle Rayner}
+		{ITEM GL of El 'Sh 'Tai,8,20 | * | D'arn Tuu}
+		{ITEM GL of Etrea,8,20 | * | K'ryssma}
+		{ITEM GL of F'py,8,20 | * | Gk'd}
+		{ITEM GL of Fae'en,8,20 | * | Kristogar Velo}
+		{ITEM GL of Feron,8,20 | * | Unknown}
+		{ITEM GL I of Fluvian,8,20 | * | Dob Zagil}
+		{ITEM GL II of Fluvian,8,20 | * | Lin Canar}
+		{ITEM GL I of G'newt,8,20 | * | G'newmann G'noggs}
+		{ITEM GL II of G'newt,5,6 | ../../../heroes/dc/GNort.htm,_page | G'nort Esplanade G'neeshmacher}
+		{ITEM GL of Garnet,8,20 | * | Jack T. Chance}
+		{ITEM GL of Glazzonio,8,20 | * | Ahtier}
+		{ITEM GL of Glirell,8,20 | * | Jeryll}
+		{ITEM GL I of Graxos IV,8,20 | * | Fentara}
+		{ITEM GL II of Graxos IV,5,6 | ../../../heroes/dc/GL_Arisia.htm,_page | Arisia}
+		{ITEM GL of Graxos V,8,20 | * | Blish}
+		{ITEM GL I of Grenda,8,20 | * | Stel}
+		{ITEM GL II of Grenda,8,20 | * | Yron}
+		{ITEM GL of H'lven,8,20 | * | Ch'p}
+		{ITEM GL of Inner Tasnia,8,20 | * | Flodo Span}
+		{ITEM GL of J586,8,20 | * | Medphyll}
+		{ITEM GL I of Jayd,8,20 | * | Kentor Omoto}
+		{ITEM GL II of Jayd,8,20 | * | Laira}
+		{ITEM GL of Jerome,8,20 | * | KT21}
+		{ITEM GL of Karax,8,20 | * | Graf Toren}
+		{ITEM GL of Korugar II,8,20 | * | Katma Tui}
+		{ITEM GL of Korugar III,5,6 | ../../../heroes/dc/GL_SoranikNatu.htm,_page | Dr. Soranik Natu}
+		{ITEM GL of Krylos,8,20 | * | Unknown}
+		{ITEM GL of LaBurb,8,20 | * | Kkrudd}
+		{ITEM GL of Loga 14,8,20 | * | Gala De}
+		{ITEM GL of M'Elu,8,20 | * | Liana}
+		{ITEM GL of Maltusian Earth Colony,8,20 | * | Percival}
+		{ITEM GL of Matris Ater Clementia,5,6 | ../../../aliens_races/dc/BlackMercy.htm,_page | Mother Mercy}
+		{ITEM GL of Mogo,5,6 | ../../../heroes/dc/Mogo.htm,_page | Mogo}
+		{ITEM GL of Multu,8,20 | * | Skyrd}
+		{ITEM GL of Muscaria,8,20 | * | Amanita}
+		{ITEM GL I of Naktos,8,20 | * | Ghrelk}
+		{ITEM GL I of Naktos,8,20 | * | Varix}
+		{ITEM GL of Nyberg,8,20 | * | Sheriff Mardin}
+		{ITEM GL of Obsidian Deeps system,8,20 | * | Rot Lop Fan}
+		{ITEM GL of Ovacron 6,8,20 | * | Hannu}
+		{ITEM GL of Papilliox,8,20 | * | R'amey Holl}
+		{ITEM GL of Penelo,8,20 | * | Unknown}
+		{ITEM GL of Pharma,8,20 | * | Davo Yull}
+		{ITEM GL I of Portworld,8,20 | * | Wylxa}
+		{ITEM GL II of Portworld,8,20 | * | Tahr}
+		{ITEM GL of Purdaa,8,20 | * | Unknown}
+		{ITEM GL of Python IV,8,20 | * | Zborra}
+		{ITEM GL of Qualar IV,8,20 | * | Perdoo}
+		{ITEM GL I of Rann,8,20 | * | Vath Sarn}
+		{ITEM GL II of Rann,8,20 | * | Isamot Kol}
+		{ITEM GL I of Rhoon,8,20 | * | Avir Rahn}
+		{ITEM GL II of Rhoon,8,20 | * | Hollika Rahn}
+		{ITEM GL of Rohira,8,20 | * | Unknown}
+		{ITEM GL of Rolvac,8,20 | * | Unknown}
+		{ITEM GL of Rojira,8,20 | * | Rojira}
+		{ITEM GL of Scylla,8,20 | * | Laham}
+		{ITEM GL of Sector 3,8,20 | * | Apros}
+		{ITEM GL of Sector 6,8,20 | * | Tahr}
+		{ITEM GL of Sector 17,8,20 | * | Larvox}
+		{ITEM GL of Sector 24,8,20 | * | Breeon}
+		{ITEM GL of Sector 25,8,20 | *| Norchavius}
+		{ITEM GL of Sector 28,8,20 | * | Umitu}
+		{ITEM GL I of Sector 35,8,20 | * | Matto Pree}
+		{ITEM GL II of Sector 35,8,20 | * | Amnee Pree}
+		{ITEM GL I of Sector 38,8,20 | * | Kraken}
+		{ITEM GL II of Sector 38,8,20 | * | Raker Qarrigat}
+		{ITEM GL of Sector 40,8,20 | * | Shorm}
+		{ITEM GL I of Sector 47,8,20 | * | Lysandra}
+		{ITEM GL II of Sector 47,8,20 | * | Spol}
+		{ITEM GL of Sector 54,8,20 | * | Yyk}
+		{ITEM GL of Sector 56,8,20 | * | Tomy-Fai}
+		{ITEM GL of Sector 69,8,20 | * | Varix}
+		{ITEM GL of Sector 73,8,20 | * | Sendrina}
+		{ITEM GL of Sector 83,8,20 | * | Bruun}
+		{ITEM Gl of Sector 103,8,20 | * | Malet Dasim}
+		{ITEM GL of Sector 112,8,20 | * | Laira}
+		{ITEM GL of Sector 119,8,20 | * | Leezie Pon}
+		{ITEM GL I of Sector 151,8,20 | * | Ghr'll}
+		{ITEM GL II of Sector 151,8,20 | * | Xylpth}
+		{ITEM GL of Sector 173,8,20 | * | Relok Hag}
+		{ITEM GL of Sector 181,8,20 | * | KT21}
+		{ITEM GL of Sector 188,8,20 | * | Dkrtzy RRR}
+		{ITEM GL of Sector 257,8,20 | * | Markot Five}
+		{ITEM GL of Sector 279,8,20 | * | RRU-9-2}
+		{ITEM GL of Sector 281,8,20 | * | Alia}
+		{ITEM GL of Sector 312,8,20 | * | Ash-Pak-Glif}
+		{ITEM GL of Sector 315,8,20 | * | Volk}
+		{ITEM GL of Sector 345,8,20 | * | Olapet}
+		{ITEM GL of Sector 422,8,20 | * | Procanon Kaa}
+		{ITEM GL I of Sector 424,8,20 | * | Vode-M}
+		{ITEM GL II of Sector 424,8,20 | * | Graf Toren}
+		{ITEM GL of Sector 488,8,20 | * | Arx}
+		{ITEM GL of Sector 501,8,20 | * | Charqwep}
+		{ITEM GL of Sector 567,8,20 | * | Rees-Van}
+		{ITEM GL of Sector 571,8,20 | * | Voz}
+		{ITEM GL of Sector 586,8,20 | * | Medphyll}
+		{ITEM GL of Sector 650,8,20 | * | Ash}
+		{ITEM GL of Sector 666,8,20 | * | Morro}
+		{ITEM GL of Sector 674,5,6 | ../../../heroes/dc/Kilowog.htm,_page | Kilowog}
+		{ITEM GL I of Sector 700,8,20 | * | R'amey Holl}
+		{ITEM GL II of Sector 700,8,20 | * | Von Daggle}
+		{ITEM GL of Sector 773,8,20 | * | Saarek}
+		{ITEM GL I of Sector 786,8,20 | * | Ke'Haan}
+		{ITEM GL II of Sector 786,8,20 | * | Turytt}
+		{ITEM GL of Sector 863,8,20 | * | Krista X}
+		{ITEM GL of Sector 885,8,20 | * | Horoq Nnot}
+		{ITEM GL I of Sector 904,8,20 | * | Aa}
+		{ITEM GL II of Sector 904,8,20 | * | Brik}
+		{ITEM GL of Sector 911,8,20 | * | Rot Lop Fan}
+		{ITEM GL of Sector 918,8,20 | * | Tuebeen}
+		{ITEM GL of Sector 981,8,20 | * | Brokk}
+		{ITEM GL of Sector 996,8,20 | * | Taa}
+		{ITEM GL of Sector 1014,8,20 | * | B'dg}
+		{ITEM GL of Sector 1055,8,20 | * | Adam}
+		{ITEM GL of Sector 1110,8,20 | * | Okonoko}
+		{ITEM GL of Sector 1132,8,20 | * | Remnant Nod}
+		{ITEM GL of Sector 1198,8,20 | * | Grumb}
+		{ITEM GL of Sector 1234,8,20 | * | Rori Stroh}
+		{ITEM GL of Sector 1253,8,20 | * | Sheriff Mardin}
+		{ITEM GL of Sector 1287,8,20 | * | (The) Collective}
+		{ITEM GL of Sector 1324,8,20 | * | T-Cher}
+		{ITEM GL of Sector 1355,8,20 | * | Penelops}
+		{ITEM GL of Sector 1337,8,20 | * | Gk'd}
+		{ITEM GL of Sector 1414,8,20 | * | Boodikka}
+		{ITEM GL of Sector 1416,8,20 | * | Chaselon}
+		{ITEM GL I of Sector 1417,5,6 | ../../../villains/dc/Sinestro.htm,_page | Sinestro}
+		{ITEM GL II of Sector 1417,8,20 | * | Prohl Gosgotha}
+		{ITEM GL III of Sector 1417,8,20 | * | Tarkus Whin}
+		{ITEM GL IV of Sector 1417,8,20 | * | Natu}
+		{ITEM GL V of Sector 1417,8,20 | * | Iolande}
+		{ITEM GL of Sector 1418,8,20 | * | Salaak}
+		{ITEM GL of Sector 1582,8,20 | * | Lin Canar}		
+		{ITEM GL of Sector 1634,8,20 | * | Priest}
+		{ITEM GL of Sector 1721,8,20 | * | Kaylark}
+		{ITEM GL of Sector 1760,8,20 | * | Sodam Yat}
+		{ITEM GL of Sector 1776,8,20 | * | Meadlux}
+		{ITEM GL of Sector 1915,8,20 | * | Wissen}
+		{ITEM GL of Sector 2002,8,20 | * | Kreon}
+		{ITEM GL of Sector 2106,8,20 | * | Krydel-4}
+		{ITEM GL of Sector 2111,8,20 | * | Oliversity}
+		{ITEM GL I of Sector 2234,8,20 | * | El'qa Squa Zreenah}
+		{ITEM GL II of Sector 2234,8,20 | * | Perdoo}
+		{ITEM GL of Sector 2260,8,20 | * | Opto309v}
+		{ITEM GL I of Sector 2261,5,6 | ../../../heroes/dc/Mogo.htm,_page | Mogo}
+		{ITEM GL II of Sector 2261,8,20 | * | Bzzd}
+		{ITEM GL of Sector 2471,8,20 | * | Talmadge}
+		{ITEM GL of Sector 2515,8,20 | * | Symon Terrynce}
+		{ITEM GL I of Sector 2682,8,20 | * | Isamot Kol}
+		{ITEM GL II of Sector 2682,8,20 | * | Vanth Sarn}
+		{ITEM GL of Sector 2689,8,20 | * | Skirl}
+		{ITEM GL of Sector 2751,8,20 | * | M'Dahna}
+		{ITEM GL I of Sector 2812,8,20 | * | Tagort}
+		{ITEM GL II of Sector 2812,8,20 | * | Venizz}
+		{ITEM GL I of Sector 2813,8,20 | * | Zharan Pel}
+		{ITEM GL II of Sector 2813,8,20 | * | Dalor}
+		{ITEM GL III of Sector 2813,8,20 | * | Tomar-Tu}
+		{ITEM GL I of Sector 2814,8,20 | * | Yalan Gur}
+		{ITEM GL II of Sector 2814,8,20 | * | Unknown}
+		{ITEM GL III of Sector 2814,8,20 | * | Unknown}
+		{ITEM GL IV of Sector 2814,8,20 | * | Starkaor}
+		{ITEM GL V of Sector 2814,8,20 | * | Xenofobe}
+		{ITEM GL VI of Sector 2814,5,6 | ../../../heroes/dc/GreenLanternII.htm,_page | Harold (Hal) Jordan}
+		{ITEM GL VII of Sector 2814,5,6 | ../../../heroes/dc/GreenLanternIII.htm,_page | John Stewart}
+		{ITEM GL VII of Sector 2814,5,6 | ../../../heroes/dc/GreenLanternIV.htm,_page | Guy Gardner}
+		{ITEM GL IX of Sector 2814,5,6 | ../../../heroes/dc/GreenLanternV.htm,_page | Kyle Rayner}
+		{ITEM GL I of Sector 2815,8,20 | * | Ebikar Hrui}
+		{ITEM GL II of Sector 2815,5,6 | ../../../heroes/dc/GL_Arisia.htm,_page | Arisia}
+		{ITEM GL I of Sector 2828,8,20 | * | Gretti}
+		{ITEM GL II of Sector 2828,8,20 | * | Green Man}
+		{ITEM GL I of Sector 2937,8,20 | * | Harvid}
+		{ITEM GL II of Sector 2937,8,20 | * | G'Hu}		
+		{ITEM GL of Sector 3009,8,20 | * | Stel}
+		{ITEM GL I of Sector 3014,8,20 | * | Barreer Wot}
+		{ITEM GL II of Sector 3014,8,20 | * | Lok Neboora}
+		{ITEM GL of Sector 3100,8,20 | * | Amanita}
+		{ITEM GL of Sector 3181,8,20 | * | Skyrd}
+		{ITEM GL of Sector 3192,8,20 | * | Lan Dibbux}
+		{ITEM GL of Sector 3212,8,20 | * | Vandor}
+		{ITEM GL of Sector 3333,8,20 | * | Penn Maricc}
+		{ITEM GL of Sector 3399,8,20 | * | Shilandra Thane}
+		{ITEM GL of Sector 3411,8,20 | * | Droxelle}
+		{ITEM GL of Sector 3443,8,20 | * | Greet}
+		{ITEM GL of Sector 3453,8,20 | * | Lashorr}
+		{ITEM GL of Sector 3515,8,20 | * | Gpaak}
+		{ITEM GL of Sector 3521,8,20 | * | Garmin Vid}
+		{ITEM GL of Sector 3521,8,20 | * | Torquemada}
+		{ITEM GL of Sector 3587,8,20 | * | Palaqua}
+		{ITEM GL of Sector 3588,8,20 | * | Cimfet Tau}
+		{ITEM GL of Sector 3590,8,20 | * | Zevonn Parzzx}
+		{ITEM GL of Sector 3599,8,20 | * | Zghitihii}
+		{ITEM GL of Sector 3600,8,20 | * | Rasa Nekroy}
+		{ITEM GL Sector unknown I,8,20 | * | Adara}
+		{ITEM GL Sector unknown II,8,20 | * | Alia}
+		{ITEM GL Sector unknown III,8,20 | * | AR-N-O-Q}
+		{ITEM GL Sector unknown IV,8,20 | * | Barin}
+		{ITEM GL Sector unknown V,8,20 | * | Bivvix}
+		{ITEM GL Sector unknown VI,8,20 | * | Bogosar}
+		{ITEM GL Sector unknown VII,8,20 | * | Brin}
+		{ITEM GL Sector unknown VIII,8,20 | * | Chapqwep}
+		{ITEM GL Sector unknown IX,8,20 | * | Deeter}
+		{ITEM GL Sector unknown X,8,20 | * | Deeter's master}
+		{ITEM GL Sector unknown XI,8,20 | * | El'Oa Sqa Zreenah}
+		{ITEM GL Sector unknown XII,8,20 | * | Galius Zed}
+		{ITEM GL Sector unknown XIII,8,20 | * | Jewelius Blak}
+		{ITEM GL Sector unknown XIV,8,20 | * | Knen-To}
+		{ITEM GL Sector unknown XV,8,20 | * | Ki-Nilg}
+		{ITEM GL Sector unknown XVI,8,20 | * | Kwo Varrikk}
+		{ITEM GL Sector unknown XVII,8,20 | * | Leezle Pon}
+		{ITEM GL Sector unknown XVIII,8,20 | * | Pathavim Seth-Ottarak}
+		{ITEM GL Sector unknown XIX,8,20 | * | Phantos}
+		{ITEM GL Sector unknown XX,8,20 | * | Probert}
+		{ITEM GL Sector unknown XXI,8,20 | * | Rak Arranya}
+		{ITEM GL Sector unknown XXII,8,20 | * | Reemuz}
+		{ITEM GL Sector unknown XXIII,8,20 | * | Shingo Wol}
+		{ITEM GL Sector unknown XXIV,8,20 | * | Skr'kl}
+		{ITEM GL Sector unknown XXV,8,20 | * | Squagga}
+		{ITEM GL Sector unknown XXVI,8,20 | * | Teacher}
+		{ITEM GL Sector unknown XXVII,8,20 | * | Thormon Tox}
+		{ITEM GL Sector unknown XXVIII,8,20 | * | Tylot}
+		{ITEM GL Sector unknown XXIX,8,20 | * | Zghithii}
+		{ITEM GL Sector unknown XXX,8,20 | * | Zuron}
+		{ITEM GL of Slyggia,8,20 | * | Salakk}
+		{ITEM GL of Southern Goldstar,8,20 | * | Olapet}
+		{ITEM GL of Sputa,8,20 | * | Larvox}
+		{ITEM GL I of Stoneworld,8,20 | * | Kworri}
+		{ITEM GL II of Stoneworld,8,20 | * | Aa}
+		{ITEM GL of Tanjent,8,20 | * | Symon Terrynce}
+		{ITEM GL of Tebis,8,20 | * | Kreon}
+		{ITEM GL of Timron,8,20 | * | Dalor}
+		{ITEM GL of Toomey VI,8,20 | * | Arkkis Chummuck}
+		{ITEM GL of Trlak,8,20 | * | Quarzz Teranh}
+		{ITEM GL of Tront,8,20 | * | Eddore}
+		{ITEM GL of Tyrea,8,20 | * | Chogar}
+		{ITEM GL of Twen,8,20 | * | Sandro Batorn}
+		{ITEM GL of Ungara,5,6 | ../../../heroes/dc/AbinSur.htm,_page | Abin Sur}
+		{ITEM GL of Uxor,8,20 | * | Unknown}
+		{ITEM GL of Valstan C5 Cluster,8,20 | * | Puffball Collective}
+		{ITEM GL of Varna,8,20 | * | Ke'Haan}
+		{ITEM GL of Veltre,8,20 | * | Unknown}
+		{ITEM GL of Vulcan,8,20 | * | Unknown}
+		{ITEM GL of Xanshi,8,20 | * | Unknown}
+		{ITEM GL of Xaos,8,20 | * | Xax}
+		{ITEM GL of Xeres,8,20 | * | Spak-Drom}
+		{ITEM GL I of Xudar,5,6 | ../../../heroes/dc/TomarRe.htm,_page | Tomar-Re}
+		{ITEM GL II of Xundar,8,20 | * | Tomar-Tu}
+		{ITEM GL III of Xudar,8,20 | * | Galte-Re}
+		{ITEM GL of Z'Nang,8,20 | * | Unknown}
+		{ITEM GL of Zilliph,8,20 | * | Taa}
+		{ITEM GL of Zintha,8,20 | * | Lysandra}
+		{ITEM GL of Zoa,8,20 | * | Gpaak}
+		{ITEM GL of Zymia,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

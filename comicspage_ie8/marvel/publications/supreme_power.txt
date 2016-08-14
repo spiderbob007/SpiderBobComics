@@ -1,0 +1,112 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+		{ITEM M2,17,18 | m2.htm,_self | Publications about an alternate future of the Marvel Universe.}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+		{ITEM New Universe,17,18 | new_u.htm,_self | New line of comics created by Marvel.}
+		{ITEM Star Comics,17,18 | star.htm,_self | Comics for children based upon other media properties.}
+	{FOLDER ~Supreme Power,17,18 | * | Alternate universe resembling that of the Squadron Supreme.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Amphibian,5,6 | ../../../heroes/marvel/supreme_power/Amphibian.htm,_page | Kingsley}
+		{ITEM Arcanna,8,20 | * | =}
+		{ITEM Blur,5,6 | ../../../heroes/marvel/supreme_power/Blur.htm,_page | Stanley Stewart}
+		{ITEM Dr. Spectrum,5,6 | ../../../heroes/marvel/supreme_power/DrSpectrum.htm,_page | Joseph Ledger}
+		{ITEM Hyperion,5,6 | ../../../heroes/marvel/supreme_power/Hyperion.htm,_page | Mark Milton}
+		{ITEM Inertia,8,20 | * | Eddith Frieberg}
+		{ITEM Nighthawk,5,6 | ../../../heroes/marvel/supreme_power/Nighthawk.htm,_page | Kyle Richmond}
+		{ITEM Nuke,8,20 | * | =}
+		{ITEM Shape,8,20 | * | =}
+		{ITEM Tom Thumb,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Power Princess,8,20 | * | Zarda}
+		{ITEM Redstone,8,20 | * | Unknown}
+		{ITEM (The) Voice,8,20 | * | John M'Butu}
+		{ITEM Whiteface,5,6 | ../../../villains/marvel/supreme_power/Whiteface.htm,_page | Steven Binst}{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,3,4 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Squadron Supreme,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Ultimate Universe,17,18 | ultimate.htm,_self | Modern interpertation of the Marvel Universe.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

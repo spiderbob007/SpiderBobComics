@@ -1,0 +1,151 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cachirú,8,20 | * | Unknown}
+		{ITEM Cameron Chase,5,6 | ../../../heroes/dc/Chase.htm,_page | =}
+		{ITEM Cannonball,8,20 | * | Sgt. Horace Calhoon}
+		{ITEM Captain Action,5,6 | ../../../heroes/indi/CaptainAction.htm,_page | Clive Arno}
+		{ITEM Captain Atom,5,6 | ../../../heroes/dc/CaptainAtom.htm,_page | Captain Nathaniel Christopher Adam}
+		{ITEM Captain Carrot,8,20 | * | Roger Rodney Rabbit}
+		{ITEM Captain Comet,5,6 | ../../../heroes/dc/CaptainComet.htm,_page | Adam Blake}
+		{ITEM Captain Compass,8,20 | * | Captain Mark Compass}
+		{ITEM Captain Fear,8,20 | * | Fero}
+		{ITEM Captain Hunter,8,20 | * | Lucius Hunter}
+		{ITEM Captain Marvel,5,6 | ../../../heroes/dc/SHAZAM.htm,_page | William (Billy) Batson}
+		{ITEM Captain Marvel Jr.,5,6 | ../../../heroes/dc/CaptainMarvelJr.htm,_page | Fredrick (Freddy) Freeman}
+		{ITEM Captain Speed,8,20 | * | Harry Christos}
+		{ITEM Captain Storm,8,20 | * | William Storm}
+		{ITEM Captain Strong,8,20 | * | =}
+		{ITEM Captain Triumph,8,20 | * | Lance and Michael Gallant}
+		{ITEM Captain X,8,20 | * | Richard (Buck) Dare}
+		{ITEM Cascade,8,20 | * | Unknown}
+		{ITEM Catwoman I,5,6 | ../../../villains/dc/CatwomanI.htm,_page | Selina Kyle}
+		{ITEM Catwoman II,5,6 | ../../../heroes/dc/CatwomanII.htm,_page | Holly Robinson}
+		{ITEM Cave Carson,8,20 | * | Calvin Carson}
+		{ITEM Celeste,8,20 | * | Celeste McCauley}
+		{ITEM Celsius,8,20 | * | Arani Caulder}
+		{ITEM Centrix,8,20 | * | Mark Armstrong}
+		{ITEM Cha'Rissa,8,20 | * | Princess Cha'Rissa}
+		{ITEM Chameleon,8,20 | * | Reep Daggle}
+		{ITEM Chameleon Boy,8,20 | * | Reep Daggle}
+		{ITEM (The) Champion,8,20 | * | Shazam}
+		{ITEM Changeling II,5,6 | ../../../heroes/dc/ChangelingII.htm,_page | Garfield Logan}
+		{ITEM Chemical King,8,20 | * | Condo Arlik}
+		{ITEM Cherub,8,20 | * | Unknown}
+		{ITEM (The) Chief,5,6 | ../../../heroes/dc/Chief.htm,_page | Dr. Niles Caulder}
+		{ITEM Chlorophyll Kid,8,20 | * | Ral Benem}
+		{ITEM Cho-besh,8,20 | * | =}
+		{ITEM Chop Suzi,8,20 | * | Unknown}
+		{ITEM Chris KL-99,8,20 | * | =}
+		{ITEM Chronos II,5,6 | ../../../heroes/dc/ChronosII.htm,_page | Walker Tristan Gabriel}
+		{ITEM Cimarrón,8,20 | * | Unknown}
+		{ITEM Cinnamon I,5,6 | ../../../heroes/dc/CinnamonI.htm,_page | Kate Manser}
+		{ITEM Cinnamon II,5,6 | ../../../heroes/dc/CinnamonII.htm,_page | Cinnamon}
+		{ITEM Citizen Steel,5,6 | ../../../heroes/dc/CitizenSteel.htm,_page | Nathan Heywood}
+		{ITEM Claw The Unconquered,5,6 | ../../../heroes/dc/Claw_the_Unconquered.htm,_page | Valcan}
+		{ITEM Clipper I,8,20 | * | =}
+		{ITEM Clipper II,8,20 | * | Mason Trollbridge}
+		{ITEM Coldcast,8,20 | * | Christopher Nathan Craig Jones}
+		{ITEM Colonel Flag I,5,6 | ../../../heroes/dc/RickFlag.htm,_page | Richard Montgomery Flag}
+		{ITEM Colonel Flag II,,5,6 | ../../../heroes/dc/RickFlag.htm,_page | Richard Rogers Flag Jr.}
+		{ITEM Colonel Future,8,20 | * | Colonel Edmond Hamilton}
+		{ITEM Color Kid,8,20 | * | Ulu Vakk}
+		{ITEM Colossal Boy,8,20 | * | Gim Allon}
+		{ITEM Comet I,8,20 | * | Biron}
+		{ITEM Comet II,5,6 | ../../../heroes/dc/CometII.htm,_page | Andrea Martinez & Andrew Jones}
+		{ITEM Comet III,5,6 | ../../../heroes/dc/CaptainComet.htm,_page | Adam Blake}
+		{ITEM Commander Steel I,5,6 | ../../../heroes/dc/CitizenSteel.htm,_page | Henry (Hank) Heywood I}
+		{ITEM Commander Steel II,5,6 | ../../../heroes/dc/CitizenSteel.htm,_page | Henry (Hank) Heywood III}
+		{ITEM Congo Bill,8,20 | * | Unknown}
+		{ITEM Congorilla,8,20 | * | Congo Bill}
+		{ITEM Corona,8,20 | * | Kako}
+		{ITEM Cosmic Boy,5,6 | ../../../heroes/dc/CosmicBoy.htm,_page | Rokk Krinn}
+		{ITEM Cosmic Kid,5,6 | ../../../heroes/dc/CosmicBoy.htm,_page | Rokk Krinn}
+		{ITEM Cover,5,6 | ../../../heroes/dc/SashaBordeaux.htm,_page | Sahsa Bordeaux}
+		{ITEM Creeper I,5,6 | ../../../heroes/dc/CreeperI.htm,_page | Jack Ryder}
+		{ITEM Creeper II,5,6 | ../../../heroes/dc/CreeperII.htm,_page | Madeline Benoir}
+		{ITEM Crimson Avenger I,8,20 | * | Lee Walter Travis}
+		{ITEM Crimson Avenger II,8,20 | * | Albert Elwood}
+		{ITEM Crimson Avenger III,5,6 | ../../../heroes/dc/CrimsonAvengerIII.htm,_page | Unknown}
+		{ITEM Crimson Fox I,5,6 | ../../../heroes/dc/CrimsonFox.htm,_page | Vivian D'Aramis}
+		{ITEM Crimson Fox II,5,6 | ../../../heroes/dc/CrimsonFox.htm,_page | Constance D'Aramis}
+		{ITEM Crimson Fox III,8,20 | * | Unknown}
+		{ITEM Cyborg I,5,6 | ../../../heroes/dc/CyborgI.htm,_page | Victor Stone}
+		{ITEM Cyclone I,8,20 | * | Unknown}
+		{ITEM Cyclone II,8,20 | * | Maxine Hunkel}
+		{ITEM Cyclotron,8,20 | * | Terrence Curtis}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Green Lantern Corps),17,18 | gl.htm,_self | Listings of Green Lantern Corp members from across the universe.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

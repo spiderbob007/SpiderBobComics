@@ -1,0 +1,238 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+	{FOLDER ~Gods,17,18 | * |  The gods of the DC Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abnegazar,8,20 | * | Demon}
+		{ITEM Agony,8,20 | * | Demonic enforcer of Hell.}
+		{ITEM Amethyst,5,6 | ../../../heroes/dc/Amethyst.htm,_page | Lord of Order.}
+		{ITEM Anti-Monitor,5,6 | ../../../gods_monsters/dc/Anti-Monitor.htm,_page | Master of the anti-matter universe.}
+		{ITEM Aphrodite,8,20 | * | Olympian goddess of love.}
+		{ITEM Apollo,8,20 | * | Olympian god of light.}
+		{ITEM Ares,5,6 | ../../../gods_monsters/dc/Ares.htm,_page | Olympian god of war, also known as Mars.}
+		{ITEM Artemis,8,20 | * | Goddess of the hunt.}
+		{ITEM Athena,8,20 | * | Olympian goddess of wisdom.}
+		{ITEM Athyns,8,20 | * | New Titan of Myth and warrior.}
+		{ITEM Avia,8,20 | * | New God of New Genesis.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Bat-Mite,8,20 | * | Imp from the 5TH dimension that idolizes Batman.}
+		{ITEM Beautiful Dreamer,8,20 | * | New God of New Genesis.}
+		{ITEM Beelezebub,8,20 | * | Lord of Hell.}
+		{ITEM Bekka,8,20 | * | New God of New Genesis.}
+		{ITEM Big Barda,5,6 | ../../../heroes/dc/BigBarda.htm,_page | Barda Free New God of New Genesis.}
+		{ITEM Big Bear,8,20 | * | New God of New Genesis.}
+		{ITEM Black Flash,8,20 | * | Manifestation of Death}
+		{ITEM Black Racer,5,6 | ../../../gods_monsters/dc/BlackRacer.htm,_page | Elemental force of death inhabiting the body of Sergeant Willie Walker.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cei-U,5,6 | ../../../heroes/dc/JohnnyThunder.htm,_page | Djinn from the 5th Dimension.}
+		{ITEM Child,8,20 | * | Lord of Chaos.}
+		{ITEM Coeus,8,20 | * | Titan of myth and ancient god of intelligence.}
+		{ITEM Crius,8,20 | * | Titan of myth.}
+		{ITEM Cronus,8,20 | * | Titan of myth.}
+		{ITEM (The) Curse,5,6 | ../../../gods_monsters/dc/Curse.htm,_page | Demon born of a Babalonian war god and a mortal.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Darkseid,5,6 | ../../../villains/dc/Darkseid.htm,_page | Uxas, son of Heggra, leader of the New Gods of Apokolips.}
+		{ITEM Death,5,6 | ../../../gods_monsters/dc/Death.htm,_page | Personification of entropy.}
+		{ITEM Deimos,8,20 | * | Olympian god of terror.}
+		{ITEM Demeter,8,20 | * | Olympian goddess of agriculture.}
+		{ITEM Desaad,8,20 | * | Torture master of Darkseid.}
+		{ITEM Destiny,8,20 | * | Cosmic observer reputed to have existed before recorded time.}
+		{ITEM Devilance,8,20 | * | New God of Apokolips.}
+		{ITEM Dionysus,8,20 | * | Olympian goddess of wine.}
+		{ITEM Dominus,5,6 | ../../../villains/dc/Dominus.htm,_page | Renegade Lord of Order.}
+		{ITEM Dr. Bedlam,8,20 | * | New God of Apokolips.}
+		{ITEM Dream I,5,6 | ../../../gods_monsters/dc/SandmanIV.htm,_page | Morpheus: Lord of Dreams}
+		{ITEM Dream II,5,6 | ../../../gods_monsters/dc/SandmanV.htm,_page | Daniel Hall: Lord of Dreams}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Eclipso,5,6 | ../../../gods_monsters/dc/Eclipso.htm,_page | God of vengeance which his channeled through an one of several black diamonds.}
+		{ITEM Ecstacy,8,20 | * | Demonic enforcer of Hell.}
+		{ITEM Eris,8,20 | * | Olympian goddess of discord}
+		{ITEM Eros,8,20 | * | Olympian god of desire.}
+		{ITEM Esak,8,20 | * | New God}
+		{ITEM Etrigan,5,6 | ../../../villains/dc/Etrigan.htm,_page | Rhyming demon}
+		{ITEM Eve,8,20 | * | Personification of the universal key known as the Worlogog.}
+	{/FOLDER}
+	{FOLDER (F),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Fastback I,8,20 | * | New God of New Genesis.}
+		{ITEM Forager I,8,20 | * | New God of New Genesis.}
+		{ITEM Forager II,8,20 | * | New God of New Genesis.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ghast,8,20 | * | Demon}
+		{ITEM Glorious Godfrey,8,20 | * | New God of Apokolips.}
+		{ITEM Gorum,8,20 | * | Lord of Chaos.}
+		{ITEM Granny Goodness,5,6 | ../../../villains/dc/GrannyGoodness.htm,_page | Headmistress of the orphanages of Apokolips.}
+		{ITEM (The) Gray Man, 8,20 | * | Lord of Order.}
+		{ITEM Grayven,8,20 | * | New God and son of Darkseid.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Hades,8,20 | * | Olympian god of the underworld.}
+		{ITEM Heggra,8,20 | * | Mother of Darkseid.}
+		{ITEM Hephaestus,8,20 | * | Olympian god of fire and metallurgy.}
+		{ITEM Hera,8,20 | * | Olympian goddess of matrimony and queen of the Olympian gods.}
+		{ITEM Hercules,8,20 | * | Olympian demi-god, the son of Zeus and the mortal Alcmene}
+		{ITEM Hermes,8,20 | * | Olympian god of commerce and thieves as well as herald of the gods, also known as Mercury.}
+		{ITEM Hestia,8,20 | * | Olympian goddess of home and hearth.}
+		{ITEM Heqt,8,20 | * | Egyptian nature goddess}
+		{ITEM Highfather,5,6 | ../../../gods_monsters/dc/Highfather.htm,_page | Izaya the Inheritor, leader of the New Gods of New Genesis.}
+		{ITEM Himon,8,20 | * | New God of New Genesis.}
+		{ITEM Hyperion,8,20 | * | Titan of myth and ancient god of the Sun.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Iapetus,8,20 | * | Titan of myth.}
+		{ITEM Iblis,8,20 | * | Demon}
+		{ITEM Imperiex,5,6 | ../../../villains/dc/Imperiex.htm,_page | Godlike entity composed of pure energy capable of destroying entire solar systems.} 
+		{ITEM Infinity Man,8,20 | * | Godlike entity of unknown origin associated with the Forever People.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Jakk,8,20 | * | Lord of Order.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Kalibak,5,6 | ../../../villains/dc/Kalibak.htm,_page | New God of Apokolips and son of Darkseid.}
+		{ITEM Kanto,8,20 | * | New God of Apokolips.}
+		{ITEM Kismet,5,6 | ../../../heroes/dc/StrangeVisitor.htm,_page | Lord of Order and Illuminator of All Realities.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Lady of the Lake,8,20 | * | Water spirit that protects the Earth's waterways.}
+		{ITEM Lashina,5,6 | ../../../villains/dc/Lashina.htm,_page | New God of Apokolips and Female Furies.}
+		{ITEM Lightray,5,6 | ../../../gods_monsters/dc/Lightray.htm,_page | Sollis, New God of New Genesis.}
+		{ITEM Lilith,8,20 | * | Olympian Demi-goddess born of the goddess Thia and a mortal man.}
+		{ITEM Lonar,8,20 | * | New God of Apokolips}
+		{ITEM Lord Chaos,8,20 | * | Titan of myth.}
+		{ITEM Lucifer,5,6 | ../../../gods_monsters/dc/Lucifer.htm,_page | Offspring of God and architect of the Universe.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM M'Shulla,8,20 | * | Lord of Chaos.}
+		{ITEM Malferrazae,8,20 | * | Lord of Chaos.}
+		{ITEM Mantis,5,6 | ../../../gods_monsters/dc/Mantis.htm,_page| New God of Apokolips.}
+		{ITEM Mark Moonrider,8,20 | * | New God of New Genesis.}
+		{ITEM Mars,5,6 | ../../../gods_monsters/dc/Ares.htm,_page | Olympian god of war, also known as Ares.}
+		{ITEM Mercury,8,20 | * | Olympian god of commerce and thieves as well as herald of the gods, also known as Hermes.}
+		{ITEM Metron,8,20 | * | New God of New Genesis.}
+		{ITEM Mister Miracle II,5,6 | ../../../heroes/dc/MisterMiracleII.htm,_page | New God of Apokolips and son of Highfater.}
+		{ITEM Mnemosyne,8,20 | * | Titan of myth and ancient god of memory.}
+		{ITEM Mokkari,8,20 | * | New God of Apokolips.}
+		{ITEM Monitor,8,20 | * | Surveyor and protector of the multi-verse.}
+		{ITEM Monsieur Stigmonus,5,6 | ../../../villains/dc/MonsieurStigmonus.htm,_page | Supernatural being with near-omnipotent abilities that derives its power from the despair and doubt of other beings.}
+		{ITEM Mordru,5,6 | ../../../villains/dc/Mordru.htm,_page | Lord of Chaos.}
+		{ITEM Mxyzptlk,5,6 | ../../../villains/dc/Mxyzptlk.htm,_page | Imp from the 5th Dimension.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Nabu,8,20 | * | Lord of order.}
+		{ITEM Naiad,8,20 | * | Water elemental occupying the body of Mai Miyazaki.}
+		{ITEM Nebiros,8,20 | * | Demon lord of a nameless dimension.}
+		{ITEM Nekron II,5,6 | ../../../gods_monsters/dc/Nekron.htm,_page | Lord of the Unliving dimension.}
+		{ITEM Neron,8,20 | * | Lord of Underworld}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Oceanus,8,20 | * | Titan of myth and ancient god of the ocean.}
+		{ITEM Onimar Synn,5,6 | ../../../villains/dc/SinEater.htm,_page | One of the Seven Devils of Thanagar.}
+		{ITEM Orion,5,6 | ../../../heroes/dc/Orion.htm,_page | New God of New Genesis and son of Darkseid.}	
+		{ITEM Orpheus I,8,20 | * | Greatest musician and poet of the Greek Gods.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Pan,8,20 | * | Olympian god of nature.}
+		{ITEM Pantagones,8,20 | * | Lord of Order.}
+		{ITEM Persephone,8,20 | * | Olympian god of the Spring season.}
+		{ITEM Phantom Stranger,5,6 | ../../../gods_monsters/dc/PhantomStranger.htm,_page | Mystical entity which councils others in times of crisis.}
+		{ITEM Phobos,8,20 | * | Olympian god of fear.}
+		{ITEM Poseidon,8,20 | * | Olympian god of the sea.}
+		{ITEM Prometheus I,8,20 | * | Olympian god that brought fire to man.}
+		{ITEM (The) Pursuer,8,20 | * | Devilance, of the New Gods of Apokolips.}
+		{ITEM Pythia,8,20 | * | Lord of Chaos.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Qwsp,8,20 | * | Imp from the 5th Dimension.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Rath,8,20 | * | Demon}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sandman IV,5,6 | ../../../gods_monsters/dc/SandmanIV.htm,_page | Morpheus: Lord of Dreams}
+		{ITEM Sandman V,5,6 | ../../../gods_monsters/dc/SandmanV.htm,_page | Daniel Hall: Lord of Dreams}
+		{ITEM Serifan,8,20 | * | New God of New Genesis.}
+		{ITEM Simyan,8,20 | * | New God of Apokolips.}
+		{ITEM Sin Eater,5,6 | ../../../villains/dc/SinEater.htm,_page | Onimar Synn one of the Seven Devils of Thanagar.}
+		{ITEM Sparta,8,20 | * | New Titan of Myth and warrior.}
+		{ITEM Starbreaker,8,20 | * | Galactic entity capable of consuming the energy of entire star systems.}
+		{ITEM Steppenwolf,8,20 | * | New God of Apokolips and uncle of Darkseid.}
+		{ITEM Sturmer,8,20 | * | War dog of Apokolips}
+		{ITEM St'nn,8,20 | * | Lord of Order.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM T:D:H:D,8,20 | * | Mad god of space sector 3600.}
+		{ITEM T'Charr,8,20 | * | Lord of Chaos.}
+		{ITEM Takion,8,20 | * | New God}
+		{ITEM Tala,8,20 | * | Queen of Hell.}
+		{ITEM Terrataya,8,20 | * | Lord of Order.}
+		{ITEM Tethys,8,20 | * | Titan of myth and ancient goddess of rivers.}
+		{ITEM Themis,8,20 | * | Titan of myth and ancient goddess of divine order, law and custom.}
+		{ITEM Thirst,5,6 | ../../../gods_monsters/dc/Thirst.htm,_page | Golem that preys upon the mystcial realm known as the Secret Sea.}
+		{ITEM Thia,8,20 | * | Titan of myth and mother of the Sun, Moon & dawn.}
+		{ITEM Thunderbolt I,5,6 | ../../../heroes/dc/JohnnyThunder.htm,_page | Mystical being known as Yz.}
+		{ITEM Tigra,8,20 | * | New God of Apokolips.}
+		{ITEM Totec,8,20 | * | Lord of Chaos and Aztec god of war.}
+		{ITEM Trok,8,20 | * | New God of Apokolips.}
+		{ITEM Typhon,8,20 | * | Lord of Chaos.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{IETM Valkyra,8,20 | * | New God of New Genesis.}
+		{ITEM Vandaemeon,8,20 | * | Lord of Chaos}
+		{ITEM Vext,8,20 | * | God of mishap and misfortune.}
+		{ITEM Virman Vundabarr,8,20 | * | New God of Apokolips.}
+		{ITEM Vulcan,8,20 | * | Roman god of the forge.}
+		{ITEM Vykin The Black,8,20 | * | New God of New Genesis.}
+	{/FOLDER}
+	{FOLDER (W),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Yuga Khan,8,20 | * | Father of Darkseid and former ruler of Apokolips.}
+		{ITEM Ynar,8,20 | * | Renegade Lord of Order.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Zazura,8,20 | * | Succubus plaguing the planet Krypton and Rann.}
+		{ITEM Zeus,5,6 | ../../../gods_monsters/dc/Zeus.htm,_page | Olympian god of the sky and thunder and lord of the Olympian gods.}
+	{/FOLDER}
+	{FOLDER Pantheons,17,18 | * | The family of gods of the DC Universe.}
+		{ITEM Elementals,5,6 | ../../../teams/dc/Elementals_of_Disaster.htm,_page | Mystic beings capable of controlling the four individual elements.}
+		{ITEM Endless,5,6 | ../../../gods_monsters/dc/Endless.htm,_page | Personifications of the mental state and conditions of living beings.}
+		{ITEM Lords of the Ultra-Realm,8,20 | * | God-like being created by the collective sub-conscious of humanity.}
+		{ITEM New Gods of Apokolips,5,6 | ../../../gods_monsters/dc/NewGodsApokolips.htm,_page | The god-like beings of the extra-dimensional world of Apokolips.}
+		{ITEM New Gods of New Genesis,8,20 | * | The god-like beings of the extra-dimensional world of New Genesis.}
+		{ITEM Lords of Chaos,8,20 | * | Second sentient race in the universe.}
+		{ITEM Lords of Order,8,20 | * | First sentient race in the universe.}
+		{ITEM Millennium Giants,8,20 | * | Three primodial giants.}
+		{ITEM Old Gods,8,20 | * | Race of god-like beings that preceded the birth of the New Gods.}
+		{ITEM Olympian Gods,8,20 | * | Gods of ancient Greek mythology.}
+		{ITEM Quantum Mechanics,8,20 | * | Race of god-like beings created at the dawn of the universe.}
+		{ITEM Quintessence,8,20 | * | Quintet of immortals who watch over humanity.}
+		{ITEM Three Witches,8,20 | * | Trio of goddesses who belong to no panteheon.}
+		{ITEM Titans of Myth,8,20 | * | Ancient gods of the Earth and heavens.}
+		{ITEM Triarch,8,20 | * | Trinity of deities worshipped on the planet Maltus over ten billion years ago.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

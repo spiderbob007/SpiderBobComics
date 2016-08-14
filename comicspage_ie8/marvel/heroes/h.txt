@@ -1,0 +1,135 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Hammer III,8,20 | * | Eugene Eisenhower Canty}
+		{ITEM Hand of God,8,20 | * | angelic avenger}
+		{ITEM Hannibal King,8,20 | * | =}
+		{ITEM Hardball,8,20 | * | Unknown}
+		{ITEM Harrier,8,20 | *| Donald Joshua Clendenon}
+		{ITEM Harvest I,8,20 | * | Chi Lo}
+		{ITEM Hauptmann Deutschland,8,20 | * | Unknown}
+		{ITEM Havok,5,6 | ../../../heroes/marvel/Havok.htm,_page | Alexander (Alex) Summers}
+		{ITEM Hawkeye I,5,6 | ../../../heroes/marvel/Hawkeye.htm,_page | Clinton (Clint) Francis Barton}
+		{ITEM Hawkeye II,8,20 | * | Wyatt McDonald}
+		{ITEM Hawkeye III,5,6 | ../../../heroes/marvel/HawkeyeIII.htm,_page | Kate Bishop}
+		{ITEM Haywire,8,20 | * | Harold Danforth}
+		{ITEM Headline Hunter,8,20 | * | Jerry Hunter}
+		{ITEM Heartbreak Kid,5,6 | ../../../heroes/marvel/HeartbreakKid.htm,_page | Danny Shepard}
+		{ITEM Helix,8,20 | * | Rafael Carago}
+		{ITEM Hellcat,5,6 | ../../../heroes/marvel/Hellcat.htm,_page | Patricia (Patsy) Walker / Baxter / Hellstrom}
+		{ITEM Hellscout,8,20 | * | Kenneth Tennyson}
+		{ITEM Hellstorm,5,6 | ../../../heroes/marvel/Son_of_Satan.htm,_page | Daimon Hellstrom}
+		{ITEM Hepzibah,5,6 | ../../../heroes/marvel/Hepzibah.htm,_page | Unpronounceable}
+		{ITEM Her,8,20 | * | Genetic twin of the Goddess}
+		{ITEM Hercules I,8,20 | * | Unknown}
+		{ITEM Hercules II,5,6 | ../../../heroes/marvel/Hercules.htm,_page | Hercules}
+		{ITEM Hero for Hire,5,6 | ../../../heroes/marvel/PowerManII.htm,_page | Luke Cage}
+		{ITEM Hex,8,20 | * | Dominic Destine}
+		{ITEM Highbrow,8,20 | * | Future self of Dr. Knapp Whitman}
+		{ITEM Highnote,8,20 | * | Raoul Hernandez}
+		{ITEM Him,5,6, | ../../../heroes/marvel/WarlockI.htm,_page | Adam Warlock}
+		{ITEM Hindsight,8,20 | * | Carlton LeForyge}
+		{ITEM Hiram Shaw,8,20 | * | =}
+		{ITEM Hiro,8,20 | * | Hiro Takachiho}
+		{ITEM Hobgoblin I,8,20 | * | Shi'ar shapeshifter}
+		{ITEM Hodiah Twist,8,20 | * | =}
+		{ITEM Hogun,5,6 | ../../../teams/marvel/WarriorsThree.htm,_page | =}
+		{ITEM Hollywood,5,6 | ../../../heroes/marvel/WonderMan.htm,_page | Simon Williams}
+		{ITEM Honey Lemon,8,20 | * | Unknown}
+		{ITEM Hope,5,6 | ../../../heroes/marvel/Hope.htm,_page | Hope Summers}
+		{ITEM Horn,8,20 | * | Robbie Rodriguez}
+		{ITEM Hornet II,8,20 | * | Peter Parker}
+		{ITEM Hornet III,8,20 | * | Eddie McDonough}
+		{ITEM Hurricane,8,20 | * | Unknown}
+		{ITEM Howard the Duck,5,6 | ../../../heroes/marvel/HowardTheDuck.htm,_page | Howard}
+		{ITEM Hulk II,5,6 | ../../../heroes/marvel/HulkII.htm,_page | Dr. Robert Bruce Banner}
+		{ITEM Hulk III,8,20 | * | Rick Jones}
+		{ITEM Hulkling,5,6 | ../../../heroes/marvel/Hulkling.htm,_page | Theodore Altman}
+		{ITEM Human Top II,8,20 | * | David Mitchell}	
+		{ITEM Human Torch I,5,6 | ../../../heroes/marvel/HumanTorchI.htm,_page | Jim Hammond}
+		{ITEM Human Torch II,5,6 | ../../../heroes/marvel/HumanTorchII.htm,_page | Jonathan (Johnny) Spenser Storm}
+		{ITEM Human Torch III,5,6 | ../../../heroes/marvel/NovaII.htm,_page | Frankie Raye}
+		{ITEM Human Torch IV,5,6 | ../../../heroes/marvel/HumanTorchV.htm,_page | Susan (Sue) Storm Richards}
+		{ITEM Humus Sapien,5,6 | ../../../heroes/marvel/HumusSapien.htm,_page | Sonny Baredo}
+		{ITEM Huntara,8,20 | * | Tara Richards}
+		{ITEM Huntarr,8,20 | * | Iann-23}
+		{ITEM Huntress,8,20 | * | Barbara (Bobbi) Morse-Barton}
+		{ITEM Hurricane I,8,20 | * | Harry Kane}
+		{ITEM Hurricane III,5,6 | ../../../heroes/marvel/Makkari.htm,_page | Makkari}
+		{ITEM Husk,5,6 | ../../../heroes/marvel/Husk.htm,_page | Paige Guthrie}
+		{ITEM Hussar,8,20 | * | Warrior in the Shi'ar Imperial Guard}
+		{ITEM Hybrid II,8,20 | * | Scott Washington}
+		{ITEM Hyperion I,5,6 | ../../../heroes/marvel/HyperionI.htm,_page | Mark Milton}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

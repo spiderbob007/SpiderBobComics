@@ -1,0 +1,282 @@
+<html>
+
+<head>
+<title>Mister Miracle II</title>
+<base target="_self">
+<link href="../../style_sheets/dc_comics.css" rel="stylesheet" type="text/css">
+
+<script src="../../scripts/jquery.min.js"></script>
+
+<script type="text/javascript">
+	//<![CDATA[
+	  (function() {
+		var shr = document.createElement('script');
+		shr.setAttribute('data-cfasync', 'false');
+		shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+		shr.type = 'text/javascript'; shr.async = 'true';
+		shr.onload = shr.onreadystatechange = function() {
+		  var rs = this.readyState;
+		  if (rs && rs != 'complete' && rs != 'loaded') return;
+		  var site_id = 'd7dcffd146ec80dd442d53ef63ce8a0b';
+		  try { Shareaholic.init(site_id); } catch (e) {}
+		};
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(shr, s);
+	  })();
+	//]]>
+</script>
+
+<script type="text/javascript">
+	amzn_assoc_placement = "adunit0";
+	amzn_assoc_enable_interest_ads = "true";
+	amzn_assoc_tracking_id = "spidbobscomib-20";
+	amzn_assoc_ad_mode = "auto";
+	amzn_assoc_ad_type = "smart";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_textlinks = "";
+	amzn_assoc_linkid = "054f92d52298ca3d467885f2c768a17f";
+	amzn_assoc_emphasize_categories = "16261631,1000,2335752011,9003130011,13900871,130,172282,5088769011,979455011,2238192011,133140011,195209011,599858,229534,165793011,468642";
+	amzn_assoc_fallback_mode = {"type":"search","value":"comic book"};
+	amzn_assoc_default_category = "All";
+</script>
+
+</head>
+
+<body>
+
+	<!-- Begin Google Translate -->
+	<div id="google_translate_element"></div>
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+		gaTrack: true, gaId: 'UA-28491173-1'}, 'google_translate_element');
+		}
+		</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<!-- End Google Translate -->
+
+<table border="1">
+	<tr>
+		<td class="black_cell">Alias</td>
+		<td class="image_cell" rowspan="100%">
+			<img src="images/MrMiracle_I01.jpg" width="500" height="782"><br><br>
+			<img src="images/MrMiracle_I02.jpg" width="500" height="752"><br><br>
+			<img src="images/MrMiracle_I03.jpg" width="500" height="750"><br><br>
+			<img src="images/MrMiracle_I04.jpg" width="500" height="827"><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Mister Miracle II</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Nick Name</td>
+	</tr>
+	<tr>
+		<td class="white_cell">World's Greatest Escape Artist</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Civilian ID</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Scott Free</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Occupation</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Adventurer</p>
+			<p>Escape Artist</p>
+			<p>Prince of New Genesis</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Legal Status</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Prince of New Genesis</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Nation or Planet of Origin</td>
+	</tr>
+	<tr>
+		<td class="white_cell"><a href="../../locations/dc/Supertown.php" target="_self">Supertown</a>, New Genesis</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Group Affiliation</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p><a href="../../teams/dc/JLA.php" target="_self">Justice League</a></p>
+			<p><a href="../../gods_monsters/dc/NewGodsApokolips.php" target="_self">New Gods of Apokolips</a></p>
+			<p><a href="../../gods_monsters/dc/NewGodsApokolips.php" target="_self">New Gods of New Genesis</a></p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Base of Operations</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Earth</p>
+			<p>New Genesis</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Height</td>
+	</tr>
+	<tr>
+		<td class="white_cell">6'</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Weight</td>
+	</tr>
+	<tr>
+		<td class="white_cell">185 lbs.</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Eye Color</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Blue</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Hair Color</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Black</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Known Powers</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>God-like being with above average strength, speed, stamina, agility and durability.</p><br>
+			
+			<p>A master escape artist with an aptitude for creating illusions and devices for the art of escape.</p><br>
+			
+			<p>A superb hand-to-hand combatant trained as an aero-trooper of 
+			<a href="../../locations/dc/Apokolips.php" target="_self">Apokolips</a>.</p><br>
+			
+			<p><span class="bold">Note:</span> Scott Free possesses knowledge of the Anti-Life Equation and can kill 
+			numerous people with the utterance of a few words.</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Accessories</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<span class="left">
+				<p><span class="bold">Aero-Discs:</span> Foot mounted disk used for flight.</p><br>
+					
+				<p><span class="bold">Mother Box:</span> Sentient psionic computer built into his costume capable of opening 
+				dimensional portals and other diverse functions.</p><br>
+				
+				<p><span class="bold">Multi-Cube:</span> Instrument that performs various functions including firing a laser 
+				beam and ejecting a long steel cable.</p><br>
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Common Enemies</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p><a href="../../villains/dc/Darkseid.php" target="_self">Darkseid</a></p>
+			<p>Desaad</p>
+			<p>Dr. Bedlam</p>
+			<p><a href="../../teams/dc/FemaleFuries.php" target="_self">Female Furies</a></p>
+			<p><a href="../../villains/dc/GrannyGoodness.php" target="_self">Granny Goodness</a></p>
+			<p><a href="../../villains/dc/Kalibak.php" target="_self">Kalibak</a></p>
+			<p><a href="../../aliens_races/dc/Parademons.php" target="_self">Parademons</a></p>
+			<p>Simyan</p>
+			<p>Steel Hand</p>
+			<p>Steppenwolf</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Regularly Appearing</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Mister Miracle Vol. 1, 2 & 3</p>
+			<p>Jack Kirby's Fourth World</p>
+			<p>Jack Kirby's New Gods</p>
+			<p>Justice League America</p>
+			<p>The New Gods Vol. 1, 2 & 3</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">First Appearance</td>
+	</tr>
+	<tr>
+		<td class="white_cell"><a href="../../issues/dc/1stMisterMiracleII.php" target="_self">Mister Miracle #1</a> (April, 1971)</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Creator</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Jack Kirby</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Origin</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>To end the centuries-long war between New Genesis and 
+			<a href="../../locations/dc/Apokolips.php" target="_self">Apokolips</a>, 
+			<a href="../../villains/dc/Darkseid.php" target="_self">Darkseid</a> and High Father agreed to exchange their 
+			sons as part of a pact, thus he became the foster son of the ruler of Apokolips. Darkseid left him in the custody 
+			of <a href="../../villains/dc/GrannyGoodness.php" target="_self">Granny Goodness</a>, who named the child 
+			Scott Free and raised him in her "orphanage" to be trained as a aero-trooper.</p><br>
+			
+			<p>As an adult Scott Free was assisted by the rebellious Metron and Himon, who gave him and his love, 
+			<a href="BigBarda.php" target="_self">Big Barda</a>, the means to escape to Earth.</p><br>
+			
+			<p>On Earth Scott befriended the retired escape artist Thaddeus Brown who had gone by the stage name of 
+			Mister Miracle. When Brown was murdered by the gangster Steel Hand, Free assumed his friend's stage identity to 
+			bring Steel Hand to justice.</p><br>
+			
+			<p>Using the advanced science of the New Gods, Scott Free began a career as the worlds greatest escape artist, 
+			<span class="bold">Mister Miracle</span>.</p><br>
+		</td>
+	</tr>
+</table>
+
+<table width="100%" border="1">
+	<!-- Begin Amazon Ads -->	
+		<?php include '../../scripts/ads.php';?>
+		
+	<!-- End Amazon Ads -->
+</table>
+
+	<!-- Begin Top of Page -->
+		<a class="back-to-top" href="#top"><img src="../../images/upupsuperman01.png" alt="Superman" title="UP! UP! TO THE TOP OF THE PAGE!!" width="50" height="55"></a>
+		
+		<script>
+			jQuery(document).ready(function() {
+				var offset = 800;
+				var duration = 500;
+				jQuery(window).scroll(function() {
+					if (jQuery(this).scrollTop() > offset) {
+						jQuery('.back-to-top').fadeIn(duration);
+					} else {
+						jQuery('.back-to-top').fadeOut(duration);
+					}
+				});
+				
+				jQuery('.back-to-top').click(function(event) {
+					event.preventDefault();
+					jQuery('html, body').animate({scrollTop: 0}, duration);
+					return false;
+				})
+			});
+		</script>
+		
+		<script>
+			setTimeout(function(){ window.stop(); }, 10000);
+		</script>
+	<!-- End Top of Page -->
+
+</body>
+</html>

@@ -1,0 +1,286 @@
+<html>
+
+<head>
+<title>Human Torch I</title>
+<base target="_self">
+<link href="../../style_sheets/marvel_comics.css" rel="stylesheet" type="text/css">
+
+<script src="../../scripts/jquery.min.js"></script>
+
+<style type="text/css">
+	.image_cell {
+		background-color: rgb(255,255,0);
+	}
+</style>
+
+
+<script type="text/javascript">
+	//<![CDATA[
+	  (function() {
+		var shr = document.createElement('script');
+		shr.setAttribute('data-cfasync', 'false');
+		shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+		shr.type = 'text/javascript'; shr.async = 'true';
+		shr.onload = shr.onreadystatechange = function() {
+		  var rs = this.readyState;
+		  if (rs && rs != 'complete' && rs != 'loaded') return;
+		  var site_id = 'd7dcffd146ec80dd442d53ef63ce8a0b';
+		  try { Shareaholic.init(site_id); } catch (e) {}
+		};
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(shr, s);
+	  })();
+	//]]>
+</script>
+
+<script type="text/javascript">
+	amzn_assoc_placement = "adunit0";
+	amzn_assoc_enable_interest_ads = "true";
+	amzn_assoc_tracking_id = "spidbobscomib-20";
+	amzn_assoc_ad_mode = "auto";
+	amzn_assoc_ad_type = "smart";
+	amzn_assoc_marketplace = "amazon";
+	amzn_assoc_region = "US";
+	amzn_assoc_textlinks = "";
+	amzn_assoc_linkid = "054f92d52298ca3d467885f2c768a17f";
+	amzn_assoc_emphasize_categories = "16261631,1000,2335752011,9003130011,13900871,130,172282,5088769011,979455011,2238192011,133140011,195209011,599858,229534,165793011,468642";
+	amzn_assoc_fallback_mode = {"type":"search","value":"comic book"};
+	amzn_assoc_default_category = "All";
+</script>
+
+</head>
+
+<body>
+
+	<!-- Begin Google Translate -->
+	<div id="google_translate_element"></div>
+	<script type="text/javascript">
+		function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, 
+		gaTrack: true, gaId: 'UA-28491173-1'}, 'google_translate_element');
+		}
+		</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<!-- End Google Translate -->
+
+<table border="1">
+	<tr>
+		<td class="black_cell">Alias</td>
+		<td class="image_cell" rowspan="100%">
+			<img src="images/HumanTorch_logo.gif" width="225" height="116"><br>
+			<img src="images/HumanTorchI06.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI08.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI07.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI02.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI03.jpg" width="500" height="750"><br><br>
+			<img src="../../events/marvel/images/HumanTorch_SubMariner_Battle01.jpg" width="500" height="748"><br><br>
+			<img src="images/HumanTorchI01.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI04.jpg" width="500" height="750"><br><br>
+			<img src="images/HumanTorchI05.jpg" width="500" height="750"><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Human Torch I</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Nick Name</td>
+	</tr>
+	<tr>
+		<td class="white_cell">|</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Civilian ID</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Jim Hammond</p><br>
+			
+			<p><span class="bold">Alias</span></p>
+			<p>Jim Ames</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Occupation</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Adventurer</p>
+			<p>Police Officer</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Legal Status</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Android created in the United States.</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Nation or Planet of Origin</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Brooklyn, New York</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Group Affiliation</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p><a href="../../teams/marvel/Invaders.php" target="_self">All-Winner Squadron</a></p>
+			<p><a href="../../teams/marvel/Avengers.php" target="_self">Avengers</a></p>
+			<p><a href="../../teams/marvel/Invaders.php" target="_self">Invaders</a></p>
+			<p>Suicide Specials</p>
+			<p>V-Battalion</p>
+			<p><a href="../../teams/marvel/Avengers.php" target="_self">West Coast Avengers</a></p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Base of Operations</td>
+	</tr>
+	<tr>
+		<td class="white_cell">New York, New York</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Height</td>
+	</tr>
+	<tr>
+		<td class="white_cell">6' 3"</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Weight</td>
+	</tr>
+	<tr>
+		<td class="white_cell">300 lbs.</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Eye Color</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Blue</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Hair Color</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Blonde</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Known Powers</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Artificial humanoid with the ability to control heat and flame both when generated by self ignition or from 
+			other sources. Capable of creating omni-directional nova-burst reaching one-million degrees. Able to both infuse 
+			objects with heat or draw heat from objects. Ability to fly by directing heat through feet.</p><br>
+			
+			<p>Android body possesses superior mechanical strength and above average intelligence due to having an artificial 
+			brain.</p><br>
+			
+			<p>Superb detective skills acquired from years of police work.</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Accessories</td>
+	</tr>
+	<tr>
+		<td class="white_cell">None</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Common Enemies</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Adolph Hitler</p>
+			<p><a href="../../villains/marvel/HateMonger.php" target="_self">Hate Monger I</a></p>
+			<p>Nazis</p>
+			<p><a href="SubMariner.php" target="_self">Sub-Mariner</a></p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Regularly Appearing</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>All-Select Comics</p>
+			<p>All-Winners Comics</p>
+			<p>Captain America Comics</p>
+			<p>Daring Comics</p>
+			<p>Human Torch Vol. 1</p>
+			<p>Invaders Vol. 1 & 2</p>
+			<p>Marvel Comics</p>
+			<p>Marvel Mystery Comics</p>
+			<p>Mystic Comics</p>
+			<p>Young Men</p><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="black_cell">First Appearance</td>
+	</tr>
+	<tr>
+		<td class="white_cell"><a href="../../issues/marvel/1stMarvelComic.php" target="_self">Marvel Comics #1</a> (Nov. 1939)</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Creator</td>
+	</tr>
+	<tr>
+		<td class="white_cell">Carl Burgos</td>
+	</tr>
+	<tr>
+		<td class="black_cell">Origin</td>
+	</tr>
+	<tr>
+		<td class="white_cell">
+			<p>Phineas T. Horton, a pioneer in the field of artificial intelligence, created a synthesoid capable of mimicking all 
+			the functions of a human being, including independent thought. The only flaw in Dr. Horton's design was that the power 
+			supply of photoelectric solar cells covering the android's body were too volatile and caused the epidermis to burst 
+			into flame upon contact with air.</p><br>
+			
+			<p>At the android's public unveiling Horton demonstrated how it would burst into flame when exposed to the air within 
+			a transparent container. Decried by the press as a menace, Horton was forced to bury his invention within the container 
+			under concrete until he could figure a way to resolve the android's uncontrollable flame.</p><br>
+			
+			<p>During its time of isolation, Horton insured his invention would acquire mental stimulation through a radio receiver, 
+			which both educating and entertaining the android. Eventually a flaw in the container's seal allowed enough oxygen to 
+			breach and the android burst violently into flame. Escaping the concrete tomb, he wandered the streets until extinguishing 
+			himself in a neighborhood swimming pool. With time the android would learn to control not only his own flame, but flames 
+			of all sources and even heat itself, becoming not a menace but the hero known as the 
+			<span class="bold">Human Torch</span>.</p><br>
+		</td>
+	</tr>
+</table>
+
+<table width="100%" border="1">
+	<!-- Begin Amazon Ads -->	
+		<?php include '../../scripts/ads.php';?>
+		
+	<!-- End Amazon Ads -->
+</table>
+
+	<!-- Begin Top of Page -->
+		<a class="back-to-top" href="#top"><img src="../../images/ThorFlying01.png" alt="Thor" title="BY THE POWER OF ASGARD! &#10;TO THE TOP OF THE PAGE!!" width="50" height="69"></a>
+		
+		<script>
+			jQuery(document).ready(function() {
+				var offset = 800;
+				var duration = 500;
+				jQuery(window).scroll(function() {
+					if (jQuery(this).scrollTop() > offset) {
+						jQuery('.back-to-top').fadeIn(duration);
+					} else {
+						jQuery('.back-to-top').fadeOut(duration);
+					}
+				});
+				
+				jQuery('.back-to-top').click(function(event) {
+					event.preventDefault();
+					jQuery('html, body').animate({scrollTop: 0}, duration);
+					return false;
+				})
+			});
+		</script>
+		
+		<script>
+			setTimeout(function(){ window.stop(); }, 10000);
+		</script>
+	<!-- End Top of Page -->
+
+</body>
+</html>

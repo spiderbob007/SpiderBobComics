@@ -1,0 +1,152 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+	{FOLDER ~Places,17,18 | * | Contains sub-directories of locations in the DC Universe.}
+	{FOLDER Headquarters & Hideouts,17,18 | * | Headquarters and hideouts of the DC Universe.}
+		{ITEM All-Star Squadron Headquarters,8,20 | * | Two-hundred foot diameter sphere built in New York for the 1939-40 World's Fair renovated by the All-Star Squadron.}
+		{ITEM Batcave,5,6 | ../../../locations/dc/Batcave.htm,_page | Headquarters of Batman hidden beneath Wayne Manor}
+		{ITEM Blackhawk Island,8,20 | * | Atlantic headquarters of the Blackhawks.}
+		{ITEM Doghouse of Solitude,8,20 | * | Space based doghouse constructed of meteorite fragments by Krypto I using his heat vision.}
+		{ITEM Fortress of Solitude,5,6 | ../../../locations/dc/Fortress_of_Solitude.htm,_page | Headquarters of Superman.}
+		{ITEM Hal Jordan's Asteroid,8,20 | * | Temporary headquarters of Green Lantern II while exiled from Earth}
+		{ITEM Infinity Inc. Headquarters,8,20 | * | Headquarters of Infinity Inc. located at the old Stellar Studios movie studio in Los Angeles.}
+		{ITEM (The) Perisphere,8,20 | * | Two-hundred foot diameter sphere built in New York for the 1939-40 World's Fair that served as the headquarters of the All-Star Squadron}
+		{ITEM JLA Moon Base,8,20 | * | Headquarters of JLA located on Earth's Moon.}
+		{ITEM JSA Headquarters,8,20 | * | =}
+		{ITEM Justice League Embassies,8,20 | * | Publicly known embassies located worldwide.}
+		{ITEM Justice League Headquarters I,8,20 | * | Secret mountain base outside of Happy Harbor, RI.}
+		{ITEM Justice League Headquarters II,5,6 | ../../../locations/dc/JusticeLeagueSatelite.htm,_page | Satellite headquarters stationed in orbit 22,300 miles above the Earth.}
+		{ITEM Justice League Headquarters III,8,20 | * | Bunker located in Detroit, Michigan.}
+		{ITEM Justice League Headquarters IV,8,20 | * | Moon base located on Earth's moon.}
+		{ITEM Justice League Embassies,8,20 | * | Publicly known embassies located worldwide, the primary embassy used by the JLI located in Metropolis.}
+		{ITEM Justice Society Headquarters,8,20 | * | Publicly known building in mid-town Manhattan.}
+		{ITEM Legion Academy,8,20 | * | Academy for training potential members of the Legion of Super-Heroes.}
+		{ITEM Legion of Super-Heroes Headquarters,8,20 | * | Publicly known headquarters of the Legion of Super-Heroes located in Metropolis of the 30th century.}
+		{ITEM Outsiders Headquarters,8,20 | * | Marine research station off the coast of Santa Monica.}
+		{ITEM Tower of Rage,8,20 | * | Darkseid's monumental fortress palace built in his own image.}
+		{ITEM Z'onn Z'orr,8,20 | * | Headquarters of the Martian Manhunter hidden at Antarctica}
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,17,18 | * | The Planets, stars and galactic systems of the DC Universe.}
+		{ITEM Apokolips,5,6 | ../../../locations/dc/Apokolips.htm,_page | Home of the New Gods of Apokolips.}
+		{ITEM Bizarro World,8,20 | * | Uninhabited planet colonized by Bizarro and Bizarro-Lois #1}
+		{ITEM Czarnia,8,20 | * | Origin Planet of Lobo}
+		{ITEM Earth-1 [I],8,20 | * | Planet populated by silver-age heroes and villains.}
+		{ITEM Earth-1 [II],8,20 | * | Planet populated by post-crisis heroes and villains.}
+		{ITEM Earth-2 [I],8,20 | * | Planet populated by golden-age heroes and villains.}
+		{ITEM Earth-2 [II],8,20 | * | Anti-matter universe planet dominated by villainous counterparts of Earth-1 heroes.}
+		{ITEM Earth-3,8,20 | * | Planet dominated by villainous counterparts of Earth-1 heroes.}
+		{ITEM Krypton,5,6 | ../../../locations/dc/Krypton.htm,_page | Origin Planet of Superman}
+		{ITEM Maltus,8,20 | * | Origin Planet of the Guardians of the Universe}
+		{ITEM Mars,8,20 | * | Origin planet of Martian Manhunter}
+		{ITEM Mogo,5,6 | ../../../heroes/dc/Mogo.htm,_page | Sentient planet and Green Lantern.}
+		{ITEM New Genesis,8,20 | * | Origin planet of the New Gods of New Genesis.}
+		{ITEM Oa,5,6 | ../../../locations/dc/Oa.htm,_page | Adopted planet of the Guardians of the Universe (Maltusians) and the Green Lantern Corps located in the center of the universe.}
+		{ITEM Okaara,8,20 | * | Planet in the Vegan system and home of the Warlords of Okaara.}
+		{ITEM Qward,8,20 | * | Planet within the anti-matter universe.}
+		{ITEM Rann,8,20 | * | Third planet in the Alpha Centauri system, protected by Adam Strange}
+		{ITEM Tamaran,8,20 | * | Eighth planet in the Vegan system and home of Starfire II and Blackfire.}
+		{ITEM Thanagar,8,20 | * | Planet in the Polaris system.}
+		{ITEM Vegan System,8,20 | * | System 26 light years form Earth in the Lira consolation.}
+	{/FOLDER}
+	{FOLDER Cities & Countries,17,18 | * | The cities, countries and towns of the DC Universe.}
+		{ITEM Armagetto,8,20 | * | Capital city of Apokolips}
+		{ITEM Argo City,8,20 | * | City on the extinct planet Krypton and birthplace of Kara Zor-El (Supergirl II).}
+		{ITEM Blüdhaven,8,20 | * | Protected city of Nightwing}
+		{ITEM Blue Valley,8,20 | * | Protected city of Flash III}
+		{ITEM Central City,8,20 | * | Protected city of Flash II & Flash III}
+		{ITEM Coast City,8,20 | * | Base of operations of Green Lantern II}
+		{ITEM Fawcett City,8,20 | * | Protected city of Captain Marvel}
+		{ITEM Gateway City,8,20 | * | Protected city of Flash III}
+		{ITEM Gotham City,5,6 | ../../../locations/dc/GothamCity.htm,_page | Protected city of Batman}
+		{ITEM Kandor,5,6 | ../../../locations/dc/Kandor.htm,_page | Bottle City of Kandor, miniature city of the extinct planet of Krypton.}
+		{ITEM Keystone City,5,6 | ../../../locations/dc/KeystoneCity.htm,_page | Protected city of Flash I, II & III}
+		{ITEM Kryptonopolis,8,20 | * | Major metropolis on the extinct planet Krypton and birthplace of Kal-El (Superman).}
+		{ITEM Metropolis,5,6 | ../../../locations/dc/Metropolis.htm,_page | The City of Tomorrow}
+		{ITEM Midway City,8,20 | * | Protected city of Hawkman III and Hawkgirl II}
+		{ITEM New York,8,20 | * | The Big Apple}
+		{ITEM Opal City,8,20 | * | Protected city of the Starman legacy.}
+		{ITEM Ranagar,8,20 | * | Floating city on the planet Rann}
+		{ITEM Smallville,5,6 | ../../../locations/dc/Smallville.htm,_page | Agricultural community in Kansas and the boyhood home of Clark Kent.}
+		{ITEM Star City,8,20 | * | City protected by Green Arrow I & Speedy}
+		{ITEM Sub Diego,8,20 | * | Former city of San Diego now submerged under the ocean.}
+		{ITEM Supertown,5,6 | ../../../locations/dc/Supertown.htm,_page | Floating city above the planet New Genesis and home of the New Gods of New Genesis.}
+	{/FOLDER}
+	{FOLDER Streets and Monuments,17,18 | * | The streets and monuments of the DC Universe.}
+		{ITEM Crime Alley,5,6 | ../../../locations/dc/CrimeAlley.htm,_page | Unnamed alley where the parents of Bruce Wayne (Batman I) were murdered.}
+		{ITEM Danny the Street,8,20 | * | Mystical entity which occupies an entire city block.}
+	{/FOLDER}
+	{FOLDER Dimensions,17,18 | * | The extra and intra-dimensional realms of the DC Universe.}
+		{ITEM Anti-matter Universe of Quard,8,20 | * | Dimension containing the counter Earth known as Qward.}
+		{ITEM Battle Lands,5,6 | ../../../locations/dc/BattleLands.htm,_page | Dimension known as Tamaonash created by the Hindu god Ganesha.}
+		{ITEM Camelot 3000,5,6 | ../../../locations/dc/Camelot3000.htm,_page | Alternate future where the knights of King Arther are resurected.}
+		{ITEM Hades,5,6 | ../../../locations/dc/Hades.htm,_page | Olympic realm of the dead.}
+		{ITEM Hell,8,20 | * | Domain of Neron}
+		{ITEM Heroville,5,6 | ../../../locations/dc/Heroville.htm,_page | Town residing in a pocket dimension where all the citizens have superhuman powers.}
+		{ITEM Metropia,8,20 | * | City hidden away within the Phantom Zone.}
+		{ITEM Mirror Worlds,8,20 | * | Infinite number of realites existing within reflective items.}
+		{ITEM Multiverse,5,6 | ../../../locations/dc/Multiverse.htm,_page | Multiple realities occupying the same place in time, but separated by different vibrational frequencies.}
+		{ITEM New Gods Dimension,8,20 | * | Unnamed dimension of the New Gods of Apokolips and New Genesis.}
+		{ITEM Other Side of Light,8,20 | * | Dimension beyond the Speed Force akin to Heaven}
+		{ITEM Phantom Zone,8,20 | * | Twilight dimension where beings exist as corporeal phantoms.}
+		{ITEM Skartaris,8,20 | * | Prehistoric dimension accessible through Earths poles, also known as Wizard World.}
+		{ITEM Time Trapper Universe,8,20 | * | Pocket dimension created by the Time Trapper.}
+		{ITEM Ultra Realm,8,20 | * | Parallel Earth maintained by the collective subconscious of all humanity.}
+		{ITEM Vanishing Point,8,20 | * | Location at the end of time}
+		{ITEM Wizard World,8,20 | * | Prehistoric dimension accessible through Earths poles, also known as Skartaris.}
+	{/FOLDER}
+	{FOLDER Mystical Places,17,18 | * | The magical places of the DC Universe.}
+		{ITEM Danny the Street,8,20 | * | Mystical entity which occupies an entire city block.}
+		{ITEM Green Lantern Central Power Battery,8,20 | * | Main source of Green Magic on Oa}
+		{ITEM Green Lantern Corp Crypts,8,20 | * | Final resting place on Oa of many Green Lanterns}
+		{ITEM House of Mystery,5,6 | ../../../locations/dc/HouseMystery.htm,_page | Myterious house occupied by the caretaker Cain.}
+		{ITEM House of Secrets,5,6 | ../../../locations/dc/HouseSecrets.htm,_page | Mysterious house occupied by the caretaker Abel.}
+		{ITEM Parliament of Trees,5,6 | ../../../locations/dc/ParliamentofTrees.htm,_page | Grove of Earth Elementals rooted in Brazil.}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,17,18 | * | The hidden lands, cities and kingdoms of the DC Universe.}
+		{ITEM Atlantis,5,6 | ../../../locations/dc/Atlantis.htm,_page | Under-Sea Kingdoms of Poseidonis and Tritonis}
+		{ITEM Dinosaur Island,8,20 | * | Chain of South Pacific islands hidden by perpetual cloud cover inhabited by dinosaurs.}
+		{ITEM Gorilla City,8,20 | * | Hidden city of intelligent apes in Africa}
+		{ITEM New Atlantis,8,20 | * | Colony inhabited by descendants of ancient Atlantis located in Skartaris.}
+		{ITEM Paradise Island,5,6 | ../../../locations/dc/Themyscira.htm,_page | Island home of the Amazons, also known as Themyscira.}
+		{ITEM Poseidonis,5,6 | ../../../locations/dc/Atlantis.htm,_page | Under-sea kingdom of Atlantis.}
+		{ITEM Tritonis,5,6 | ../../../locations/dc/Atlantis.htm,_page | Under-sea kingdom of Atlantis.}
+		{ITEM Skartaris,8,20 | * | Prehistoric land at the center of the Earth.}
+		{ITEM Themyscira,5,6 | ../../../locations/dc/Themyscira.htm,_page | Island home of the Amazons, also known as Paradise Island.}
+		{ITEM Venturia,8,20 | * | Outpost of Atlantis.}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,17,18 | * | The businesses and organizations of the DC Universe.}
+		{ITEM Arkham Asylum,5,6 | ../../../locations/dc/ArkhamAsylum.htm,_page | Gotham City's asylum for the criminally insane.}
+		{ITEM Blackgate Prison,8,20 | * | Gotham City's prison.}
+		{ITEM Daily Planet,5,6 | ../../../locations/dc/DailyPlanet.htm,_page | Metropolis leading newspaper}
+		{ITEM Gotham City Police Department,5,6 | ../../../locations/dc/GothamCityPD.htm,_page | Law enforcement for Gotham City.}
+		{ITEM Granny Goodness's Happiness Home,8,20 | * | "Orphanage" where Dog Soldiers are trained on Apokolips.}
+		{ITEM Iron Heights Penitentiary,5,6 | ../../../locations/dc/IronHeights.htm,_page | Maximum security prison in Kansas used to house super-powered criminals.}
+		{ITEM Kent Farm,5,6 | ../../../locations/dc/KentFarm.htm,_page | Ancestral home and farm of Jonathan Kent, adopted father of Clark Kent (Superman).}
+		{ITEM LexCorp International,5,6 | ../../../locations/dc/LexCorp.htm,_page | Corporation founded by Lex Luthor.}
+		{ITEM O.S.S.,8,20 | * | Office of Strategic Services, the first centrally controlled international intelligence and espionage organization in the United States during World War II.}
+		{ITEM Praeda Industries,8,20 | * | Corporation owned by the Praeda}
+		{ITEM Science Police,5,6 | ../../../locations/dc/SciencePolice.htm,_page | Law-enforcement branch of the United Planets government.}
+		{ITEM Simian Scarlet Cultural Purity Movement,8,20 | * | Isolationist group in Gorilla City.}
+		{ITEM S.T.A.R. Labs,8,20 | * | Scientific and Technological Advanced Research Labs}
+		{ITEM Tylerco,8,20 | * | Company formerly known as Bannermain and when aquired by Rex Tyler (Hourman I) it became the parent company of Tyler Chemicals and eventually Tyler Chemorobotics.}
+		{ITEM Wayne Foundation,8,20 | * | Charitable organization run by Bruce Wayne}
+		{ITEM WayneTech,8,20 | * | Corporation owned by Bruce Wayne}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

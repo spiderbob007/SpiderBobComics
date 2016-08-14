@@ -1,0 +1,9 @@
+﻿
+	@import "import_comics_ref_safari.css";
+	
+	/*DC_comics reference window styles*/
+
+	body	{
+		background-image: url('../images/DC.gif'); 
+		background-repeat: repeat; 
+	}

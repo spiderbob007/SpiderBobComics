@@ -1,0 +1,136 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM G.I. Robot,8,20 | * | J.A.K.E.2}
+		{ITEM G'nort,5,6 | ../../../heroes/dc/GNort.htm,_page | G'nort Esplanade G'neeshmacher}
+		{ITEM Galient,8,20 | * | =}
+		{ITEM Gangbuster I,8,20 | * | Jose Delgado}
+		{ITEM Gangbuster II,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El}
+		{ITEM Garv,8,20 | * | =}
+		{ITEM Gates,8,20 | * | Ti'julk Mr'asz}
+		{ITEM Gay Ghost,8,20 | * | Spirit of Earl Keith Everet & body of Charles Collins}
+		{ITEM General Glory I,8,20 | * | Joseph Jones}
+		{ITEM General Glory II,8,20 | *| Donovan Wallace}
+		{ITEM Genius Jones,8,20 | * | John Jones}		
+		{ITEM Geo-Force,8,20 | * | Prince Brion Markov}
+		{ITEM Ghost-Breaker,5,6 | ../../../heroes/dc/DrThirteen.htm,_page | Dr. Terrence Thirteen}
+		{ITEM Gimmix,8,20 | * | Jacqueline Pemberton}
+		{ITEM Girl 13,5,6 | ../../../heroes/dc/Girl13.htm,_page | Traci Thirteen}
+		{ITEM Gloss,8,20 | * | Xiang Po}
+		{ITEM Gold,8,20 | * | =}
+		{ITEM Golden Arrow,8,20 | * | Roger Parsons}
+		{ITEM Golden Eagle,5,6 | ../../../heroes/dc/GoldenEagle.htm,_page | Charles (Charley) Edmund Parker}
+		{ITEM Golden Gladiator,8,20 | * | Marcus}
+		{ITEM Golem I,8,20 | * | Paul}
+		{ITEM Golem II,8,20 | * | Moyshe Nakhman}
+		{ITEM Gossamer,5,6 | ../../../heroes/dc/Spark.htm,_page | Ayla Ranzz}
+		{ITEM Grace,5,6 | ../../../heroes/dc/Grace.htm,_page | Grace Choi}
+		{ITEM Gravedigger,8,20 | * | Captain Ulysses Hazard}
+		{ITEM Green Arrow I,5,6 | ../../../heroes/dc/GreenArrowI.htm,_page | Oliver Queen}
+		{ITEM Green Arrow II,5,6 | ../../../heroes/dc/GreenArrowII.htm,_page | Connor Hawke}
+		{ITEM Green Flame,5,6 | ../../../heroes/dc/Fire.htm,_page | Beatriz (Bea) Bonilla daCosta}
+		{ITEM Green Fury,5,6 | ../../../heroes/dc/Fire.htm,_page | Beatriz (Bea) Bonilla daCosta}
+		{ITEM Green Lambkin,8,20 | * | =}
+		{ITEM Green Lantern I,5,6 | ../../../heroes/dc/GreenLanternI.htm,_page | Alan Wellington Ladd Scott}
+		{ITEM Green Lantern II,5,6 | ../../../heroes/dc/GreenLanternII.htm,_page | Harold (Hal) Jordan}
+		{ITEM Green Lantern III,5,6 | ../../../heroes/dc/GreenLanternIII.htm,_page | John Stewart}
+		{ITEM Green Lantern IV,5,6 | ../../../heroes/dc/GreenLanternIV.htm,_page | Guy Gardner}
+		{ITEM Green Lantern V,5,6 | ../../../heroes/dc/GreenLanternV.htm,_page | Kyle Rayner}
+		{ITEM Green Lantern VI,5,6 | ../../../heroes/dc/Jade.htm,_page | Jennie-Lynn (Jade) Hayden}
+		{ITEM GL of 6th Century Earth,5,6 | ../../../heroes/dc/DragonLord.htm,_page | Jong Wi}
+		{ITEM GL of 18th & 19th Century Earth,8,20 | * | Waverly Sayre}
+		{ITEM GL of 19th Century Earth,8,20 | * | Daniel Young}
+		{ITEM GL of 2014 CE Earth,8,20 | * | Helen Jordan}
+		{ITEM GL of 25th Century Earth,8,20 | * | Unknown}
+		{ITEM GL I of 30th Century Earth,8,20 | * | Cary Wren}
+		{ITEM GL II of 30th Century Earth,8,20 | * | Rond Vidar}
+		{ITEM GL of 58th Century Earth,8,20 | * | Pol Manning}
+		{ITEM GL of 73rd Century Earth,8,20 | * | Unknown}
+		{ITEM GL of 102nd Century Earth,8,20 | * | Unknown}
+		{ITEM GL of 853rd Century Earth,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El}
+		{ITEM Green Lightening,8,20 | * | =}
+		{ITEM Green Man,8,20 | * | Unknown}
+		{ITEM Grim Ghost,8,20 | * | Spirit of Earl Keith Everet & body of Charles Collins}
+		{ITEM Grogamesh,8,20 | * | Ulgo}
+		{ItEM Grossout,8,20 | * | Philbert Hoskins}
+		{ITEM Guardian I,5,6 | ../../../heroes/dc/GuardianI.htm,_page | James Jacob Harper}
+		{ITEM Guardian II,8,20 | * | Mal Duncan}
+		{ITEM Guardian III,5,6 | ../../../heroes/dc/GuardianIII.htm,_page | Jake Jordan}
+		{ITEM Gunfire,8,20 | * | Andrew Van Horn}
+		{ITEM Gunner,8,20 | * | "Gunner" MacKay}
+		{ITEM Gypsy,5,6 | ../../../heroes/dc/Gypsy.htm,_page | Cindy Reynolds}
+	{/FOLDER}
+	{FOLDER (Green Lantern Corps),17,18 | gl.htm,_self | Listings of Green Lantern Corp members from across the universe.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

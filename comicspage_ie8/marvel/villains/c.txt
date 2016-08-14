@@ -1,0 +1,203 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cactus Kid,5,6 | ../../../heroes/marvel/BlackRider.htm,_page | Matthew Masters}
+		{ITEM Cadavus,8,20 | * | =}
+		{ITEM Cagliostro II,8,20 | * | Sise-Neg}
+		{ITEM Cajun Creed,8,20 | * | last name Creed}
+		{ITEM Caliban,8,20 | * | Unknown}
+		{ITEM Caliber,8,20 | * | Unknown}
+		{ITEM Calizuma,8,20 | * | =}
+		{ITEM Callisto,5,6 | ../../../villains/marvel/Callisto.htm,_page | Unknown}
+		{ITEM Calypso,8,20 | * | Calypso Ezili}
+		{ITEM Cameleon,8,20 | * | =}
+		{ITEM Cannibal,8,20 | * | Unknown}
+		{ITEM Cannonball I,8,20 | * | Jack Pulver}
+		{ITEM Caprice,8,20 | * | Unknown}
+		{ITEM Captain Atlas,8,20 | * | Att-Lass}
+		{ITEM Captain Barracuda,8,20 | * | Unknown}
+		{ITEM Captain Fate,8,20 | * | Jebediah Fate}
+		{ITEM Captain Power,8,20 | * | Dr. Christina Carr}
+		{ITEM Captain Reptyl,8,20 | * | Reptyl}
+		{ITEM Captain Swastika,8,20 | * | Unknown}
+		{ITEM Captain Zankor,8,20 | * | Zankor}
+		{ITEM Cardiac,8,20 | * | Dr. Elias (Eli) Wortham}
+		{ITEM Cardinal,8,20 | *| Donald Joshua Clendenon}
+		{ITEM Carjack,8,20 | * | Unknown}
+		{ITEM Carlos Lobo,8,20 | * | =}
+		{ITEM Carnage,5,6 | ../../../villains/marvel/Carnage.htm,_page | Cletus Kasady}
+		{ITEM Carrion I,5,6 | ../../../villains/marvel/Carrion.htm,_page | Clone of Dr. Miles Warren}
+		{ITEM Carrion II,5,6 | ../../../villains/marvel/Carrion.htm,_page | Malcolm McBride}
+		{ITEM Carrion III,5,6 | ../../../villains/marvel/Carrion.htm,_page | William Allen}
+		{ITEM Casiolena,8,20 | * | Queen Casiolena}
+		{ITEM Cassandra Nova,5,6 | ../../../villains/marvel/MsNova.htm,_page | =}
+		{ITEM Cat I,8,20 | * | Monty Walsh}
+		{ITEM Cat Burglar,8,20 | * | Unknown}
+		{ITEM Cat Man I,8,20 | * | Townshend Horgan}
+		{ITEM Cat Man II,8,20 | * | Sebastian Patane}
+		{ITEM Cat's Paw,8,20 | * | Unknown}
+		{ITEM Cataphrax,8,20 | * | =}
+		{ITEM Cauldron,8,20 | * | Unknown}
+		{ITEM Celestial One,8,20 | * | Fu Manchu}
+		{ITEM Centurious,8,20 | * | Unknown}
+		{ITEM Centurius,8,20 | * | Noah Black}
+		{ITEM Chai Phen,8,20 | * | =}
+		{ITEM Chain,8,20 | * | Unknown}
+		{ITEM Chameleon,8,20 | * | Dmitri Smerdyakov Kravinov}
+		{ITEM Chance I,8,20 | * | Nicholas Powell}
+		{ITEM Chandu,8,20 | * | =}
+		{ITEM Charm,8,20 | * | Unknown}
+		{ITEM Cheetah,8,20 | * | Esteban Carracus}
+		{ITEM Chemistro I,8,20 | * | Curtis Carr}
+		{ITEM Chemistro II,8,20 | * | Arch Morton}
+		{ITEM Chemistro III,8,20 | * | Calvin Carr}
+		{ITEM Chimera,8,20 | * | Unknown}
+		{ITEM China Doll,8,20 | * | Technet member}
+		{ITEM Chondu the Mystic,8,20 | * | Harvey Schliemermann}
+		{ITEM Chrome,8,20 | * | Allen Marc Yuricic}
+		{ITEM Chronok,5,6 | ../../../villains/marvel/2099/Chronok.htm,_page | =}
+		{ITEM Chronomancer,5,6 | ../../../villains/marvel/Fitzroy.htm,_page | Trevor Fitzroy}
+		{ITEM Citizen V [II],5,6 | ../../../villains/marvel/BaronZemoII.htm,_page | Baron Helmut Zemo}
+		{ITEM Cloak II,8,20 | * | Renee Deladier}
+		{ITEM Clown I,8,20 | * | Eliot (Crafty) Franklin}
+		{ITEM Clown II,8,20 | * | =}
+		{ITEM Coachwhip,8,20 | * | Serpent Society member}
+		{ITEM Cobalt-Man,8,20 | * | Ralph Roberts}
+		{ITEM Cobra I,8,20 | * | Klaus Voorhees}
+		{ITEM Cobra II,8,20 | * | James Lardner}
+		{ITEM Cobra III,8,20 | * | Piet Voorhees}
+		{ITEM Clockwise,8,20 | * | Unknown}
+		{ITEM Cockroach Hamilton,8,20 | * | Dontrell Hamilton}
+		{ITEM Cole,8,20 | * | Unknown}
+		{ITEM Collector,8,20 | * | Taneleer Tivan}
+		{ITEM Colonel Glen Talbot,8,20 | * | =}
+		{ITEM Colony,8,20 | * | Unknown}
+		{ITEM (The) Commander,8,20 | * | Cameron Hodge}
+		{ITEM Commander Kraken,8,20 | * | Unknown}
+		{ITEM Commando II,8,20 | * | M-Nell}
+		{ITEM Commcast,8,20 | * | Garabed Bashur}
+		{ITEM Comrade X,8,20 | * | Unknown}
+		{ITEM Condor,8,20 | * | Unknown}
+		{ITEM Conquistador,8,20 | * | Unknown}
+		{ITEM Constrictor,8,20 | * | Frank Schlichting}
+		{ITEM Controller,8,20 | * | Basil Sandhurst}
+		{ITEM Copperhead I,8,20 | * |  Lawrence Chesney}
+		{ITEM Copperhead II,8,20 | * | Robert Reynolds}
+		{ITEM Copperhead III,8,20 | * | David Lawfers}
+		{ITEM Copycat,8,20 | * | Vanessa Geraldine Carlysle}
+		{ITEM Corruptor,8,20 | * | Jackson Day}
+		{ITEM Cottonmouth I,8,20 | * | =}
+		{ITEM Cottonmouth II,8,20 | * | Unknown}
+		{ITEM Cougar,8,20 | * | Curtis Ranklin}
+		{ITEM Count Abyss,8,20 | * | Count Milos Abyss}
+		{ITEM Count Nefaria,5,6 | ../../../villains/marvel/CountNefaria.htm,_page | Count Luchino Nefaria}
+		{ITEM Coven,8,20 | * | Karl Coven}
+		{ITEM Cowled Commander,8,20 | * | Sergeant Muldoon}
+		{ITEM Cranio,8,20 | * | Unknown}
+		{ITEM Crazy Legs,8,20 | * | Unknown}
+		{ITEM Creator,5,6 | ../../../villains/marvel/Magneto.htm,_page | Erik (Magnus) Lehnsherr}
+		{ITEM Crime King,8,20 | * | Unknown}
+		{ITEM Crime-Master I,8,20 | * | Nick (Lucky) Lewis Sr.}
+		{ITEM Crime-Master II,8,20 | * | Nick Lewis Jr.}
+		{ITEM Crimson Cowl I,5,6 | ../../../villains/marvel/Ultron.htm,_page | Ultron-1 through Ultron-Infinity}
+		{ITEM Crimson Cowl II,8,20 | * | Dallas Riodan}
+		{ITEM Crimson Cowl III,8,20 | * | Justine Hammer}
+		{ITEM Crimson Dynamo I,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Dr. Anton Vanko}
+		{ITEM Crimson Dynamo II,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Boris Turgenov}
+		{ITEM Crimson Dynamo III,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Alex Nevsky}
+		{ITEM Crimson Dynamo IV,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Yuri Petrovich}
+		{ITEM Crimson Dynamo V,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Dimitri Bukharin}
+		{ITEM Crimson Dynamo VI,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Valentin Shatalov}
+		{ITEM Crimson Dynamo VII,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Gregor Valski}
+		{ITEM Crimson Dynamo VIV,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Unknown}
+		{ITEM Crimson Dynamo X,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Unknown}
+		{ITEM Crimson Dynamo XI,5,6  | ../../../villains/marvel/CrimsonDynamo.htm,_page | Unknown}
+		{ITEM Crimson Mage,8,20 | * | Azaziah}
+		{ITEM Crimson Terror,8,20 | * | Unknown}
+		{ITEM Crippler,8,20 | * | Carl Striklan}
+		{ITEM Crossbones,5,6 | ../../../villains/marvel/Crossbones.htm,_page | Brock Rumlow}
+		{ITEM Crossfire,5,6 | ../../../villains/marvel/Crossfire.htm,_page | William Cross}
+		{ITEM Crucible,8,20 | 8 | Byron Calley}
+		{ITEM Crusader II,5,6 | ../../../heroes/marvel/MarvelBoyII.htm,_page | Copy of Robert Grayson}
+		{ITEM Crusader III,8,20 | * | Arthur Charles Blackwood}
+		{ITEM Crusher,8,20 | * | Unknown}
+		{ITEM Cutthroat,8,20 | * | Daniel (Danny) Leighton}
+		{ITEM Cyber,5,6 | ../../../villains/marvel/Cyber.htm,_page | Silas Burr}
+		{ITEM Cyber-Goblin,5,6 | ../../../villains/marvel/HobgoblinIII.htm,_page |Jason Philip Macendale Jr.}
+		{ITEM Cyclone I,8,20 | * | Unknown}
+		{ITEM Cyclone II,8,20 | * | Pierre Fresson}
+		{ITEM Cylla,8,20 | * | Unknown}
+		{ITEM Cyrus Black,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

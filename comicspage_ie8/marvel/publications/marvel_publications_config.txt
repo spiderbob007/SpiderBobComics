@@ -1,0 +1,29 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{/ITEM}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+		{ITEM M2,17,18 | m2.htm,_self | Publications about an alternate future of the Marvel Universe.}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+		{ITEM New Universe,17,18 | new_u.htm,_self | New line of comics created by Marvel.}
+		{ITEM Star Comics,17,18 | star.htm,_self | Comics for children based upon other media properties.}
+		{ITEM Supreme Power,17,18 | supreme_power.htm,_self | Alternate universe resembling that of the Squadron Supreme.}
+		{ITEM Ultimate Universe,17,18 | ultimate.htm,_self | Modern interpertation of the Marvel Universe.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

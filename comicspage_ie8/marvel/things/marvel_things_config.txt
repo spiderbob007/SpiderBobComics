@@ -1,0 +1,260 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+	{FOLDER ~Things,17,18 | * | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe}
+	{FOLDER Mystical Animals & Items,17,18 | * | The magical devices items of the Marvel Universe.}
+		{ITEM Alchemy,8,20 | * | Science of mysticism}
+		{ITEM Amulet of Agamotto,8,20 | * | Mystical device used by Rintrah the apprentice of Dr. Strange II}
+		{ITEM Black Blade of Baghdad,8,20 | * | Mystical sword confining the demon Raazer}
+		{ITEM Bloodstone,8,20 | * | Mystical ruby stone that when embedded in a being grants superhuman strength, speed, stamina, reflexes and durability.}
+		{ITEM Blue Cloak of Levitation,8,20 | * | Cloak used by Rintrah the apprentice of Dr. Strange II}
+		{ITEM Book of Cagliostro,8,20 | * | Mystic tomb which tells of the secrets of time travel.}
+		{ITEM Captain Universe Power,8,20 | * | Uni-force that selects an individual as the recipient of great power.}
+		{ITEM Cask of Ancient Winters,8,20 | * | Mystical Asgardian cask containing the frigid force of all winters}
+		{ITEM Chariot of Thor,8,20 | * | Mystical war chariot draft by the mystical goats Toothgrinder and Toothgnasher, occasionally used by Thor} 
+		{ITEM Cloak of Levitation,8,20 | * | Cloak used by Dr. Strange II for flight}
+		{ITEM Crimson Bands of Cytorrak,8,20 | * | Indestructable ruby light called upon by mystics.}
+		{ITEM Cyttorak Gem,5,6 | ../../../vehicles_devices/marvel/Cyttorak.htm,_page | Mystical gem containing a fraction of the god Cyttorak.}
+		{ITEM Dark Mirrors,8,20 | * | Ebony mirrors which act as portals through time and space.}
+		{ITEM Destoryer IV,5,6 | ../../../vehicles_devices/marvel/DestroyerIV.htm,_page | Mystical armor created to battle the Celestials.}
+		{ITEM Diablo's Homunculus,8,20 | * | Duplicate of Diablo created through the magical art of alchemy.}
+		{ITEM Ebony Blade,8,20 | * | Mystical sword forged from a meteorite by the wizard Merlin.}
+		{ITEM Effigy of Timboro,8,20 | * | Mystical statuette which serves as a portal to the sixth dimension.}
+		{ITEM Evil Eye,8,20 | * | Mystical device of unlimited power, divided into six components.}
+		{ITEM Eye of Agamato,8,20 | * | Mystical device used by Dr. Strange II.}
+		{ITEM Horn of Harrowing,8,20 | * | Musical instrument to call the forces of the neither realms to war.}
+		{ITEM Huginn,5,6 | ../../../vehicles_devices/marvel/OdinsRavens.htm,_page | The thoughts of Odin in the form of a raven.}
+		{ITEM Infinity Gauntlet,5,6 | ../../../vehicles_devices/marvel/InfinityGauntlet.htm,_page | Glove containing the six infinity gems granting the possessor all of the gems abilities.}
+		{ITEM Infinity Gems,5,6 | ../../../vehicles_devices/marvel/InfinityGauntlet.htm,_page | Six powerful gems granting the possessor a variety of super-powered abilities.}
+		{ITEM Ka Stone,8,20 | * | Mysical stone that when embedded in a being grants superhuman strength, speed, stamina, reflexes and durability.}
+		{ITEM Life Stone,8,20 | * | Gem created to power a group of galactic guardians.}
+		{ITEM M'Kraan Crystal,8,20 | * | The nexus of all that is or has ever been.}
+		{ITEM Mjolnir,5,6 | ../../../vehicles_devices/marvel/Mjolnir.htm,_page | Mystic war hammer wielded by Thor.}
+		{ITEM Moonstone,8,20 | * | Mysical stone that when embedded in a being grants superhuman strength, speed, stamina, reflexes and durability.}
+		{ITEM Muninn,5,6 | ../../../vehicles_devices/marvel/OdinsRavens.htm,_page | The memories of Odin in the form of a raven.}
+		{ITEM Odinring,8,20 | * | Mystical ring wielded by the Norse god Odin.}
+		{ITEM Orb of Agamotto,8,20 | * | Mystical orb used by Dr. Strange II to look into other realms and realities.}
+		{ITEM Pandora's Box,8,20 | * | Mystical box which contains the evils of the world.}
+		{ITEM Philosophers Stone,8,20 | * | Jewel enabling the wielder to break the laws of nature.}
+		{ITEM Resurrection Stone,8,20 | * | Alien gem infused with science and mysticism which can resurrect the dead.}
+		{ITEM Scarab Talisman,8,20 | * | Mystical talisman empowering the possessor with super-human powers including flight and the ability to drain energies from others.}
+		{ITEM Sceptre of Shadow,8,20 | * | Mystic weapon weilded by the demon known as the Night-Crawler.}
+		{ITEM Serpent Crown,8,20 | * | Mystical crown possessing the power of Set.}
+		{ITEM Siege Perilous,8,20 | * | Mystical portal from the age of King Arthur.}
+		{ITEM Starstone,8,20 | * | Gem which held the spirit of the demon Dagoth.}
+		{ITEM Storm Breaker,5,6 | ../../../vehicles_devices/marvel/StormBreaker.htm,_page | Mystic war hammer capable of flight, weather control and teleportation wielded by Beta Ray Thor. (also called Stormbringer)}
+		{ITEM Tablet of T'hehly'eh,8,20 | * | Mystical tablet capable of breaching the barrier between dimensions.}
+		{ITEM Totem of El Toro Rojo,8,20 | * | Bull shaped totem containing El Toro Rojo (The Red Bull).}
+		{ITEM Unbinding Stone,8,20 | * | Artifact capable of unraveling the bonds of reality.}
+		{ITEM Uni-Power,5,6 | ../../../heroes/marvel/CaptainUniverse.htm,_page | Manifestation of the Enigma Force, which grants the powers of Captain Universe.}
+		{ITEM Zhered-Na,8,20 | * | Tome of ancient and forbiden magic.}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,17,18 | * | The natural items and elements of the Marvel Universe.}
+		{ITEM Adamantium,5,6 | ../../../vehicles_devices/marvel/Adamantium.htm,_page | Rare metal of intense strength.}
+		{ITEM Alpha Stone,8,20 | * | Device created using Kree science that empowers being with microwave generating abilities, superhuman strength and resilience.}
+		{ITEM Avengers' Status Board,8,20 | * | Three dimensional hologram tracking the status of known super-powered menaces.}
+		{ITEM Blood Stone,8,20 | * | Biosynaptic processor infused with powers of an unknown nature.}
+		{ITEM Cerebra,5,6 | ../../../vehicles_devices/marvel/Cerebra.htm,_page | Global mutant detection system.}
+		{ITEM Cerebro,5,6 | ../../../vehicles_devices/marvel/Cerebra.htm,_page | Mutant detection system.}
+		{ITEM Cosmic Cube,5,6 | ../../../vehicles_devices/marvel/CosmicCube.htm,_page | Device created or discovered by A.I.M. used to warp reality.}
+		{ITEM Chronal Crystal,8,20 | * | A crystal that opens windows to the past and future possibilities of the being in closest contact.  Touching a facet of the crystal transports the being to that reality.}
+		{ITEM Danger Room,5,6 | ../../../vehicles_devices/marvel/DangerRoom.htm,_page | Training and simulation environment used by the X-Men.}
+		{ITEM Ego Spore,5,6 | ../../../gods_monsters/marvel/Ego.htm,_page | Organic spore used by Ego the living planet to infest new planets.}
+		{ITEM Hard Air Bullet,8,20 | * | Ballistic composed of hard air molecules, that dissolves after contact.}
+		{ITEM HS-1,8,20 | * | Unknown lifeform.}
+		{ITEM Hypno-Helmet,8,20 | * | Helmet created by A.I.M. to project mass hypnosis.}
+		{ITEM Ionic Energy,8,20 | * | Energy that empowers beings with super-strength, flight and beam projection abilities.  Atlas, Count Nefaria and Wonder Man are Ionically charged.}
+		{ITEM Iron Man Armor,8,20 | * | Variety of cybernetic suits of armor used by Tony Stark and associates.}
+		{ITEM Kirbmantium,8,20 | * | Extraterrestrial alloy reputed for its great strength.}
+		{ITEM Lifestone Gems,8,20 | * | Biosynaptic processors created by the Lifestone Tree.  The Moonstone and Blood Stone are Lifestones.}
+		{ITEM Lifestone Tree,8,20 | * | Multi-Species scientific endeavor to create an evolutionary advanced group of galactic guardians.}
+		{ITEM Makluan Rings,5,6 | ../../../vehicles_devices/marvel/MakluanRings.htm,_page | Ten rings employing alien science possessing a wide array of abilities used by the Mandarin.}
+		{ITEM Matter-Matrix Card,8,20 | * | Device used for storing complex solid matter in a compressed form.}
+		{ITEM Max Serum,8,20 | * | Serum derived from the DNA of super-beings that grants normal beings their powers for about 15 minutes.}
+		{ITEM Moonstone,8,20 | * | Biosynaptic processor of Kree design, capable of controlling gravity and matter.}
+		{ITEM Nano-Probes,8,20 | * | Microscopic robots used to a variety of functions including mind control.}
+		{ITEM Neuro-Rod,8,20 | * | Device used to administer a jolt of pain to the mind of anyone wearing a strip of nuclear tape.}
+		{ITEM Omega-32,8,20 | * | Chemical compound that unbinds hard air molecules allowing them to be transmitted though an electromagnetic data stream to deliver nano-probes from space.}
+		{ITEM Plunder Medalian,8,20 | * | Medalian in two halfs that when combined contain certain properties.}
+		{ITEM Plunder Stone,8,20 | * | Deposit of mineral discovered in the Savage Land capable of dissolving any metal.}
+		{ITEM Pym Particals,8,20 | * | Sub-atomic energy able to expand or reduce matter, discovered by Dr. Henry Pym (Ant Man / Giant Man)}
+		{ITEM Retro-Active Cannon,8,20 | * | Device which removes from history those exposed to its energies.}
+		{ITEM Retro-Scope,8,20 | * | Device which can create realistic images taken from mental engrams.}
+		{ITEM Scourge VIII Armor,8,20 | * | Advanced armor created by the CSA, integrating designs and weapons from a wide variety of high tech armors.}
+		{ITEM Silver Samurai's Teleportation Ring,8,20 | * | =}
+		{ITEM Simuloid,8,20 | * | Plant-based creatures used by the Plant Man to impersonate others.}
+		{ITEM Skrull Cosmic Cube,8,20 | * | Device created or discovered by Skrulls used to warp reality.}
+		{ITEM Spider-Sense,8,20 | * | Sixth sense warning Spider-Man of emanate danger.}
+		{ITEM Spider-Tracer,8,20 | * | Tracking device created by Peter Parker that activates his spider-sense.}
+		{ITEM Time Cell,8,20 | * | Temporal prison to incarcirate abusers of the timestream.}
+		{ITEM Quinjet,8,20 | * | Avenger's high-tech long range jet.}
+		{ITEM Siderial propulsion unit,8,20 | * | Rocket used to propel Ego the living planet into stellar space.}
+		{ITEM T-Ray,8,20 | * | Time displacement ray used to send items to another dimension for a limited time.}
+		{ITEM Ultimate nullifier,8,20 | * | Small device capable of nullifying existence.}
+		{ITEM Unicorns Power Horn,8,20 | * | Concussive device emitted from the helmet of the Unicorn.}
+		{ITEM Vibranium,8,20 | * | Extraterrestrial element of intense strength and qualities of absorption.}
+		{ITEM Web Fluid,8,20 | * | Synthetic web created by Peter Parker using an unknown combination of chemicals.}
+		{ITEM Web Shooters,5,6 | ../../../vehicles_devices/marvel/WebShooters.htm,_page | Projectile device created by Peter Parker for distributing Web Fluid.}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,17,18 | * | The robots and automatons of the Marvel Universe.}
+		{ITEM Adaptoid,8,29 | * | Android created by A.I.M. from a sliver of the Cosmic Cube capable of adapting to its adversaries.}
+		{ITEM Albert,8,20 | * | Robotic assassin created by Donald Pierce (White Bishop) designed to look like Wolverine.}
+		{ITEM Alkhema,8,20 | * | Robotic bride created by Ultron.}
+		{ITEM Alpha I,8,20 | * | Evil robot destroyed by Spider-man I and Vision.}
+		{ITEM Analyzer,8,20 | * | Rigellian robot designed to record events (also known as the Recorder).}
+		{ITEM Android Man,8,20 | * | Humanoid robot created by the Mad Thinker.}
+		{ITEM Arsenal I,8,20 | * | Robot created by Howard Stark, father of Tony Stark (Iron Man)}
+		{ITEM Arsenal II,8,20 | * | Robot created by Howard Stark, father of Tony Stark (Iron Man)}
+		{ITEM Awesome Android,5,6 | ../../../vehicles_devices/marvel/AwesomeAndroid.htm,_page | The Mad Thinker's Awesome Android.} 
+		{ITEM Beetle II,8,20 | * | Cybernetic controlled robot}
+		{ITEM Behemoth II,8,20 | * | Sponge-like artificial construct designed by Baron Thunder.}
+		{ITEM Bi-Beast I,8,20 | * | Skull-Brother}
+		{ITEM Bi-Beast II,8,20 | * | Skull-Brother}
+		{ITEM Bio-Duplicate,8,20 | * | Clone used by Madame Mask of herself for interaction with the outside world.}
+		{ITEM Brothers Grimm I,8,20 | * | Two life sized mannequins inhabited by the spirit of Nathan Doll (Mr. Doll)}
+		{ITEM Brynocki,8,20 | * | Robot created by Mordillo to battle Shang Chi Master of Kung-Fu.}
+		{ITEM Bulldozer I,8,20 | * | Artificial life form created from clay by MODOK.}
+		{ITEM Cache,8,20 | * | Robot created by A.I.M. to infiltrate the worlds computer systems via the internet.}
+		{ITEM Cerebro,8,20 | * | Robot mutated from the Cerebro mutant detection system.}
+		{ITEM Chief Examiner,8,20 | * | Robot created by and containing the consciousness of Durgan the Philosopher.}
+		{ITEM Colossus I,8,20 | * | Super-computer from the future.}
+		{ITEM Commissar,8,20 | * | Robotic puppet ruler of the nation Sin-Cong}
+		{ITEM (The) Cyclops,8,20 | * | Robotic giant cyclops used by the alien invaders from the planet A-Chiltar III.}
+		{ITME Danger,5,6 | ../../../vehicles_devices/marvel/Danger.htm,_page | X-Men's Danger Room program gone rogue.}
+		{ITEM Deathloks,8,20 | * | Platoon of United States military issue zombie cyborgs.}
+		{ITEM Destoryer IV,5,6 | ../../../vehicles_devices/marvel/DestroyerIV.htm,_page | Mystical armor created to battle the Celestials.}
+		{ITEM Destructon,8,20 | * | Robot created by Baron Zemo I}
+		{ITEM Doom-bots,8,20 | * | Robots created to act on Dr. Doom's behalf, while he is occupied with other goals.}
+		{ITEM Doomsday Man,8,20 | * | Giant robot created by Dr. Kronton to survive in any environment.}
+		{ITEM Doughboy,8,20 | * | Genetically engineered servant of Arnim Zola.}
+		{ITEM Dragon Man,5,6 | ../../../gods_monsters/marvel/DragonMan.htm,_page | Large robot resembling both a dragon and a man.}
+		{ITEM Dragorr,8,20 | * | Robotic strongman created by the inventor known as the Gnome.}
+		{ITEM Dreadnought,8,20 | * | Robotic assassin used by A.I.M., HYDRA and the Maggia.}
+		{ITEM Electro I,8,20 | * | Electro the Wonder Robot.}
+		{ITEM Elsie-Dee,8,20 | * | Robotic assassin created by Donald Pierce (White Bishop) designed to look like a little girl.}
+		{ITEM Elysius,8,20 | * | Artificial being created by the Titan supercomputer ISAAC.}
+		{ITEM (The) Fury,5,6 | ../../../vehicles_devices/marvel/(The)Fury.htm,_page | Cyborg created to destory all superhuman beings.}
+		{ITEM Gremlin II,5,6 | ../../../vehicles_devices/marvel/GremlinII.htm,_page | Artifical intelligence created by Phineas T. Horton, modified by Nazis to destroy Allied aircraft.}
+		{ITEM Growing Man,8,20 | * | Synthetic being that grows by absorbing the energies of impacts, created for Kang the Conqueror.}
+		{ITEM H.E.R.B.I.E.,8,20 | * | Humanoid Experimental Robot B-Type Integrated Electronic.}
+		{ITEM Hulk Robot I,5,6 | ../../../vehicles_devices/marvel/RobotHulk.htm,_page | Robot disguised as Hulk II used by the Mandarin against Iron Man I.}
+		{ITEM Hulk Robot II,5,6 | ../../../vehicles_devices/marvel/RobotHulk.htm,_page | Robot animated by energies of the Uni-Mind.}
+		{ITEM Hulk Robot III,5,6 | ../../../vehicles_devices/marvel/RobotHulk.htm,_page | Robot disguised as Hulk II used by Baron Zemo II against Thunderbolts.}
+		{ITEM Human Robot,5,6 | ../../../vehicles_devices/marvel/HumanRobot.htm,_page | Humanoid robot which went on a rampage in New York.}
+		{ITEM Human Torch I,5,6 | ../../../heroes/marvel/HumanTorchI.htm,_page | Flammable android created by Dr. Phineas P. Horton.}
+		{ITEM Humanoid,8,20 | * | Synthetic rubber-like humanoids used by the Leader for muscle.}
+		{ITEM Hyperion II,8,20 | * | Construct created by the Grandmaster from extra-dimensional materials.}
+		{ITEM ISAAC,8,20 | * | (Integral Synaptic Anti Anionic Computer) Artificial intelligence that manages the daily life of the planet Titan.}
+		{ITEM Jocasta,8,20 | * | Robotic bride of Ultron.}
+		{ITEM Killpower II,8,20 | * | Android}
+		{ITEM Kree Sentry,5,6 | ../../../vehicles_devices/marvel/KreeSentry.htm,_page | One of many Kree robots used for guarding defensible locations or monitoring the activity of other beings for the Kree Empire.}
+		{ITEM Living Brain,5,6 | ../../../vehicles_devices/marvel/LivingBrain.htm,_page | Humanoid android with advanced computing capabilities.}
+		{ITEM Living Laser Robot,8,20 | * | A robot imitating the form and power of Arthur Parks (Living Laser)}
+		{ITEM LMD,8,20 | * | A Life Model Decoy is a humanoid android created as a decoy.}
+		{ITEM Machinesmith,8,20 | * | Robot containing the brain patterns of Samuel (Starr) Saxon}
+		{ITEM Major Domo,8,20 | * | Robotic assistant to Mojo I}
+		{ITEM Mandroid I,8,20 | * | Robotic hunter killer created by the alien Kree.}
+		{ITEM Master Mold,5,6 | ../../../vehicles_devices/marvel/MasterMold.htm,_page | Sentient robot obsessed with the destruction of mutants.}
+		{ITEM Mercury IV,8,20 | * | Nanotech created by Cerebro.}
+		{ITEM Monstrobot I,8,20 | * | Robotic guardian of Mordillo Island}
+		{ITEM Monstrollo,5,6 | ../../../gods_monsters/marvel/Monstrollo_Manoo_Bombu.htm,_page | Robotic movie monster used to repel an alien invasion.}
+		{ITEM Motormouth II,8,20 | * | Android}
+		{ITEM Nazi X,5,6 | ../../../villains/marvel/HateMonger.htm,_page | Android with Hitler's brain.}
+		{ITEM Nullitor,8,20 | * | Android designed by the Tomorrow Man to battle Thor I}
+		{ITEM Obliterator,8,20 | * | Automaton used by an unknown power that adapts to and destroys sentient life forms.  Most likely a weapon created by a now extinct race.}
+		{ITEM Officer ZERO,8,20 | * | Robotic police officer}
+		{ITEM Omega I,8,20 | * | Robot created by Maximus the Mad.}
+		{ITEM Omegatron,8,20 | * | Sentient doomsday device created by the techno-mage Yandroth.}
+		{ITEM Omnivore,8,20 | * | Robotic scavenger }
+		{ITEM Prime Mover,8,20 | * | Artificial being created by Dr. Doom I as a chess partner.}
+		{ITEM Primus,8,20 | * | Genetically engineered servant of Arnim Zola.}
+		{ITEM Punishers,8,20 | * | Four armed robots used by Galactus for offense or defense.}
+		{ITEM Quasimodo,8,20 | * | Quasi-Motivational Destruct Organism created by the Mad Thinker.}
+		{ITEM Recorder,5,6 | ../../../vehicles_devices/marvel/Recorder.htm,_page | Rigellian robot designed to record information for planetary colinization.}
+		{ITEM Recorder #211,8,20 | * | Rigellian robot designed to record events modified by the High Evolutionary.}
+		{ITEM Red Ronin,5,6 | ../../../vehicles_devices/marvel/RedRonin.htm,_page | Giant robot created to battle the mutant monster Godzilla.}
+		{ITEM Rouge Iron Man Armor,5,6 | ../../../vehicles_devices/marvel/RogueIronManArmor.htm,_page | Iron Man armor that gained sentience through a series of unique events.}
+		{ITEM Samarobryn,8,20 | * | Meteorological satellite that gained sentience and attempted to destroy the Earth.}
+		{ITEM (The) Scream,8,20 | * | Sentient life form composed of solid sound, developed by the CSA.}
+		{ITEM Sentinels,5,6 | ../../../vehicles_devices/marvel/Sentinels.htm,_page | Sophisticated robots originally created by Dr. Bolivar Trask to protect humanity by capturing or killing mutants, models include Master Mold, Nimrod and Bastion.}
+		{ITEM Servitors,8,20 | * | Self replicating robots used by the Infinites to break down planets into their core compounds.}
+		{ITEM Slayer IV,8,20 | * | Large armored robot created by Nazi scientist.}
+		{ITEM Sleepers,8,20 | * | Series of giant robots controled by the Nazi Red Skull.}
+		{ITEM Spider-Slayer,5,6 | ../../../vehicles_devices/marvel/SpiderSlayer.htm,_page | Remote controlled robots designed to capture or kill Spider-Man.}
+		{ITEM Sputnik,8,20 | * | Android created by the Russian soviet government. (also known as Vostok)}
+		{ITEM Super Adaptoid,8,29 | * | Android created by A.I.M. from a sliver of the Cosmic Cube with powers of Avengers (Captain America, Hawkeye, Giant Man & Wasp}
+		{ITEM Supreme Intelligence,8,20 | * | Organic computer incorporating the minds of the greatest leaders in Kree history.}
+		{ITEM Teddy,8,20 | * | Android}
+		{ITTM Thermal Man,8,20 | * | Atomic-powered robot created by communist China.}
+		{ITEM Thunder,8,20 | * | Android capable of channeling thunder and lightning posed as an Ican god of thunder.}
+		{ITEM Tri-Man,8,20 | * | Android created by the Masked Marauder that is powered by the mental powers of three individuals.}
+		{ITEM Ultimo,5,6 | ../../../vehicles_devices/marvel/Ultimo.htm,_page | =}
+		{ITEM Ultramen,8,20 | * | Robotic constructs.}
+		{ITEM Ultroids,8,20 | * | Army of alien robots creatd by Ixar the Invincible.}
+		{ITEM Ultron-1 through infinity,5,6 | ../../../villains/marvel/Ultron.htm,_page | Series of self-replicating homicidal androids first designed by Henry Pym (Ant Man I / Giant Man I)}
+		{ITEM Ultron 11,8,20 | * | Benevolent variant of the Ultron android}
+		{ITEM Uni-Mind,8,20 | * | Physical manifestation of the collective conscious of hundreds of members of the Eternal race.}
+		{ITEM Vision II,8,20 | * | Android created by Ultron V, using the time divergent body of the Human Torch I}
+		{ITEM Volton,8,20 | * | Android created by the Nazi Dr. Death to battle the World War II super-hero team The Invaders.}
+		{ITEM Voltorg,8,20 | * | Giant robot created by Yandroth.}
+		{ITEM Vostok,8,20 | * | Android created by the Russian soviet government. (also known as Sputnik)}
+		{ITEM Walkabout,8,20 | * | Android created by Dr. Carmody to battle crime.}
+		{ITEM Walkers,8,20 | * | Robots used by the Infinites to construct planets processed by the Servitors into an infinite ring.  The Infinites use these rings to "carry away" galaxies.}
+		{ITEM Wild Bill,8,20 | * | S.H.I.E.L.D. security robot}
+		{ITEM Woodgod,8,20 | * | Artificial being created by David and Ellen Pace}
+		{ITEM Yellow Claw Android,8,20 | * | Android created to impersonate the Yellow Claw.}
+		{ITEM Zero,8,20 | * | Android from the 40th century capable of teleportation}
+	{/FOLDER}
+	{FOLDER Vehicles,17,18 | * | The transportation of the Marvel Universe.}
+		{ITEM Aragorn,8,20 | * | Winged steed of Brunnhilda the Valkyrie.}
+		{ITEM Black Bird,8,20 | * | Super-sonic jet used by the X-Men}
+		{ITEM Captain America's Motorcycle,8,20 | * | Harley Davidson custom special modified by S.H.I.E.L.D. weapons laboratory.}
+		{ITEM Damocles,8,20 | * | Starship of Kang the Conqueror.}
+		{ITEM Fantastic Four Jump Jet,8,20 | * | Fantastic Four's high-tech long range jet.}
+		{ITEM Fantasti-Car,5,6 | ../../../vehicles_devices/marvel/Fantasticar.htm,_page | Fantastic Four's high-tech hover-car.}
+		{ITEM Ignatz,8,20 | * | Deviant insect resembling a flying ant used by Ant-Man II as a steed.}
+		{ITEM Korr,8,20 | * | First flying ant used by Ant-Man I as a steed.}
+		{ITEM Naglfar,8,20 | * | Asgardian war ship made of the nails of the dead.}
+		{ITEM Quin-Jet,8,20 | * | Flying vehicle used by the Avengers.}
+		{ITEM S.H.I.E.L.D. Helecarrier,5,6 | ../../../vehicles_devices/marvel/SHIELDHelicarrier.htm,_page | Flying fortress headquarters of S.H.I.E.L.D.}
+		{ITEM Spider-Mobile,5,6 | ../../../vehicles_devices/marvel/Spider-Mobile.htm,_page | Short-lived fiasco driven by Spider-Man.}
+		{ITEM T-Bird,8,20 | * | Flying vehicle used by the Thunderbolts.}
+		{ITEM Valinor,8,20 | * | Enchanted winged steed used by Black Knight III and Bloodwraith.}
+		{ITEM X-Wing,8,20 | * | Super-sonic jet used by the X-Men.}
+	{/FOLDER}
+	{FOLDER Weapons,17,18 | * | The offensive and defensive weapons of the Marvel Universe.}
+		{ITEM Adhesive X,8,20 | * | Adhesive employed by Baron Zemo I & II as an offensive weapon, nasty stuff that Adhesive X.}
+		{ITEM Alchemy Gun,8,20 | * | Radiation projector able to alter the state of matter.}
+		{ITEM Captain America's Shield,5,6 | ../../../vehicles_devices/marvel/CaptainAmericaShield.htm,_page | Offensive and defensive shield used by Captain America.}
+		{ITEM Destoryer IV,5,6 | ../../../vehicles_devices/marvel/DestroyerIV.htm,_page | Mystical armor created to battle the Celestials.}
+		{ITEM Dragonfang,8,20 | * | Mystic sword of Valkyrie given originally by Dr. Strange II to Valkyrie I.}
+		{ITEM Ionic Bomb,8,20 | * | Ionic weapon designed by Count Nefaria to infect the world with Ionic energy.}
+		{ITEM Ionic Lock,8,20 | * | Weapon designed by Madame Mask to incapacitate Ionically powered beings.}
+		{ITEM Makluan Rings,5,6 | ../../../vehicles_devices/marvel/MakluanRings.htm,_page | Ten rings employing alien science possessing a wide array of abilities used by the Mandarin.}
+		{ITEM Mandroid,8,20 | * | Large cybernetic armor commonly worn by S.H.I.E.L.D. and other top-level law enforcement agents.}
+		{ITEM Mjolnir,5,6 | ../../../vehicles_devices/marvel/Mjolnir.htm,_page | Mystic war hammer wielded by Thor.}
+		{ITEM Murder Chair,8,20 | * | Armed wheel chair used by the invalid Nazi, Cadavus.}
+		{ITEM Octo-Mek,8,20 | * | Armored multi-tentacle aquatic assault vehicle.}
+		{ITEM Storm Breaker,5,6 | ../../../vehicles_devices/marvel/StormBreaker.htm,_page | Mystic war hammer capable of flight, weather control and teleportation wielded by Beta Ray Thor. (also called Stormbringer)}
+		{ITEM T-Ray Gun,8,20 | * | Time displacement weapon which traps it target within a time loop.}
+		{ITEM ULTIMATIUM Device,8,20 | * | Weapon capable of disabling electronic devices worldwide.}
+		{ITEM Vibra-Ray Gun,8,20 | * | Weapon which can cause any metal known to man to disintegrate.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

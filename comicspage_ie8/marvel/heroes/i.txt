@@ -1,0 +1,107 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(I),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM I.Q.,8,20 | * | Ishmail Questor}
+		{ITEM Icarus,5,6 | ../../../heroes/marvel/Icarus.htm,_page | Joshua (Jay) Guthrie}
+		{ITEM Iceman,5,6 | ../../../heroes/marvel/Iceman.htm,_page | Robert (Bobby) L. Drake}
+		{ITEM Ikaeden,5,6 | ../../../heroes/marvel/Ikaeden.htm,_page | =}
+		{ITEM Ikaris,5,6 | ../../../heroes/marvel/Ikaris.htm,_page | =}
+		{ITEM Imp,8,20 | * | Pandora Destine}
+		{ITEM Impossible Man,5,6 | ../../../heroes/marvel/ImpossibleMan.htm,_page | =}
+		{ITEM Inertia,8,20 | * | Edith Freiberg}
+		{ITEM Ink,8,20 | * | Eric Gitter}
+		{ITEM Inka,8,20 | * | =}
+		{ITEM Interloper,8,20 | * | Unknown}
+		{ITEM Invader-One,8,20 | * | Tara}
+		{ITEM Invisible Girl,5,6 | ../../../heroes/marvel/InvisibleWoman.htm,_page | Susan (Sue) Storm}
+		{ITEM Invisible Man I,8,20 | * | Dr. Gade}
+		{ITEM Invisible Man II,8,20 | * | Adam Clayton}
+		{ITEM Invisible Woman,5,6 | ../../../heroes/marvel/InvisibleWoman.htm,_page | Susan (Sue) Storm Richards}
+		{ITEM Iron Cross,8,20 | * | Helmut Gruler}
+		{ITEM Iron Fist I,8,20 | * | Quan Yaozu}
+		{ITEM Iron Fist 8th Century,5,6 | ../../../heroes/marvel/IronFist8thCentury.htm,_page | Li Park}
+		{ITEM Iron Fist 13th Century,8,20 | * | Bei Ming-Tian}
+		{ITEM Iron Fist 16th Century,5,6 | ../../../heroes/marvel/IronFist16thCentury.htm,_page | Wu Ao-Shi}
+		{ITEM Iron Fist 19th Century,8,20 | * | Bei Bang-Wen}
+		{ITEM Iron Fist early 20th Century,5,6 | ../../../heroes/marvel/IronFist_OrsonRandall.htm,_page | Orson Randall}
+		{ITEM Iron Fist,5,6 | ../../../heroes/marvel/IronFist.htm,_page | Daniel (Danny) Thomas Rand-Kai}
+		{ITEM Iron Lad,5,6 | ../../../heroes/marvel/IronLad.htm,_page | Nathaniel Richards II}
+		{ITEM Iron Man I,5,6 | ../../../heroes/marvel/IronManI.htm,_page | Anthony (Tony) Edward Stark}
+		{ITEM Iron Man II,8,20 | * | Harold (Happy) Hogan}
+		{ITEM Iron Man III,8,20 | * | Eddie March}
+		{ITEM Iron Man IV,5,6 | ../../../heroes/marvel/WarMachineI.htm,_page | James (Jim) Rupert (Rhodey) Rhodes}
+		{ITEM Iron Man V,8,20 | * | Clayton Wilson}
+		{ITEM Iron Mike McGraw,8,20 | * | Mike McGraw}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,239 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(S),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sabbath Raven,8,20 | * | =}
+		{ITEM Sabra,8,20 | * | Ruth Bat-Seraph}
+		{ITEM Sage,5,6 | ../../../heroes/marvel/Sage.htm,_page | Tessa Niles}
+		{ITEM Sailor Sweeney,8,20 | * | Sweeney}
+		{ITEM Saint Anna,8,20 | * | Anna}
+		{ITEM Saint Brendan,8,20 | * | Brendan}
+		{ITEM Saint George,8,20 | * | Georg von Frankenstein}
+		{ITEM Saint Elmo,8,20 | * | Unknown}
+		{ITEM Sam Hawk,8,20 | * | =}
+		{ITEM San,5,6 | ../../../heroes/marvel/San.htm,_page | =}
+		{ITEM Sandman,5,6 | ../../../villains/marvel/Sandman.htm,_page | William Baker (aliases: Flint Marko or Sylvester Mann)}
+		{ITEM Sasquatch I,5,6 | ../../../heroes/marvel/SasquatchI.htm,_page | Dr. Walter Langkowski}
+		{ITEM Sasquatch II,5,6 | ../../../heroes/marvel/SasquatchII.htm,_page | Unknown}
+		{ITEM Sasquatch III,8,20 | * | Heather Hudson}
+		{ITEM Satana,5,6 | ../../../heroes/marvel/Satana.htm,_page | Satana Hellstrom}
+		{ITEM Saturnyne I,5,6 | ../../../gods_monsters/marvel/Saturnyne.htm,_page | Opal Luna Saturnyne}
+		{ITEM Saturnyne III,8,20 | * | Unknown}
+		{ITEM Scarlet Scarab I,8,20 | * | Dr. Abdul Faoul}
+		{ITEM Scarlet Spider,5,6 | ../../../heroes/marvel/SpiderManII.htm,_page | Ben Riley (clone of Peter Parker)}
+		{ITEM Scarlet Witch,5,6 | ../../../heroes/marvel/ScarletWitch.htm,_page | Wanda Maximoff}
+		{ITEM Scorpion II,5,6 | ../../../heroes/marvel/ScorpionII.htm,_page | Carmilla Black}
+		{ITEM Scourge VIII,5,6 | ../../../heroes/marvel/NomadIII.htm,_page | Jack Monroe}
+		{ITEM (The)Scream,8,20 | * | David Alan Angar}
+		{ITEM Sea Witch,8,20 | * | Bridget O'Hare}
+		{ITEM Secret Agent,8,20 | * | Doug Grant}
+		{ITEM Secret Stamp,8,20 | * | Roddy Colt}
+		{ITEM Sentry I,8,20 | * | Unknown}
+		{ITEM Sentry II,5,6 | ../../../heroes/marvel/Sentry.htm,_page | Robert (Bob) Reynolds}
+		{ITEM Sepulcre,8,20 | * | Jillian Marie Woods}
+		{ITEM Sergeant Dix,8,20 | * | Jeff Dix}
+		{ITEM Sgt Nick Fury,5,6 | ../../../heroes/marvel/NickFurySgt.htm,_page | Nicholas Joseph Fury}
+		{ITEM Sersi,5,6 | ../../../heroes/marvel/Sersi.htm,_page | =}
+		{ITEM Shadow Lord,8,20 | * | Unknown}
+		{ITEM Shadowcat,5,6 | ../../../heroes/marvel/Shadowcat.htm,_page | Katherine (Kitty) Pryde}
+		{ITEM Shadowoman,8,20 | * | Jillian Marie Woods}
+		{ITEM Shaman,5,6 | ../../../heroes/marvel/Shaman.htm,_page | Dr. Michael Twoyoungmen}
+		{ITEM Shamrock,8,20 | * | Molly Fitzgerald}
+		{ITEM Shang-Chi,5,6 | ../../../heroes/marvel/ShangChi.htm,_page | =}
+		{ITEM Shanna the She-Devil,5,6 | ../../../heroes/marvel/Shanna.htm,_page | Dr. Shanna O'Hara-Plunder}
+		{ITEM Shape,8,20 | * | Unknown}
+		{ITEM Shapeshifter,8,20 | * | Shi'ar shapeshifter}
+		{ITEM Shard,5,6 | ../../../heroes/marvel/Shard.htm,_page | =}
+		{ITEM Sharkskin,8,20 | * | Unknown}
+		{ITEM Shatterstar II,5,6 | ../../../heroes/marvel/Shatterstar.htm,_page | Gaveedra-Seven}
+		{ITEM She-Hulk,5,6 | ../../../heroes/marvel/She-Hulk.htm,_page | Jennifer Walters}
+		{ITEM She-Thing,8,20 | * | Sharon (Shary) Ventura}
+		{ITEM She Wolf,8,20 | * | Paulette Brazee}
+		{ITEM Sheena,8,20 | * | =}
+		{ITEM (The) Sheriff,8,20 | * | Unknown}
+		{ITEM Shiver Man,5,6 | ../../../heroes/marvel/ShiverMan.htm,_page | Unknown}
+		{ITEM SHOC,8,20 | * | Neil Aiken}
+		{ITEM Shola Inkosi,8,20 | * | =}
+		{ITEM Shooting Star,8,20 | * | Unknown}
+		{ITEM Shortpack,5,6 | ../../../heroes/marvel/Shortpack.htm,_page | Unknown}
+		{ITEM Shroud,8,20 | * | Maximillian Quincy Coleridge}
+		{ITEM Siege,8,20 | * | John Kelly}
+		{ITEM Sif,5,6 | ../../../gods_monsters/marvel/Sif.htm,_page | =}
+		{ITEM Sigmar,8,20 | * | =}
+		{ITEM Silhouette I,8,20 | * | Lamar Canfield}
+		{ITEM Silhouette II,8,20 | * | Silhouette Chord}
+		{ITEM Silver Sable,5,6 | ../../../heroes/marvel/SilverSable.htm,_page | Silver Sablinovia}
+		{ITEM Silver Scorpion,8,20 | * | Elisabeth (Betty) Bairstow}
+		{ITEM Silver Surfer,5,6 | ../../../heroes/marvel/SilverSurfer.htm,_page | Norrin Radd}
+		{ITEM Silver Squire,8,20 | * | Unknown}
+		{ITEM Silverclaw,8,20 | * | Lupe}
+		{ITEM Sir Lancelot,8,20 | * | Lancelot Du Lac}
+		{ITEM Sir Steel,8,20 | * | Unknown}
+		{ITEM Siryn,5,6 | ../../../heroes/marvel/Siryn.htm,_page | Theresa Rourke Cassidy}
+		{ITEM Sister Grimm,5,6 | ../../../heroes/marvel/SisterGrimm.htm,_page | Nico Minoru}
+		{ITEM Skein,5,6 | ../../../villains/marvel/GypsyMoth.htm,_page | Sybil Dvorak}
+		{ITEM Skids,8,20 | * | Sally Blevins}
+		{ITEM Skin,5,6 | ../../../heroes/marvel/Skin.htm,_page | Angelo Espinoza}
+		{ITEM Skip McCoy,8,20 | * | =}
+		{ITEM Skrull,8,20 | * | Unknown}
+		{ITEM Skrullian Skymaster,8,20 | * | Skymax}
+		{ITEM Skull the Slayer,8,20 | * | Jim Scully}
+		{ITEM Sky-Walker,8,20 | * | Unknown}
+		{ITEM Sky-Wolf,8,20 | * | Skyler Wolf}
+		{ITEM Skyhawk,8,20 | * | Winston Manchester}
+		{ITEM Skylark,8,20 | * | Linda Lewis}
+		{ITEM Slapstick,8,20 | * | Steven Harmon}
+		{ITEM Sleepwalker,5,6 | ../../../heroes/marvel/Sleepwalker.htm,_page | Rick Sheridan}
+		{ITEM Slipstream,8,20 | * | Davis Cameron}
+		{ITEM Smuggler II,8,20 | * | Conrad Josten}
+		{ITEM Snowbird,5,6 | ../../../heroes/marvel/Snowbird.htm,_page | Narya}
+		{ITEM Snowfall,8,20 | * | Ginny Snow}
+		{ITEM Soldier X,5,6 | ../../../heroes/marvel/Cable.htm,_page | Nathan Christopher Charles Summers (also known as Nathan Dayspring Askani'son)}
+		{ITEM Solo,8,20 | * | James Bourne}
+		{ITEM Solomon Kane,5,6 | ../../../heroes/marvel/SolomonKane.htm,_page | =}
+		{ITEM Son of Dracula,8,20 | * | Janus}
+		{ITEM Son of Satan,5,6 | ../../../heroes/marvel/Son_of_Satan.htm,_page | Daimon Hellstrom}
+		{ITEM Songbird,5,6 | ../../../heroes/marvel/Songbird.htm,_page | Melissa (Mimi) Joan Gold}
+		{ITEM Southpaw,8,20 | * | Sasha Martin}
+		{ITEM Spaceman Speed Carter,8,20 | * | Speed Carter}
+		{ITEM Sparx,8,20 | * | Aurelle}
+		{ITEM Speed,8,20 | * | Thomas Shepherd}
+		{ITEM Speedball,5,6 | ../../../heroes/marvel/Speedball.htm,_page | Robert Baldwin}
+		{ITEM Spellcheck,5,6 | ../../../heroes/marvel/Typeface_Spellcheck.htm,_page | Unknown}
+		{ITEM Spider-Girl,5,6 | ../../../heroes/marvel/SpiderGirl.htm,_page | Anya Corazon}
+		{ITEM Spider-Kid,5,6 | ../../../heroes/marvel/SteelSpider.htm,_page | Oliver Osnick}
+		{ITEM Spider-Man I,5,6 | ../../../heroes/marvel/SpiderManI.htm,_page | Peter Benjamin Parker}
+		{ITEM Spider-Man II,5,6 | ../../../heroes/marvel/SpiderManII.htm,_page | Ben Riley (clone of Peter Parker)}
+		{ITEM Spider-Woman I,5,6 | ../../../heroes/marvel/SpiderWomanI.htm,_page | Jessica Drew}
+		{ITEM Spider-Woman II,5,6 | ../../../heroes/marvel/SpiderWomanII.htm,_page | Julia Carpenter}
+		{ITEM Spider-Woman IV,5,6 | ../../../heroes/marvel/SpiderWomanIV.htm,_page | Martha (Mattie) Franklin}
+		{ITEM Spindrifter,8,20 | *| Marandi Sjorokker}
+		{ITEM (The) Spirit of '76,8,20 | * | William Nasland}
+		{ITEM Spirit of Vengeance,8,20 | * | Wileaydus Autolycus}
+		{ITEM Spitfire,5,6 | ../../../heroes/marvel/Spitfire.htm,_page | Jacqueline (Jackie) Falsworth-Crichton}
+		{ITEM Sprite I,8,20 | * | Sprite}
+		{ITEM Sprite II,5,6 | ../../../heroes/marvel/Shadowcat.htm,_page | Katherine (Kitty) Pryde}
+		{ITEM Squid-Boy,8,20 | * | Samuel Luc Pare}
+		{ITEM Squire,8,20 | * | Unknown}
+		{ITEM Squirrel Girl,5,6 | ../../../heroes/marvel/SquirrelGirl.htm,_page | Doreen Green}
+		{ITEM Sssith,8,20 | * | =}
+		{ITEM Stacy X,5,6 | ../../../heroes/marvel/StacyX.htm,_page | Miranda Leevald}
+		{ITEM Stained Glass Scarlet,8,20 | * | Scarlet Fasinera}
+		{ITEM Star-Lord I,5,6 | ../../../heroes/marvel/Starlord.htm,_page | Peter Jason Quill}
+		{ITEM Star-Lord II,5,6 | ../../../heroes/marvel/Starlord.htm,_page | Jason of Spartoi}
+		{ITEM Starbird,8,20 | * | Holly-Ann Ember}
+		{ITEM Starfox,5,6 | ../../../heroes/marvel/Starfox.htm,_page | Eros}
+		{ITEM Stargod,5,6 | ../../../gods_monsters/marvel/ManWolf.htm,_page | John Jameson}
+		{ITEM Starhawk I,5,6 | ../../../heroes/marvel/Starhawk.htm,_page | Stakar Ogord}
+		{ITEM Starhawk II,5,6 | ../../../heroes/marvel/Starhawk.htm,_page | Aleta Ogord}
+		{ITEM Starknight,5,6 | ../../../heroes/marvel/Quasar.htm,_page | Wendell Elvis Vaughn}
+		{ITEM Starlight,8,20 | * | Dr. Tania Belinsky}
+		{ITEM Starlord,8,20 | * | Sinjin Quarrel}
+		{ITEM Starseed,8,20 | * | Jaard}
+		{ITEM Starshine I,8,20 | * | Landra}
+		{ITEM Starshine II,8,20 | * | Brandy Clark}
+		{ITEM Starstreak I,8,20 | * | Katherine (Katie) Power}
+		{ITEM Starstreak II,8,20 | * | Julie Power}
+		{ITEM Stature,5,6 | ../../../heroes/marvel/Stature.htm,_page | Cassandra Elenor Lang}
+		{ITEM Steam Rider,8,20 | * | Dolan}
+		{ITEM Steel Raven,8,20 | * | Aranda Charboneau}
+		{ITEM Steel Spider,5,6 | ../../../heroes/marvel/SteelSpider.htm,_page | Oliver Osnick}
+		{ITEM Stingray,8,20 | * | Dr. Walter Newell}
+		{ITEM Storm,5,6 | ../../../heroes/marvel/Storm.htm,_page | Ororo Munroe}
+		{ITEM Sonewall,8,20 | * | Louis Hamilton}
+		{ITEM Strong Guy,5,6 | ../../../heroes/marvel/StrongGuy.htm,_page | Guido Carosella}
+		{ITEM Stuporman,8,20 | * | Unknown}
+		{ITEM Stunt-Master,8,20 | * | George Smith}
+		{ITEM Sub-Mariner,5,6 | ../../../heroes/marvel/SubMariner.htm,_page | Namor MacKenzie King of Atlantis}
+		{ITEM Subbie,8,20 | * | Unknown}
+		{ITEM Sun Girl,8,20 | * | Mary Mitchell}
+		{ITEM Sunder,8,20 | * | Unknown}
+		{ITEM Sundragon,8,20 | * | Pamela Douglas}
+		{ITEM Sunfire I,5,6 | ../../../heroes/marvel/SunfireI.htm,_page | Shiro Yoshida}
+		{ITEM Sunfire II,5,6 | ../../../heroes/marvel/SunfireII.htm,_page | Mariko Yashida}
+		{ITEM Sunpyre,8,20 | * | Leyu Yoshida}
+		{ITEM Sunspot,8,20 | * | Roberto DaCosta}
+		{ITEM Sunshine,8,20 | * | Autumn MacRae}
+		{ITEM Sunspot,8,20 | * | Roberto Da Costa}
+		{ITEM Super-Skrull II,8,20 | * | Xavin}
+		{ITEM Super Slave,8,20 | * | Unknown}
+		{ITEM Surge I,8,20 | * | Unknown}
+		{ITEM Surge IV,5,6 | ../../../heroes/marvel/SurgeIV.htm,_page | Noriko Ashida}
+		{ITEM Suspiria,8,20 | * | =}
+		{ITEM Sway,8,20 | * | Suzanne Chan}
+		{ITEM Swordsman II,5,6 | ../../../heroes/marvel/Swordsman.htm,_page | Philip Jarvet}
+		{ITEM Swordsman III,5,6 | ../../../heroes/marvel/Swordsman.htm,_page | Andreas von Strucker}
+		{ITEM Synch,8,20 | * | Everett Thomas}
+		{ITEM Synthesizer,8,20 | * | Arkady & Zoya Tegai}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

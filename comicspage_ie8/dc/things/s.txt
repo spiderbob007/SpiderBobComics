@@ -1,0 +1,261 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(S),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Saaba,8,20 | * | =}
+		{ITEM Sabbac I,5,6 | ../../../villains/dc/Sabbac.htm,_page | Timothy Karnes}
+		{ITEM Sabbac II,5,6 | ../../../villains/dc/Sabbac.htm,_page | Ishmael Gregor}
+		{ITEM Saber,8,20 | * | Marschall Saber}
+		{ITEM Saber-Tooth I,8,20 | * | Ross Malverk}
+		{ITEM Saber-Tooth II,8,20 | * | Loretta Norden}
+		{ITEM Sabre,8, 20 | * | John Zero}
+		{ITEM Sabina,8,20 | * | =}
+		{ITEM Sacker,8,20 | * | Unknown}
+		{ITEM Sagittarius,8,20 | * | Unknown}
+		{ITEM Sakki,8,20 | * | Unknown}
+		{ITEM Sally Sonic,8,20 | * | Sara Smart}
+		{ITEM Samsara,8,20 | * | Samuel Yates}
+		{ITEM Samuel Solomon,8,20 | * | =}
+		{ITEM Samurai,8,20 | * | Unknown}
+		{ITEM Sand Demon,8,20 | * | Eddie Slick}
+		{ITEM Saraar,8,20 | * | =}
+		{ITEM Sarwan,8,20 | * | Unknown}
+		{ITEM Satan Girl I,8,20 | * | Unknown}
+		{ITEM Satan Girl II,8,20 | * | Dolores Pratchet}
+		{ITEM Satana,8,20 | * | Sara Descarl}
+		{ITEM Satanus,8,20 | * | =}
+		{ITEM Satin Satan,8,20 | * | Sabrina Sultress}
+		{ITEM Saturn,8,20 | * | Unknown}
+		{ITEM Saturn Queen,8,20 | * | Eve Aries}
+		{ITEM Satyricus,8,20 | * | =}
+		{ITEM Savage Skull,8,20 | * | Jack Crane}
+		{ITEM Savant,8,20 | * | Brian K. Durlin}
+		{ITEM Saviour,8,20 | * | Ramsey Murdoch}
+		{ITEM Savitar,8,20 | * | Unknown}
+		{ITEM Sayyar,8,20 | * | =}
+		{ITEM Scandal,8,20 | * | Scandal Savage}
+		{ITEM Scarab II,8,20 | * | Unknown}
+		{ITEM Scarab III,8,20 | * | Unknown}
+		{ITEM Scarabus,8,20 | * | Unknown}
+		{ITEM Scarback,8,20 | * | Unknown}
+		{ITEM Scarebeast,5,6 | ../../../villains/dc/Scarebeast.htm,_page | Dr. Jonathan Crane}
+		{ITEM Scarecrow,5,6 | ../../../villains/dc/Scarecrow.htm,_page | Dr. Jonathan Crane}
+		{ITEM Scareware,8,20 | * | Unknown}
+		{ITEM Scarlet Scythe,8,20 | * | Unknown}
+		{ITEM Scarlet Skier,8,20 | * | Unknown}
+		{ITEM Scarth,8,20 | * | Unknown}
+		{ITEM Scavenger I,8,20 | * | Peter Mortimer}
+		{ITEM Scavenger II,8,20 | * | Unknown}
+		{ITEM Schreck,8,20 | * | Unknown}
+		{ITEM Scirocco,8,20 | * | Cassandra Sharp}
+		{ITEM Scoopshovel,8,20 | * | Unknown}
+		{ITEM Scorch,5,6 | ../../../villains/dc/Scorch.htm,_page | Aubrey}
+		{ITEM Scorcher I,8,20 | * | Unknown}
+		{ITEM Scorcher II,8,20 | * | Unknown}
+		{ITEM Scorcher III,8,20 | * | Unknown}
+		{ITEM Scorpia,8,20 | * | Unknown}
+		{ITEM Scorpiana,8,20 | * | Unknown}
+		{ITEM Scorpio,8,20 | * | Bugs Scarpis}
+		{ITEM Scourge,8,20 | * | Unknown}
+		{ITEM Screaming Skull,8,20 | * | Unknown}
+		{ITEM Sensei,5,6 | ../../../villains/dc/Sensei.htm,_page | Unknown}
+		{ITEM Seppuka,8,20 | * | Unknown}
+		{ITEM Shade,5,6 | ../../../villains/dc/Shade.htm,_page | Richard Swift}
+		{ITEM Shadow-Thief,5,6 | ../../../villains/dc/ShadowThief.htm,_page | Carl Sands}
+		{ITEM (The) Shadower I,8,20 | * | Vartan Kevork}
+		{ITEM (The) Shadower II,8,20 | * | last name Kevork}
+		{ITEM Shaggy Man,5,6 | ../../../villains/dc/General.htm,_page | =}
+		{ITEM Shahn-Zi,8,20 | * | =}
+		{ITEM (The) Shark II,8,20 | * | Gunther Hardwicke}
+		{ITEM (The) Shark III,5,6 | ../../../villains/dc/SharkIII.htm,_page | mutated tiger shark}
+		{ITEM Shatterfist,8,30 | * | Unknown}
+		{ITEM Shellshock,8,20 | * | Ruth Spencer}
+		{ITEM Shimmer,8,20 | * | Selinda Flinders}
+		{ITEM Shrike,8,20 | * | Unknown}
+		{ITEM Shiv,5,6 | ../../../villains/dc/Shiv.htm,_page | Cindy Burman}
+		{ITEM Shock Trauma,8,20 | * | Unknown}
+		{ITEM Shockwave I,5,6 | ../../../villains/dc/ShockwaveI.htm,_page | Arnold Pruett}
+		{ITEM Shreck,8,20 | * | Unknown}
+		{ITEM Shrike I,8,20 | * | Unknown}
+		{ITEM Shrike II,5,6 | ../../../villains/dc/ShrikeII.htm,_page | Boone}
+		{ITEM Sickle,8,20 | * | Natasha}
+		{ITEM Side-Arm,8,20 | * | Unknown}
+		{ITEM Signalman,8,20 | * | Phil Cobb}
+		{ITEM Silver Banshee I,5,6 | ../../../villains/dc/SilverBanshee.htm,_page | Siobahn McDougal}
+		{ITEM Silver Banshee II,5,6 | ../../../villains/dc/SilverBanshee.htm,_page | Artemisia}
+		{ITEM Silver Deer,8,20 | * | Chanka}
+		{ITEM Silver Fog I,5,6 | ../../../villains/dc/SilverFog.htm,_page | Sam Toth}
+		{ITEM Silver Fog II,5,6 | ../../../villains/dc/SilverFog.htm,_page | Edward Arling}
+		{ITEM Silver Fog III,5,6 | ../../../villains/dc/SilverFog.htm,_page | Nelson Arling}
+		{ITEM Silver Ghost,8,20 | * | Raphael Van Zandt}
+		{ITEM Silver Monkey,8,20 | * | Unknown}
+		{ITEM Silver Shade,8,20 | * | Xavier Purvis}
+		{ITEM Silver Slasher,8,20 | * | Ki-Lan}
+		{ITEM Silver Swan I,5,6 | ../../../villains/dc/SilverSwan.htm,_page | Helen Alexandros}
+		{ITEM Silver Swan II,5,6 | ../../../villains/dc/SilverSwan.htm,_page | Valerie Beaudry}
+		{ITEM Silver Swan III,5,6 | ../../../villains/dc/SilverSwan.htm,_page | Vanessa Kapatelis}
+		{ITEM Silversmith,8,20 | * | Unknown}
+		{ITEM Silversword,8,20 | * | Dr. Arnold Kaua}
+		{ITEM Simple Simon,8,20 | * | Unknown}
+		{ITEM Simyan,8,20 | * | =}
+		{ITEM Sin Eater,5,6 | ../../../villains/dc/SinEater.htm,_page | Onimar Synn}
+		{ITEM Sinestro,5,6 | ../../../villains/dc/Sinestro.htm,_page | =}
+		{ITEM Siphon,8,20 | * | Unknown}
+		{ITEM Sir Real,5,6 | ../../../villains/dc/SirReal.htm,_page | Unknown}
+		{ITEM Siren,5,6 | ../../../villains/dc/Siren.htm,_page | Unknown}
+		{ITEM Sister Lihy,8,20 | * | Lihy}
+		{ITEM Sivana,8,20 | * | Dr. Thaddeus Badog Sivana}
+		{ITEM Sivana Jr.,8,20 | * | Dr. Thaddeus Badog Sivana Jr.}
+		{ITEM Sizematic I,8,20 | * | Unknown}
+		{ITEM Sizematic II,8,20 | * | Unknown}
+		{ITEM Skeleton,8,20 | * | Unknown}
+		{ITEM Skindance,8,20 | * | Unknown}
+		{ITEM Skorpio,8,20 | * | Dennis Samuel Ellis}
+		{ITEM Skull I,8,20 | * | Unknown}
+		{ITEM Sky Pirate,8,20 | * | Unknown}
+		{ITEM Sky-Raider,8,20 | * | Unknown}
+		{ITEM Skyhook,8,20 | * | Dr. Aleister Hook}
+		{ITEM Slash I,8,20 | * | Unknown}
+		{ITEM Slash II,8,20 | * | Unknown}
+		{ITEM Slasher II,8,20 | * | Unknown}
+		{ITEM Slasher III,8,20 | * | Unknown}
+		{ITEM Slasher IV,8,20 | * | Unknown}
+		{ITEM Sledge,8,20 | * | Unknown}
+		{ITEM Sleepwalk,8,20 | * | Unknown}
+		{ITEM Sleez,8,20 | * | =}
+		{ITEM Slipknot,8,20 | * | Christopher Weiss}
+		{ITEM Slipstream,8,20 | * | Unknown}
+		{ITEM Slyfox,8,20 | * | Unknown}
+		{ITEM Smashing Sportsman,8,20 | * | Marty Baxter}
+		{ITEM Smiling Skull,8,20 | * | Rudolf Wolk}
+		{ITEM Snafu,8,20 | * | Bartholomew Higgins}
+		{ITEM Snowman I,8,20 | * | Bryna Brilyant}
+		{ITEM Snowman II,8,20 | * | Klaus Kristin}
+		{ITEM Solaris I,8,20 | * | Clifton Lacey}
+		{ITEM Solomon Grundy,5,6 | ../../../villains/dc/SolomonGrundy.htm,_page | Formerly Cyrus Gold}
+		{ITEM Sonar I,8,20 | * | Bito Wladon}
+		{ITEM Sonar II,8,20 | * | Unknown}
+		{ITEM Spazz,8,20 | * | Chas Parmenter}
+		{ITEM Speed Demon,8,20 | * | Dr. Jerry McGee}
+		{ITEM Spellbinder I,8,20 | * | Delbert Billings}
+		{ITEM Spellbinder II,8,20 | * | Fay Moffit}
+		{ITEM (The) Spider II,8,20 | * | Thomas Lucas Ludlow}
+		{ITEM Spirit King,8,20 | * | Roger Romaine}
+		{ITEM Split,8,20 | * | Unknown}
+		{ITEM Spore,8,20 | * | Dr. Constance Hollis}
+		{ITEM (The) Spook,5,6 | ../../../villains/dc/Spook.htm,_page | Val Kaliban}
+		{ITEM Sportsmaster I,8,20 | * | "Crusher" Crock}
+		{ITEM Sportsmaster II,8,20 | * | Unknown}
+		{ITEM Springheeled Jack,8,20 | * | Unknown}
+		{ITEM Spy Smasher II,8,20 | * | Katarina Armstrong}
+		{ITEM St. Roch,5,6 | ../../../villains/dc/StRoch.htm,_page | August Davezak}
+		{ITEM St'nlli,8,20 | * | =}
+		{ITEM Stalker,8,20 | * | Unknown}
+		{ITEM Stallion,8,20 | * | Randy Hanrahan}
+		{ITEM Stalnoivolk,8,20 | * | Ivan Illyich Gort}
+		{ITEM Star Conqueror,5,6 | ../../../gods_monsters/dc/Starro.htm,_page | =}
+		{ITEM Star Sapphire I,5,6 | ../../../villains/dc/StarSapphire.htm,_page | Unknown}
+		{ITEM Star Sapphire II,5,6 | ../../../villains/dc/StarSapphireII.htm,_page | Carol Ferris}
+		{ITEM Star Sapphire III,5,6 | ../../../villains/dc/StarSapphire.htm,_page | Dela Pharon}
+		{ITEM Star Sapphire IV,5,6 | ../../../villains/dc/StarSapphire.htm,_page | Remoni-Notra}
+		{ITEM Star-Tsar,5,6 | ../../../heroes/dc/ManhunterIII.htm,_page | Mark Shaw}
+		{ITEM Starbreaker,8,20 | * | Unknown}
+		{ITEM Starfinger,8,20 | * | Dr. Lars Hanscorn}
+		{ITEM Starman of 853rd Century,8,20 | * | Farris Knight}
+		{ITEM Starro,5,6 | ../../../gods_monsters/dc/Starro.htm,_page | =}
+		{ITEM Stasis,8,20 | * | Unknown}
+		{ITEM Steamroller,8,20 | * | Uknown}
+		{ITEM Steeljacket,8,20 | * | Unknown}
+		{ITEM Steppenwolf,8,20 | * | =}
+		{ITEM Sterling Silversmith,8,20  | * | Sterling T. Silversmith}
+		{ITEM Stiletto,8,20 | * | Saul Calvino}
+		{ITEM Stompa,8,20 | * | =}
+		{ITEM Stranglehold,8,20 | * | Unknown}
+		{ITEM Stratos,8,20 | * | Unknown}
+		{ITEM Sumo the Samurai,8,20 | * | Sumo}
+		{ITEM Sundeath,8,20 | * | Richard Atwa}
+		{ITEM Sunspotter,8,20 | * | Unknown}
+		{ITEM Superman-Prime,5,6 | ../../../villains/dc/SuperboyEarthPrime.htm,_page | Kal-El}
+		{ITEM Superwoman I,8,20 | * | Lois Lane evil Wonder Woman of Earth-3}
+		{ITEM Superwoman II,5,6 | ../../../villains/dc/Obsession.htm,_page | Dana Dearden}
+		{ITEM Superwoman III,5,6 | ../../../villains/dc/SuperwomanIII.htm,_page | Lois Lane, evil Wonder Woman of Earth-2}
+		{ITEM Supplier,8,20 | * | Unknown}
+		{ITEM (The) Suit,8,20 | * | Ultimate super-costume}
+		{ITEM Swastika,8,20 | * | Unknown}
+		{ITEM Sylph,5,6 | ../../../villains/dc/Sylph.htm,_page | Sylvan Scofield}
+		{ITEM Synnar,5,6 | ../../../villains/dc/Synnar.htm,_page | =}
+		{ITEM Syonide I,8,20 | * | Unknown}
+		{ITEM Syonide II,8,20 | * | Unknown}
+		{ITEM Syrene,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER (Sinestro Corps),17,18 | sincorps.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

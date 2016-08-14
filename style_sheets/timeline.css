@@ -1,0 +1,269 @@
+/*Spider-Bob's Comic Book History Timeline */
+	
+	body {
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat;	
+		background-attachment: fixed;
+		margin: 0px 0px 10px 0px;
+		padding: 0px;
+		cursor: default;		
+	}
+	
+	#main {		
+		margin: 0 auto;
+		width: 900px;
+		position: relative;		
+	}
+		
+	#boundary {
+		height: inherit;
+		background-color: white;
+		border-left: solid navy 10px;
+		border-right: solid navy 10px;
+		border-bottom: solid navy 10px;
+		padding: 0px 10px 10px 10px;
+		overflow: hidden;
+	}	
+	
+	#boxShadow {
+		box-shadow: 0px 0px 10px 2px black;
+	}
+	
+	#header {		
+		margin: 0 auto;
+		background-color: navy;		
+	}
+	
+	#home {
+		float: left;
+		margin: 2px 2px -1px 2px;
+	}
+	
+	#google_translate_element {
+		height: 28px;
+		float: right;
+		margin: 2px 2px -1px 2px;
+	}
+	
+	/* styles to control top of page */
+	.back-to-top {
+		position: fixed;
+		bottom: 10px;
+		right: 5px;
+		display: none;		
+	}
+	
+	@media screen and (max-width: 1100px) {
+		.back-to-top {
+		display: none !important;
+		}
+	}
+	
+	/* styles to control arrows */	
+	.arrow_top {
+		margin: 20px 0px -5px 0px;
+		padding: 0px;
+	}
+	
+	.arrow {
+		margin: 0px 0px -5px 0px;			
+		padding: 0px;
+	}
+	
+	.arrow img {
+		width: 250px; 
+		height: 250px;
+	}
+
+	/* styles to control comics class */	
+	.comics p {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 12pt; 
+		text-align: justify;
+		margin: 0px;	
+	}
+	
+	.comics span {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 12.5pt; 
+		font-weight: bold;		
+	}
+	
+	.select {
+		width: 60px;
+		height: 60px;
+		margin-right: 40px;	
+	}
+	
+	.select:hover	{
+		opacity: 0.95;
+		cursor: pointer;		
+	}	
+	
+	a {		
+		text-decoration: none;		
+	}
+	
+	a img {
+		border: none;
+	}	
+	
+	a img:hover	{
+		opacity: 0.95;
+	}
+	
+	/* styles to control icons and cover art */
+	#cover0			{position:absolute; left:110px; top:360px; width:62px; height:62px; overflow:hidden; z-index:1;}
+	#cover0:hover 	{position:absolute; left:110px; top:360px; width:765px; height:200%; overflow:visable; z-index:0;}
+	#cover0 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover1			{position:absolute; left:110px; top:430px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover1:hover 	{position:absolute; left:110px; top:430px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover1 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover2			{position:absolute; left:110px; top:500px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover2:hover 	{position:absolute; left:110px; top:500px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover2 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover3			{position:absolute; left:110px; top:570px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover3:hover 	{position:absolute; left:110px; top:570px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover3 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover4			{position:absolute; left:110px; top:640px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover4:hover 	{position:absolute; left:110px; top:640px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover4 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover5			{position:absolute; left:110px; top:710px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover5:hover	 {position:absolute; left:110px; top:710px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover5 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover6			{position:absolute; left:110px; top:780px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover6:hover 	{position:absolute; left:110px; top:780px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover6 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover7			{position:absolute; left:110px; top:850px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover7:hover 	{position:absolute; left:110px; top:850px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover7 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover8			{position:absolute; left:110px; top:920px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover8:hover 	{position:absolute; left:110px; top:920px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover8 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover9			{position:absolute; left:110px; top:990px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover9:hover 	{position:absolute; left:110px; top:990px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover9 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	
+	#cover10		{position:absolute; left:110px; top:1060px; width:62px; height:62px; overflow:hidden; z-index:1;}
+	#cover10:hover 	{position:absolute; left:110px; top:1060px; width:765px; height:200%; overflow:visable; z-index:0;}
+	#cover10 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover11		{position:absolute; left:110px; top:1130px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover11:hover 	{position:absolute; left:110px; top:1130px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover11 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover12		{position:absolute; left:110px; top:1200px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover12:hover 	{position:absolute; left:110px; top:1200px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover12 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover13		{position:absolute; left:110px; top:1270px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover13:hover 	{position:absolute; left:110px; top:1270px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover13 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover14		{position:absolute; left:110px; top:1340px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover14:hover	{position:absolute; left:110px; top:1340px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover14 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover15		{position:absolute; left:110px; top:1410px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover15:hover	{position:absolute; left:110px; top:1410px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover15 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover16		{position:absolute; left:110px; top:1480px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover16:hover	{position:absolute; left:110px; top:1480px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover16 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover17		{position:absolute; left:110px; top:1550px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover17:hover 	{position:absolute; left:110px; top:1550px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover17 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover18		{position:absolute; left:110px; top:1620px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover18:hover 	{position:absolute; left:110px; top:1620px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover18 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover19		{position:absolute; left:110px; top:1690px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover19:hover 	{position:absolute; left:110px; top:1690px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover19 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	
+	#cover20		{position:absolute; left:110px; top:1760px; width:62px; height:62px; overflow:hidden; z-index:1;}
+	#cover20:hover 	{position:absolute; left:110px; top:1760px; width:765px; height:200%; overflow:visable; z-index:0;}
+	#cover20 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover21		{position:absolute; left:110px; top:1830px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover21:hover 	{position:absolute; left:110px; top:1830px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover21 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover22		{position:absolute; left:110px; top:1900px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover22:hover 	{position:absolute; left:110px; top:1900px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover22 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover23		{position:absolute; left:110px; top:1970px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover23:hover 	{position:absolute; left:110px; top:1970px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover23 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover24		{position:absolute; left:110px; top:2040px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover24:hover 	{position:absolute; left:110px; top:2040px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover24 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover25		{position:absolute; left:110px; top:2110px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover25:hover 	{position:absolute; left:110px; top:2110px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover25 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover26		{position:absolute; left:110px; top:2180px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover26:hover 	{position:absolute; left:110px; top:2180px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover26 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover27		{position:absolute; left:110px; top:2250px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover27:hover 	{position:absolute; left:110px; top:2250px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover27 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover28		{position:absolute; left:110px; top:2320px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover28:hover 	{position:absolute; left:110px; top:2320px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover28 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover29		{position:absolute; left:110px; top:2390px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover29:hover 	{position:absolute; left:110px; top:2390px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover29 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover30		{position:absolute; left:110px; top:2460px; width:62px; height:62px; overflow:hidden; z-index:1;}
+	#cover30:hover 	{position:absolute; left:110px; top:2460px; width:765px; height:200%; overflow:visable; z-index:0;}
+	#cover30 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	
+	#cover31		{position:absolute; left:110px; top:2530px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover31:hover 	{position:absolute; left:110px; top:2530px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover31 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover32		{position:absolute; left:110px; top:2600px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover32:hover 	{position:absolute; left:110px; top:2600px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover32 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover33		{position:absolute; left:110px; top:2670px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover33:hover 	{position:absolute; left:110px; top:2670px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover33 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover34		{position:absolute; left:110px; top:2740px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover34:hover 	{position:absolute; left:110px; top:2740px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover34 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover35		{position:absolute; left:110px; top:2810px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover35:hover 	{position:absolute; left:110px; top:2810px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover35 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover36		{position:absolute; left:110px; top:2880px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover36:hover 	{position:absolute; left:110px; top:2880px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover36 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover37		{position:absolute; left:110px; top:2950px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover37:hover 	{position:absolute; left:110px; top:2950px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover37 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover38		{position:absolute; left:110px; top:3020px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover38:hover 	{position:absolute; left:110px; top:3020px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover38 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover39		{position:absolute; left:110px; top:3090px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover39:hover 	{position:absolute; left:110px; top:3090px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover39 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	
+	#cover40		{position:absolute; left:110px; top:3160px; width:62px; height:62px; overflow:hidden; z-index:1;}
+	#cover40:hover 	{position:absolute; left:110px; top:3160px; width:765px; height:200%; overflow:visable; z-index:0;}
+	#cover40 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover41		{position:absolute; left:110px; top:3230px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover41:hover 	{position:absolute; left:110px; top:3230px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover41 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover42		{position:absolute; left:110px; top:3300px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover42:hover 	{position:absolute; left:110px; top:3300px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover42 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover43		{position:absolute; left:110px; top:3370px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover43:hover 	{position:absolute; left:110px; top:3370px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover43 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover44		{position:absolute; left:110px; top:3440px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover44:hover 	{position:absolute; left:110px; top:3440px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover44 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover45		{position:absolute; left:110px; top:3510px; width:62px; height:69px; overflow:hidden; z-index:1}
+	#cover45:hover 	{position:absolute; left:110px; top:3510px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover45 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover46		{position:absolute; left:110px; top:3580px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover46:hover 	{position:absolute; left:110px; top:3580px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover46 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover47		{position:absolute; left:110px; top:3650px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover47:hover 	{position:absolute; left:110px; top:3650px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover47 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover48		{position:absolute; left:110px; top:3720px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover48:hover 	{position:absolute; left:110px; top:3720px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover48 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}
+	#cover49		{position:absolute; left:110px; top:3790px; width:62px; height:62px; overflow:hidden; z-index:1}
+	#cover49:hover	 {position:absolute; left:110px; top:3790px; width:765px; height:200%; overflow:visable; z-index:0}
+	#cover49 img		{float:left; vertical-align:top; padding: 2px 2px 2000px 2px;}

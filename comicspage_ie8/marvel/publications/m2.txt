@@ -1,0 +1,191 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+	{FOLDER ~M2,17,18 | * | Publications about an alternate future of the Marvel Universe.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM American Dream,,5,6 | ../../../heroes/marvel/m2/AmericanDream.htm,_page | Shannon Carter}
+		{ITEM Angry Eagle,8,20 | * | Unknown}
+		{ITEM Argo,8,20 | * | =}
+		{ITEM Big Brain,5,6 | ../../../heroes/marvel/MrFantastic.htm,_page | Dr. Reed Richards}
+		{ITEM Bluestreak,8,20 | * | Blue Kelso}
+		{ITEM (The) Buzz,8,20 | * | Jack (J.J.) Jameson}
+		{ITEM Captain America I,5,6 | ../../../heroes/marvel/CaptainAmericaI.htm,_page | Steven (Steve) Grant Rogers}		{ITEM Crimson Curse,8,20 | * | Aerika Harkness}
+		{ITEM Crimson Curse,8,20 | * | Aerika Harkness}
+		{ITEM Darkdevil,8,20 | * | Reilly Tyne}
+		{ITEM Dr. Magnus,8,20 | * | Unknown}
+		{ITEM Dr. Strange II,5,6 | ../../../heroes/marvel/DrStrangeII.htm,_page | Dr. Stephen Vincent Strange}
+		{ITEM Earth Sentry,8,20 | * | John Foster}
+		{ITEM Freebooter,8,20 | * | Brandon Cross}
+		{ITEM Green Goblin IV,8,20 | * | Phil Urich}
+		{ITEM Hawkeye I,5,6 | ../../../heroes/marvel/Hawkeye.htm,_page | Clinton (Clint) Francis Barton}
+		{ITEM Human Torch II,5,6 | ../../../heroes/marvel/HumanTorchII.htm,_page | Jonathan (Johnny) Spenser Storm}
+		{ITEM J2,8,20 | * | Zane Yama}
+		{ITEM Jolt II,8,20 | * | Helen Takahama}
+		{ITEM Jubilee,5,6 | ../../../heroes/marvel/Jubilee.htm,_page | Jubilation Lee}
+		{ITEM Ladyhawk I,8,20 | * | Unknown}
+		{ITEM Ladyhawk II,8,20 | * | Unknown}
+		{ITEM Magneto II,8,20 | * | Lorna Dane}
+		{ITEM Mainframe,8,20 | * | Robotic construct programmed with the brain waves of Tony Stark}
+		{ITEM (The) Masked Marvel,8,20 | * | Robert Baldwin}
+		{ITEM Ms. Fantastic,8,20 | * | Lyja Storm}
+		{ITEM Nova I,5,6 | ../../../heroes/marvel/NovaI.htm,_page | Richard Rider}
+		{ITEM Psi-Lord,5,6 | ../../../heroes/marvel/Psilord.htm,_page | Franklin Benjamin Richards}
+		{ITEM Scarlet Spider,8,20 | * | Felicity Hardy}
+		{ITEM Scarlet Witch,5,6 | ../../../heroes/marvel/ScarletWitch.htm,_page | Wanda Maximoff}
+		{ITEM Simian,8,20 | * | Unknown}
+		{ITEM Spanner,8,20 | * | Unknown}
+		{ITEM Speedball,8,20 | * | Robert Baldwin}
+		{ITEM Spider-Girl I,5,6 | ../../../heroes/marvel/m2/Spider-Girl_I.htm,_page | May (Mayday) Parker II}
+		{ITEM Spider-Man I,5,6 | ../../../heroes/marvel/SpiderManI.htm,_page | Peter Parker}
+		{ITEM Spider-Man II,8,20 | * | Gerry Drew}
+		{ITEM Stinger,8,20 | * | Dr. Cassandra (Cassie) Lang}
+		{ITEM Thing II,5,6 | ../../../heroes/marvel/ThingII.htm,_page | Benjamin (Ben) Jacob Grimm}
+		{ITEM Thunderstrike II,8,20 | * | Kevin Masterson}
+		{ITEM Torque,8,20 | * | Unknown}
+		{ITEM Vision II,5,6 | ../../../heroes/marvel/VisionII.htm,_page | Vision}
+		{ITEM Wild Thing,8,20 | * | Rina Logan}
+		{ITEM Wolverine,5,6 | ../../../heroes/marvel/Wolverine.htm,_page | Logan}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Black Trantula,8,20 | * | Fabian LeMuerto}
+		{ITEM Bullet,8,20 | * | =}
+		{ITEM Canis,8,20 | * | Unknown}
+		{ITEM Chesbro,8,20 | * | Unknown}
+		{ITEM Crazy Eight,8,20 | * | Unknown}
+		{ITEM Dead-Eye,8,20 | * | =}
+		{ITEM Dominator,8,20 | * | =}
+		{ITEM Donar,8,20 | * | =}
+		{ITEM Dr. Doom I,5,6 | ../../../villains/marvel/DrDoomI.htm,_page | Victor Von Doom}
+		{ITEM Dragon King,8,20 | * | =}
+		{ITEM Dragonfist,8,20 | * | Unknown}
+		{ITEM Finder,8,20 | * | =}
+		{ITEM Freefall,8,20 | * | =}
+		{ITEM Funny Face,8,20 | * | Bunky}
+		{ITEM Fury the Goblin Queen,8,20 | * | Elan DeJunae}
+		{ITEM Green Goblin VI,8,20 | * | Norman Osborn II}
+		{ITEM Hobgoblin II,5,6 | ../../../villains/marvel/m2/Hobgoblin.htm,_page | Roderick Kingsley}
+		{ITEM Impact,8,20 | * | =}
+		{ITEM Ion Man,8,20 | * | =}
+		{ITEM Iron Cross,8,20 | * | =}
+		{ITEM Kaine,8,20 | * | Peter Parker clone}
+		{ITEM Killerwatt,8,20 | * | =}
+		{ITEM Kingpin I,5,6 | ../../../villains/marvel/Kingpin.htm,_page | Wilson Grant Fisk}
+		{ITEM Mr. Abnormal,8,20 | * | Unknown}
+		{ITEM Mr. Big,8,20 | * | =}
+		{ITEM Mr. Nobody,8,20 | * | Unknown}
+		{ITEM Overman,8,20 | * | Simon Williams}
+		{ITEM Pincer,8,20 | * | Scott Lang}
+		{ITEM Quickwire,8,20 | * | Unknown}
+		{ITEM Raptor,8,20 | * | Brenda Drago}
+		{ITEM Red Queen,8,20 | * | =}
+		{ITEM Reverb,8,20 | * | Rudolf}
+		{ITEM S.S. Agent,8,20 | * | =}
+		{ITEM Sabreclaw,8,20 | * | =}
+		{ITEM Sentry #666,8,20 | * | Kree android}
+		{ITEM Sky-Bandit,8,20 | * | Brenda Drago}
+		{ITEM Spyral,8,20 | * | Unknown}
+		{ITEM Stormtrooper,8,20 | * | Eric Masterson}
+		{ITEM Swordmaster,8,20 | * | =}
+		{ITEM Wizard,8,20 | * | Bentley Whitman}
+	{/FOLDER}
+	{FOLDER Gods,17,18 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Galactus,5,6 | ../../../gods_monsters/marvel/Galactus.htm,_page | Galan (in previous reality), Universal personification of balance in current reality.}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Agent 33,8,20 | * | Unknown agent of S.H.I.E.L.D.} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Avengers,8,20 | * | Team of super-powered and non-super-powered heroes}
+		{ITEM Avengers II,5,6 | ../../../teams/marvel/m2/AvengersNext.htm,_page | Team of super-powered non-super-powered heroes}
+		{ITEM Defenders,8,20 | * | Team of super-powered heroes}
+		{ITEM Dream Team,8,20 | * | Team of super-powered and non-super-powered heroes}
+		{ITEM Fantastic Five,5,6 | ../../../teams/marvel/m2/FantasticFive.htm,_page | Team of super-powered heroes}
+		{ITEM X-People,8,20 | * | Team of super-powered mutant heroes}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Revengers,8,20 | * | Team of super-powered villains}
+		{ITEM Savage Six,8,20 | * | Team of super-powered villains}
+		{ITEM Soldiers of the Serpent,8,20 | * | Militant group}
+		{ITEM Thunder Guard,8,20 | * | Team of super-powered Nazis}
+		{ITEM Wizard's Warriors,8,20 | * | Team of super-powered villains lead by the Wizard.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Mainframe,8,20 | * | Robotic construct programmed with the brain waves of Tony Stark}
+		{ITEM Sentry #666,8,20 | * | Kree android}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+		{ITEM New Universe,17,18 | new_u.htm,_self | New line of comics created by Marvel.}
+		{ITEM Star Comics,17,18 | star.htm,_self | Comics for children based upon other media properties.}
+		{ITEM Supreme Power,17,18 | supreme_power.htm,_self | Alternate universe resembling that of the Squadron Supreme.}
+		{ITEM Ultimate Universe,17,18 | ultimate.htm,_self | Modern interpertation of the Marvel Universe.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

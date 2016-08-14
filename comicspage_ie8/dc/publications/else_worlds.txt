@@ -1,0 +1,154 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+	{FOLDER ~Other Publications by DC,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM Amalgam,3,4 | amalgam.htm,_self | Merger of DC and Marvel characters. Most listings with page icons display information HERE.}
+	{FOLDER ~Else Worlds,17,18 | * | Familiar characters in unfamiliar settings. Most listings with page icons display information HERE.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{FOLDER Elseworld's Finest Supergirl & Batgirl,17,18 | * | =}	
+		{ITEM Batgirl,5,6 | ../../../heroes/dc/else_worlds/ElseworldsBatgirl01.htm,_page | Barbara Gordon}
+		{ITEM Supergirl,5,6 | ../../../heroes/dc/else_worlds/ElseworldsSupergirl01.htm,_page | Kara Zor-El}
+	{/FOLDER}
+	{FOLDER Superman Last Son of Earth,17,18 | * | =}
+		{ITEM Lois Lane,8,20 | * | =}
+		{ITEM Superman,5,6 | ../../../heroes/dc/else_worlds/SupermanLastSonEarth.htm,_page | Kal-El}
+	{/FOLDER}
+	{FOLDER Superman Red Son,17,18 | * | =}
+		{ITEM Batman,8,20 | * | Unknown}
+		{ITEM Bizarro,8,20 | * | =}
+		{ITEM Green Lantern,8,20 | * | Hal Jordan}
+		{ITEM Lex Luthor,8,20 | * | =}
+		{ITEM Superman,5,6 | ../../../heroes/dc/else_worlds/SupermanRedSon.htm,_page | Kal-L}
+		{ITEM Wonder Woman,8,20 | * | Princess Diana}
+	{/FOLDER}
+	{FOLDER Thrillkiller,17,18 | * | =}
+		{ITEM Batgirl,5,6 | ../../../heroes/dc/else_worlds/ThrillkillerBatgirl.htm,_page | Barbara Miles Gordon}
+		{ITEM Batman,8,20 | * | Bruce Wayne}
+		{ITEM Robin,8,20 | * | Richart Graustark}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+	{FOLDER Elseworld's Finest Supergirl & Batgirl,3,4 | * | =}
+		{ITEM Joker,8,20 | * | Unknown}
+		{ITEM Lex Luthor,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Superman Last Son of Earth,3,4 | * | =}
+		{ITEM Lex Luthor,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Superman Red Son,3,4 | * | =}
+		{ITEM Brainiac,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Thrillkiller,17,18 | * | =}
+		{ITEM Joker,5,6 | ../../../villains/dc/else_worlds/ThrillkillerJoker.htm,_page | Blanca Steeplechase}
+		{ITEM Two-Face,8,20 | * | Duell}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{/FOLDER}
+	{FOLDER Thrillkiller,3,4 | * | =}
+		{ITEM Commissioner Gordon,8,20 | * | James Gordon}
+		{ITEM Selina Kyle,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Elseworld's Finest Supergirl & Batgirl,3,4 | * | =}
+	{FOLDER Heroes,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Justice Society,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER JLA: Secret Socity of Super-Heroes,17,18 | * | =}	
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Kryptic Order,5,6 | ../../../teams/dc/else_worlds/SecretSocietySuperHeroes.htm,_page | Group of clandestine heroes.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+		{/FOLDER}
+	{/FOLDER}
+	{FOLDER JSA: Liberty File / Unholy Three,17,18 | * | =}	
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Justice Society,5,6 | ../../../teams/dc/else_worlds/ElseworldsJusticeSociety.htm,_page | Group of clandestine heroes operating during the mid-20th Century.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the extended DC Universe.}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the extended DC Universe.}
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Just Imagine Stan Lee...,17,18 | stan_lee.htm,_self | What if Stan Lee had created the DC Universe.}
+		{ITEM Kingdom Come,17,18 | kingdom.htm,_self | Distopian future of the DC Universe.}
+		{ITEM Vertigo,17,18 | vertigo.htm,_self | Alternative press catering to mature taste. Most listings with page icons display information HERE.}
+		{ITEM Watchmen,17,18 | watchmen.htm,_self | Universe fashioned after the characters formerly published by Charlton Comics.}
+		{ITEM Wildstorm,17,18 | wildstorm.htm,_self | Former Image Comics division published by DC.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

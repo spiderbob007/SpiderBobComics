@@ -1,0 +1,295 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(S),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sabretooth,5,6 | ../../../villains/marvel/Sabretooth.htm,_page | Victor Creed}
+		{ITEM Saboteur,8,20 | * | Unknown}
+		{ITEM Sack,8,20 | * | =}
+		{ITEM (The) Sacred One,8,20 | * | Unknown}
+		{ITEM Salome,8,20 | * | =}
+		{ITEM Salt,8,20 | * | Unknown}
+		{ITEM Samisdat,8,20 | * | Alexi Kalishnikov}
+		{ITEM Samurai Steel,8,20 | * | Yoshida Asano}
+		{ITEM Sandman,5,6 | ../../../villains/marvel/Sandman.htm,_page | Flint Marko (aliases: William Baker or Sylvester Mann)}
+		{ITEM Sandu,8,20 | * | Unknown}
+		{ITEM Sangre,8,20 | * | Unknown}
+		{ITEM Sauron,5,6 | ../../../villains/marvel/Sauron.htm,_page | Dr. Karl Lykos}
+		{ITEM Satellite,8,20 | * | Unknown}
+		{ITEM Saturnyne II,8,20 | * | Opal Lun Sat-Ur}
+		{ITEM Savage,8,20 | * | Bull Taurus}
+		{ITEM Savage Steel II,8,20 | * | Arthur Vale}
+		{ITEM Savage Steel III,8,20 | * | Jimmy Zafar}
+		{ITEM Scalphunter,8,20 | * | John Greycrow}
+		{ITEM Scanner,8,20 | * | Sarah Ryall}
+		{ITEM (The) Scar,8,20 | * | Unknown}
+		{ITEM (The) Scarab,8,20 | * | Unknown}
+		{ITEM Scarbo,8,20 | * | Malachi (Melvin) Scarbo}
+		{ITEM Scarecrow,8,20 | * | Ebenezar Laughton}
+		{ITEM Scarbo,8,20 | * | Malachi Scarbo}
+		{ITEM Scarecrow,5,6 | ../../../villains/marvel/Scarecrow.htm,_page | Ebenezer Laughton}
+		{ITEM Scarlet Centurion I,5,6 | ../../../villains/marvel/Kang.htm,_page | Nathaniel Richards II}
+		{ITEM Scarlet Centurion II,5,6 | ../../../villains/marvel/ScarletCenturionII.htm,_page | Marcus Richards XXIII}
+		{ITEM Scarlet Scarab II,8,20 | * | Unknown}
+		{ITEM Scatterbrain,8,20 | * | Fascination / Technet member}
+		{ITEM Scavenger,8,20 | * | Unknown}
+		{ITEM (The) Schemer,8,20 | * | Richard Fisk}
+		{ITEM Schizoid Man,8,20 | * | Chip Martin}
+		{ITEM Scientist Supreme,8,20 | * | Various anonymous leaders of A.I.M}
+		{ITEM Scimitar,8,20 | * | Unknown}
+		{ITEM Scorcher,8,20 | * | Steven Jamal Hudak}
+		{ITEM Scorpia,8,20 | * | Elaine Colls}
+		{ITEM Scorpio I,5,6 | ../../../villains/marvel/Scorpio.htm,_page | Jacob "Jake" Fury}
+		{ITEM Scorpio II,5,6 | ../../../villains/marvel/Scorpio.htm,_page | Jacob "Jake" Fury}
+		{ITEM Scorpio III,8,20 | * | Mikel Fury}
+		{ITEM Scorpion I,5,6 | ../../../villains/marvel/Scorpion.htm,_page | MacDonald (Mac) Gargan}
+		{ITEM Scourge I,8,20 | * | Unknown (possibly Mr. Collier)}
+		{ITEM Scourge II,8,20 | * | Unknown}
+		{ITEM Scourge III,8,20 | * | Unknown}
+		{ITEM Scourge IV,8,20 | * | Unknown (possibly Decker)}
+		{ITEM Scourge V,8,20 | * | Priscilla Lyons}
+		{ITEM Scourge VI,8,20 | * | Unknown}
+		{ITEM Scourge VII,8,20 | * | Unknown (alias: Mike Walker)}
+		{ITEM Scourge VIII,8,20 | * | Unknown}
+		{ITEM Scourge VIX,8,20 | * | Unknown}
+		{ITEM Scrambler,8,20 | * | Kim Il Sung}
+		{ITEM Screaming Mimi,5,6 | ../../../heroes/marvel/Songbird.htm,_page | Melissa (Mimi) Joan Gold}
+		{ITEM Sea Leopard,8,20 | * | Unknown}
+		{ITEM (The) Seeker,8,20 | * | Ralphie Hutchins}
+		{ITEM Sega,8,20 | * | Unknown}
+		{ITEM Selene,5,6 | ../../../villains/marvel/Selene.htm,_page | Selene Gallio}
+		{ITEM Señor Muerte I,8,20 | * | Ramon Garcia}
+		{ITEM Señor Muerte II,8,20 | * | Philip Garcia}
+		{ITEM Señor Suerte I,8,20 | * | Ramon Garcia}
+		{ITEM Señor Suerte II,8,20 | * | Jaime Garcia}
+		{ITEM Serafina,8,20 | * | Unknown}
+		{ITEM Shade,8,20 | * | Jake}
+		{ITEM Shadow-Hand,8,20 | * | Li Chun}
+		{ITEM Shadow-Slasher,8,20 | * | Unknown}
+		{ITEM Shadow-Stalker,8,20 | * | Unknown}
+		{ITEM Shape,8,20 | * | Raleigh Lund}
+		{ITEM Shark,8,20 | * | Unknown}
+		{ITEM Shark Armstrong,8,20 | * | Armstrong first name unknown}
+		{ITEM Shathra,8,20 | * |  =}
+		{ITEM She-Venom,8,20 | * | Ann Weying-Brock}
+		{ITEM Shell,8,20 | * | Unknown}
+		{ITEM Shellshock,8,20 | * | =}
+		{ITEM Shinobi Shaw,8,20 | * | =}
+		{ITEM Sniper,8,20 | * | Von Burian}
+		{ITEM Shagreen the Sorcerer,8,20 | * | Shagreen}
+		{ITEM Shanzar,8,20 | * | =}
+		{ITEM Shatterstar I,8,20 | * | Arides}
+		{ITEM Shocker I,8,20 | * | Unknown}
+		{ITEM Shocker II,5,6 | ../../../villains/marvel/ShockerII.htm,_page | Herman Schultz}
+		{ITEM Shocker III,8,20 | * | Randall Darby}
+		{ITEM Shocker IV,8,20 | * | Unknown}
+		{ITEM Shockwave,8,20 | * | Lancaster Steed}
+		{ITEM Shotgun,8,20 | * | J.R. Walker Jr.}
+		{ITEM Shriek,5,6 | ../../../villains/marvel/Shriek.htm,_page | Sandra Deel (also known as Frances Louise Barrison)}
+		{ITEM Shrike,8,20 | * | Unknown}
+		{ITEM Shrunken Bones,8,20 | * | Jerold Morgan}
+		{ITEM Si-Fan,8,20 | * | Fu Manchu}
+		{ITEM Sibyl Dorn,8,20 | * | =}
+		{ITEM Sickle,8,20 | * | Unknown}
+		{ITEM Sidewinder,8,20 | * | Seth Voelker}
+		{ITEM Silencer I,8,20 | * | Count Barzan}
+		{ITEM Silencer II,8,20 | * | Unknown}
+		{ITEM Silk Fever,8,20 | * | Min Li Ng}
+		{ITEM Silver Dagger,8,20 | * | Isaiah Curwen}
+		{ITEM Silver Samurai,5,6 | ../../../villains/marvel/SilverSamurai.htm,_page | Ishiro Tagara (alias: Kenuichio Harada)}
+		{ITEM Silver Wolf,8,20 | * | Andreas Vadas}
+		{ITEM Silvermane,8,20 | * | Silvio Manfredi}
+		{ITEM Sin,5,6 | ../../../villains/marvel/Sin.htm,_page | Sinthea Schmidt}
+		{ITEM Sise-Neg,8,20 | * | =}
+		{ITEM Sister Death,8,20 | * | Unknown}
+		{ITEM Sister Moon,8,20 | * | Sha-Shan}
+		{ITEM Sitting Bullseye,8,20 | * | Olivier Bedwette}
+		{ITEM Six Gun Kid,8,20 | * | Unknown}
+		{ITEM Skid-Row Slasher,8,20 | * | James (Jimmy) Crawley}
+		{ITEM Skriker,8,20 | * | Jack D'Auria}
+		{ITEM Skullbuster,8,20 | * | Unknown}
+		{ITEM Skullcrusher,8,20 | * | Unknown}
+		{ITEM Sky Shark,8,20 | * | Captain Schleigal}
+		{ITEM Skybreaker,8,20 | * | Aireo}
+		{ITEM Skyline Killer,8,20 | * | Unknown}
+		{ITEM Slaughter,8,20 | * | Unknown}
+		{ITEM Slasher,5,6 | ../../../villains/marvel/Sabretooth.htm,_page | Victor Creed}
+		{ITEM Slayback,8,20 | * | Gregory Terraerton}
+		{ITEM Slaymaster,8,20 | * | Unknown}
+		{ITEM Slither,8,20 | * | Aaron Salomon}
+		{ITEM Slitherogue,8,20 | * | =}
+		{ITEM Slug,8,20 | * | Ulyssus X. Lugman}
+		{ITEM Smiling Tiger,8,20 | * | =}
+		{ITEM Smith,8,20 | * | Unknown}
+		{ITEM Smuggler I,5,6 | ../../../heroes/marvel/AtlasI.htm,_page | Erik Josten}
+		{ITEM Snake Marston,8,20 | * | Sylvester Marston}
+		{ITEM Snapdragon I,8,20 | * | Sheoke Sanada}
+		{ITEM Snapdragon II,8,20 | * | Rachel Leighton}
+		{ITEM Snapper,8,20 | * | Unknown}
+		{ITEM (The) Sniper,8,20 | * | Unknown}
+		{ITEM Snowblind,8,20 | * | Unknown}
+		{ITEM Solomon Prey,8,20 | * | =}
+		{ITEM Sonic,8,20 | * | Unknown}
+		{ITEM Sorcerer I,8,20 | * | Unknown}
+		{ITEM Sorcerer II,8,20 | * | Unknown}
+		{ITEM Soul-Eater,8,20 | * | K'rll}
+		{ITEM Soul Man,8,20 | * | Father Jason McCall}
+		{ITEM Space-Bomb,8,20 | * | Unknown}
+		{ITEM Space Parasite,8,20 | * | Randau}
+		{ITEM Space Phantom,5,6 | ../../../villains/marvel/SpacePhantom.htm,_page | Unknown}
+		{ITEM Space Turnip,8,20 | * | Phelch}
+		{ITME Spanker,8,20 | * | Fred Hovel}
+		{ITEM Sparks,8,20 | * | Unknown}
+		{ITEM Speed Demon,5,6 | ../../../villains/marvel/SpeedDemon.htm,_page | James Sanders}
+		{ITEM Speedfreek,8,20 | * | Joss Shappe}
+		{ITEM Spider-Woman III,8,20 | * | Charlotte Witter}
+		{ITEM Spider Queen,8,20 | * | Sharon Kane}
+		{ITEM Spidercide,8,20 | * | Peter Parker clone}
+		{ITEM Spiral,8,20 | * | Rita Waryword}
+		{ITEM Sphinx I,5,6 | ../../../villains/marvel/Sphinx.htm,_page | Anath-Na Mut}
+		{ITEM Sphinx II,8,20 | * | Meryet Karim}
+		{ITEM Splice,8,20 | * | Chandra Ku}
+		{ITEM Spoilsport,8,20 | * | Unknown}
+		{ITEM Spoor,8,20 | * | Andrew Hamish Graves}
+		{ITEM (The) Spot,5,6 | ../../../villains/marvel/Spot.htm,_page | Dr. Jonathan Ohnn}
+		{ITEM Spymaster I,5,6 | ../../../villains/marvel/Spymaster.htm,_page | Unknown}
+		{ITEM Spymaster II,5,6 | ../../../villains/marvel/Spymaster.htm,_page | Nathan Lemon}
+		{ITEM Spymaster III,8,20 | * | Sinclair Abbott}
+		{ITEM Stallior,8,20 | * | Unknown}
+		{ITEM Star Hammer,8,20 | * | Unknown D'Bari}
+		{ITEM Star Stalker,8,20 | * | Unknown}
+		{ITEM Star Thief,8,20 | * | Ditmil Pirvat}
+		{ITEM Star-Thief,8,20 | * | Barry Bauman}
+		{ITEM Starbolt,8,20 | * | Unknown}
+		{ITEM Starlight,8,20 | * | Dr. Tania Belinskya}
+		{ITEM Starwolf,8,20 | * | Dredmund Cromwell}
+		{ITEM Static,8,20 | * | Gianna Carina Esperanza}
+		{ITEM Steel Collar,8,20 | * | Member of System Crash}
+		{ITEM Steel Guardian,8,20 | * | Josef Petkus}
+		{ITEM Steel Serpent,8,20 | * | Davos}
+		{ITEM Steel Wind,8,20 | * | Unknown}
+		{ITEM Steeplejack II,8,20 | * | =}
+		{ITEM Stegron the Dinosaur Man,8,20 | * | Dr. Vincent Stegron}
+		{ITEM Stellaris,8,20 | * | Unknown}
+		{ITEM Sticker,8,20 | * | Unknown (last name Foxworth)}
+		{ITEM Stiletto I,8,20 | * | Tom Stuart}
+		{ITEM Stilt-Man I,5,6 | ../../../villains/marvel/StiltMan.htm,_page | Wilbur Day}
+		{ITEM Stilt-Man II,5,6 | ../../../villains/marvel/StiltMan.htm,_page | Turk}
+		{ITEM Stilt-Man III,8,20 | * | Unknown}
+		{ITEM Stinger,8,20 | * | Unknown}
+		{ITEM Stone II,8,20 | * | =}
+		{ITEM Stranger,8,20 | * | Unknown}
+		{ITEM Stratosfire,8,20 | * | Sandy Vincent}
+		{ITEM Strikeback,8,20 | * | Anthony Davis}
+		{ITEM Strobe,8,20 | * | Unknown}
+		{ITEM Strongman I,8,20 | * | Percy Van Norton}
+		{ITEM Strongman II,8,20 | * | Bruce (Bruto) Olafsen}
+		{ITEM Stryfe,5,6 | ../../../villains/marvel/Stryfe.htm,_page | Clone of Nathan Christopher Summers}
+		{ITEM Stunner,8,20 | * | Angelina Brancale}
+		{ITEM Stygyro,8,20 | * | =}
+		{ITEM Styx,8,20 | * | =}
+		{ITEM Sub-Earth Man,8,20 | * | 
+		{ITEM Sublime,5,6 | ../../../villains/marvel/Sublime.htm,_page | Dr. Henry (Hank) McCoy}
+		{ITEM Sugar Man,8,20 | * | Unknown}
+		{ITEM Suicide King,8,20 | * | Unknown}
+		{ITEM Suma-Ket,8,20 | * | =}
+		{ITEM Sumaro,8,20 | * | Unknown}
+		{ITEM Sun King,8,20 | * | Unknown}
+		{ITEM Sun Stealer,8,20 | * | Xakku}
+		{ITEM Sundown,8,20 | * | David Patrick Lowell}
+		{ITEM Sunset Bain,8,20 | * | =}
+		{ITEM Sunturion I,8,20 | * | Arthur Dearborn}
+		{ITEM Sunturion II,8,20 | * | Mike Stone}
+		{ITEM Superia,8,20 | * | Dr. Deidre Wentworth}
+		{ITEM Super-Patriot II,5,6 | ../../../heroes/marvel/USAgent.htm,_page | John (Johnny) F. Walker}
+		{ITEM Super Sabre,8,20 | * | Martin Fletcher}
+		{ITEM Super-Skrull I,5,6 | ../../../villains/marvel/SuperSkrull.htm,_page | K'lrt}
+		{ITEM Suprema I,8,20 | * | Dr. Deidre Wentworth}
+		{ITEM Suprema II,8,20 | * | Susan Scarbo}
+		{ITEM Supreme Hydra,8,20 | * | Baron Wolfgang von Strucker}
+		{ITEM Supreme Serpent I,8,20 | * | General Chen}
+		{ITEM Supreme Serpent II,8,20 | * | Dan Dunn & Mortague Hale}
+		{ITEM Supreme Serpent III,8,20 | * | J.C. Pennyworth}
+		{ITEM Supreme Serpent IV,8,20 | * | Lucas Green}
+		{ITEM Supreme Serpent VI,8,20 | * | Russell Daboia}
+		{ITEM Supremor,8,20 | * | =}
+		{ITEM Supremus,8,20 | * | Ulysses Abboud}
+		{ITEM Surge I,8,20 | * | Unknown}
+		{ITEM Surge III,5,6 | ../../../villains/marvel/Mystique.htm,_page | Raven Darkholme}
+		{ITEM (The) Surgeon,8,20 | * | Unknown}
+		{ITEM Surtur,5,6 | ../../../gods_monsters/marvel/Surtur.htm,_page | =}
+		{ITEM Swarm,5,6 | ../../../villains/marvel/Swarm.htm,_page | Fritz von Meyer}
+		{ITEM (The) Swine,8,20 | * | Hector Santiago}
+		{ITEM Swordsman I,5,6 | ../../../heroes/marvel/Swordsman.htm,_page | Jacques Duquesne}
+		{ITEM Synario,8,20 | * | Angela Bradford}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

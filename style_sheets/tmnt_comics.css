@@ -1,0 +1,23 @@
+﻿	
+	@import "import_comics.css";
+	
+	/*autobot_comics*/
+
+	body	{
+		background-image: url('../images/tmnt02.gif'); 
+		background-repeat: repeat; 
+		background-attachment: fixed;
+	}	
+	
+	.back-to-top {
+		position: fixed;
+		bottom: 20px;
+		right: 5px;
+		display: none
+	}
+	
+	@media screen and (max-width: 800px) {
+		.back-to-top {
+		display: none !important;
+		}
+	}

@@ -1,0 +1,178 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM T'Rannikus,8,20 | * | =}
+		{ITEM T-Ray,8,20 | * | Wade Wilson}
+		{ITEM Tactical Force,8,20 | * | Karl}
+		{ITEM Tailhook,8,20 | * | Marissa}
+		{ITEM Talisman II,8,20 | * | Unknown}
+		{ITEM Talisman III,8,20 | * | Unknown}
+		{ITEM Tarantula II,8,20 | * | Anton Miguel Rodriguez}
+		{ITEM Tarantula III,8,20 | * | Luis Alvarez}
+		{ITEM Tarot,8,20 | * | Marie-Ange Colbert}
+		{ITEM Taskmaster,5,6 | ../../../villains/marvel/Taskmaster.htm,_page | Unknown}
+		{ITEM Tatterdemalion,8,20 | * | Arnold Paffenroth}
+		{ITEM Taurus I,8,20 | * | Cornelius Van Lunt}
+		{ITEM Tazza,8,20 | * | =}
+		{ITEM Techmaster,8,20 | * | Billy Bitzer}
+		{ITEM Technospike,8,20 | * | Unknown}
+		{ITEM Tellius,8,20 | * | =}
+		{ITEM Tempest I,8,20 | * | Grannz}
+		{ITEM Temptress,8,20 | * | Ravonna Lexus Renslayer}
+		{ITEM Tenpin,8,20 | * | Alvin Healey}
+		{ITEM Terdu,8,20 | * | =}
+		{ITEM Terminatrix,8,20 | * | Ravonna Lexus Renslayer}
+		{ITEM Terminator,5,6 | ../../../gods_monsters/marvel/Terminus.htm,_page | Terminus}
+		{ITEM Terminex,5,6 | ../../../gods_monsters/marvel/Terminus.htm,_page | Terminus}
+		{ITEM Terminoid,5,6 | ../../../gods_monsters/marvel/Terminus.htm,_page | Terminus}
+		{ITEM Terminus,5,6 | ../../../gods_monsters/marvel/Terminus.htm,_page | =}
+		{ITEM Terrax the Tamer,5,6 | ../../../villains/marvel/Terrax.htm,_page | Tyros}
+		{ITEM Terrible Tinkerer,5,6 | ../../../villains/marvel/Tinkerer.htm,_page | Phineas T. Mason}
+		{ITEM Terrigene,8,20 | * | Unknown}
+		{ITEM Terror,5,6 | ../../../heroes/marvel/Terror.htm,_page | Unknown}
+		{ITEM Terrorist of Time,8,20 | * | Unknown}
+		{ITEM Teutonic Knight,8,20 | * | Franz Gerhardt}
+		{ITEM Thanatos,8,20 | * | Richard Milhouse Jones}
+		{ITEM Thane Ector,8,20 | * | =}
+		{ITEM Thanos,5,6 | ../../../villains/marvel/Thanos.htm,_page | Thanos of Titan}
+		{ITEM Therak,8,20 | * | Theo}
+		{ITEM Thermite I,8,20 | * | Sam Yurimoto}
+		{ITEM Thermos,8,20 | * | Unknown}
+		{ITEM Think Tank,8,20 | * | Marvin Flumm}
+		{ITEM (The) Thinker,5,6 | ../../../villains/marvel/MadThinker.htm,_page | Unknown}
+		{ITEM Third Rail,8,20 | * | Unknown}
+		{ITEM Thornn,8,20 | * | Uknown}
+		{ITEM (The) Thousand,8,20 | * | Carl King}
+		{ITEM Threska,8,20 | * | =}
+		{ITEM Thug,8,20 | * | Technet member}
+		{ITEM Thulsa Doom,8,20 | * | =}
+		{ITEM Thunderball,8,20 | * | Eliot Franklin}
+		{ITEM Thundersword,8,20 | * | Stewart Cadwell}
+		{ITEM Thundra,5,6 | ../../../heroes/marvel/Thundra.htm,_page | =}
+		{ITEM Tiboro,8,20 | * | =}
+		{ITEM Ticktock,8,20 | * | Unknown}
+		{ITEM Tiger-Claw,8,20 | * | Unknown}
+		{ITEM Tiger Shark I,8,20 | * | Todd Arliss}
+		{ITEM Tiger Shark II,8,20 | * | Unknown}
+		{ITEM Tigress Shark,5,6 | ../../../heroes/marvel/Namorita.htm,_page | Namorita Prentiss also known as Kymaera}
+		{ITEM Tillie the Hun,8,20 | * | Matilda von Tromp}
+		{ITEM Timberius,8,20 | * | Unknown (also known as Lupo)}
+		{ITEM Time-Master,8,20 | * | Elias Weems}
+		{ITEM Timeshadow,8,20 | * | Unknown}
+		{ITEM Timestream,8,20 | * | Henry Akai}
+		{ITEM Tinkerer,5,6 | ../../../villains/marvel/Tinkerer.htm,_page | Phineas T. Mason}
+		{ITEM Titan,8,20 | * | Unknown}
+		{ITEM Titania I,8,20 | * | Davida DeVito}
+		{ITEM Titania II,5,6 | ../../../villains/marvel/TitaniaII.htm,_page | Mary (Skeeter) MacPherran-Creel}
+		{ITEM Titanium Man I,5,6 | ../../../villains/marvel/TitaniumMan.htm,_page | Boris Bullski}
+		{ITEM Titanium Man II,5,6 | ../../../villains/marvel/TitaniumMan.htm,_page | Gremlin}
+		{ITEM Titanium Man III,5,6 | ../../../villains/marvel/TitaniumMan.htm,_page | Andy Stockwell}
+		{ITEM Titannus,5,6 | ../../../villains/marvel/Titannus.htm,_page | =}
+		{ITEM Toad,5,6 | ../../../villains/marvel/Toad.htm,_page | Mortimer Toynbee}
+		{ITEM Toadman,8,20 | * | Unknown}
+		{ITEM Toddler,8,20 | * | Unknown}
+		{ITEM Togo,8,20 | * | Unknown}
+		{ITEM Tombstone I,5,6 | ../../../villains/marvel/Tombstone.htm,_page | Lonnie Thompson Lincoln}
+		{ITEM Tomorrow Man,8,20 | * | Artur Zarrko}
+		{ITEM Torgo,8,20 | * | =}
+		{ITEM Toro Rojo,8,20 | * | =}
+		{ITEM Torso,8,20 | * | Unknown}
+		{ITEM Torque,8,20 | * | Ralphie Hutchins}
+		{ITEM Tracer I,8,20 | * | Richard Bloom}
+		{ITEM Tracer II,8,20 | * | Unknown}
+		{ITEM Trago,8,20 | * | =}
+		{ITEM Trapster I,8,20 | * | Peter Petruski}
+		{ITEM Trapster II,8,20 | * | Lawrence (Larry) Curtiss}
+		{ITEM Trauma,8,20 | * | Troyjan species}
+		{ITEM Tremolo,8,20 | * | Unknown}
+		{ITEM Tri-Man,8,20 | * | Unknown}
+		{ITEM Triage,8,20 | * | Nigel Blacque}
+		{ITEM Trickshot I,8,20 | * | Blake Chisholm}
+		{ITEM Trickshot II,8,20 | * | Barney Barton}
+		{ITEM Trump,8,20 | * | Carlton Sanders}
+		{ITEM Truth,8,20 | * | Unknown}
+		{ITEM Tumbler I,8,20 | * | Unknown}
+		{ITEM Turac,8,20 | * | =}
+		{ITEM Turner D. Century,8,20 | * | Clifford F. Michaels}
+		{ITEM Tusk,8,20 | * | Unknown}
+		{ITEM Tutinax,8,20 | * | =}
+		{ITEM Two-Legged Rat,8,20 | * | Unknown}
+		{ITEM Tyger Tiger,8,20 | * | Jessan Hoan}
+		{ITEM Typhoid Mary,5,6 | ../../../villains/marvel/TyphoidMary.htm,_page | Mary Walker}
+		{ITEM Typhon,5,6 | ../../../gods_monsters/marvel/Typhon.htm,_page | Monstrous Titan born of Gaia and Tartarus.}
+		{ITEM Tyrak the Treacherous,8,20 | * | Tyrak}
+		{ITEM Tyrant,8,20 | * | Unknown}
+		{ITEM Tyrannus,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

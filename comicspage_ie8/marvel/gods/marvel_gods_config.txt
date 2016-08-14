@@ -1,0 +1,283 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+	{FOLDER ~Gods,17,18 | * |  The gods of the Marvel Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abraxas,5,6 | ../../../gods_monsters/marvel/Abraxas.htm,_page | Interdimensional astrogod bent on universal destruction.}
+		{ITEM Adva,8,20 | * | Dark god possesing the power of interstellar teleportation.}
+		{ITEM Adversary,8,20 | * | Mystical entity in Cheyenne Indian culture that seeks to destroy this universe and created a new one.}
+		{ITEM Agamotto,8,20 | * | Mystical god of an alien race.}
+		{ITEM Ahh,8,20 | * | Angelic focal point of good and counterpart to Ngh the Unspeakable the focal point of evil.}
+		{ITEM Amatsu Mikaboshi,8,20 | * | Japanese god of evil.}
+		{ITEM Aphrodite,5,6 | ../../../heroes/marvel/Venus.htm,_page | Greek goddess of love, also known as Venus.}
+		{ITEM Apollo,8,20 | * | Greek god of light, music, poetry, medicine and science}
+		{ITEM Ares,5,6 | ../../../gods_monsters/marvel/Ares.htm,_page | Olympic god of war.}
+		{ITEM Arishem the Judge,8,20 | * | Leader of the Celestials}
+		{ITEM Aron,8,20 | * | Aron the rogue Watcher}
+		{ITEM Ashema,8,20 | * | Listener of the Celestials}
+		{ITEM Astronomer,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Balder,5,6 | ../../../heroes/marvel/Balder.htm,_page | Balder the Brave, Norse warrior-god of light.}
+		{ITEM Bast,8,20 | * | Egyptian cat god and patron god of the Wkandans and Black Panther.}
+		{ITEM Belasco,8,20 | * | Lord of Limbo and servant to the Elder Gods. (also known as Lucifer)}
+		{ITEM Beyonder,8,20 | * | Omnipotent entity from another dimension (also known as Kosmos)}
+		{ITEM Black Celestial,8,20 | * | Tiamut the renegade celestial.}
+		{ITEM Blackheart,8,20 | * | Son of Mephisto and heir to the Underworld}
+		{ITEM Bres,8,20 | * | Elemental god from the dimension of Avalon.}
+	{/FOLDER}
+	{FOLDER (C),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cethlann,8,20 | * | Elemental god from the dimension of Avalon.}
+		{ITEM Cha'Sa'Dra,8,20 | * | God of the Lava Men.}
+		{ITEM Champion of the Universe,8,20 | * | Tryco Slatterus, elder of the universe.}
+		{ITEM Chthon,8,20 | * | Elder god that degenerated into a demon.}
+		{ITEM Collector,8,20 | * | Taneleer Tivan, elder of the universe.}
+		{ITEM Contemplator,8,20 | * | Tath Ki, elder of the universe.}
+		{ITEM Cyra,8,20 | * | Healer god of Asgard.}
+		{ITEM Cyttorak,8,20 | * | Ancient god of physical power.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM D'Spayre,8,20 | * | Personification of despair}
+		{ITEM Death I,5,6 | ../../../gods_monsters/marvel/Death.htm,_page | Universal personification of entropy. Appears as either a beautiful woman or a robed skeleton.}
+		{ITEM Deathurge,8,20 | * | Personification of the destructive impulses of living beings}
+		{ITEM Desak,8,20 | * | Destroyer of gods}
+		{ITEM Diablo I,8,20 | * | Demon from the Fifth Dimension}
+		{ITEM Dormammu,5,6 | ../../../villains/marvel/Dormammu.htm,_page | The Dread Dormammu, ruler and god of the Dark Dimension.}
+		{ITEM Dream Queen,8,20 | * | Goddess of nightmares, daughter of Nightmare and the succubus Zhilla}
+		{ITEM Dreaming Celestial,8,20 | * | Tiamut the renegade celestial.}
+		{ITEM Dulb,8,20 | * | Elemental god from the dimension of Avalon.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Elathan,8,20 | * | Elemental god from the dimension of Avalon.}
+		{ITEM Empathy,8,20 | * | Aspect of Eternity.}
+		{ITEM Enchantress,5,6 | ../../../gods_monsters/marvel/Enchantress.htm,_page | Amora}
+		{ITEM Enmity,8,20 | * | Aspect of Eternity}
+		{ITEM Entropy,8,20 | * | Universal personification of decay.}
+		{ITEM Eon,8,20 | * | Universal personification of time.}
+		{ITEM Epiphany,8,20 | * | Aspect of Eternity.}
+		{ITEM Epoch,8,20 | * | Guardian of cosmic awareness.}
+		{ITEM Erishkigel I,8,20 | * | Babylonian goddess of death.}
+		{ITEM Eson the Searcher,8,20 | * | Eson the celestial.}
+		{ITEM Eternity,5,6 | ../../../gods_monsters/marvel/Eternity.htm,_page | Universal personification of existence.}
+		{ITEM Executioner,8,20 | * | Skurge (also known as Hans Grubenvelt)}
+		{ITEM Exitar Destroyer of Worlds,8,20 | * | Exitar the celestial executioner.}
+		{ITEM Expediency,8,20 | * | Aspect of Eternity.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Fandral,5,6 | ../../../teams/marvel/WarriorsThree.htm,_page | Fandral The Dashing, Asgardian warrior and ally of Thor.}
+		{ITEM Frey,8,20 | * | Asgardian god of the harvest}
+		{ITEM Frigga,8,20 | * | Asgardian goddess of marriage.  Queen of the Norse Gods, wife to Odin, foster mother to Thor and Loki.}		
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Gaea,8,20 | * | Patron goddess of Earth}
+		{ITEM Galactus,5,6 | ../../../gods_monsters/marvel/Galactus.htm,_page | Galan (in previous reality), Universal personification of balance in current reality.}
+		{ITEM Gammenon the Gatherer,8,20 | * | Gammenon the celestial gatherer.}
+		{ITEM Gardener,8,20 | * | Ord Zyonyz, elder of the universe.}
+		{ITEM Geb,8,20 | * | Earth god}
+		{ITEM Geirroodur,8,20 | * | King of the Asgardian Trolls.}
+		{ITEM Genesis,8,20 | * | The time-traveling mystic Sise-Neg reborn as the progenitor of the universe.}
+		{ITEM Glorian,8,20 | * | Thomas Gideon, apprentice dream shaper.}
+		{ITEM Godstalker,8,20 | * | Godstalker guardian of the Desecration Annex, member of the Celestials}
+		{ITEM Grandmaster,5,6 | ../../../villains/marvel/Grandmaster.htm,_page | En Dwi Gast}
+		{ITEM Great One,8,20 | * | Being who offers it protection to galactic species by merging them within its minds.}
+		{ITEM Grog the God-Slayer,8,20 | * | Leader of the armies of Seth, member of the race of Heliolitan gods.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Hades,5,6 | ../../../gods_monsters/marvel/Pluto.htm,_page | Olympic god of the underworld also known as Pluto and Hayden P. Hellman, movie producer}
+		{ITEM Hargen,8,20 | * | Hargen the celestial measurer}
+		{ITEM Heimdall,5,6 | ../../../gods_monsters/marvel/Heimdall.htm,_page | Sentry of the Rainbow Bridge of Asgard}
+		{ITEM Hela,5,6 | ../../../gods_monsters/marvel/Hela.htm,_page | Norse goddess of death, ruler of Hel and Niffelheim.}
+		{ITEM Helleyes,8,20 | * | Extradimensional demon with a multitude of eyes on its body.}
+		{ITEM Hera,8,20 | * | Queen of the Greek gods}
+		{ITEM Hercules,5,6 | ../../../heroes/marvel/Hercules.htm,_page | Greek warrior god, son of Zeus and the mortal Alcmena.}
+		{ITEM Hermes,8,20 | * | Greek god of commerce and travel, son and herald of Zeus (also known as Mercury).}
+		{ITEM Hermod,8,20 | * | Norse god of speed.}
+		{ITEM Hescamar,8,20 | * | Raven advisor of Odin.}
+		{ITEM Hoder,8,20  | * | Norse god of winter, brother of Balder.}
+		{ITEM Hogun,5,6 | ../../../teams/marvel/WarriorsThree.htm,_page | Hogun the Grim, Asgardian warrior and ally of Thor.}
+		{ITEM Horus,8,20 | * | Egyptian god of justice and retribution (also known as Horos or Hor)}
+		{ITEM Hoss,5,6 | ../../../gods_monsters/marvel/Hoss.htm,_page | Demonic enforcer.}
+		{ITEM Huginn,5,6 | ../../../vehicles_devices/marvel/OdinsRavens.htm,_page | The thoughts of Odin in the form of a raven.}
+		{ITEM Hunger,5,6 | ../../../gods_monsters/marvel/Hunger.htm,_page | Malevolent entity that devours entire realities.}
+		{ITEM Huntsman,8,20 | * | Human named Cephalus of Phocis elevated to the status of a god by Zeus.}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Idunn,8,20 | * | Asgardian goddess of immortality.  (Also known as Freia or Freya)}
+		{ITEM In-Betweener,8,20 | * | Personification of universal balance from the dimension of Lord Chaos and Master Order.}
+		{ITEM Indech,8,20 | * | Elemental god from the dimension of Avalon.}
+		{ITEM Infinity,8,20 | * | Abstract entity personifying the sum of all that exists along the spatial axis.}
+		{ITEM Isis,8,20 | * | Egyptian goddess of fertility and domestication}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Janus,8,20 | * | Angelic entity enhabiting the body of a mortal baby.}
+		{ITEM Jemiah the Analyzer,8,20 | * | Member of the fourth celestial host.}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Karnilla,8,20 | * | Karnilla the Norn Queen of Norrheim}
+		{ITEM Kid Reaper,8,20 | * | Manifestation of death for those that wish to die.}
+		{ITEM Knonshu,8,20 | * | Ancient Egyptian god of the Moon and vengeance.}
+		{ITEM Kosmos,8,20 | * | Omnipotent entity from another dimension (also known as Beyonder)}
+		{ITEM Kubik,8,20 | * | God-like being born of the Cosmic Cube.  Is capable of manipulating reality without apparent limit.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Laufey,8,20 | * | Frost giant and father of Loki.}
+		{ITEM Leir,8,20 | * | Celtic Avalon god of lightning.}
+		{ITEM Lilith II,8,20 | * | Mother of of the Lilian (Elder Gods)}
+		{ITEM Llan the sorcerer,8,20 | * | Llan extra-dimensional god.}
+		{ITEM Lion God,8,20 | * | Sekhmet the cat god of Upper Egypt.}
+		{ITEM Living Tribunal,5,6 | ../../../gods_monsters/marvel/LivingTribunal.htm,_page | Judge and defender of the infinite cosmos.}
+		{ITEM Loki,5,6 | ../../../villains/marvel/Loki.htm,_page | Loki Laufeyson the Norse god of deceit.}
+		{ITEM Lord Chaos,8,20 | * | Universal personification of entropy and chaos from another dimension.}
+		{ITEM Lucifer,5,6 | ../../../gods_monsters/marvel/Lucifer.htm,_page | Lord of the Underworld}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Majestrix,8,20 | * | Omni-Universal guardian.}
+		{ITEM Magni,5,6 | ../../../heroes/marvel/Magni.htm,_page | Son of Thor and the Norse god of strength.
+		{ITEM Marduk,8,20 | * | Ancient Babylonian god created by human fear and self hatred.}
+		{ITEM Marnot,8,20 | * | Human form of Odin's raven advisor Hescamar.}
+		{ITEM Master Hate,8,20 | * | Embodiment of hate.}
+		{ITEM Master Order,8,20 | * | Universal personification of order from another dimension}
+		{ITEM Mephista,8,20 | * | Daughter of the demon Mephisto.}
+		{ITEM Mephisto,5,6 | ../../../gods_monsters/marvel/Mephisto.htm,_page | Lord of the Underworld}
+		{ITEM Mercury I,8,20 | * | Greek god of commerce and travel, son and herald of Zeus (also known as Hermes).}
+		{ITEM Mistress Love,8,20 | * | Embodiment of the power of love.}
+		{ITEM Mogul,8,20 | * | Mogul of the Mystic Mountain ruler of city of Zanadu.}
+		{ITEM Morwen,8,20 | * | Ancient force of destruction.}
+		{ITEM Muninn,5,6 | ../../../vehicles_devices/marvel/OdinsRavens.htm,_page | The memories of Odin in the form of a raven.}		
+	{/FOLDER}
+	{FOLDER (N),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM N'Astirh,8,20 | * | Demon ruler of limbo}
+		{ITEM Nebulos,8,20 | * | Mystic ruler of the Planets Perilous.}
+		{ITEM Neptune,8,20 | * | Poseidon the Greek god of the sea and patron god of Atlantis}
+		{ITEM Nezarr the Calculator,8,20 | * | Member of the fourth celestial host.}
+		{ITEM Ngh the Unspeakable,8,20 | * | Demonic focal point of evil and counterpart to Ahh the focal point of good.}
+		{ITEM Nightmare,5,6 | ../../../gods_monsters/marvel/Nightmare.htm,_page | Demonic lord of the Nightmare World.}
+		{ITEM Null the Living Darkness,8,20 | * | Mystic life-form created from the collective unconscious of the extinct S'Raphh race.}
+		{ITEM Numinus,8,20 | * | Universal guiding spirit}
+		{ITEM Nut,8,20 | * | Egyptian goddess of the sky}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Oblivion,8,20 | * | Lord of the Outer Void.}
+		{ITEM Odin,5,6 | ../../../gods_monsters/marvel/Odin.htm,_page | King of Norse gods}
+		{ITEM Olivier,8,20 | * | Demon ruling over a realm of Hell.}
+		{ITEM One Above All,8,20 | * | Commander of the Fourth Celestial Host}
+		{ITEM Oneg The Prober,8,20 | * | Member of the fourth celestial host.}
+		{ITEM Origin,8,20 | * | Cosmic entity and creator of heroes.}
+		{ITEM Osiris,8,20 | * | Egyptian god of the dead}
+		{ITEM Otkid the Omnipotent,8,20 | * | Ancient god of suffering trapped in the dimension Pi.}
+		{ITEM Owayadata,8,20 | * | Cheyenne wolf god.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Pele,8,20 | * | Tahitian volcano goddess.}
+		{ITEM Peliali,8,20 | * | Mayan nature goddess}
+		{ITEM Pentigarr,8,20 | * | Warrior of the Ancient Cask of Winters}
+		{ITEM Perrikus,8,20 | * | Executioner of the dark gods.}
+		{ITEM Perun,8,20 | * | Slavic god of the storm and lightning.}
+		{ITEM Phoenix Force,5,6 | ../../../gods_monsters/marvel/PhoenixForce.htm,_page | Near omnipotent primal force of the Universe which derives its power from the psyches of all living beings.}
+		{ITEM Pluto,5,6 | ../../../gods_monsters/marvel/Pluto.htm,_page | Olympic god of the underworld also known as Hades and Hayden P. Hellman, movie producer}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Raazer,8,20 | * | Demon of the Black Blade of Baghdad}
+		{ITEM Replicoid,8,20 | * | Messenger of the Celestials, cloned from Thor}
+		{ITEM Roma,8,20 | * | Protector of the Multi-verse}
+		{ITEM Rommbu,8,20 | * | Monster}
+		{ITEM Rorkannu,8,20 | * | The Dread Rorkannu, ruler of the Dank Dimension.}
+		{ITEM (The) Runner,8,20 | * | Elder of the universe obsessed with running and speed.}
+		{ITEM Ruth,5,6 | ../../../gods_monsters/marvel/Ruth.htm,_page | Angelic enforcer.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Satan,8,20 | * | Demon of the underworld}
+		{ITEM Satannish,8,20 | * | God of the underworld}
+		{ITEM Saturnyne,8,20 | * | Omni-Universal guardian.}
+		{ITEM Set,8,20 | * | Egyptian serpent god}
+		{ITEM Seth,8,20 | * | Egyptian god of evil and death}
+		{ITEM Shaper of Worlds,8,20 | * | God-like being born of the Skrull Cosmic Cube.  Is capable of manipulating reality without apparent limit.}
+		{ITEM Shathra,8,20 | * |  Wasp-like goddess from another dimension.}
+		{ITEM Shuma-Gorath,8,20 | * | Malevolent god from the dawn of time.}
+		{ITEM Sif,5,6 | ../../../gods_monsters/marvel/Sif.htm,_page | Asgardian consort of Thor}
+		{ITEM Sigyn,8,20 | * | Asgardian goddess of fidelity}
+		{ITEM (The) Silent One,8,20 | * | Harbinger of doom to the gods.}
+		{ITEM Surtur,5,6 | ../../../gods_monsters/marvel/Surtur.htm,_page | Monarch and god of Muspelheim}
+		{ITEM S'ym,8,20 | * | Demon}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Tefral,8,20 | * | Surveyor of the Celestials}
+		{ITEM Tethra,8,20 | * | Elemental god from the dimension of Avalon.}
+		{ITEM Thog,8,20 | * | Demon ruler of the underworld Sominus.}
+		{ITEM Thor,5,6 | ../../../heroes/marvel/Thor.htm,_page | Asgardian god of thunder}
+		{ITEM Tiboro,8,20 | * | Spirit of decay from the sixth dimension.}
+		{ITEM Typhon,5,6 | ../../../gods_monsters/marvel/Typhon.htm,_page | Monstrous Titan born of Gaia and Tartarus.}
+		{ITEM Tyr,8,20 | * | Asgardian god of war.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Uatu the Watcher,8,20 | * | Immortal extraterrestrial observer of human affairs.}
+		{ITEM Ute the Watcher,8,20 | * | Immortal extraterrestrial observer.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Venus,5,6 | ../../../heroes/marvel/Venus.htm,_page | Greek goddess of love, also known as Aphrodite.}
+		{ITEM Veritas,8,20 | * | Embodiment of truth.}
+		{ITEM Vidar,8,20 | * | Member of the Asgardian and Storm Giant race.  Son of Odin and half-brother of Thor.}
+		{ITEM Vishnu,8,20 | * | Leader of the Hindu gods}
+		{ITEM Volla,8,20 | * | Asgardian prophetess able to see the future.}
+		{ITEM Volstagg,5,6 | ../../../teams/marvel/WarriorsThree.htm,_page | Asgardian warrior, also known as Volstagg the Voluminous or the Lion of Asgard.}
+	{/FOLDER}
+	{FOLDER (W),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Walker,8,20 | * | "He who walks across the worlds of life and death like a colossus" Death god from another galaxy.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Zarathos,8,20 | * | Demonic spirit of vengence.}
+		{ITEM Zeus,8,20 | * | King of the Olympic gods and father of Hercules}
+		{ITEM Ziran the Tester,8,20 | * | Researcher of the Celestials}
+		{ITEM Zom,8,20 | * | Embodiment of evil mysticism.}
+	{/FOLDER}
+	{FOLDER Pantheons,17,18 | * | The family of gods of the Marvel Universe.}
+		{ITEM Amatsu-Kami,8,20 | * | Celestial and ancestral dieties of Japan.}
+		{ITEM Annunaki,8,20 | * | Group of elder gods.}
+		{ITEM Asgardians,5,6 | ../../../gods_monsters/marvel/Asgardians.htm,_page | Gods of the ancient Vikings. Thor is an Asgardian}
+		{ITEM Celestials,5,6 | ../../../aliens_races/marvel/Celestials.htm,_page | God-like aliens born of the Universal consciousness, Eternity.}
+		{ITEM Celtic Gods of Avalon,8,20 | * | =}
+		{ITEM Council Elite,5,6 | ../../../gods_monsters/marvel/CouncilElite.htm,_page | Council of ancient gods.}
+		{ITEM Council of Godheads,5,6 | ../../../gods_monsters/marvel/CouncilElite.htm,_page | Council of ancient gods.}
+		{ITEM Dark Gods,8,20 | * | Pantheon of dieties worshipped by extraterrestrials.}
+		{ITEM Egyptian gods of Heliopolis,8,20 | * | Gods of ancient Egypt}
+		{ITEM Elders of the Universe,8,20 | * | Immortal group of sole-surviving beings descended from the oldest known galactic races now extinct}
+		{ITEM Exemplars,8,20 | * | Pantheon of elemental gods.}
+		{ITEM Fear Lords,8,20 | * | Host of gods that derive power from fear.}
+		{ITEM (The) Fomor,8,20 | * | Group of elemental gods from the dimension of Avalon.}
+		{ITEM Fourth Celestial Host,8,20 | * | =}
+		{ITEM Great Beast,8,20 | * | Pantheon of mystical beings bent on world domination}
+		{ITEM Infinites,8,20 | * | Extra-dimensional gods seeking to maximize the efficiency of the universe.}
+		{ITEM Nelvanna,8,20 | * | Gods of the great white north.}
+		{ITEM Olympian,8,20 | * | Gods of the ancient Greeks. Hercules is an Olympian}
+		{ITEM Seven Friendless,8,20 | * | Gods of universal personification.}
+		{ITEM Tetrarchs of Entropy,8,20 | * | Group of mystical deities.}
+		{ITEM (The) Three Storms,8,20 | * | Three warrior gods typifiying wind, lightning and thunder.}
+		{ITEM Those that Sit Above in Shadow,8,20 | * | Pantheon of celestial gods that derive their power from the sacrifice of other gods.}
+		{ITEM Time-Keepers,8,20 | * | Trio of beings who manipulate temporal energy.}
+		{ITEM Vishanti,8,20 | * | Group of mystical deities.}
+		{ITEM Watchers,5,6 | ../../../aliens_races/marvel/Watchers.htm,_page | Near-omnipotent extraterrestrials devoted to the chronicling of sentient species in the universe.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,47 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+	{FOLDER ~Events,17,18 | * | The grand and long-lasting events of the DC Universe.} 
+		{ITEM 52,5,6 | ../../../events/dc/52.htm,_page | The lost year of the DC Universe after the Infinite Crisis.}
+		{ITEM Contagion,5,6 | ../../../events/dc/Contagion.htm,_page | Batman and his allies search for a cure to a plague infecting Gotham's citizens.}
+		{ITEM Crisis on Infinite Earths,5,6 | ../../../events/dc/CrisisOnInfiniteEarths.htm,_page | Merging of the Multi-Verse.}
+		{ITEM Crisis on Multiple Earths,5,6 | ../../../events/dc/CrisisMultipleEarths.htm,_page | Justice League of America from Earth-1 and the Justice Society of Earth-2 would periodically join forces to stop menaces to both of their universes.}
+		{ITEM Day of Judgment,5,6 | ../../../events/dc/Day_of_Judgment.htm,_page | The fallen angel Asmodel attempts to claim Heaven and Earth.}
+		{ITEM Day of Vengeance,5,6 | ../../../events/dc/Day_of_Vengeance.htm,_page | Unfettered by human compasion the Spectre attempts to detroy all magic in the universe.}
+		{ITEM Death of Superman,8,20 | * | Events depicted after the assumed death of Superman at the hand of the alien Doomsday.}
+		{ITEM Final Night,5,6 | ../../../events/dc/FinalNight.htm,_page | Events depicted when the Sun-Eater treated Earth's solar system.}
+		{ITEM Flash vs. Superman Races,5,6 | ../../../events/dc/Flash_vs_Superman.htm,_page | Various races between the Flash and Superman.}
+		{ITEM Identity Crisis,5,6 | ../../../events/dc/IdentityCrisis.htm,_page | A killer stalks the loved ones of superheroes.}
+		{ITEM Infinite Crisis,5,6 | ../../../events/dc/InfiniteCrisis.htm,_page | Forces of evil and destrution on multiple fronts threaten to destroy the universe.}
+		{ITEM JLA/Avengers,5,6 | ../../../events/dc/JLA-Avengers.htm,_page | Heroes of the DC and Marvel Universes engage in a shared quest.}
+		{ITEM JLApe: Gorilla Warfare,5,6 | ../../../events/dc/JLApe.htm,_page | Gorilla Grodd makes monkeys out of the Justice League.}
+		{ITEM Joker's Last Laugh,5,6 | ../../../events/dc/JokerLastLaugh.htm,_page | Events depicted when the Joker attempts his greatest capper, after erroneously learning he was going to die.}
+		{ITEM No Man's Land,5,6 | ../../../events/dc/NML.htm,_page | Events depicted after the earthquake of Gotham City.}
+		{ITEM Our Worlds at War,5,6 | ../../../events/dc/OurWorldsAtWar.htm,_page | Events depicted during the invasion of the astrogod Imperiex.}
+		{ITEM Rann-Thanagar War,5,6 | ../../../events/dc/RannThanagarWar.htm,_page | A war between Rann and Thanagar engulfs the galaxy.}
+		{ITEM Silver Age,5,6 | ../../../events/dc/SilverAge.htm,_page | Alien invader switches the bodies Earth's heroes and villains to obtain the components of a great weapon.}
+		{ITEM Sins of Youth,5,6 | ../../../events/dc/Sins_of_Youth.htm,_page | Adult and young heroes switch ages.}
+		{ITEM Superman vs. Muhammad Ali,5,6 | ../../../events/dc/Superman_vs_MuhammadAli.htm,_page | Earth's champions box to save the world.}
+		{ITEM Underworld Unleashed,5,6 | ../../../events/dc/UnderworldUnleashed.htm,_page | Events depicted during the invasion of the demonic lord Neron.}
+		{ITEM World War III,5,6 | ../../../events/dc/WorldWarIII.htm,_page | Black Adams quest for vengence.}
+		{ITEM World Without Grown-Ups,5,6 | ../../../events/dc/WorldWithoutGrownups.htm,_page | Adults and children are seperated on different Earths by a mysterious force.}
+		{ITEM Zero Hour,5,6 | ../../../events/dc/ZeroHour.htm,_page | Events depicted during the reboot in time engineered by Parallax.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

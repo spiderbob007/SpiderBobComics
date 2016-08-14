@@ -1,0 +1,55 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+	{/FOLDER}
+	{FOLDER ~Events,17,18 | * | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Acts of Vengeance,8,20 | * | Criminal conspiracy to pit super-villains against their different foes to better defeat them.}
+		{ITEM Age of Apocalypse,5,6 | ../../../events/marvel/Age_of_Apocalypse.htm,_page | Alternate future timeline where the mutant Apocalypse rules the Earth.}
+		{ITEM Annihilation,5,6 | ../../../events/marvel/Annihilation.htm,_page | Negative Zone aliens invade the 616 Universe.}
+		{ITEM Atlantis Attacks,8,20 | * | =}
+		{ITEM Armor Wars,5,6 | ../../../events/marvel/ArmorWars.htm,_page | Tony Stark discovers that his Iron Man technology is being misused by others he goes on a quest to deactivate the armors of both villains and heroes alike.}
+		{ITEM Avengers/Defenders War,5,6 | ../../../events/marvel/AvengersDefendersWar.htm,_page | The Dread Dormammu attempts to merge dimensions in a quest for conquest.}
+		{ITEM Avengers Disassemble,5,6 | ../../../events/marvel/AvengersDisassemble.htm,_page | Scarlet Witch loses her mind and Avengers lose their lives.}
+		{ITEM Avengers/JLA,5,6 | ../../../events/marvel/Avengers-JLA.htm,_page | Heroes of the Marvel and DC Universes engage in a shared quest.}
+		{ITEM Civil War,5,6 | ../../../events/marvel/CivilWar.htm,_page | War between the heroes of the Marvel Universe.}
+		{ITEM Contest of Champions I,8,20 | * | Heroes and villains are brought together for a slugfest.}
+		{ITEM Contest of Champions II,8,20 | * | Heroes and villains are brought together for a slugfest.}
+		{ITEM Destiny Wars,8,20 | * | =}
+		{ITEM Evolutionary War,5,6 | ../../../events/marvel/EvolutionaryWar.htm,_page | The High Evolutionary attempts to evolve the human race.}
+		{ITEM Fall of the Mutants,5,6 | ../../../events/marvel/Fall_of_the_Mutants.htm,_page | X-Men, X-Factor and New Mutants find lots of trouble.}
+		{ITEM Fantastic Four Wedding,5,6 | ../../../events/marvel/FF_Wedding.htm,_page | Wedding of Mr. Fantastic and the Invisible Girl.}
+		{ITEM Heroes Reborn,8,20 | * | Heroes are sent to another dimension after the battle against Onslaught.}
+		{ITEM Heroes Return,8,20 | * | Heroes return from another dimension after the battle against Onslaught.}
+		{ITEM House of M,5,6 | ../../../events/marvel/House_of_M.htm,_page | Reality is altered by the Scarlet Witch.}
+		{ITEM Human Torch vs Sub-Mariner,5,6 | ../../../events/marvel/HumanTorch_vs_SubMariner.htm,_page | The Human Torch and the Sub-Mariner battle for the fate of humanity.}
+		{ITEM Inferno,5,6 | ../../../events/marvel/Inferno.htm,_page | Demons invade New York.}
+		{ITEM Infinity Crusade,8,20 | * | The Goddess attempts to bring salvation to the universe.}
+		{ITEM Infinity Gauntlet,5,6 | ../../../events/marvel/InfinityGauntlet.htm,_page | Heroes attempt to stop Thanos from destroying the universe.}
+		{ITEM Infinity War,8,20 | * | Heroes attempt to stop Magus from destroying the universe.}
+		{ITEM Kraven's Last Hunt,5,6 | ../../../events/marvel/KravenLastHunt.htm,_page | Kraven the Hunter replaces Spider-Man before committing suicide.}
+		{ITEM Kree-Skrull War,5,6 | ../../../events/marvel/KreeSkrullWar.htm,_page | Earth is drawn into an intergalactic conflict between the Kree and Skrull empires.}
+		{ITEM Maximum Security,8,20 | * | Earth becomes an intergalactic prison.}
+		{ITEM Secret Invasion,5,6 | ../../../events/marvel/SecretInvasion.htm,_page | Earth is invaded by Skrull imposters.}
+		{ITEM Secret Wars I,5,6 | ../../../events/marvel/SecretWarsI.htm,_page | Heroes and villains are brought together by the Beyonder.}
+		{ITEM Secret Wars II,8,20 | * | The Beyonder comes to Earth to discover humanity.}
+		{ITEM World War Hulk,5,6 | ../../../events/marvel/WWHulk.htm,_page | Hulk returns to Earth from exile with vengence on his mind.}
+		{ITEM Zero Tollerance,8,20 | * | The mutant hunter Bastion plauge the X-Men.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

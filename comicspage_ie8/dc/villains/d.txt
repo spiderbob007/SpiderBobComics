@@ -1,0 +1,163 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Da' Bomb,8,20 | * | Lucius}
+		{ITEM Dagger,8,20 | * | David Rennington}
+		{ITEM Damien Darhk,8,20 | * | Unknown}
+		{ITEM Dark Angel,5,6 | ../../../heroes/dc/Troia.htm,_page | Donna Troy}
+		{ITEM Dark Destroyer,8,20 | * | Unknown}
+		{ITEM (The) Dark Lord,5,6 | ../../../villains/dc/Mordru.htm,_page | Mordru}
+		{ITEM (The) Dark Man,8,20 | * | Tharok}
+		{ITEM Dark Opal,8,20 | * | =}
+		{ITEM Darkseid,5,6 | ../../../villains/dc/Darkseid.htm,_page | Uxas, son of Heggra}
+		{ITEM Dart,8,20 | * | Erin Bia O'Rourke-Singh}
+		{ITEM Dazzler,8,20 | * | Ken Baldwin}
+		{ITEM Deadeye,8,20 | * | evil Green Arrow of Earth-3}
+		{ITEM Deadshot,5,6 | ../../../villains/dc/Deadshot.htm,_page | Floyd Lawton}
+		{ITEM Death Angel,8,20 | * | Unknown}
+		{ITEM Deathbolt,8,20 | * | Jake Simmons}
+		{ITEM Deathstroke,5,6 | ../../../villains/dc/Deathstroke.htm,_page | Slade Wilson}
+		{ITEM Deathtrap,8,20 | * | Carl Draper}
+		{ITEM Deimos,8,20 | * | =}
+		{ITEM Demise,8,20 | * | Unknown}
+		{ITEM Demon I,5,6 | ../../../villains/dc/Etrigan.htm,_page | Etrigan}
+		{ITEM Demon II,8,20 | * | Gregor Dosynski}
+		{ITEM Dervish,8,20 | * | Unknown}
+		{ITEM DeSaad,8,20 | * | =}
+		{ITEM Despero,5,6 | ../../../villains/dc/Despero.htm,_page | =}
+		{ITEM Destroyer,8,20 | * | Andre Sinclair}
+		{ITEM Devestation,5,6 | ../../../villains/dc/Devastation.htm,_page | =}
+		{ITEM Disruptor,8,20 | * | Michael Beldon}
+		{ITEM Djinn,8,20 | * | Unknown}
+		{ITEM Doc Duggan,8,20 | * | =}
+		{ITEM Doll Man II,8,20 | * | Unknown}
+		{ITEM Domain,5,6 | ../../../villains/dc/Domain.htm,_page | Unknown}
+		{ITEM (The) Dominator,8,20 | * | =}
+		{ITEM Dominus,5,6 | ../../../villains/dc/Dominus.htm,_page | Tuoni}
+		{ITEM Don Grieco,8,20 | * | =}
+		{ITEM Doom Mathematic,8,20 | * | Unknown}
+		{ITEM Doomsday,5,6 | ../../../villains/dc/Doomsday.htm,_page | =}
+		{ITEM Double Down,8,20 | * | Jeremy Tell}
+		{ITEM Download,8,20 | * | Unknown}
+		{ITEM Dr. Alchemy,8,20 | * | Alvin Desmond}
+		{ITEM Dr. Bedlam,8,20 | * | Unknown}
+		{ITEM Dr. Cale,5,6 | ../../../villains/dc/DrCale.htm,_page | Dr. Veronica Cale}
+		{ITEM Dr. Clever,8,20 | * | Unknown}
+		{ITEM Dr. Cue,8,20 | * | Unknown}
+		{ITEM Dr. Cyber,8,20 | * | Unknown}
+		{ITEM Dr. Darkk,8,20 | * | Unknown}
+		{ITEM Dr. Death,5,6 | ../../../villains/dc/DrDeath.htm,_page | Dr. Karl Hellfern}
+		{ITEM Dr. Destiny,5,6 | ../../../villains/dc/DrDestiny.htm,_page | John Dee}
+		{ITEM Dr. Diehard,8,20 | * | Unknown}
+		{ITEM Dr. Doog,8,20 | * | Unknown}
+		{ITEM Dr. Double X,8,20 | * | Dr. Simon Ecks}
+		{ITEM Dr. Gotham,8,20 | * | Unknown}
+		{ITEM Dr. Hugo Strange,5,6 | ../../../villains/dc/DrHugoStrange.htm,_page | =}
+		{ITEM Dr. I.M. Smart,8,20 | * | Unknown}
+		{ITEM Dr. Iker,8,20 | * | Dr. Hans Iker}
+		{ITEM Dr. Kryptonite,8,20 | * | Unknown}
+		{ITEM Dr. Laff,8,20 | * | Unknown}
+		{ITEM Dr. Light I,8,20 | * | Unknown}
+		{ITEM Dr. Light III,5,6 | ../../../villains/dc/DrLightIII.htm,_page | Dr. Arthur Light}
+		{ITEM Dr. Manchester Black,8,20 | * | =}
+		{ITEM Dr. Moon,8,20 | * | Unknown}
+		{ITEM Dr. Phosphorus,5,6 | ../../../villains/dc/DrPhosphorus.htm,_page | Dr. Sartorius}
+		{ITEM Dr. Poison I,8,20 | * | Princess Maru}
+		{ITEM Dr. Poison II,8,20 | * | Unknown granddaughter of Princess Maru}
+		{ITEM Dr. Polaris,5,6 | ../../../villains/dc/DrPolaris.htm,_page | Dr. Neal Emerson}
+		{ITEM Dr. Psycho,5,6 | ../../../villains/dc/DrPsycho.htm,_page | Dr. Edgar Cizko}
+		{ITEM Dr. Regulus,8,20 | * | Dr. Zaxton Regulus}
+		{ITEM Dr. Sivana,5,6 | ../../../villains/dc/DrSivana.htm,_page | Dr. Thaddeus Badog Sivana}
+		{ITEM Dr. Togg,5,6 | ../../../villains/dc/DrTogg.htm,_page | Dr. Rocco Togg}
+		{ITEM Dr. Trap,8,20 | * | Dr. Larry Trapp}
+		{ITEM Dr. Tzin-Tzin,8,20 | * | Unknown}
+		{ITEM Dr. Ub'x,8,20 | * | =}
+		{ITEM Dr. Veronica Cale,5,6 | ../../../villains/dc/DrCale.htm,_page | =}
+		{ITEM Dr. Virus,8,20 | * | Dr. Verisofsky}
+		{ITEM Dr. Z.Z.,8,20 | * | Unknown}
+		{ITEM (The) Dragon,8,20 | * | Vlad Giurescu}
+		{ITEM Dragon King,8,20 | * | last name Burman}
+		{ITEM Drakon,5,6 | ../../../villains/dc/Drakon.htm,_page | Unknown}
+		{ITEM Dreamslayer,8,20 | * | Unknown}
+		{ITEM Duality,8,20 | * | =}
+		{ITEM Duke Mephisto Saturno,8,20 | * | =}
+		{ITEM Duke of Deception,8,20 | * | Unknown}
+		{ITEM Duke of Oil,5,6 | ../../../villains/dc/Duke_of_Oil.htm,_page | Earl J. Dukeston}
+		{ITEM Dumas I,8,20 | * | Stephen Forrest Lee}
+		{ITEM Dumas II,5,6 | ../../../heroes/dc/ManhunterIII.htm,_page | Mark Shaw}
+		{ITEM (The) Dummy,8,20 | * | Unknown}
+		{ITEM Duran,8,20 | * | =}
+		{ITEM Dwarfstar,8,20 | * | Sylbert Rundine}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Sinestro Corps),17,18 | sincorps.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

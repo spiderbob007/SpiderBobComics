@@ -1,0 +1,136 @@
+{BUTTON Small & Indi.,1,2 | * | Small and Independent Press main page.}
+		{/ITEM}
+		{ITEM Home,7,20 | ../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM 2000 AD,17,18 | 2000AD_menu_open.htm,_self | Publisher of magazine style comics in Great Britain.}
+		{ITEM Aardvark-Vanaheim,17,18 | aardvark_menu_open.htm,_self | Independent publisher owned by Dave Sim.}		
+		{ITEM Cartoons & Television,17,18 | cartoon_menu.htm,_self | Comics based on cartoons or television shows.}
+		{ITEM Chaos,17,18 | chaos_menu.htm,_self | Publisher of horror and wrestling comics.}
+		{ITEM Dark Horse,17,18 | dh_menu.htm,_self | Publisher of creator-owned characters and movie properties.}
+		{ITEM Harris,17,18 | harris_menu.htm,_self | Publisher of Vamparella comics.}
+		{ITEM Image,17,18 | image_menu.htm,_self | Publisher of creator-owned characters.}
+		{ITEM Mirage,17,18 | mirage_menu.htm,_self | Self published imprint created by Kevin Eastman and Peter Laird.}
+		{ITEM New England Comics (NEC),3,4 | nec_menu.htm,_self | Publisher of Tick comics.}
+	{FOLDER ~Other,17,18 | * | Publisher or publishers of a wide variety of characters.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{FOLDER Comics,17,18 | * | =}
+		{ITEM American Flagg,5,6 | ../../heroes/indi/AmericanFlagg.htm,_page | Reuben Flagg}
+		{ITEM Astro Boy,5,6 | ../../heroes/indi/AstroBoy.htm,_page | Tetsuwan Atomu}
+		{ITEM Black Terror,5,6 | ../../heroes/indi/BlackTerror.htm,_page | Bob Benton}
+		{ITEM Fighting Yank,5,6 | ../../heroes/indi/FightingYank.htm,_page | Bruce Carter III}
+		{ITEM Flash Gordon,5,6 | ../../heroes/indi/FlashGordon.htm,_page | =}
+		{ITEM Madman,5,6 | ../../heroes/indi/Madman.htm,_page | Frank Einstein}
+		{ITEM Magnus: Robot Fighter,5,6 | ../../heroes/indi/MagnusRobotFighter.htm,_page | Magnus}
+		{ITEM Mr. Monster,5,6 | ../../heroes/indi/MrMonster.htm,_page | Dr. Strongfort Stearn}
+		{ITEM Phantom,5,6 | ../../heroes/indi/Phantom.htm,_page | Unknown}
+		{ITEM Rocketeer,5,6 | ../../heroes/indi/Rocketeer.htm,_page | Cliff Secord}
+		{ITEM Sheena Queen of the Jungle,5,6 | ../../heroes/indi/Sheena.htm,_page | Sheena Rivington}
+		{ITEM (The) Spirit,5,6 | ../../heroes/indi/Spirit.htm,_page | Denny Colt Jr.}
+		{ITEM Tor,5,6 | ../../heroes/dc/Tor.htm,_page | =}
+		{ITEM Usagi Yojimbo,5,6 | ../../heroes/indi/UsagiYojimbo.htm,_page | Miyamoto Usagi}
+	{/FOLDER}
+	{FOLDER Pulps & Novels,17,18 | * | Characters originating from pulp magazines and novels.}
+		{ITEM Buck Rogers,5,6 | ../../heroes/indi/BuckRogers.htm,_page | Anthony Rogers}
+		{ITEM Conan,5,6 | ../../heroes/marvel/Conan.htm,_page | Conan of Cimmeria}
+		{ITEM Dejah Thoris,5,6 | ../../heroes/indi/DejahThoris.htm,_page | Princess Dejah Thoris}
+		{ITEM Doc Savage,5,6 | ../../heroes/indi/DocSavage.htm,_page | Clark Savage Jr.}
+		{ITEM John Carter of Mars,5,6 | ../../heroes/indi/JohnCarterMars.htm,_page | Captain John Carter}
+		{ITEM Solomon Kane,5,6 | ../../heroes/marvel/SolomonKane.htm,_page | =}
+		{ITEM (The) Spider,5,6 | ../../heroes/indi/Spider.htm,_page | Richard Wentworth}
+		{ITEM Tarzan,5,6 | ../../heroes/indi/Tarzan.htm,_page | John Clayton Jr., Lord Greystoke}
+		{ITEM Zorro,5,6 | ../../heroes/indi/Zorro.htm,_page | Don Diego de la Vega}
+	{/FOLDER}
+	{FOLDER Radio,17,18 | * | Characters from the golden age of radio.}
+		{ITEM Green Hornet,5,6 | ../../heroes/indi/GreenHornet.htm,_page | Britt Reid}
+		{ITEM Lone Ranger,5,6 | ../../heroes/indi/LoneRanger.htm,_page | John Reid}
+		{ITEM (The) Shadow,5,6 | ../../heroes/indi/Shadow.htm,_page | Kent Allard}
+	{/FOLDER}
+	{FOLDER Television & Movies,17,18 | * | Characters originating from televsion and movies.}
+		{ITEM Buck Rogers,5,6 | ../../heroes/indi/BuckRogers.htm,_page | Anthony Rogers}
+		{ITEM Godzilla,5,6 | ../../gods_monsters/marvel/Godzilla.htm,_page | Gojira}
+		{ITEM Indiana Jones,5,6 | ../../heroes/indi/IndianaJones.htm,_page | Dr. Henry Jones Jr.}
+		{ITEM Mightor,5,6 | ../../heroes/indi/Mightor.htm,_page | Tor}
+		{ITEM Mr. T,5,6 | ../../heroes/indi/MrT.htm,_page | Lawrence Tureaud}
+		{ITEM Space Ghost,5,6 | ../../heroes/indi/SpaceGhost.htm,_page | Unknown}
+	{/FOLDER}
+	{FOLDER Toys,17,18 | * | Characters originating as toys.}
+		{ITEM Captain Action,5,6 | ../../heroes/indi/CaptainAction.htm,_page | Clive Arno}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM League of Extraordinary Gentleman,5,6 | ../../teams/indi/LoEG.htm,_page | Group of Victorian Era heroes.}
+		{ITEM T.H.U.N.D.E.R. Agents,5,6 | ../../teams/dc/THUNDER_Agents.htm,_page | The Higher United Nations Defense Enforcement Reserves.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Red Circle,17,18 | red_circle_menu.htm,_self | Publisher of superhero comics.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../dc/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../marvel/index.htm,_top | Marvel Comics main page.}

@@ -1,0 +1,41 @@
+	
+	/*  Common styles for comics database pages */
+	
+	html {
+		height: 100%;
+	}
+	
+	body	{		
+		background-image: url('../images/DC.gif');
+		background-repeat: repeat; 
+		background-attachment: fixed;
+		height: 100%;
+	}
+	
+	table	{
+		border: 0;		
+	}
+	
+	.image_cell	{		
+		cursor: default;		
+		vertical-align: middle;		
+		max-width: 100px;
+	}		
+	
+	td	{
+		vertical-align: top; 
+		text-align: center; 		
+	}
+	
+	.image_cell img	{
+		border:	grey 3px ridge;
+		margin: 20px 0px 20px 0px;
+		max-width: 90%;
+	}
+	
+	.back-to-top {
+		position: fixed;
+		bottom: 20px;
+		right: 2px;
+		display: none
+	}

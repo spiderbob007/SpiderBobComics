@@ -1,0 +1,171 @@
+/*styles for quiz tree menu*/
+
+	*, html { 
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+
+	body, form, ul, li, p, h1, h2, h3, h4, h5 {
+		margin: 0;
+		padding: 0;
+	}
+	
+	body {
+		background-color: rgb(153,153,153); 
+		color: rgb(255,255,255); 
+		margin: 0px 20px 0px 0px;
+		font-size: 1em;
+		overflow-x: hidden;		
+	}
+
+	img {
+		border: none;
+	}	
+
+	a {
+		text-transform: none;
+		text-decoration: none;		
+	}	
+
+	html {
+		font-size: 100%; /* IE hack */
+	}	
+
+	table {
+		font-size: 100%; /* IE hack */	
+	}
+	
+	input, select, textarea, th, td {
+		font-size: 15px;
+	}
+	
+	/* CSS Tree menu styles */
+	ol.tree{
+		margin-top: 20px;		
+		padding: 0 0 0 30px;
+		width: 100%;
+	}
+	
+	li { 
+		position: relative; 
+		margin-left: -15px;
+		list-style: none;
+		padding-right: 10px;
+	}	
+	
+	li label.home {
+		background: url(../images/menu_images/home01.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight: bold;
+		padding-left: 29px;
+	}
+	
+	li label.home a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}
+	
+	li h3.hall a {
+		cursor: pointer;
+		text-decoration: none;
+		color: black;
+	}
+	
+	li label.dc {
+		background: url(../images/menu_images/dc.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight:bold;
+		padding-left: 29px;
+		text-decoration: none;
+		color: white;
+	}
+	
+	li label.dc a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}
+	
+	li label.marvel {
+		background: url(../images/menu_images/marvel.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight:bold;
+		padding-left: 29px;
+		text-decoration: none;
+		color: white;
+	}
+	
+	li label.marvel a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}
+	
+	li label.indi {
+		background: url(../images/menu_images/indi.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight: bold;
+		padding-left: 29px;
+		text-decoration: none;
+		color: white;
+	}
+	
+	li label.indi a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}	
+	
+	li label.quiz {
+		background: url(../images/menu_images/quiz.gif) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight: bold;
+		padding-left: 29px;
+		text-decoration: none;
+		color: white;
+	}
+	
+	li label.quiz a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}	
+	
+	li label.checkbox {
+		background: url(../images/menu_images/checkbox.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		font-weight: bold;
+		padding-left: 29px;
+		text-decoration: none;
+		color: white;
+	}
+	
+	li label.checkbox a {		
+		text-decoration: none;
+		color: white;
+		position: relative;
+		top: -1px;
+	}	
+	
+	span.black {
+		text-decoration: none;		
+		color: black;
+	}
+	
+	li label {
+		background: url(../images/menu_images/folder-horizontal.png) 10px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		padding-left: 29px;
+	}

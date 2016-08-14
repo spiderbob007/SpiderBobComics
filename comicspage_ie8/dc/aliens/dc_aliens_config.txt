@@ -1,0 +1,59 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+	{FOLDER ~Aliens,17,18 | * |  The alien races of the DC Universe.}
+		{ITEM Black Mercy,5,6 | ../../../aliens_races/dc/BlackMercy.htm,_page | Alien plant life which binds itself to victims supplanting their minds and creating elaborate dream fantasies to keep them docile and feed off of their bio-aura.}
+		{ITEM (The) Blight,5,6 | ../../../aliens_races/dc/Blight.htm,_page | Race of beings that achieved immortality by sapping the life-force of other beings.}
+		{ITEM Czarian,8,20 | * | Nearly extinct race of aliens from the planet Czarnia.  Lobo is the last Czarian}
+		{ITEM Conquest,8,20 | * | Self-aware alien bio-bots with a viral war program.}
+		{ITEM Daxamite,8,20 | * | Alien race from the planet Daxam.  Yellow solar radiation affects Daxamtites similar to Kryptonians.}
+		{ITEM Djinn,8,20 | * | Mobile race of alien warriors.}
+		{ITEM (The) Dominators,5,6 | ../../../aliens_races/dc/Dominators.htm,_page | Aggressive alien race from the planet Elia.}
+		{ITEM Draal,8,20 | * | Aggressive alien race from the Takk Nebula.}
+		{ITEM Gordanian,8,20 | * | Reptilian race from the planet Karna in the Vegan system.}
+		{ITEM Green Martian,5,6 | ../../../aliens_races/dc/GreenMartians.htm,_page | Nearly extinct race of shape-shifting aliens from the planet Mars.  Jonn Jonzz is a Martian}
+		{ITEM Kirri,8,20 | * | Blue skined alien race that uses a weapon that turns matter to water.}
+		{ITEM Kryptonian,5,6 | ../../../aliens_races/dc/Kryptonian.htm,_page | Nearly extinct race of aliens from the planet Krypton.  Superman is a Kryptonian}
+		{ITEM Khnud,8,20 | * | Aggressive alien race from the planet Khundia.}
+		{ITEM Krolotean,8,20 | * | Race of capitalist scientists that re-engineer technological and biologiacal resources from other cultures.}
+		{ITEM Maltusian,8,20 | * | Any number of different species from the planet Maltus.}
+		{ITEM Manhawks,5,6 | ../../../aliens_races/dc/Manhawks.htm,_page | Super-intelligent super-powered bird species from an unknown planet.}
+		{ITEM Oan,5,6 | ../../../aliens_races/dc/Oan.htm,_page | Immortal race of intellectual men from the planet Maltus related to the immortal race of females known as Zamarons.}
+		{ITEM Olys,8,20 | * | Alien race}
+		{ITEM Ophidian,8,20 | * | Alien race of mystics dedicated on purifying the universe by exterminating other life forms.}
+		{ITEM Overlords,8,20 | * | Lethargic race of aliens on the moon Luth served by robots.}
+		{ITEM Parademons,5,6 | ../../../aliens_races/dc/Parademons.htm,_page | Military shock troops for Apokolips.}
+		{ITEM Pharon,8,20 | * | Alien race capable of changing shape.}
+		{ITEM Psion,8,20 | * | Maltusian race evolved from lizards experimented on by the Guardians of the Galaxy.}
+		{ITEM Qwardian,8,20 | * | Member of the anti-matter universe planet of Qward.}
+		{ITEM Rannian,8,20 | * | Humanoid race from the planet Rann.}
+		{ITEM Roboticon,5,6 | ../../../aliens_races/dc/Roboticon.htm,_page | Race of sentient robots.}
+		{ITEM Spider Guild,8,20 | * | Nomadic race of humanoid spiders preying upon planets.}
+		{ITEM Tamaranean,8,20 | * | Fierce but peaceful alien race from the planet Tamaran.}
+		{ITEM Thanagarian,5,6 | ../../../aliens_races/dc/Thanagarian.htm,_page | Socially preditory alien race from the planet Thanagar.}
+		{ITEM (The) Tribune,8,20 | * | Ancient race inhabiting the planet Gallo.}
+		{ITEM Viroxx,5,6 | ../../../aliens_races/dc/Viroxx.htm,_page | Alien virus.}
+		{ITEM Wagnorian,8,20 | * | Imperialistic race of aliens.}
+		{ITEM Volkir,8,20 | * | Alien race at war with the alien Zelkot.}
+		{ITEM White Martian,5,6 | ../../../aliens_races/dc/WhiteMartians.htm,_page | Race of shape-shifting aliens from the planet Mars.}
+		{ITEM Zamaron,8,20 | * | Immortal race of warrior women from the planet Maltus related to the immortal race of males known as Oans.}
+		{ITEM Zelkot,8,20 | * | Alien race at war with the alien Volkir.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

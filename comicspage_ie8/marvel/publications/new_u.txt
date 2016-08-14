@@ -1,0 +1,134 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+		{ITEM M2,17,18 | m2.htm,_self | Publications about an alternate future of the Marvel Universe.}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+	{FOLDER ~New Universe,17,18 | * | New line of comics created by Marvel.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM All-American,8,20 | * | Giovanni Magniconte}
+		{ITEM Anti-Body,8,20 | * | Randall (Randy) Lawrence O'Brien}
+		{ITEM (The) Blur,8,20 | * | Jeffrey John Walters}
+		{ITEM Captain Manhattan,8,20 | * | Unknown}
+		{ITEM Chrome,8,20 | * | Jennifer Ann Swensen}
+		{ITEM Friction,8,20 | * | Charlotte (Charly) Yolanda Beck}
+		{ITEM Gladiator,8,20 | * | Randy Kellogg}
+		{ITEM Glitter,8,20 | * | Stephanie (Stephie) Ann Harrington}
+		{ITEM Jumbo Jim Johnson,8,20 | * | David Alan Landers}
+		{ITEM Justice,5,6 | ../../../heroes/marvel/new_u/Justice.htm,_page | John Roger Tensen}
+		{ITEM Mastodon,8,20 | * | David Alan Landers}
+		{ITEM Merc,8,20 | * | Marcus E. Hazzard}
+		{ITEM Mutator,8,20 | * | George Mullaney}
+		{ITEM Nightmask,5,6 | ../../../heroes/marvel/new_u/Nightmask.htm,_page | Keith Remsen}
+		{ITEM Scorcher,8,20 | * | Dennis Michael Cuzinski}
+		{ITEM Scuzz,8,20 | * | Dennis Michael Cuzinski}
+		{ITEM Spitfire,8,20 | * | Jennifer Ann Swensen}
+		{ITEM Star Brand,5,6 | ../../../heroes/marvel/new_u/StarBrand.htm,_page | Kenneth Connell}
+		{ITEM Twilight,8,20 | * | Lenore Fenzl}
+		{ITEM Viva,8,20 | * | Stephanie (Stephie) Ann Harrington}
+		{ITEM Voyager,8,20 | * | Tyrone Jessup}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Acid Queen,8,20 | * | =}
+		{ITEM Aqualung,8,20 | * | =}
+		{ITEM Helter Skelter,8,20 | * | =}
+		{ITEM Pit Bull,8,20 | * | Gaylord Picaro}
+		{ITEM Purple Haze,8,20 | * | =}
+		{ITEM Space Oddity,8,20 | * | =}
+		{ITEM Wipecout,8,20 | * | =}
+		{ITEM Wild Thing,8,20 | * | George Mullaney}
+		{ITEM Wooly Bully,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Witness,8,20 | * | Spirit of Nelson Kohler}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM DP7,5,6 | ../../../teams/marvel/new_u/DP7.htm,_page | Displaced Paranormals 7, a group of paranormals banded together while on the run from The Clinic.}
+		{ITEM Paranormal Platoon,8,20 | * | Army of paranormals}
+		{ITEM Psi-Force,5,6 | ../../../teams/marvel/new_u/PsiForce.htm,_page | Group of teen paranormals able to manifest a psionic being.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Black Powers,8,20 | * | Radical group of African-American paranormals}
+		{ITEM DDTeens,8,20 | * | Radical group of paranormal teens}
+		{ITEM Para-Troop,8,20 | * | Criminal organization of paranormals}
+		{ITEM War Dogs,8,20 | * | Army of paranormals}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM The Pit,8,20 | * | Former location of Pittsburgh, Pennsylvania destroyed by Starbrand}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM The Clinic,8,20 | * | Hospital prison run by the government to study paranormals}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM The White Event,8,20 | * | Burst of energy granting paranormals their abilities.}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Spitfire Armor,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Star Comics,17,18 | star.htm,_self | Comics for children based upon other media properties.}
+		{ITEM Supreme Power,17,18 | supreme_power.htm,_self | Alternate universe resembling that of the Squadron Supreme.}
+		{ITEM Ultimate Universe,17,18 | ultimate.htm,_self | Modern interpertation of the Marvel Universe.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

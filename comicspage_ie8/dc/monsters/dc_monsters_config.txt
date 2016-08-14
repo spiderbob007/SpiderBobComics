@@ -1,0 +1,125 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+	{FOLDER ~Monsters,17,18 | * |  The monsters of the Marvel Universe.}
+	{FOLDER (A),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) A,8,20 | * | Galactic being which derives power from wager.}
+		{ITEM Abnnegazar,8,20 | * | One of three ancient demons.}
+		{ITEM American Scream,8,20 | * | Entity created of distored American culture which warps reality.}
+		{ITEM Animal-Vegetable-Mineral Man,8,20 | * | Dr. Swen Larsen}
+		{ITEM Antithesis,8,20 | * | Vengeful spirit.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Baytor,8,20 | * | Minor demon.}
+		{ITEM Belial,8,20 | * | Demon of Hell.}
+		{ITEM Bette Noir,5,6 | ../../../villains/dc/BetteNoir.htm,_page | Genetic monster capable of projecting her psychic form.}
+		{ITEM Bizarro,5,6 | ../../../villains/dc/Bizarro.htm,_page | Imperfect duplicate of Superman created by Lex Luthor.}
+		{ITEM Bride of Frankenstein,8,20 | * | Reanimated female corpse.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Chemo,5,6 | ../../../vehicles_devices/dc/Chemo.htm,_page | Automaton composed of an unknown combination of chemicals.}
+		{ITEM Chronovore,8,20 | * | Pan-dimensional monster which consumes time.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Devastation,5,6 | ../../../villains/dc/Devastation.htm,_page | Evil counterpart to Wonder Woman created by the Titan Cronus.}
+		{ITEM Doomsday,5,6 | ../../../villains/dc/Doomsday.htm,_page | Alien lifeform created to be an engine of destruction.}
+	{/FOLDER}
+	{FOLDER (E),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Empathosaur,8,20 | * | Psychic dinosaur.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Frankenstein,5,6 | ../../../gods_monsters/dc/Frankenstein.htm,_page | Reanimated corpse.}
+	{/FOLDER}
+	{FOLDER (G),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Galactic Golem,8,20 | * | Golem created by Lex Luthor from galactic matter.}
+		{ITEM Ghast,8,20 | * | One of three ancient demons.}
+		{ITEM Golem of Gotham,8,20 | * | Golem which broke free of its creator's influence.}
+		{ITEM Gwydion,8,20 | * | Elemental able to take any form.}
+	{/FOLDER}
+	{FOLDER (H),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Harvest,8,20 | * | Sentient hybrid born of a merger between plant and several humans.}
+		{ITEM Horigal,8,20 | * | Demonic guardian of Beyond Country.}
+		{ITEM Hyena I,8,20 | * | Summer Day}
+		{ITEM Hyena II,8,20 | * | Jivan Shi}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM I... Vampire,8,20 | * | Lord Andrew Bennett}
+		{ITEM (The) Idiot,8,20 | * | Mental organism created from the minds of four psychotics.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Kancer,5,6 | ../../../villains/dc/Kancer.htm,_page | Parasitic organism created from a tumor removed from Superman.}
+	{/FOLDER}
+	{FOLDER (L),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Mageddon,8,20 | * | The Anti-Sun, bringer of war}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Oblivion,5,6 | ../../../gods_monsters/dc/Oblivion.htm,_page | Galactic menace created from the imagination of Green Lantern Kyle Rayner and given form by his power ring.}
+		{ITEM Oom the Mighty,8,20 | * | Supernatural sprit capable of possessing and animating inanimate objects.}
+	{/FOLDER}
+	{FOLDER (P),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Patchwork Man,8,20 | * | Ghoul created by Arcane, using the dismembered body of his brother Gregori Arcane.}
+		{ITEM Protonic Force,8,20 | * | Bodiless sentient capable of inhabiting matter of any mass or quality.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Rath,8,20 | * | One of three ancient demons.}
+		{ITEM Rotirra,8,20 | * | Monster created by the Japanese during World War II.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Shaggy Man,5,6 | ../../../villains/dc/General.htm,_page | Artificial humanoid with super-human strength and invulnerability.}
+		{ITEM Solaris II,5,6 | ../../../gods_monsters/dc/Solaris.htm,_page | Super-intelligent stellar computer plauging centuries 20th through 853rd.}
+		{ITEM Solomon Grundy,5,6 | ../../../villains/dc/SolomonGrundy.htm,_page | Mysterious swamp monster forming around the corpse of Cyrus Gold.}
+		{ITEM Spawn of Frankenstein,8,20 | * | Ghoulish monster created by Dr. Victor Frankenstein.}
+		{ITEM Spectrumonster,8,20 | * | Creature composed of coherent light.}
+		{ITEM Starro,5,6 | ../../../gods_monsters/dc/Starro.htm,_page | Intergalactic starfish with psionic powers.}
+		{ITEM Swamp Thing I,5,6 | ../../../heroes/dc/SwampThingI.htm,_page | Dr. Alexander (Alex) Olsen II later Dr. Alexander (Alec) Holland}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITME (The) Taker,8,20 | * | Giant monster that feeds upon neurological fluids.}
+		{ITEM Telephone Avatar,8,20 | * | Creature born and residing on the telecommunications network.}
+		{ITEM Terror I,8,20 | * | One of the Three Faces of Evil.}
+		{ITEM (The) Thirst,5,6 | ../../../gods_monsters/dc/Thirst.htm,_page | Golem bent on destorying the Secret Sea.}
+		{ITEM Titano,5,6 | ../../../gods_monsters/dc/Titano.htm,_page | A chimp named Toto that was mutated by Kryptonite radiation.}
+		{ITEM Tornado Tyrant,5,6 | ../../../heroes/dc/RedTornadoII.htm,_page | Sentient tornado from the planet Rann.  Later becomes the android Red Tornado.}
+		{ITEM Tutkamenon,8,20 | * | Ancient Egyptian mummy reanimated by Kaftu.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Un-Men,8,20 | * | Creatures created by Anton Arcane in the quest for creating a new body.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Viroxx,8,20 | * | Intergalactic virus capable of consuming entire planets and enslaving inhabitants.}
+	{/FOLDER}
+	{FOLDER (W),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Yggardis,8,20 | * | Parasitic planet.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

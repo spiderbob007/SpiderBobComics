@@ -1,0 +1,382 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+	{FOLDER ~Teams,17,18 | * | Contains sub-directories for hero and villain teams/dc.}
+	{FOLDER Heroes,17,18 | * | The hero teams of the DC Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM All-Star Squadron,5,6 | ../../../teams/dc/JSA.htm,_page | A group of super-heroes including all the members of the Justice Society of America that joined during World War II.} 
+		{ITEM (The) Alliance,8,20 | * | Group of super-human aliens.}
+		{ITEM Ancients,5,6 | ../../../teams/dc/Ancients.htm,_page | Group of heroes protecting ancient Atlantis.}
+		{ITEM Argent I,8,20 | * | Team of superhuman heroes in the 1950s.}
+		{ITEM Arrow Family,5,6 | ../../../teams/dc/ArrowFamily.htm,_page | Allegiance of heroes intimately associated with Green Arrow.}
+		{ITEM Atari Force,8,20 | * | Specially trained crew searching the Multiverse for a new world for humanity to inhabit funded by the Atari Technology and Research Institute.}
+		{ITEM Atomic Knights,8,20 | * | Group of cybernetically armored heroes.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Batman Family,5,6 | ../../../teams/dc/BatFamily.htm,_page | Lose affiliation of dark heroes in Gotham City.}
+		{ITEM Birds of Prey,5,6 | ../../../teams/dc/Birds_of_Prey.htm,_page | Alliance of heroes associated with Black Canary II and Oracle.}
+		{ITEM Black Reign,5,6 | ../../../teams/dc/BlackReign.htm,_page | Splinter group of the Justice Society implimenting deadly force in the name of justice.}
+		{ITEM Blackhawks,5,6 | ../../../teams/dc/Blackhawks.htm,_page | Group of international pilots during World War II.}
+		{ITEM Blasters,8,20 | * | Gruop of wandering superhumans.}
+		{ITEM Blood Pack,8,20 | * | Group of heroes created by an alien parasite.}
+		{ITEM Blue Boys,8,20 | * | Group of juvenile adventurers.}
+		{ITEM Blue Trinity,8,20 | * | Team of Soviet super speedsters}
+		{ITEM Boy Commandos,8,20 | * | Force of pre-pubescent special forces during World War II.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Challengers of the Unknown,5,6 | ../../../teams/dc/ChallengersUnknown.htm,_page | Group of adventurers living on borrowed time.}
+		{ITEM Checkmate,5,6 | ../../../teams/dc/Checkmate.htm,_page | Government sponsored covert operations unit.}
+		{ITEM Circle of Fire,5,6 | ../../../teams/dc/Circle_of_Fire.htm,_page | Green Lantern Corp created from the psyche of Green Lantern Kyle Rayner and given form by his power ring.}
+		{ITEM Club of Heroes,8,20 | * | Group of international heroes inspired by Batman.}
+		{ITEM (The) Conglomerate,8,20 | * | Privately funded superhero team.}
+		{ITEM (The) Congregation,8,20 | * | Legion of mystically powered righteous.}
+		{ITEM Controllers,8,20 | * | Offshoot of the Oan race dedicated to eradicating evil in the universe.}
+		{ITEM Creature Commandos,5,6 | ../../../teams/dc/CreatureCommandos.htm,_page | World War II soldiers transformed to look like archetypical monsters to terrify the enemy.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Darkstars,8,20 | * | Corp of galactic police possessing exo-mantle suits granting the wearer superhuman abilities.}
+		{ITEM DNAngels,8,20 | * | Trio of bioengineered government agents.}
+		{ITEM Doom Patrol,5,6 | ../../../teams/dc/DoomPatrol.htm,_page | Group of misfit heroes organized to battle menaces to humanity.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Easy Company,5,6 | ../../../teams/dc/EasyCompany.htm,_page | World War II U.S. Army platoon lead by Sergeant Rock.}
+		{ITEM Extreme Justice,8,20 | * | Splinter group of the Justice League.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Flash Family,5,6 | ../../../teams/dc/FlashFamily.htm,_page | Affiliation of superhero related either through blood or friendship who access the Speed Force.}
+		{ITEM Force of July,5,6 | ../../../teams/dc/Force_of_July.htm,_page | Group of U.S. espionage agents with patriotic motifs.}
+		{ITEM Forever People,5,6 | ../../../teams/dc/ForeverPeople.htm,_page | Group of adolescent heroes from New Genesis.}
+		{ITEM Forgotten Heroes,8,20 | * | Group of obscure heroes.}
+		{ITEM Freedom Fighters,5,6 | ../../../teams/dc/FreedomFighters.htm,_page | Group of American patriotic heroes that fought the Nazis during World War II on Earth-X.}
+		{ITEM Freedom's Ring,5,6 | ../../../teams/dc/Force_of_July.htm,_page | Group of U.S. law-enforcement agents with patriotic motifs.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Ghost Patrol,8,20 | * | Spirits of a World War II bomber crew fighting the war from beyond the grave.}
+		{ITEM Global Guardians,5,6 | ../../../teams/dc/GlobalGuardians.htm,_page | International team of super heroes with no set membership.}
+		{ITEM Green Lantern Corps,5,6 | ../../../teams/dc/GLCorp.htm,_page | Corp of galactic police possessing rings used to control green magic.}
+		{ITEM Green Lantern Corpse,8,20 | * | Covert tactics group working within the larger Green Lantern Corps.}
+		{ITEM Guardians of the Universe,5,6 | ../../../aliens_races/dc/Oan.htm,_page | Virtually immortal masters of the Green Lantern Corps.}
+		{ITEM Gunner & Sarge,8,20 | * | Un-named duo of Marines that executed special forces missions during World War II.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Hallas,8,20 | * | Predecessors to the Green Lantern Corps}
+		{ITEM Hellcats,8,20 | * | World War II squadron composed mostly of ex-criminals.}
+		{ITEM Hayoth,8,20 | * | Group of superhuman working for the Israeli secret services.}
+		{ITEM Human Defense Corps,5,6 | ../../../teams/dc/HumanDefenseCorps.htm,_page | Military branch designed to counter extraterrestrial threats.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Inferior Five,8,20 | * | Team of non-super heroes.}
+		{ITEM Infinity Inc.,5,6 | ../../../teams/dc/InfinityInc.htm,_page | Group of super-heroes comprised mostly of children and protégés of the Justice Society of America.}
+		{ITEM International Club of Heroes,8,20 | * | Group of international heroes inspired by Batman.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | * | Contains listings with book icons that have biography pages. Most listings with page icons display details HERE.}
+		{ITEM JLA,5,6 | ../../../teams/dc/JLA.htm,_page | Justice League of America}
+		{ITEM JLAnimals,8,20 | * | Group of "funny animal" superheroes from Earth-C-Minus.}
+		{ITEM JSA,5,6 | ../../../teams/dc/JSA.htm,_page | Justice Society of America}
+		{ITEM Justice Battalion,5,6 | ../../../teams/dc/JSA.htm,_page | Name used by the Justice Society of America during World War II.}
+		{ITEM Justice Experience,8,20 | * | Group of heroes teamed as an adventurous diversion}
+		{ITEM Justice Legion A,5,6 | ../../../teams/dc/JusticeLegionA.htm,_page | Heirs to the legacy of the Justice Legion and Justice Society.}
+		{ITEM Justice Legion L,5,6 | ../../../teams/dc/JusticeLegionL.htm,_page | Heirs to the legacy of the Legion of Super-Heroes.}
+		{ITEM Justice League America,5,6 | ../../../teams/dc/JLA.htm,_page | =}
+		{ITEM Justice League Elite,5,6 | ../../../teams/dc/JLElite.htm,_page | Super-powered covert operations team.}
+		{ITEM Justice League Europe,5,6 | ../../../teams/dc/JLA.htm,_page | =}
+		{ITEM Justice League International,5,6 | ../../../teams/dc/JLA.htm,_page | =}
+		{ITEM Justice League Taskforce,5,6 | ../../../teams/dc/JLA.htm,_page | =}
+		{ITEM Justice Society of America,5,6 | ../../../teams/dc/JSA.htm,_page | =}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Knights of the Galaxy,8,20 | * | Group of space-based human and alien defenders in the 25th century.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Labrats,8,20 | * | Group of young heroes created in a labratory.}
+		{ITEM Law's Legionnaires,5,6 | ../../../teams/dc/SevenSoldiersVictory.htm,_page | Group of seven heroes teamed during the 1940's. Also known as Seven Soldiers of Victory.}
+		{ITEM L.E.G.I.O.N.,5,6 | ../../../teams/dc/LEGION.htm,_page | Licensed Extra-Governmental Interstellar Operatives Network}
+		{ITEM Legion of Substitute-Heroes,5,6 | ../../../teams/dc/LegionSuperHeroes.htm,_page | Group of young super-heroes from different planets in the 30th & 31st century.}
+		{ITEM Legion of Superboys,5,6 | ../../../teams/dc/Legion_of_Superboys.htm,_page | Group of Superboys gathered from across Hypertime.}
+		{ITEM Legion of Super-Heroes I,5,6 | ../../../teams/dc/LegionSuperHeroes.htm,_page | Group of young super-heroes from different planets in the 30th Century.}
+		{ITEM Legion of Super-Heroes II,5,6 | ../../../teams/dc/LegionSuperHeroes_New.htm,_page | Group of young super-heroes from different planets in the 31st Century.}
+		{ITEM Legion of Super-Pets,8,20 | * | Group of super-powered animals.}
+		{ITEM Linear Men,8,20 | * | Group of time police devoted to preserving history.}
+		{ITEM (The) Losers I,5,6 | ../../../teams/dc/Losers.htm,_page | Code name for a detached service task force during World War II.}
+		{ITEM (The) Losers II,5,6 | ../../../teams/dc/Losers.htm,_page | Group of rogue espionage agents.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Marvel Family,5,6 | ../../../teams/dc/ShazamFamily.htm,_page | Group of individuals granted special powers by the wizard Shazam.}
+		{ITEM Maximums,8,20 | * | Alternate reality Avengers.}
+		{ITEM (The) Mercenaries,8,20 | * | Group of French Foreign Legion deserters acting as mercenaries.}
+		{ITEM Metal Men,5,6 | ../../../teams/dc/MetalMen.htm,_page | Group of androids with powers based upon elemental metals.}
+		{ITEM Minutemen,8,20 | * | Alternate reality Justice Society.}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM New Guardians,8,20 | * | Group of humans granted super-human powers with the intention of creating a new race to succeed the Guardians of the Universe of Oa.}
+		{ITEM Newsboy Army,8,20 | * | Group of talented children publishing a newspaper about their adventures.}
+		{ITEM Newsboy Legion,8,20 | * | Street urchins paroled under the supervision of Jim Harper (Guardian).}
+		{ITEM Night Force,8,20 | * | Lose affiliation battling evil under the direction of Baron Winters.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Omega Men,5,6 | ../../../teams/dc/OmegaMen.htm,_page | Group combining rebel forces of the twenty-two worlds of the Vegan system.}
+		{ITEM Outsiders I,5,6 | ../../../teams/dc/Outsiders.htm,_page | Group of super-powered beings originally organized by Batman I.}
+		{ITEM Outsiders II,5,6 | ../../../teams/dc/Outsiders.htm,_page | Group of super-powered and non-superpowered beings organized by Arsenal III.}
+	{/FOLDER}
+	{FOLDER (P),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Planeteers,8,20 | * | Group of heroes from the 22nd Century.}
+		{ITEM Primal Force,8,20 | * | Group of heroes banded together after Zero Hour.}
+		{ITEM Psyba-Rats,8,20 | * | Group of cybernetically enhanced some-time heroes.}
+		{ITEM Purple Trio,8,20 | * | Group of crime-fighting Vaudeville performers.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Ravers,8,20 | * | Group of teen heroes who liked to party down.}
+		{ITEM R.E.B.E.L.S.,8,20 | * | Revolutionary Elite Brigate to Eliminate L.E.G.I.O.N.}
+		{ITEM Red Trinity,8,20 | * | Team of Soviet super speedsters that defected to the United States}
+		{ITEM Relative Heroes,5,6 | ../../../teams/dc/RelativeHeroes.htm,_page | Group of young superhuman orphans.}
+		{ITEM Rocket Red Brigade,5,6 | ../../../teams/dc/RocketReds.htm,_page | Enhanced group of armored Soviet super-soldiers.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Sea Devils,8,20 | * | Group of oceanic explorers and adventurers.}
+		{ITEM Secret Six I,8,20 | * | Group of six gathered by the mysterious Mockingbird to battle evil.}
+		{ITEM Secret Six II,8,20 | * | Group of six gathered by the mysterious Mockingbird to battle evil.}
+		{ITEM Seven Soldiers of Victory,5,6 | ../../../teams/dc/SevenSoldiersVictory.htm,_page | Group of seven heroes teamed during the 1940's. Also known as Law's Legionnaires.}
+		{ITEM S.H.A.D.E.,8,20 | * | Super Human Advanced Defense Executive}
+		{ITEM Shadowpact,5,6 | ../../../teams/dc/Shadowpact.htm,_page | Alliance of mystically powered heroes.}
+		{ITEM SHAZAM Family,5,6 | ../../../teams/dc/ShazamFamily.htm,_page | Group of individuals granted special powers by the wizard Shazam.}
+		{ITEM Sovereign Seven,5,6 | ../../../teams/dc/SovereignSeven.htm,_page | Group of royal aliens stranded on Earth.}
+		{ITEM Soyuz,8,20 | * | Group of superhuman Russians.}
+		{ITEM Speed Metal,8,20 | * | 27th century super-fast robotic police force}	
+		{ITEM Star Hunters,8,20 | * | Group of explorers searching for the home world of life in the galaxy.}
+		{ITEM Star Rovers,8,20 | * | Group of space explorers and adventurers.}
+		{ITEM Strike Force Superman,5,6 | ../../../teams/dc/StrikeForceSuperman.htm,_page | Alliance of heroes with ties to Superman.}
+		{ITEM Suicide Squad I,5,6 | ../../../teams/dc/SuicideSquad.htm,_page | United States special operatives task force assinged to handle high risk missions.}
+		{ITEM Suicide Squad II & III,5,6 | ../../../teams/dc/SuicideSquad.htm,_page | Government program to use criminals for designated high risk missions with promise of commuting their prison sentence.}
+		{ITEM Sun Devils,8,20 | * | Group of intergalactic rebels.}
+		{ITEM Super-Malon,8,20 | * | Group of South American heroes.}
+		{ITEM Supermen of America,5,6 | ../../../teams/dc/Supermen_of_America.htm,_page | Team of heroes that protect Metropolis.}
+		{ITEM Superman Squad,8,20 | * | Team of Supermen from across time and space.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Contains listings with book icons that have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Team Luthor,8,20 | * | Group of heroes financed by Lex Luthor.}
+		{ITEM Teen Titans,5,6 | ../../../teams/dc/TeenTitans.htm,_page |Group of young heroes most of which are or were side kicks to adult counterparts}
+		{ITEM T.H.U.N.D.E.R. Agents,5,6 | ../../../teams/dc/THUNDER_Agents.htm,_page | The Higher United Nations Defense Enforcement Reserves.}
+		{ITEM Time Masters,8,20 | * | Group of time-traveling heroes.}
+		{ITEM Titans,5,6 | ../../../teams/dc/Titans.htm,_page | Group of young adult heroes most of which are former Teen Titans}
+		{ITEM Titans East,8,20 | * | Heroic version of the Teen Titans from an alternate future.}
+		{ITEM Titans West I,8,20 | * | Shortlived splinter group of the Teen Titans.}
+		{ITEM TNT Trio,8,20 | * | Trio of soliders during World War II.}
+		{ITEM Tomahawk's Rangers,8,20 | * | Group of soldiers during the American Revolutionary War.}
+		{ITEM Trigger Twins I,8,20 | * | Brothers Walt and Wayne Trigger who fought crime in the old west.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Uh-Oh Squad,8,20 | * | Trio of inept and now deceased heroes.}
+		{ITEM Ultramarine Corps,5,6 | ../../../teams/dc/UltramarineCorps.htm,_page | Group of metahuman soldiers working through the U.S. military.}
+		{ITEM Uncanny Amazers,8,20 | * | Team of heroes from the 30th Century.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Vanguard,8,20 | * | Group of intergalactic protectors.}
+	{/FOLDER}
+	{FOLDER (W),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Wanderers,8,20 | * | Super-hero team from the 30th century.}
+		{ITEM Warlords of Okaara,8,20 | * | Members of the Okaaran race known and revered for their training of physical and mental discipline.}
+		{ITEM Watchmen,8,20 | * | Alternate reality Justice League}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Young Allies,8,20 | * | Group of international heroes during World War II.}
+		{ITEM Young All-Stars,8,20 | * | Group of heroes during World War II.}
+		{ITEM Young Heroes,5,6 | ../../../teams/dc/YoungHeroes.htm,_page | Group of juvenile heroes.}
+		{ITEM Young Justice,5,6 | ../../../teams/dc/YoungJustice.htm,_page | Justice League Jr.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Zoo Crew,5,6 | ../../../teams/dc/ZooCrew.htm,_page | Group of "funny animal" superheroes from Earth-C.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | The villain teams of the DC Universe.}
+		{ITEM (The) 100,8,20 | * | A group of high-tech criminals divided into 10 groups of 10 with different mission profiles.}
+		{ITEM (The) 1000,8,20 | * | A group of high-tech criminals divided into 10 groups of 100 with different mission profiles.}
+		{ITEM 2000 Committee,8,20 | * | Group dedicated to the overthrow of the U.S. Government by the year 2000. Too late losers.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Agenda,8,20 | * | Rogue genetic research agency.}
+		{ITEM Anti-Green Lantern Corps,8,20 | * | Artificial soldiers created by the Weaponiers of Qward to wield Black magic rings}
+		{ITEM Aryan Brigade,8,20 | * | Group of superpowered supremisist.}
+		{ITEM Axis America,5,6 | ../../../teams/dc/AxisAmerica.htm,_page | Group of superhuman white supremacist.}
+		{ITEM Axis of Evil,8,20 | * | Group of superhuman criminals from another dimension.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Batman's Rogues,5,6 | ../../../teams/dc/BatmanRogues.htm,_page | Lose affiliation of criminals allied against Batman.}
+		{ITEM Bizarro Legionnaires,5,6 | ../../../teams/dc/BizarroLegion.htm,_page | Group of Legionnaires transformed into backwards version os themselves.}
+		{ITEM Black Reign,5,6 | ../../../teams/dc/BlackReign.htm,_page | Splinter group of the Justice Society implimenting deadly force in the name of justice.}
+		{ITEM Body Doubles,5,6 | ../../../teams/dc/BodyDoubles.htm,_page | Team of two female assassins.}
+		{ITEM Brotherhood of Dada,8,20 | * | Group of artistically minded villains.}
+		{ITEM Brotherhood of Evil,5,6 | ../../../teams/dc/Brotherhood_of_Evil.htm,_page | Group of super-powered villains dedicated to world control.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Cadre,8,20 | * | Group of super-powered villains empowered by the alien Overmaster.}
+		{ITEM (The) Circle,8,20 | * | Group of enhanced humans who believe themselves to be God's first creation before Man.}
+		{ITEM (The) Citadel,8,20 | * | A fascist empire in the Vegan star-system.}
+		{ITEM Club of Villains,8,20 | * | Group of villains lead by the Black Glove.}
+		{ITEM Combine,8,20 | * | Extraterrestrial organization of weapons dealers.}
+		{ITEM Crime Champions,8,20 | * | Alliance of villains from Earth 1 and Earth 2.}
+		{ITEM Crime Council,8,20 | * | Alliance of organized crime bosses.}
+		{ITEM Crime Syndicate of America I,8,20 | * | Evil Justice League of America from Earth-3.}
+		{ITEM Crime Syndicate of Amerika II,5,6 | ../../../teams/dc/CrimeSyndicate_of_Amerika.htm,_page | Evil JLA from Earth-2.}
+		{ITEM Crime Syndicate of Qward,8,20 | * | Super humanoids with powers and identities modeled after members of the JLA.}
+		{ITEM (The) Council,8,20 | * | Group of information terrorist.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Dark Circle,8,20 | * | Group of extraterrestrials dedicated to galactic conquest.}
+		{ITEM Deep Six I,8,20 | * | Amphibious humanoid terrorist from the planet Apokolips serving Darkseid.}
+		{ITEM Deep Six II,8,20 | * | Group of amphibious terrorists.}
+		{ITEM Demolition Team,8,20 | * | Group of professional mercenaries themed after construction workers.}
+		{ITEM Double Dare,5,6 | ../../../teams/dc/DoubleDare.htm,_page | A pair of circus acrobats profitting from robbing criminals.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Elementals of Disaster,5,6 | ../../../teams/dc/Elementals_of_Disaster.htm,_page | Mystic beings capable of controlling the four individual elements.}
+		{ITEM (The) Elite,,5,6 | ../../../teams/dc/Elite.htm,_page | Group of meta-humans that dispense justice with extreme force.}
+		{ITEM (The) Extremists I,8,20 | * | Group of android villains.}
+		{ITEM (The) Extremists II,8,20 | * | Group of villains controlled by the Overmaster.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Fatal Five,5,6 | ../../../teams/dc/FatalFive.htm,_page | Group of extraterrestrials dedicated to galactic conquest.}
+		{ITEM Fearsome Five,5,6 | ../../../teams/dc/FearsomeFive.htm,_page | Group of villains hired by Dr. Light I through the classified ads of the Underworld Star.}
+		{ITEM Ferrous,8,20 | * | Group of high-tech assassins}
+		{ITEM Female Furies,5,6 | ../../../teams/dc/FemaleFuries.htm,_page | Group of elite commandos from the planet Apokolips.}
+		{ITEM First Strike,8,20 | * | Superhuman strikeforce controled by S.H.A.D.E.}
+		{ITEM Forgotten Villains,8,20 | * | Group of obscure villains.}
+		{ITEM Fourth Reich,8,20 | * | Group of superhuman Nazis.}
+		{ITEM Futuresmiths,8,20 | * | Technically advanced villians from the future.}
+	{/FOLDER}
+	{FOLDER (G),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Gang,8,20 | * | Group of villains that grew together in poverty on Chicago's South Side.}
+	{/FOLDER}
+	{FOLDER (H),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Hand of Krona,8,20 | * | Interstellar technology cult worshiping the ancient Maltusian scientist Krona.}
+		{ITEM (The) Hangmen,8,20 | * | Group of superpowered assassins.}
+		{ITEM Helix,8,20 | * | Group of genetically manipulated infants raised by the mad Dr. Love to become a criminal team.}
+		{ITEM H.I.V.E.,8,20 | * | Hierarchy of International Vengeance and Extermination is a secret organization devoted to world domination.}
+		{ITEM House of Pain,8,20 | * | Group of villains teamed as an adventurous diversion}
+		{ITEM Hybrid,8,20 | * | Group of superhuman forced into villainy by Doom Patrol member Mento.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Injustice Gang,5,6 | ../../../teams/dc/InjusticeGang.htm,_page | Group of super-powered villains ploting to control the world.}
+		{ITEM Injustice Gang of the World,5,6 | ../../../teams/dc/InjusticeGang.htm,_page | Group of super-powered villains opposing the Justice League of America.}
+		{ITEM Injustice League,5,6 | ../../../teams/dc/InjusticeLeague.htm,_page | Group of superhuman villains that switched bodies with the Justice League.}
+		{ITEM Injustice Society,5,6 | ../../../teams/dc/InjusticeSociety.htm,_page | Group of super-powered villains opposing the Justice Society of America.}
+		{ITEM Injustice Society of the World,5,6 | ../../../teams/dc/InjusticeSociety.htm,_page | Group of super-powered villains opposing the Justice Society of America.}
+		{ITEM Inner Circle of Simian Scarlet,8,20 | * | Ruling group of the Simian Scarlet Cultural Purity Movement.}
+		{ITEM Intangables,8,20 | * | Group of criminals wearing high-tech uniforms rendering them intangible.}
+		{ITEM Intergang,8,20 | * | Organized crime group in Metroplis.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Jihad,8,20 | * | Group of terrorist working for the middle-east nation of Qurac.}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ketsueki Senshi,8,20 | * | Japanese band of assassins whose name translates as Blood Soldier.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Lawless League,8,20 | * | Alternate timeline Injustice League created by Johnny Thunder.}
+		{ITEM League of Assassins,5,6 | ../../../teams/dc/League_of_Assassins.htm,_page | International secret society dedicated to mastery of murder and assassination.}
+		{ITEM League of Challenger-Haters,8,20 | * | Group of villains that ironically enough hated the Challengers of the Unknown.}
+		{ITEM League of Super-Assassins,8,20 | * | Super-powered aliens from the planet Dryad.}
+		{ITEM Legion of Super-Villains,8,20 | * | Group of young super-villains from different planets in the 30th century.}
+		{ITEM Locus,8,20 | * | Group of rogue geneticists.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Madmen,8,20 | * | Group of colorfully clad criminals.}
+		{ITEM Mainframe,8,20 | * | Group of cybernetic criminals.}
+		{ITEM Manhunters,5,6 | ../../../teams/dc/Manhunters.htm,_page | Rogue android predecessors to the Green Lantern Corps.}
+		{ITEM Masters of Disaster,8,20 | * | Group of mercenaries with abilities related to natural destructive forces.}
+		{ITEM Men from N.O.W.H.E.R.E.,8,20 | * | Group dedicated to the eradication of eccentricity and difference.}
+		{ITEM Monster Society of Evil,8,20 | * | Group of villains gathered by Mr. Mind.}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Network I,8,20 | * | Super-powered criminals that drew their powers from an artificial satelite.}
+		{ITEM Network III,8,20 | * | Blackmarket serving super-powered criminals in Keystone City.}
+		{ITEM Network IV,8,20 | * | Super-powered criminal cartel located in Gotham City.}
+		{ITEM New Olympians,8,20 | * | Super-powered villains with powers corresponding to the gods of Greek and Roman mythology.}
+		{ITEM Nuclear Family,8,20 | * | Group of androids with nuclear based powers modeled after a family.}
+		{ITEM Nuclear Legion,8,20 | * | Group of criminals with radioactive based powers.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Old Justice,5,6 | ../../../teams/dc/OldJustice.htm,_page | Team of retired side-kicks opposed to juvenile heroes.}
+		{ITEM (The) Onslaught,8,20 | * | Group of superhuman international terrorists.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM People's Heroes,8,20 | * | Group of Soviet super-soldiers patterned after the Force of July.}
+		{ITEM Pirates of the Subway,8,20 | * | Group of homeless people marauding the subways in stollen trains.}
+		{ITEM Princes of Darkness,5,6 | ../../../teams/dc/Princes_of_Darkness.htm,_page | Group of mysical villains.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Quinntettes,5,6 | ../../../teams/dc/Quinntettes.htm,_page | Gang of Gotham criminals lead by Harley Quinn.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Rainbow Raiders,8,20 | * | Group of super-powered criminals wearing colors corresponding to the rainbow.}
+		{ITEM Ravens,5,6 | ../../../teams/dc/Ravens.htm,_page | Group of female mercenaries.}
+		{ITEM Red Lantern Corps,5,6 | ../../../teams/dc/RedLanterns.htm,_page | Corp of terrorists possessing rings used to control red magic.}
+		{ITEM Red Morgue,8,20 | * | Genetically engineered fascist from the 27th Century.}
+		{ITEM Rogues,5,6 | ../../../teams/dc/Rogues.htm,_page | Affiliation of mid-western villains obsessed with battling the Flash.}
+		{ITEM Royal Flush Gang,5,6 | ../../../teams/dc/RoyalFlushGang.htm,_page | Group of villains using the motif of high cards in a poker deck.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Samurai Roshu,8,20 | * | Group of Japanese meta-humans.}
+		{ITEM Samurai Squad,8,20 | * | Group of super-human Japanese during World War II.}
+		{ITEM Secret Six III,5,6 | ../../../teams/dc/SecretSixIII.htm,_page | Group of six villains gathered by the mysterious Mockingbird to battle evil.}
+		{ITEM Secret Society of Super Villains,5,6 | ../../../teams/dc/SecretSocietySuperVillains.htm,_page | Vast group of super villains originally formed by Darkseid.}
+		{ITEM Scarlet Horde,8,20 | * | Group of high-tech criminal terrorist.}
+		{ITEM Sinestro Corps,5,6 | ../../../teams/dc/SinestroCorps.htm,_page | Corp of galactic terrorists possessing rings used to control yellow magic.}
+		{ITEM Skull,8,20 | * | Criminal organization lead by the Atomic Skull.}
+		{ITEM Snatchers,8,20 | * | Group of zealots snatching people for the Undersoul, through portals hidden in retail malls.}
+		{ITEM Society of Sin,8,20 | * | Group of villains associated with the Borhterhood of Evil.}
+		{ITEM Strike Force,8,20 | * | High-tech criminal cartel.}
+		{ITEM Strike Force Kobra,8,20 | * | Group of super-powered villains under the command of Kobra.}
+		{ITEM Subterraneans,8,20 | * | Criminal cadre working beneath the city of Metropolis.}
+		{ITEM Superman Revenge Squad,8,20 | * | Group of villains with a grudge against Superman.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Tartarus,5,6 | ../../../teams/dc/Tartarus.htm,_page | Group of criminals and terrorist lead by Vandal Savage}
+		{ITEM Team Turmoil,8,20 | * | Group of superhuman mercinaries.}
+		{ITEM Terrible Trio,5,6 | ../../../teams/dc/TerribleTrio.htm,_page | Group of criminal inventors known as the Fox, Shark and Vulture.}
+		{ITEM Terror Titans,5,6 | ../../../teams/dc/TerrorTitans.htm,_page | Group of young superhuman criminals.}
+		{ITEM Three Witches,8,20 | * | Trio of goddesses who belong to no panteheon.}
+		{ITEM Thunderbolt III,8,20 | * | Criminal orginization.}
+		{ITEM Time Foes,8,20 | * | Group of time-themed villains.}
+		{ITEM Titans West II,5,6 | ../../../teams/dc/TitansWestII.htm,_page | Villainous version of the Teen Titans from an alternate future.}
+		{ITEM Trigger Twins II,8,20 | * | Brothers Tom and Tad Trigger who used western motifs to commit crimes.}
+		{ITEM Triple Threat,8,20 | * | Trio of crimal meta-humans.}
+		{ITEM Thunderers of Qward,8,20 | * | Also known as the Weaponers of Qward}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Untouchables,8,20 | * | Group of criminals wearing high-tech uniforms rendering them intangible.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Villainy Incorporated,5,6 | ../../../teams/dc/VillainyInc.htm,_page | Alliance of criminal women.}
+		{ITEM VULTURE,8,20 | * | Criminal orginization.}
+	{/FOLDER}
+	{FOLDER (W),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Weaponers of Qward,8,20 | * | Groupo of warriors from the anti-matter universe known as Qward.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Yellow Peril,8,20 | * | Terrorist group dressed head to toe in yellow to exploit Green Lanterns' weakness.} 
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

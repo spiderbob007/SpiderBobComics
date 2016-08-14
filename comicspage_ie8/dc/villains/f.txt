@@ -1,0 +1,117 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Façade,8,20 | * | Erik Hanson}
+		{ITEM (The) Face,8,20 | * | Unknown}
+		{ITEM Faceless I,8,20 | * | Marco Xavier}
+		{ITEM Faceless II,8,20 | * | Joseph Zedno}
+		{ITEM Faceless Hunter,8,20 | * | Unknown}
+		{ITEM Fadeaway Man,8,20 | * | Anton Lamont}
+		{ITEM Fadeaway Outlaw,8,20 | * | Tony Morely}
+		{ITEM Falcon,8,20 | * | Unknown}
+		{ITEM False-Face,8,20 | * | Unknown}
+		{ITEM Faora,8,20 | * | Unknown}
+		{ITEM Fast Forward I,8,20 | * | Unknown}
+		{ITEM Fastball,8,20 | * | Malone}
+		{ITEM Fatality,5,6 | ../../../villains/dc/Fatality.htm,_page | Yrra Cynril}
+		{ITEM Fausta,8,20 | * | Unknown}
+		{ITEM Feast,8,20 | * | Unknown}
+		{ITEM Felix Faust,5,6 | ../../../villains/dc/Faust.htm,_page | =}
+		{ITEM Fernus the Burning,5,6 | ../../../villains/dc/Fernus.htm,_page | J'onn J'onzz}
+		{ITEM Fiddler,8,20 | * | Isaac Bowin}
+		{ITEM Fiero,8,20 | * | Unknown}
+		{ITEM Film Freak,8,20 | * | Burt Weston}
+		{ITEM Fire Jade,8,20 | * | Lady Emerald}
+		{ITEM Firebug,8,20 | * | Joseph Rigger}
+		{ITEM Firefist,8,20 | * | Lyle Byrnes}
+		{ITEM Firefly I,8,20 | * | Garfield Lynns}
+		{ITEM Firefly II,8,20 | * | Ted Carson}
+		{ITEM Fisherman,8,20 | * | Unknown}
+		{ITEM Fleshburn,8,20 | * | Unknown}
+		{ITEM Flicker,8,20 | * | =}
+		{ITEM Floronic Man,5,6 | ../../../villains/dc/FloronicMan.htm,_page | Dr. Jason Woodrue}
+		{ITEM Flying Dutchman,8,20 | * | Unknown}
+		{ITEM Fog,8,20 | * | Unknown}
+		{ITEM Folded Man,5,6 | ../../../villains/dc/FoldedMan.htm,_page | Edwin Gauss}
+		{ITEM (The) Fool,8,20 | * | Unknown}
+		{ITEM Force,8,20 | * | Uknown}
+		{ITEM Fox,8,20 | * | Unknown}
+		{ITEM Fright,8,20 | * | Dr. Linda Friitawa}
+		{ITEM Frostbite,8,20 | * | Unknown}
+		{ITEM Funky Flashman,5,6 | ../../../villains/dc/FunkyFlashman.htm,_page | Unknown}
+		{ITEM Fuse,8,20 | * | Unknown}
+		{ITEM Fusionn,8,20 | * | Manfred Mota}
+		{ITEM Futureman,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Sinestro Corps),17,18 | sincorps.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

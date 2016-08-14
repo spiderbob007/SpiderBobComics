@@ -1,0 +1,159 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+	{FOLDER ~Supporting Cast,17,18 | * | The cast members of the DC Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abby Holland,5,6 | ../../../cast/dc/AbbyHolland.htm,_page | Ally and lover of Alec Holland (Swamp Thing).}
+		{ITEM Alfred Pennyworth,5,6 | ../../../cast/dc/Alfred.htm,_page | Wayne family butler}
+		{ITEM Amanda "The Wall" Waller,8,20 | * | Government bureaucrat and head of Task Force X and the Suicide Squad.}
+		{ITEM Abel,5,6 | ../../../cast/dc/Cain_Abel.htm,_page | Caretaker of the House of Secrets.}
+		{ITEM Alanna Strange,5,6 | ../../../heroes/dc/AlannaStrange.htm,_page | Rannian wife of Adam Strange.}
+		{ITEM Aunt Harriet Cooper,8,20 | * | Aunt of Dick Grayson (Robin I).}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Bathound,8,20 | * | Ace the Bat Dog}
+		{ITEM Beepo,8,20 | * | Super Monkey}
+		{ITEM Bat-Mite,5,6 | ../../../cast/dc/BatMite.htm,_page | Imp from another dimension enamored with Batman}
+		{ITEM Bibbo Bibbowski,8,20 | * | Metropolis tavern owner and ally of Superman.}
+		{ITEM Bud,5,6 | ../../../cast/dc/Hyenas.htm,_page | Pet hyena keep by Harley Quinn.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Cain,5,6 | ../../../cast/dc/Cain_Abel.htm,_page | Caretaker of the House of Mystery.}
+		{ITEM Camilla Marlowe,8,20 | * | Assistant of Dr. Mid-Nite II}
+		{ITEM Carol Ferris,5,6 | ../../../cast/dc/CarolFerris.htm,_page | Manager of Ferris Aircraft, occasional girlfriend of Hal Jordon (Green Lantern II), and Queen of the Zamarons: Star Sapphire.}
+		{ITEM Charity,5,6 | ../../../cast/dc/Charity.htm,_page | Fortune teller and friend to Jack Knight, Starman VII.}	
+		{ITEM Chunk,8,20 | * | Chester P. Runk}
+		{ITEM Commissioner James Gordon,5,6 | ../../../cast/dc/CommissionerGordon.htm,_page | Gotham City Police Commissioner}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Dan Turpin,8,20 | * | Metropolis Special Crimes Unit police investigator.}
+		{ITEM Detective Harvey Bullock,5,6 | ../../../cast/dc/DetectiveBullock.htm,_page | Gotham City Police Detective}
+		{ITEM Detective Renee Montoya,5,6 | ../../../cast/dc/ReneeMontoya.htm,_page | Gotham City Police Detective}
+		{ITEM Detective Sarah (Essen) Gordon,8,20 | * | Deceased wife of Commissioner Gordon, shot dead by Joker}
+		{ITEM Dr. Bruce Gordon,8,20 | * | Original host for Eclipso}
+		{ITEM Dr. Leslie Thompkin,8,20 | * | Gotham City doctor and ally of Batman.}
+		{ITEM Dr. Shondra Kinsolving,8,20 | * | Psychic and one-time lover of Batman.}
+	{/FOLDER}
+	{FOLDER (E),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ganthet,8,20 | * | Last Guardian of the Universe after Parallax destroyed the Green Lantern Corps}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Harold,8,20 | * | Hunchbacked mechanic and ally of Batman.}
+		{ITEM Henri DuCard,8,20 | * | Private investigator and trainer of Bruce Wayne before he became Batman.}
+		{ITEM Holly,5,6 | ../../../cast/dc/Holly.htm,_page | Associate of Selina Kyle (Catwoman).}
+		{ITEM Hooty I,8,20 | * | Trained Owl of Dr. Mid-Nite I.}
+		{ITEM Hooty II,8,20 | * | Trained Owl of Dr. Mid-Nite II.}
+		{ITEM Hope O'Dare,5,6 | ../../../cast/dc/HopeODare.htm,_page | Opal City police officer and ally of Starman VII.}		
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ice Sickle,8,20 | * | Medical assistant to Dr. Mid-Nite II}
+		{ITEM Ira West,8,20 | * | Grandfather of Wally West / Flash III}
+		{ITEM Iris West Allen,8,20 | * | Wife of Barry Allen / Flash II}
+	{/FOLDER}
+	{FOLDER (J),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Jason Bard,8,20 | * | Gotham City detective and former fiancé of Barbara Gordon (Batgirl II).}
+		{ITEM Jerermiah Arkham,5,6 | ../../../cast/dc/JeremiahArkham.htm,_page | Director of Arkham Asylum.}
+		{ITEM Jimmy Olsen,5,6 | ../../../cast/dc/JimmyOlsen.htm,_page | Daily Planet photographer}
+		{ITEM Jonathan Kent,5,6 | ../../../cast/dc/Ma_PaKent.htm,_page | Adopted father of Clark Kent / Superman}
+		{ITEM Jor-El,5,6 | ../../../cast/dc/Jor-El.htm,_page | Father of Kal-El / Superman}
+		{ITEM Julie Madison,8,20 | * | Actress and one-time fiancé of Bruce Wayne (Batman).}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Koko,8,20 | * | Pet Albino monkey of Brainiac V}
+		{ITEM Krakkl,8,20 | * | Defender of Kwyzz}
+		{ITEM Krypto II,8,20 | * | Mutt owned by a friend of Superboy III}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Lana Lang,8,20 | * | Former girlfriend of Clark Kent / Superman}
+		{ITEM Lara Lor-Van,8,20 | * | Mother of Kal-El / Superman}
+		{ITEM Lian Harper,5,6 | ../../../cast/dc/Lian.htm,_page | Daughter of Roy Haper (Arsenal III) and Jade Nguyen, the terrorist known as Cheshire.}
+		{ITEM Linda Page,8,20 | * | Gotham City nurse and one-time girlfriend of Bruce Wayne (Batman).}
+		{ITEM Linda Park,5,6 | ../../../cast/dc/LindaPark.htm,_page | Former television investigative reporter and wife of Wally West (Flash III).}
+		{ITEM Lois Lane-Kent,5,6 | ../../../cast/dc/LoisLane.htm,_page | Daily Planet reporter and wife of Clark Kent (Superman).}
+		{ITEM Lori Lemaris,5,6 | ../../../cast/dc/LoriLemaris.htm,_page | Mermaid and former love of Clark Kent.}
+		{ITEM Lou,5,6 | ../../../cast/dc/Hyenas.htm,_page | Pet hyena keep by Harley Quinn.}
+		{ITEM Lucius Fox,8,20 | * | CEO of WayneTech}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Maggie Kyle,8,20 | * | Magdalena Kyle sister of Selena Kyle (Catwoman).}
+		{ITEM Maggie Sawyer,8,20 | * | Metropolis Special Crimes Unit police investigator.}
+		{ITEM Martha Kent,5,6 | ../../../cast/dc/Ma_PaKent.htm,_page | Adopted mother of Clark Kent / Superman}
+		{ITEM Martha Wayne,8,20 | * | Deceased mother of Bruce Wayne (Batman I).}
+		{ITEM Mary West,8,20 | * | Mother of Wally West / Flash III}
+		{ITEM Matches Malone,5,6 | ../../../cast/dc/MatchesMalone.htm,_page | Undercover identity of Bruce Wayne (Batman I) assumed from a man he believed dead.}
+		{ITEM Maxima,8,20 | * | Empress of Almerac}
+		{ITEM Maxwell Lord,8,20 | * | Billionaire that funded the Justice League International.}
+		{ITEM Meloni Thawne,8,20 | * | Mother of Bart Allen / Impulse I}
+		{ITEM Mercy Graves,8,20 | * | Body guard and chauffeur of Lex Luthor}
+		{ITEM Mr. Tawky Tawny,8,20 | * | Humanoid tiger and friend of Captain Marvel.}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Nite-Lite,8,20 | * | Assistant to Dr. Mid-Nite II}
+	{/FOLDER}
+	{FOLDER (O),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Perry White,5,6 | ../../../cast/dc/PerryWhite.htm,_page | Editor-In-Chief of the Daily Planet newspaper.}
+		{ITEM Professor Emil Hamilton,8,20 | * | STAR Labs scientist and ally of Superman.}
+		{ITEM Proty I,8,20 | * | Protoplasmic pet of Chameleon Boy from the planet Protean.}
+		{ITEM Proty II,8,20 | * | Protoplasmic pet of Chameleon Boy and ambassador from the planet Protean.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ron Troupe,8,20 | * | Newspaper reporter, husband of Lucy Lane and brother-in-law of Lois Lane.}
+		{ITEM Rudolph West,8,20 | * | Father of Wally West (Flash III) and Manhunter spy.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sapphire Stagg,8,20 | * | Wife of Rex Mason (Metamorpho).}
+		{ITEM Sardath,8,20 | * | Chief scientist of the planet Rann and father-in-law of Adam Strange.}
+		{ITEM Sasha Bordeaux,5,6 | ../../../heroes/dc/SashaBordeaux.htm,_page | Former bodyguard of Bruce Wayne and crime-fighting partner of Batman.}
+		{ITEM Silver St. Cloud,5,6 | ../../../cast/dc/SilverStCloud.htm,_page | Gotham City socialite and one time lover of Bruce Wayne (Batman).}
+		{ITEM Simon Stagg,8,20 | * | Father-in-law of Rex Mason (Metamorpho).}
+		{ITEM Snapper Carr,8,20 | * | Lucas (Snapper) Carr friend and mascot of the Justice League of America and mentor to Hourman III.}
+		{ITEM Solovar,8,20 | * | Deceased leader of Gorilla City.}
+		{ITEM Steven Trevor,8,20 | * | Air Force officer and ally of Wonder Woman.}
+		{ITEM Streaky,8,20 | * | Super-Cat}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Talia,5,6 | ../../../villains/dc/Talia.htm,_page | Talia al Ghul}
+		{ITEM Thomas Wayne,8,20 | * | Deceased father of Bruce Wayne (Batman I).}
+		{ITEM Tom (Pieface)Klamaku,8,20 | * | Airplane mechanic for Ferris Aircraft and confidant of Green Lantern II}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Vesper Fairchild,5,6 | ../../../cast/dc/VesperFairchild.htm,_page | Radio personality and one-time lover of Bruce Wayne (Batman).}
+		{ITEM Viki Vale,8,20 | * | Photo journalist and ally of Bruce Wayne (Batman).}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Woozy Winks,5,6 | ../../../cast/dc/WoozyWinks.htm,_page | Wolfgang (Woozy) Winks friend and sidekick of Plastic Man.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,96 @@
+﻿/*quiz reference styles*/
+
+	body	{
+		background-image: url('../images/fadedspider01.jpg'); 
+		background-repeat: repeat; 
+		width: 100%;
+		cursor: default;
+		overflow: hidden;		
+	}
+	
+	.ad_sense	{
+		text-align: center;
+		position: relative;
+		margin-top: 10px;		
+	}	
+	
+	.back-to-top {
+		position: fixed;
+		bottom: 10px;
+		right: 5px;
+		display: none
+	}
+	
+	@media screen and (max-width: 1150px) {
+		.back-to-top {
+		display: none !important;
+		}
+	}
+	
+	header  {		
+		position: absolute;
+		top: 20px;		
+		text-align: center;
+		width: 100%;
+		z-index: -1;		
+	}	
+	
+	img.banner	{
+		padding-right: 34px;
+	}	
+	
+	footer  {		
+		position: absolute;
+		bottom: 0px;
+		left: 0px;
+		text-align: center;
+		width: 100%;
+		background-color: white;
+		border-top: 2px solid black;
+	}
+	
+	footer p {
+		display: inline;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 14px;
+		font-weight: bold;
+		font-style: italic;				
+	}
+	
+	footer  a {		
+		text-transform: none; 
+		text-decoration: none;			
+	}	
+	
+	footer img	{
+		border: none;			
+	}	
+	
+	iframe {
+		border: 0;
+		overflow: auto;
+	}
+	
+	iframe#ref {
+		width: 70%;
+		height: 100%; 
+		position: absolute; 
+		right: 0; 
+		top: 0;
+	}
+	
+	iframe#footer {
+		width: 70%;
+		height: 180px; 
+		position: absolute; 
+		right: 0; 
+		bottom: 0;		
+	}
+	
+	iframe#menu {
+		width: 30%; 
+		height: 100%; 
+		position: absolute; 
+		left: 0; 
+		top: 0;
+	}

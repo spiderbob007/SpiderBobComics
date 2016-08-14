@@ -1,0 +1,204 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (M),5,6 | ../../../heroes/marvel/M.htm,_page | Monet Yvette Clarisse Maria Therese St. Croix}
+		{ITEM MACH-1,5,6 | ../../../heroes/marvel/Mach3.htm,_page | Abner (Abe) Ronald Jenkins}
+		{ITEM MACH-2,5,6 | ../../../heroes/marvel/Mach3.htm,_page | Abner (Abe) Ronald Jenkins}
+		{ITEM MACH-3,5,6 | ../../../heroes/marvel/Mach3.htm,_page | Abner (Abe) Ronald Jenkins}
+		{ITEM MACH-4,5,6 | ../../../heroes/marvel/Mach3.htm,_page | Abner (Abe) Ronald Jenkins}
+		{ITEM Machine Man,5,6 | ../../../heroes/marvel/X51.htm,_page | Aaron Stack}
+		{ITEM Machine Teen,5,6 | ../../../heroes/marvel/MachineTeen.htm,_page | Adam Aaronson}
+		{ITEM Madame Masque II,8,20 | * | Bethany Cabe}
+		{ITEM Madame Web,8,20 | * | Cassandra Webb}
+		{ITEM Mademoiselle,8,20 | * | Margaret (Peggy) Carter}
+		{ITEM Madrox,5,6 | ../../../heroes/marvel/MultipleMan.htm,_page | James (Jamie) Arthur Madrox}
+		{ITEM Magar the Mystic,8,20 | * | Unknown}
+		{ITEM Magdalene,8,20 | * | Marissa Darrow}
+		{ITEM Maggott,8,20 | * | Unknown}
+		{ITEM Magik I,5,6 | ../../../heroes/marvel/MagikI.htm,_page | Illyana Nikolievna Rasputin}
+		{ITEM Magik II,5,6 | ../../../heroes/marvel/MagikII.htm,_page | Jimaine Szardos also known as Amanda Sefton}
+		{ITEM Magma,5,6 | ../../../heroes/marvel/Magma.htm,_page | Amara Aquilla}
+		{ITEM Magneto II,5,6 | ../../../heroes/marvel/Polaris.htm,_page | Lorna Dane}
+		{ITEM Magnus I,8,20 | * | Charles Magnus}
+		{ITEM Magnus II,8,20 | * | Magnus Lencher}
+		{ITEM Mainframe,5,6 | ../../../heroes/marvel/VisionII.htm,_page | Vision}
+		{ITEM Major Liberty,8,20 | * | John Liberty}
+		{ITEM Major Mapleleaf I,8,20 | * | Louis Sadler Sr.}
+		{ITEM Major Mapleleaf II,5,6 | ../../../heroes/marvel/MajorMapleleafII.htm,_page | Louis Sadler Jr.}
+		{ITEM Major Victory,5,6 | ../../../heroes/marvel/MajorVictory.htm,_page | Vance Astrovik}
+		{ITEM (The) Maker,8,20 | * | Jonathon Silvercloud}
+		{ITEM Makkari,5,6 | ../../../heroes/marvel/Makkari.htm,_page | =}
+		{ITEM Man-oo the Mighty,8,20 | * | Man-oo}
+		{ITEM Man-Spider,5,6 | ../../../heroes/marvel/ManSpider.htm,_page | Peter Benjamin Parker}
+		{ITEM Manbot,8,20 | * | Unknown}
+		{ITEM Manikin,8,20 | * | Dr. Whitman Knapp}
+		{ITEM Mantis,5,6 | ../../../heroes/marvel/Mantis.htm,_page | =}
+		{ITEM Mantor the Magician,8,20 | * | Mantor}
+		{ITEM Mariko,5,6 | ../../../heroes/marvel/Mariko.htm,_page | Lady Mariko Yashida}
+		{ITEM Marionette,8,20 | * | =}
+		{ITEM Marrina,8,20 | * | Marina Smallwood}
+		{ITEM Marrow,5,6 | ../../../heroes/marvel/Marrow.htm,_page | Sarah}
+		{ITEM Martinex,8,20 | * | Martinex T'Naga}
+		{ITEM Marvel,8,20 | * | KalAOL}
+		{ITEM Marvel Boy I,8,20 | * | Martin Simon Burns}
+		{ITEM Marvel Boy II,8,20 | * | Martin Oksner Burns}
+		{ITEM Marvel Boy III,5,6 | ../../../heroes/marvel/MarvelBoyII.htm,_page | Robert Grayson}
+		{ITEM Marvel Boy IV,8,20 | * | Vance Astrovik}
+		{ITEM Marvel Boy V,5,6 | ../../../heroes/marvel/MarvelBoyV.htm,_page | Noh-Varr}
+		{ITEM Marvel Girl I,5,6 | ../../../heroes/marvel/PhoenixII.htm,_page | Jean Grey-Summers}
+		{ITEM Marvel Girl II,5,6 | ../../../heroes/marvel/MarvelGirlII.htm,_page | Valerie Von Doom}
+		{ITEM Marvel Girl III,5,6 | ../../../heroes/marvel/PhoenixIII.htm,_page | Rachael Anne Summers}
+		{ITEM Marvel Man,5,6 | ../../../heroes/marvel/Quasar.htm,_page | Wendell Elvis Vaughn}
+		{ITEM Marvex the Super Robot,8,20 | * | =}
+		{ITEM Masked Raider,8,20 | * | Jim Gardley}
+		{ITEM Mass-Master I,8,20 | * | Jack Power}
+		{ITEM Mass-Master II,8,20 | * | Alexander (Alex) Power}
+		{ITEM Master Elo,8,20 | * | Elo}
+		{ITEM Master Mind Excello,8,20 | * | Earl Everett}
+		{ITEM Master of Kung Fu,5,6 | ../../../heroes/marvel/ShangChi.htm,_page | Shang-Chi}
+		{ITEM Mastermind Excello I,8,20 | * | Earl}
+		{ITEM Mastermind Excello II,8,20 | * | Amadeus Cho}
+		{ITEM Matt Slade,8,20 | * | =}
+		{ITEM Maurice Fortuit,8,20 | * | =}
+		{ITEM Maureen Raven,8,20 | * | =}
+		{ITEM Maverick I,5,6 | ../../../heroes/marvel/AgentZero.htm,_page | Christoph David North}
+		{ITEM Maverick II,8,20 | * | Chris Bradley}
+		{ITEM Max,8,20 | * | Unknown}
+		{ITEM Mayhem,8,20 | * | Brigid O'Rielly}
+		{ITEM Medusa,5,6 | ../../../heroes/marvel/Medusa.htm,_page | Medusalith Amaquelin Boltagon (Queen of the Inhumans)}
+		{ITEM Meggan,5,6 | ../../../heroes/marvel/Meggan.htm,_page | =}
+		{ITEM Meltdown,5,6 | ../../../heroes/marvel/Meltdown.htm,_page | Tabitha Smith}
+		{ITEM Mentor I,5,6 | ../../../heroes/marvel/Mentor.htm,_page | A'Lars}
+		{ITEM Mercury,8,20 | * | Harry Kane}
+		{ITEM Merlin,8,20 | * | =}
+		{ITEM Merzah the Mystic,8,20 | * | Merzah}
+		{ITEM Mesmer,8,20 | * | Sersi the Eternal}
+		{ITEM Meteorite II,5,6 | ../../../heroes/marvel/MoonstoneII.htm,_page | Dr. Karla Sofen}
+		{ITEM Meteorite III,8,20 | * | Valerie Barnhart}
+		{ITEM Mercury II,8,20 | * | Makkari}
+		{ITEM Mercury V,8,20 | * | Cessily Kincaid}
+		{ITEM Merlyn,8,20 | * | =}
+		{ITEM Merzah the Mystic,8,20 | * | Unknown}
+		{ITEM Microman,8,20 | * | Jimmy Everett}
+		{ITEM Micromax,8,20 | * | Scott Wright}
+		{ITEM Mighty Destroyer I,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Keen Marlow}
+		{ITEM Mighty Destroyer II,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Brian Falsworth}
+		{ITEM Mighty Destroyer III,5,6 | ../../../heroes/marvel/MightyDestroyer.htm,_page | Roger Aubrey}
+		{ITEM Millie the Model,8,20 | * | Millie}
+		{ITEM Mimic II,5,6 | ../../../heroes/marvel/MimicII.htm,_page | Calvin Rankin}
+		{ITEM Mindsinger,8,20 | * | Gregor Buhkarov}
+		{ITEM Mirage II,5,6 | ../../../heroes/marvel/MirageII.htm,_page | Danielle (Dani) Moonstar}
+		{ITEM Miss America,5,6 | ../../../heroes/marvel/MissAmerica.htm,_page | Madeline Joyce Frank}
+		{ITEM Miss Fury,8,20 | * | Marla Drake}
+		{ITEM Miss Patriot,8,20 | * | Mary Morgan}
+		{ITEM Missouri Kid,8,20 | * | Herschel Walls}
+		{ITEM Mister E,8,20 | * | Unknown}
+		{ITEM Mistress of Density,8,20 | * | Julie Power}
+		{ITEM Misty Knight,5,6 | ../../../heroes/marvel/MistyKnight.htm,_page | =}
+		{ITEM Mockingbird,5,6 | ../../../heroes/marvel/Mockingbird.htm,_page | Barbara (Bobbi) Morse-Barton}
+		{ITEM Mojo II,8,20 | * | Mojo}
+		{ITEM Molecula,8,20 | * | Julia Power}
+		{ITEM Monako the Magician,8,20 | * | Unknown}
+		{ITEM Mondo,8,20 | * | Unknown}
+		{ITEM Monstro,8,20 | * | Frank Johnson}
+		{ITEM Moon Boy,8,20 | * | =}
+		{ITEM Moon Knight,5,6 | ../../../heroes/marvel/MoonKnight.htm,_page | Marc Spector}
+		{ITEM Moon Man,8,20 | * | Unknown}
+		{ITEM Moondragon I,8,20 | * | Heather Douglas}
+		{ITEM Moondragon II,8,20 | * | Pamela Douglas}
+		{ITEM Moonglow I,8,20 | * | Melissa Hanover}
+		{ITEM Moonglow II,8,20 | * | Arcanna Jones}
+		{ITEM Moonstalker,8,20 | * | Kiana}
+		{ITEM Moonstar,8,20 | * | Danielle (Dani) Moonstar}
+		{ITEM Moonstone II,5,6 | ../../../heroes/marvel/MoonstoneII.htm,_page | Dr. Karla Sofen}
+		{ITEM Morph,5,6 | ../../../heroes/marvel/Morph.htm,_page | Unknown}
+		{ITEM Mortigan Goth,8,20 | * | =}
+		{ITEM Motormouth I,8,20 | * | Harley Davidson}
+		{ITEM Motormouth 2013,8,20 | * | Harley Davis}
+		{ITEM Mr. E,8,20 | * | Victor Jay}
+		{ITEM Mr. Fantastic,5,6 | ../../../heroes/marvel/MrFantastic.htm,_page | Dr. Reed Richards}
+		{ITEM Mr. Immortal,8,20 | * | =}
+		{ITEM Mr. Joe Fixit,5,6 | ../../../heroes/marvel/HulkII.htm,_page | Dr. Robert Bruce Banner}
+		{ITEM Mr. Justice,8,20 | * | Timothy}
+		{ITEM Mr. Machine,5,6 | ../../../heroes/marvel/X51.htm,_page | Aaron Stack}
+		{ITEM Mr. Wu,8,20 | * | Wu}
+		{ITEM Ms. Marvel I,5,6 | ../../../heroes/marvel/MsMarvel.htm,_page | Carol Susan Jane Danvers}
+		{ITEM Ms. Marvel II,8,20 | * | Sharon Ventura}
+		{ITEM Multiple Man,5,6 | ../../../heroes/marvel/MultipleMan.htm,_page | James (Jamie) Arthur Madrox}
+		{ITEM Murmur,8,20 | * | Arlette Truffaut}
+		{ITEM Mutant X II,5,6 | ../../../heroes/marvel/Havok.htm,_page | Alexander (Alex) Summers}
+		{ITEM MVP,8,20 | * | Michael Van Patrick}
+		{ITEM Mysterium,8,20 | * | Thomas Joseph Lightner}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

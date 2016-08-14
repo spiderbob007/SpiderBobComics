@@ -1,0 +1,115 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Green Lantern Corps),17,18 | gl.htm,_self | Listings of Green Lantern Corp members from across the universe.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(J),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Jack O'Lantern I,8,20 | * | Daniel Cormac}
+		{ITEM Jack O'Lantern II,8,20 | * | Marvin Noronsa}
+		{ITEM Jack O'Lantern III,8,20 | * | Liam McHugh}
+		{ITEM Jackal,8,20 | * | Unknown}
+		{ITEM Jade I,5,6 | ../../../heroes/dc/Jade.htm,_page | Jennie-Lynn (Jade) Hayden}
+		{ITEM Jade II,8,20 | * | Nicki Jones}
+		{ITEM Janissary,5,6 | ../../../heroes/dc/Janissary.htm,_page | Dr. Imdat Tolon}
+		{ITEM Janus,5,6 | ../../../villains/dc/TwoFace.htm,_page | Harvey Dent}
+		{ITEM Jason Bard,8,20 | * | =}
+		{ITEM Jason Blood,5,6 | ../../../villains/dc/Etrigan.htm,_page | =}
+		{ITEM Jayna,8,20 | * | =}
+		{ITEM Jennifer Morgan,8,20 | * | =}
+		{ITEM Jesse Quick,5,6 | ../../../heroes/dc/LibertyBelle.htm,_page | Jesse Belle Chambers}
+		{ITEM Jester I,8,20 | * | Charles "Chuck" Lane}
+		{ITEM Jemm,5,6 | ../../../heroes/dc/Jemm.htm,_page | Prince Jemm}
+		{ITEM Jericho,5,6 | ../../../heroes/dc/Jericho.htm,_page | Joseph William Wilson}
+		{ITEM Jester,8,20 | * | Chuck Lane}
+		{ITEM Jet,8,20 | * | Unknown}
+		{ITEM J. J. Thunder,5,6 | ../../../heroes/dc/JJThunder.htm,_page | Jakeem Johnny Williams}
+		{ITEM Joe Potato,8,20 | * | =}
+		{ITEM John Constantine,5,6 | ../../../heroes/dc/Hellblazer.htm,_page | =}
+		{ITEM Jonni Thunder,8,20 | * | =}
+		{ITEM Johnny Cloud,8,20 | * | Flying Cloud}
+		{ITEM Johnny Peril,8,20 | * | Unknown}
+		{ITEM Johnny Quick,8,20 | * | Johnny Chambers}
+		{ITEM Johnny Thunder I,5,6 | ../../../heroes/dc/JohnnyThunder.htm,_page | Johnny Thunder}
+		{ITEM Johnny Thunder II,8,20 | * | John Sturat Mill Tane}
+		{ITEM Jonah Hex,5,6 | ../../../heroes/dc/JonahHex.htm,_page | Jonah Woodson Hex}
+		{ITEM Jonny Double,5,6 | ../../../heroes/dc/JonnyDouble.htm,_page | Jonathan Sebastian Double}		
+		{ITEM Jor-El,5,6 | ../../../cast/dc/Jor-El.htm,_page | Father of Kal-El / Superman}
+		{ITEM Josiah Power,5,6 | ../../../heroes/dc/JosiahPower.htm,_page | =}
+		{ITEM Joto,8,20 | * | Isaih Crockett}
+		{ITEM Judith,8,20 | * | Unknown}
+		{ITEM Judomaster I,5,6 | ../../../heroes/dc/Judomaster.htm,_page | Sergeant Ripley (Rip) Jagger}
+		{ITEM Judomaster II,8,20 | * | Unknown}
+		{ITEM Judomaster III,8,20 | * | Sonia Sato}
+		{ITEM Jungle Master,8,20 | * | Tod Hunter}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

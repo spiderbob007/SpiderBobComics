@@ -1,0 +1,228 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Green Lantern Corps),17,18 | gl.htm,_self | Listings of Green Lantern Corp members from across the universe.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(S),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Sagebrush,8,20 | * | Unknown}
+		{ITEM Sala,8,20 | * | Sala Nisaba}
+		{ITEM Salakk,8,20 | * | =}
+		{ITEM Salamanca,8,20 | * | Unknown}
+		{ITEM Sally O'Neill,8,20 | * | =}
+		{ITEM Samar,8,20 | * | =}
+		{ITEM Samaritan,8,20 | * | Luke Hames}
+		{ITEM Samosa,8,20 | * | =}
+		{ITEM Sand,5,6 | ../../../heroes/dc/Sand.htm,_page | Sanderson (Sandy) Hawkins}
+		{ITEM Sandman I,5,6 | ../../../heroes/dc/SandmanI.htm,_page | Wesley (Wes) Bernard Dodds}
+		{ITEM Sandman II,5,6 | ../../../heroes/dc/SandmanII.htm,_page | Dr. Garrett Sanford}
+		{ITEM Sandman III,5,6 | ../../../heroes/dc/SandmanII.htm,_page | Hector Saunders Hall}
+		{ITEM Sandman VI,5,6 | ../../../heroes/dc/Sand.htm,_page | Sanderson (Sandy) Hawkins}
+		{ITEM Sandor,8,20 | * | =}
+		{ITEM Sandra of the Secret Service,8,20 | * | Sandra}
+		{ITEM Sandy I,8,20 | * | Dian Belmont}
+		{ITEM Sandy II,5,6 | ../../../heroes/dc/Sand.htm,_page | Sanderson (Sandy) Hawkins}
+		{ITEM Sandy Kean,8,20 | * | =}
+		{ITEM Sapphire,5,6 | ../../../heroes/dc/Sapphire.htm,_page | Candy Gennaro}
+		{ITEM Sardine,8,20 | * | Unknown}
+		{ITEM Sarge I,8,20 | * | Sgt. Clay}
+		{ITEM Sarge II,8,20 | * | Unknown}
+		{ITEM Sarge Steel,8,20 | * | Unknown}
+		{ITEM Sargon the Sorcerer I,5,6 | ../../../heroes/dc/Sargon.htm,_page | John Sargent}
+		{ITEM Sargon the Sorcerer II,5,6 | ../../../heroes/dc/Sargon.htm,_page | David John Sargent}
+		{ITEM Saturn Girl,5,6 | ../../../heroes/dc/SaturnGirl.htm,_page | Imra Ardeen-Ranzz}
+		{ITEM Scalphunter,5,6 | ../../../heroes/dc/Scalphunter.htm,_page | Brian Savage}
+		{ITEM Scanner,8,20 | * | Unknown}
+		{ITEM Scarab I,8,20 | * | Louis Sendak}
+		{ITEM Scarecrone,8,20 | * | Duela Dent}
+		{ITEM Scarhart,8,20 | * | Unknown}
+		{ITEM Scorn,8,20 | * | Ceritak}
+		{ITEM (The) Secret,5,6 | ../../../heroes/dc/Secret.htm,_page | Greta (Suzie) Hayes}
+		{ITEM Seneca,8,20 | * | =}
+		{ITEM Sensor,8,20 | * | Princess Jeka Wynzorr}
+		{ITEM Sensor Girl,5,6 | ../../../heroes/dc/SensorGirl.htm,_page | Queen Jeckie Projectra}
+		{ITEM Sentinal,5,6 | ../../../heroes/dc/GreenLanternI.htm,_page | Alan Ladd Wellington Scott}
+		{ITEM Seraph,8,20 | * | Chaim Lavon}
+		{ITEM Serifan,8,20 | * | =}
+		{ITEM Sergeant Rock,5,6 | ../../../heroes/dc/SergeantRock.htm,_page | Frank Rock}
+		{ITEM Shade the Changing Man I,8,20 | * | Rac Shade}
+		{ITEM Shade the Changing Man II,5,6 | ../../../heroes/dc/ShadeChangingManII.htm,_page | Rac Shade}
+		{ITEM Shado,5,6 | ../../../heroes/dc/Shado.htm,_page | Shado Tomonaga}
+		{ITEM Shadow Lass,5,6 | ../../../heroes/dc/Umbra.htm,_page | Tasmia Mallor}
+		{ITEM Shadowdragon,8,20 | * | Prince Savitar Bandu}
+		{ITEM Shakira,8,20 | * | =}
+		{ITEM Shark I,8,20 | * | Unknown}
+		{ITEM Shazam,8,20 | * | =}
+		{ITEM Shim'Tar,5,6 | ../../../heroes/dc/ArtemisII.htm,_page| Artemis}
+		{ITEM Shining Knight I,5,6 | ../../../heroes/dc/ShiningKnight.htm,_page | Sir Justin Arthur}
+		{ITEM Shining Knight II,8,20 | * | Gardner Grayle}
+		{ITEM Shining Knight III,5,6 | ../../../heroes/dc/ShiningKnightIII.htm,_page | Sir Justin}
+		{ITEM Shockwave II,8,20 | * | Grant Emmerson}
+		{ITEM Shrinking Violet,8,20 | * | Salu Digby}
+		{ITEM Shvaughn Erin,5,6 | ../../../heroes/dc/ShvaughnErin.htm,_page | =}
+		{ITEM Silent Knight,8,20 | * | Brian Kent}
+		{ITEM Silent Majority I,8,20 | * | Unknown}
+		{ITEM Silent Majority II,8,20 | * | Unknown}
+		{ITEM Silver Scarab,5,6 | ../../../heroes/dc/DrFate.htm,_page | Hector Sanders Hall}
+		{ITEM Silver Sorceress,8,20 | * | Laura Cynthia Neilsen}
+		{ITEM Sirocco,8,20 | * | Khalid}
+		{ITEM Sister Superior,5,6 | ../../../heroes/dc/SisterSuperior.htm,_page | Vera Lynn Black}
+		{ITEM Skyman I,8,20 | * | Sylvester Pemberton III}
+		{ITEM Skyman II,8,20 | * | Unknown}		
+		{ITEM Skyrocket,5,6 | ../../../heroes/dc/Skyrocket.htm,_page | Lieutenant Celia Forrestal}
+		{ITEM Skyscraper,8,20 | * | Harvey}
+		{ITEM Slagger,8,20 | * | Isaih Crockett}
+		{ITEM Slam Bradley,5,6 | ../../../heroes/dc/SlamBradley.htm,_page | Samuel Emerson Bradley}
+		{ITEM Soldier,8,20 | * | Unknown}
+		{ITEM Solaar,8,20 | * | Unknown}
+		{ITEM Son of Vulcan,5,6 | ../../../heroes/dc/SonOfVulcan.htm,_page | Johnny Mann}
+		{ITEM Song Bird,8,20 | * | Unknown}
+		{ITEM Space Cabby,5,6 | ../../../heroes/dc/SpaceCabby.htm,_page | Unknown}
+		{ITEM Space Ranger,8,20 | * | Rick Starr}
+		{ITEM Spark,5,6 | ../../../heroes/dc/Spark.htm,_page | Ayla Ranzz}
+		{ITEM Sparkler,8,20 | * | Unknown}
+		{ITEM Sparx,8,20 | * | Donna Carol (D.C.) Force}
+		{ITEM Spectra,8,20 | * | Violet Harper}
+		{ITEM Spectre I,5,6 | ../../../heroes/dc/SpectreI.htm,_page | James (Jim) Brendan Corrigan}
+		{ITEM Spectre II,5,6 | ../../../heroes/dc/SpectreII.htm,_page | Harold (Hal) Jordan}
+		{ITEM Spectre III,5,6 | ../../../heroes/dc/SpectreIII.htm,_page | Crispus Allen}
+		{ITEM Speed Saunders,8,20 | * | Cyril Saunders}
+		{ITEM Speedy I,5,6 | ../../../heroes/dc/ArsenalIII.htm,_page | Roy Harper Jr.}
+		{ITEM Speedy II,5,6 | ../../../heroes/dc/SpeedyII.htm,_page | Mia Dearden}
+		{ITEM (The) Spider I,8,20 | * | Tom Ludlow Hallaway}
+		{ITEM Spoiler,5,6 | ../../../heroes/dc/Spoiler.htm,_page | Stephanie Brown}
+		{ITEM Spy Smasher I,8,20 | * | Alan Armstrong}
+		{ITEM Squire I,8,20 | * | Percival Sheldrake}
+		(ITEM Squire II,8,20 | * | Cyril Sheldrake}
+		{ITEM Squire III,8,20 | * | Beryl}
+		{ITEM Stalker,8,20 | * | Unknown}
+		{ITEM Stanley and His Monster,5,6 | ../../../heroes/dc/Stanley_and_Monster.htm,_page | Stanley Dover II and Spot}
+		{ITEM Star Boy,8,20 | * | Thom Kallor}
+		{ITEM Star Hawkins,8,20 | * | =}
+		{ITEM Star-Spangled Kid I,8,20 | * | Sylvester Pemberton III}
+		{ITEM Star-Spangled Kid II,5,6 | ../../../heroes/dc/StarII_STRIPE.htm,_page | Courtney Whitmore}
+		{ITEM Starfire I,5,6 | ../../../heroes/dc/RedStar.htm,_page | Leonid Kovar}
+		{ITEM Starfire II,8,20 | * | Starfire}
+		{ITEM Starfire III,5,6 | ../../../heroes/dc/StarfireIII.htm,_page | Koriand'r / Kory Anders}
+		{ITEM Stargirl,5,6 | ../../../heroes/dc/StarII_STRIPE.htm,_page | Courtney Whitmore}
+		{ITEM Starlight,5,6 | ../../../heroes/dc/SteelIV.htm,_page | Natasha Irons}
+		{ITEM Starman I,5,6 | ../../../heroes/dc/StarmanI.htm,_page | Theodore Henry Knight}	
+		{ITEM Starman II,5,6 | ../../../heroes/dc/StarmanII.htm,_page | Dr. Charles McNider}
+		{ITEM Starman III,5,6 | ../../../heroes/dc/StarmanIII.htm,_page | Mikaal Tomas}		
+		{ITEM Starman IV,5,6 | ../../../heroes/dc/StarmanIV.htm,_page | Prince Gavyn}
+		{ITEM Starman V,5,6 | ../../../heroes/dc/StarmanV.htm,_page | Will Payton}
+		{ITEM Starman VI,8,20 | * | David Knight}
+		{ITEM Starman VII,5,6 | ../../../heroes/dc/StarmanVII.htm,_page | Jack Knight}
+		{ITEM Starman VIII,8,20 | * | Thom Kallor}
+		{ITEM Starman of the 853rd Century,8,20 | * | Farris Knight}
+		{ITEM Starwoman,8,20 | * | Patricia Dugan}
+		{ITEM Static,5,6 | ../../../heroes/dc/Static.htm,_page | Virgil Ovid Hawkins}
+		{ITEM Steel I,5,6 | ../../../heroes/dc/CitizenSteel.htm,_page | Henry (Hank) Heywood I}
+		{ITEM Steel II,5,6 | ../../../heroes/dc/CitizenSteel.htm,_page | Henry (Hank) Heywood III}
+		{ITEM Steel III,5,6 | ../../../heroes/dc/SteelIII.htm,_page | Dr. John Henry Irons}
+		{ITEM Steel IV,5,6 | ../../../heroes/dc/SteelIV.htm,_page | Natasha Irons}
+		{ITEM Steelclaw,8,20 | * | Mayor Thomas Bolt}
+		{ITEM Stiletta,8,20 | * | Unknown}
+		{ITEM Stone Boy,8,20 | * | Dag Wentim}
+		{ITEM Stovepipe,8,20 | * | Leroy Johnson}
+		{ITEM Strange Visitor,5,6 | ../../../heroes/dc/StrangeVisitor.htm,_page | Kismet / Sharon Vance}
+		{ITEM Strata,8,20 | * | =}
+		{ITEM Striker Z,5,6 | ../../../heroes/dc/StrikerZ.htm,_page | Danny Tsang}
+		{ITEM S.T.R.I.P.E.,5,6 | ../../../heroes/dc/StarII_STRIPE.htm,_page | Patrick (Pat) Dugan}
+		{ITEM Stripesy,5,6 | ../../../heroes/dc/StarII_STRIPE.htm,_page | Patrick (Pat) Dugan}
+		{ITEM Strong Bow,8,20 | * | =}
+		{ITEM Stuff the China Kid I,8,20 | * | Jimmy Leong}
+		{ITEM Stuff the China Kid II,8,20 | * | Victor Leong}
+		{ITEM Sun Boy,8,20 | * | Dirk Morgna}
+		{ITEM Sunburst,8,20 | * | Takeo Sato}
+		{ITEM Super-Chief I,8,20 | * | Flying Stag}
+		{ITEM Super-Chief II,8,20 | * | =}
+		{ITEM Superbaby,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El of Pre-Crisis Earth-1}
+		{ITEM Superboy I,5,6 | ../../../heroes/dc/SuperboyI.htm,_page | Clark Kent / Kal-El of Pre-Crisis Earth-1}
+		{ITEM Superboy II,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El of Earth Prime}
+		{ITEM Superboy III,5,6 | ../../../heroes/dc/SuperboyIII.htm,_page | Kon-El also known as Carl Krummett}
+		{ITEM Supergirl I,8,20 | * | Entity created by a wish of Jimmy Olsen}
+		{ITEM Supergirl II,5,6 | ../../../heroes/dc/SupergirlII.htm,_page | Kara Zor-El also known as Linda Lee Danvers}
+		{ITEM Supergirl III,5,6 | ../../../heroes/dc/SupergirlIII.htm,_page | Matrix (Mae) & Linda Danvers}
+		{ITEM Supergirl IV,5,6 | ../../../heroes/dc/SupergirlIV.htm,_page | Cir-El}
+		{ITEM Supergirl V,5,6 | ../../../heroes/dc/SupergirlV.htm,_page | Kara Zor-El}
+		{ITEM Superman,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El}
+		{ITEM Superman of the 5th Dimension,8,20 | * | Klyzyzk Klzntplkz}
+		{ITEM Superman of the 46th Century,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El}
+		{ITEM Superman of the 67th Century,8,20 | * | Unknown}
+		{ITEM Superman I of 853rd Century,8,20 | * | Kal Kent}
+		{ITEM Superman II of 853rd Century,5,6 | ../../../heroes/dc/Superman.htm,_page | Clark Kent / Kal-El}
+		{ITEM Superman of Earth-2,5,6 | ../../../heroes/dc/Superman_E2.htm,_page | Clark Kent / Kal-L}
+		{ITEM Swamp Thing I,5,6 | ../../../heroes/dc/SwampThingI.htm,_page | Dr. Alexander (Alex) Olsen II later Dr. Alexander (Alec) Holland}
+		{ITEM Swamp Thing II,5,6 | ../../../heroes/dc/SwampThingII.htm,_page | Tefé Holland}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),3,4 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

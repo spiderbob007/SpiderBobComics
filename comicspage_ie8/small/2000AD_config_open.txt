@@ -1,0 +1,116 @@
+{BUTTON Small & Indi.,1,2 | * | Small and Independent Press main page.}
+		{/ITEM}
+		{ITEM Home,7,20 | ../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{/FOLDER}
+	{FOLDER ~2000 AD,17,18 | * | Publisher of magazine style comics in Great Britain.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Judge Anderson,5,6 | ../../heroes/indi/JudgeAnderson.htm,_page | Cassandra Anderson}
+		{ITEM Judge Dredd,5,6 | ../../heroes/indi/JudgeDredd.htm,_page | Joseph Dredd}
+		{ITEM Judge Hershey,8,20 | * | Barbara Hershey}
+		{ITEM Strontium Dog,5,6 | ../../heroes/indi/StrontiumDog.htm,_page | Johnny Alpha}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Chief Judge Cal,8,20 | * | =}
+		{ITEM Chopper,8,20 | * | Unknown}
+		{ITEM Fink Angel,8,20 | * | =}
+		{ITEM Jigsaw Disease,8,20 | * | =}
+		{ITEM Judge Death,5,6 | ../../villains/indi/JudgeDeath.htm,_page | =}
+		{ITEM Junior Angel,8,20 | * | =}
+		{ITEM Link Angel,8,20 | * | =}
+		{ITEM Mean Machine,8,20 | * | Mean Machine Angel}
+		{ITEM Murd the Oppressor,8,20 | * | =}
+		{ITEM Pa Angel,8,20 | * | =}
+		{ITEM Rico Dredd,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,17,18 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Judge Death,5,6 | ../../villains/indi/JudgeDeath.htm,_page | =}
+		{ITEM Judge Fear,8,20 | * | =}
+		{ITEM Judge Fire,8,20 | * | =}
+		{ITEM Judge Mortis,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Kleggs,8,20 | * | Alien race of reptilian mercinaries.}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Teams,3,4 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Judges,8,20 | * | Group of law enforcement agents with powers to arrest, prosecute and execute.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Angel Gang,8,20 | * | Group of inbreed rural villains.}
+		{ITEM Dark Judges,8,20 | * | Supernatural judges from another dimension.}
+		{ITEM Sisters of Death,8,20 | * | Sorceresses from another dimension.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Cursed Earth,8,20 | * | Nuclear radiated dessert that was once the United States.}
+		{ITEM Mega-City One,8,20 | * | City occupying the eastern seaboard of the United States.}
+		{ITEM Mega-City Two,8,20 | * | City occupying the western seaboard of the United States.}
+		{ITEM Mega-City Three,8,20 | * | City occupying the state formerly known as Texas.}
+		{ITEM Texas City,8,20 | * | City formerly known as Mega-City Three.}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Deadworld,8,20 | * | Dimension occupied by supernatural judges where all life has been extinguished.}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Lawmaster,8,20 | * | Motorcycle used by Judges.}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Lawgiver,8,20 | * | Handgun used by Judges.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Aardvark-Vanaheim,17,18 | aardvark_menu.htm,_self | Independent publisher owned by Dave Sim.}
+		{ITEM Cartoons & Television,17,18 | cartoon_menu.htm,_self | Comics based on cartoons or television shows.}
+		{ITEM Chaos,17,18 | chaos_menu.htm,_self | Publisher of horror and wrestling comics.}
+		{ITEM Dark Horse,17,18 | dh_menu.htm,_self |  Publisher of creator-owned characters and movie properties.}
+		{ITEM Harris,17,18 | harris_menu.htm,_self |  Publisher of Vamparella comics.}
+		{ITEM Image,17,18 | image_menu.htm,_self |  Publisher of creator-owned characters.}
+		{ITEM Mirage Studios,17,18 | mirage_menu.htm,_self |  Self published imprint created by Kevin Eastman and Peter Laird.}
+		{ITEM New England Comics (NEC),3,4 | nec_menu.htm,_self | Publisher of Tick comics.}
+		{ITEM Other,17,18 | other_menu.htm,_self | Publisher or publishers of a wide variety of characters.}
+		{ITEM Red Circle,17,18 | red_circle_menu.htm,_self | Publisher of superhero comics.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../dc/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../marvel/index.htm,_top | Marvel Comics main page.}

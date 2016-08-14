@@ -1,0 +1,140 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+	{FOLDER ~Heroes,17,18 | * | The heroes of the Marvel Universe.}
+	{FOLDER (123),17,18 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Gambit,5,6 | ../../../heroes/marvel/Gambit.htm,_page | Remy Etienne LeBeau}
+		{ITEM Gamora,5,6 | ../../../heroes/marvel/Gamora.htm,_page | =}
+		{ITEM Ganymede,8,20 | * | =}
+		{ITEM Gargoyle II,8,20 | * | Isaac Christians}
+		{ITEM Gateway,8,20 | * | Unknown}
+		{ITEM (The) Gauntlet,8,20 | * | Unknown}
+		{ITEM Gee,8,20 | * | Alexander (Alex) Power}
+		{ITEM Genii,8,20 | * | Jason Kimball}
+		{ITEM Ghost Blade,8,20 | * | Unknown}
+		{ITEM Ghost Girl,8,20 | * | Unknown}
+		{ITEM Ghost Rider I,5,6 | ../../../heroes/marvel/GhostRider.htm,_page | Carter Slade}
+		{ITEM Ghost Rider II,5,6 | ../../../heroes/marvel/GhostRider.htm,_page | Jamie Jacobs}
+		{ITEM Ghost Rider III,5,6 | ../../../heroes/marvel/GhostRider.htm,_page | Lincoln Slade}
+		{ITEM Ghost Rider IV,5,6 | ../../../heroes/marvel/GhostRider.htm,_page | Reno Jones}
+		{ITEM Ghost Rider V,5,6 | ../../../heroes/marvel/GhostRider.htm,_page | Hamilton Slade}
+		{ITEM Ghost Rider VI,8,20 | * | Clara Blaze}
+		{ITEM Ghost Rider VII,5,6 | ../../../heroes/marvel/GhostRiderVII.htm,_page | John (Johnny) Blaze & Zarathos}
+		{ITEM Ghost Rider VIII,5,6 | ../../../heroes/marvel/GhostRiderVIII.htm,_page | Daniel (Danny) Ketch}
+		{ITEM Ghost Rider VIV,5,6 | ../../../heroes/marvel/GhostRiderVIV.htm,_page | Alejandra}
+		{ITEM Giant-Man I,5,6 | ../../../heroes/marvel/DrPym.htm,_page | Dr. Henry (Hank) Pym}
+		{ITEM Giant-Man II,8,20 | * | William Barrett Foster}
+		{ITEM Gilgamesh,8,20 | * | Gilgamesh the Forgotten One}		
+		{ITEM Gin Genie,8,20 | * | Beckah Parker}
+		{ITEM Gladiator II,5,6 | ../../../heroes/marvel/GladiatorII.htm,_page | Kallark}
+		{ITEM Glamour,8,20 | * | Clynis Zarkov}
+		{ITEM Go Go Tamayo,8,20 | * | Unknown}
+		{ITEM Goblyn,8,20 | * | Goblyn Dean}
+		{ITEM (The) Goddess,8,20 | * | Physical good of Adam Warlock}
+		{ITEM Gold Sun,8,20 | * | Unknown}
+		{ITEM Golden Angel,8,20 | * | Janus}
+		{ITEM Golden Archer I,5,6 | ../../../heroes/marvel/Hawkeye.htm,_page | Clinton (Clint) Francis Barton}
+		{ITEM Golden Archer II,8,20 | * | Wyatt McDonald}
+		{ITEM Golden Girl I,8,20 | * | Elizabeth Ross}
+		{ITEM Golden Girl II,8,20 | * | Gwenny Lou Sabuki}
+		{ITEM Golden Sun,8,20 | * | Kenji Sabuki}
+		{ITEM Goldfire I,8,20 | * | =}
+		{ITEM Goldfire II,8,20 | * | Ameiko Sabuki}
+		{ITEM Golem II,8,20 | * | Jacob Goldstein}
+		{ITEM Goliath I,5,6 | ../../../heroes/marvel/DrPym.htm,_page | Dr. Henry (Hank) Pym}
+		{ITEM Goliath II,5,6 | ../../../heroes/marvel/Hawkeye.htm,_page | Clinton (Clint) Francis Barton}
+		{ITEM Goliath III,8,20 | * | William Barrett Foster}
+		{ITEM Gomi,8,20 | * | Unknown}
+		{ITEM Gomurr the Ancient,8,20 | * | Gomurr}
+		{ITEM Gonra of the Sword,8,20 | * | Gonra}
+		{ITEM Gorgon,8,20 | * | Gorgon, Royal Administrator of the Inhumans}
+		{ITEM Gorilla-Man I,5,6 | ../../../heroes/marvel/GorillaMan.htm,_page | Kenneth Hale}
+		{ITEM Gosamyr,8,20 | * | =}
+		{ITEM Grace Gamble,8,20 | * | =}
+		{ITEM Grasshopper I,8,20 | * | Douglas Taggert}
+		{ITEM Grasshopper II,8,20 | * | Neil Shelton}
+		{ITEM Gravity,5,6 | ../../../heroes/marvel/Gravity.htm,_page | Greg Willis}
+		{ITEM Green Goblin IV,8,20 | * | Phillip Urich}
+		{ITEM Grey Rider,8,20 | * | Unknown}
+		{ITEM Greymalkin,8,20 | * | Unknown}
+		{ITEM Grizzly II,8,20 | * | Theodore Winchester}
+		{ITEM Guardian I,5,6 | ../../../heroes/marvel/Guardian.htm,_page | James Macdonald Hudson Jr.}
+		{ITEM Guardian II,8,20 | * | Heather McNeill Hudson}
+		{ITEM Guardian III,5,6 | ../../../heroes/marvel/Guardian.htm,_page | Clone of James Macdonald Hudson}
+		{ITEM Guardsman I,8,20 | * | Kevin O'Brien}
+		{ITEM Guardsman II,8,20 | * | Michael O'Brien}
+		{ITEM Gun Runner,8,20 | *| Brell}
+		{ITEM Gunhawk I,8,20 | * | Red Larabee}
+		{ITEM Gunhawk II,8,20 | * | Lee Barnett}
+		{ITEM Gunsmoke Kid,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),17,18 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self |  The alien races of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

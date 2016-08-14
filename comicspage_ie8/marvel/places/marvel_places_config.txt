@@ -1,0 +1,327 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+	{FOLDER ~Places,17,18 | * | Contains sub-directories of locations in the Marvel Universe}
+	{FOLDER Headquarters & Hideouts,17,18 | * | Headquarters and hideouts of the Marvel Universe.}
+		{ITEM Area 51,8,20 | * | Top secret military base}
+		{ITEM Asteroid M,8,20 | * | Space station created by Magneto}
+		{ITEM Avengers Mansion,8,20 | * | Headquarters of the Avengers in Manhattan}
+		{ITEM Avengers Island,8,20 | * | Artificial Island base of Avengers}
+		{ITEM Avengers Tower,5,6 | ../../../locations/marvel/StarkTower.htm,_page | Headquarters of the Avengers in Manhattan}
+		{ITEM Baxter Building,5,6 | ../../../locations/marvel/BaxterBuilding.htm,_page | Headquarters and residents of the Fantastic Four.}
+		{ITEM Blue Area of Moon,8,20 | * | Inhabitable area of the Earth's Moon}
+		{ITEM Brand Coprporation,8,20 | * | =}
+		{ITEM Castle Mordo,8,20 | * | Ancestral home of the Mordo family in Transylvania, Romania.} 
+		{ITEM Castle Zemo,8,20 | * | Ancestral home of the Zemo family in Germany.  Birthplace of Baron Heinrich Zemo (Baron Zemo I).}
+		{ITEM CSA Headquarters,8,20 | * | Center on Superhuman Activities facility at Cliff's Edge, Virginia.}
+		{ITEM (The) Cube,8,20 | * | Secret S.H.I.E.L.D. prison and bio-experimental research facility.}
+		{ITEM Danger Room,5,6 | ../../../vehicles_devices/marvel/DangerRoom.htm,_page | Training and simulation environment used by the X-Men.}
+		{ITEM Four Freedoms Plaza,8,20 | * | Second headquarters of the Fantastic Four}
+		{ITEM Gamma Base,8,20 | * | Military Base used to test Gamma weapons, also known as Hulkbuster Base}
+		{ITEM Hulkbuster Base,8,20 | * | Military Base used to track and capture the Hulk, also known as Gamma Base}
+		{ITEM Island of Exiles,8,20 | * | Island hideout of the Red Skull.}
+		{ITEM Masada Castle,8,20 | * | Docking station for the V-Battalion's Vanguard Helecarrier in Symkaria.}
+		{ITEM Mount Charteris,8,20 | * | Secret mountain base of the Thunderbolts hidden in Colorado.}
+		{ITEM Mount Flavius,8,20 | * | Pangean keep of the demonic Belasco.}
+		{ITEM Pier Four,8,20 | * | Dockside headquarters of the Fantastic Four}
+		{ITEM Ronan's Citadel,8,20 | * | Space station used by Ronan the Accuser.}
+		{ITEM S.H.I.E.L.D. Helecarrier,5,6 | ../../../vehicles_devices/marvel/SHIELDHelicarrier.htm,_page | Flying fortress headquarters of S.H.I.E.L.D.}
+		{ITEM S.H.I.E.L.D. Moonbase,8,20 | * | Facility on the Blue Area of the Earth's moon used to imprison the Kree Supreme Intelligence.}
+		{ITEM Skull Island,8,20 | * | Savage Land island hideout of the Plunderer.}
+		{ITEM Strucker Castle,8,20 | * | Ancestral home of the Strucker family in Bavaria, Germany. Birthplace of Baron Volfgang von Strucker.}
+		{ITEM Vanguard Helecarrier,8,20 | * | Flying fortress headquarters of the V-Battalion.}
+		{ITEM Zemo Castle,8,20 | * | Castle hideout of Baron Zemo II, located in Northern Mexico.}
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,17,18 | * | The Planets, stars and galactic systems of the Marvel Universe.}
+		{ITEM Battleworld,8,20 | * | Composite planet created by the omnipotent Beyonder.}
+		{ITEM Cloud,8,20 | * | Sentient nebula able to extend a portion of herself into a humanoid form.}
+		{ITEM Counter-Earth I,8,20 | * | Earth-like planet created by the High Evolutionary located in the same orbit on the other side of the sun as the Earth.}
+		{ITEM Counter-Earth II,8,20 | * | Earth-like planet created within a pocket universe by Franklin Richards to protect Earth's heroes.}
+		{ITEM Dark Nebula,8,20 | * | Chaotic region of space colonized by the Dire Wraiths}
+		{ITEM Earth-010110101,8,20 | * | Alternate dimension where technology evolved instead of biology.}
+		{ITEM Earth-98,8,20 | * | Alternate dimension where the Fantastic Four formed in 1961.}
+		{ITEM Earth-238,8,20 | * | Alternate Earth ruled by Mad Jim Jaspers known as Crooked World.}
+		{ITEM Earth-313,8,20 | * | Alternate Earth where the age of marvels began during the 1600's.}
+		{ITEM Earth-374,8,20 | * | Alternate Earth ruled by the Gatherers.}
+		{ITEM Earth-460,8,20 | * | Alternate Earth ruled by the Purple Man.}
+		{ITEM Earth-616,5,6 | ../../../locations/marvel/Earth616.htm,_page | Earth of the mainstream Marvel universe.}
+		{ITEM Earth-665,8,20 | * | Alternate universe known as the Marble Universe.}
+		{ITEM Earth-691 [I],8,20 | * | Alternate future inhabited by the Guardians of the Galaxy.}
+		{ITEM Earth-691 [II],8,20 | * | Alternate dimension inhabited by Killraven.}
+		{ITEM Earth-712,8,20 | * | Alternate dimension inhabited by the Squadron Supreme I.}
+		{ITEM Earth-715,8,20 | * | Alternate future where the majority of men were exterminated by women.}
+		{ITEM Earth-721,8,20 | * | Alternate dimension known as Earth A.}
+		{ITEM Earth-772,8,20 | * | Alternate dimension where Spider-Man joined the Fantastic "Five."}
+		{ITEM Earth-811,8,20 | * | Alternate future where mutants are exterminated.}
+		{ITEM Earth-928,8,20 | * | Alternate future set in the year 2099.}
+		{ITEM Earth-982,5,6 | ../../../locations/marvel/m2/Earth982.htm,_page | Alternate future inhabited by the progeny of Earth-616.}
+		{ITEM Earth-1298,8,20 | * | Alternate dimension were the X-Men are villains.}
+		{ITEM Earth-1610,8,20 | * | Alternate dimension commonly known as the Ultimate Universe.}
+		{ITEM Earth-2120,8,20 | * | Alternate dimension inhabited by Killraven.}
+		{ITEM Earth-2301,8,20 | * | Alternate reality known as the Mangaverse.}
+		{ITEM Earth-2992,8,20 | * | Alternate future set in the year 2099.}
+		{ITEM Earth-3515,8,20 | * | Alternate reality where Earth is ruled by Norse gods.}
+		{ITEM Earth-4935,8,20 | * | Alternate future ruled by Apocalypse.}
+		{ITEM Earth-5311,8,20 | * | Alternate dimension inhabited by fairy tale versions of Earth's heroes.}
+		{ITEM Earth-5555,8,20 | * | Alternate future set in the 82nd Century.}
+		{ITEM Earth-6311,8,20 | * | Alternate dimension where technology advanced beyond other realities.}
+		{ITEM Earth-7412,8,20 | * | Merging of Earth 74101 & Earth-715.}
+		{ITEM Earth-7484,8,20 | * | Alternate dimension where the age of heroes ended in 1983.}
+		{ITEM Earth-8009,8,20 | * | Alternate dimension ruled by the Sisterhood Republic.}
+		{ITEM Earth-8311,8,20 | * | Alternate dimension inhabited by funny animals version of Earth's heroes.}
+		{ITEM Earth-8410,8,20 | * | Alternate future set in the year 2020.}
+		{ITEM Earth-9511,8,20 | * | Alternate future focusing on the last days of the Avengers.}
+		{ITEM Earth-9907,8,20 | * | Alternate Earth where the Nazis won World War II and Victor von Doom rules the planet.}
+		{ITEM Earth-9910,8,20 | * | Alternate Earth known as the Chronomancer's World.}
+		{ITEM Earth-9930,8,20 | * | Alternate dimension inhabited by Killraven's Avengers.}
+		{ITEM Earth-9997,8,20 | * | Alternate Earth known as Earth X.}
+		{ITEM Earth-15104,8,20 | * | Alternate future where a sentient virus has taken over the planet.}
+		{ITEM Earth-31916,8,20 | * | Alternate reality mirroring that of Earth-S.}
+		{ITEM Earth-74101,8,20 | * | Alternate reality where men are enslaved by women.}
+		{ITEM Earth-88194,8,20 | * | Alternate dimension where a race of shadows evolved parallel to humans.}
+		{ITEM Earth-148611,8,20 | * | Alternate dimension known as the New Universe.}
+		{ITEM Earth-S,8,20 | * | Alternate dimension inhabited by the Squadron Supreme I.}
+		{ITEM Ego,5,6 | ../../../gods_monsters/marvel/Ego.htm,_page | Ego the living planet}
+		{ITEM Eurth,8,20 | * | Realm where medieval avatars of Earth-616's heroes exist.}
+		{ITEM Galador,8,20 | * | Home Planet of Rom: Spaceknight}
+		{ITEM Golden Galaxy,8,20 | * | Galaxy containing the planet Galador}
+		{ITEM Hala,8,20 | * | Home planet of the Kree race and Captain Marvel I.}
+		{ITEM Kathulos,8,20 | * | Distant planet possessed by a demonic entity.}
+		{ITEM Krylor,8,20 | * | Home planet of the documentarian Bereet.}
+		{ITEM Makluan,8,20 | * | Origin planet of the alien species of dragons called Kakaranathara. Fin Fang Foom is a Kakaranathara}
+		{ITEM Mekka,8,20 | * | Planet inhabited by sentient robots.}
+		{ITEM Pama,8,20 | * | Home system of the Kree race and Captain Marvel I.}
+		{ITEM Poppup,8,20 | * | Extinct home planet of the shapeshifting Poppupians.}
+		{ITEM Planet X,8,20 | * | Doomed planet ruled by the alien Kurrgo.}
+		{ITEM Rigel,8,20 | * | Home planet of the Rigellians.}
+		{ITEM Satriani,8,20 | * | New home world of the Skrull after Galactus consumed their original home world in the Andromeda galaxy.}
+		{ITEM Tarnax IV,8,20 | * | Home planet of the Skrull race and Super-Skrull.}
+		{ITEM Titan,8,20 | * | Home planet of the Titans, as branch of the Eternal race of Earth}
+		{ITEM Z'lyztaya,8,20 | * | Origin planet of a sophisticated race of extraterrestrial dinosaurs.}
+		{ITEM Zenn-La,8,20 | * | Origin planet of Silver Surfer}
+		{ITEM Zombie Earth,5,6 | ../../../locations/marvel/ZombieEarth.htm,_page | Alternate reality were the Earth has beeen infected by zombies.}
+	{/FOLDER}
+	{FOLDER Cities & Countries,17,18 | * | The cities, countries and towns of the Marvel Universe.}
+		{ITEM Alberia,8,20 | * | Central-European country}
+		{ITEM Asgard,5,6 | ../../../locations/marvel/Asgard.htm,_page | City inhabited by the Norse Gods located in an other-dimensional realm of the same name.}
+		{ITEM Aquiria,8,20 | * | Middle-eastern country}
+		{ITEM Azania,8,20 | * | African country}
+		{ITEM Aznia,8,20 | * | African country}
+		{ITEM Boca Caliente,8,20 | * | Caribbean island and citizenship of A.I.M. members.}
+		{ITEM Bodavia,8,20 | * | European country}
+		{ITEM Bosqueverde,8,20 | * | South American country}
+		{ITEM Burunda,8,20 | * | African country}
+		{ITEM Canaan,8,20 | * | African country}
+		{ITEM Carnelia,8,20 | * | European country}
+		{ITEM Celsia,8,20 | * | country}
+		{ITEM Central-Wakanda,8,20 | * | Capital city of Wakanda, Africa}
+		{ITEM Costa Diablo,8,20 | * | Caribbean island}
+		{ITEM Costa Dinora,8,20 | * | Central-American country}
+		{ITEM Costa Salvador,8,20 | * | Central-American country}
+		{ITEM Costa Verde, 8,20 | * Central-American country}
+		{ITEM Delvadia,8,20 | * | South American country}
+		{ITEM Doomstadt,8,20 | * | Capital city of Latveria, formerly Hassenstadt.}
+		{ITEM Draburg,8,20 | * | European country}
+		{ITEM Freehold,8,20 | * | City founded by the Leader for victims of radiation poisoning}
+		{ITEM Genosha,8,20 | * | African island ruled by Magneto.}
+		{ITEM Ghudaza,8,20 | * | African nation}
+		{ITEM Halwan,8,20 | * | Middle-eastern kingdom}
+		{ITEM Hammer Bay,8,20 | * | Capital city of Genosha}
+		{ITEM Imaya,8,20 | * | Middle-eastern country}
+		{ITEM Isla Suerto,8,20 | * | Caribbean island}
+		{ITEM Latveria,8,20 | * | Central-European kingdom ruled by Dr. Victor Von Doom.}
+		{ITEM Madripoor,8,20 | * | South-east Asian island}
+		{ITEM Maura,8,20 | * | South-Pacific island}
+		{ITEM Middletown,8,20 | * | Arizona town destroyed with a Gamma bomb by the Leader to create a group of gamma powered minions.}
+		{ITEM Murtakesh,8,20 | * | Middle-eastern country}
+		{ITEM Narobia,8,20 | * | African country}
+		{ITEM New York City,8,20 | * | Homebase of many super-heroes and villains.}
+		{ITEM Puerto Dulcer,8,20 | * | Caribbean island}
+		{ITEM Rhapastan,8,20 | * | Middle-eastern country}
+		{ITEM Rudyarda,8,20 | * | African country}
+		{ITEM San Diablo,8,20 | * | South American country}
+		{ITEM San Gusto,8,20 | * | Central-American country}
+		{ITEM San Pablo,8,20 | * | Central-American country}
+		{ITEM San Revilla,8,20 | * | City or country}
+		{ITEM Santo Marco,8,20 | * | City or country}
+		{ITEM Santo Rico,8,20 | * | Central-American county}
+		{ITEM Sin-Cong,8,20 | * | South-east Asian country}
+		{ITEM Slorenia,8,20 | * | Eastern-European country}
+		{ITEM Symkaria,8,20 | * | Central-European country bordering Latveria.}
+		{ITEM Temasika,8,20 | * | South-east Asian island}
+		{ITEM Terra Nuevo,8,20 | * | Caribbean island}
+		{ITEM Terra Verde,8,20 | * | Caribbean island}
+		{ITEM Tierra del Maiz,8,20 | * | Central-American country}
+		{ITEM Tierra Verde,8,20 | * | Central-American country}
+		{ITEM Trafia,8,20 | * | Middle-eastern country}
+		{ITEM Transia,8,20 | * | Central-European kingdom}
+		{ITEM Trebekistan,8,20 | * | European country}
+		{ITEM Triji,8,20 | * | South-Pacific island}
+		{ITEM Trans-Sabal,8,20 | * | Asian kingdom}
+		{ITEM Vulcan Domuyo,8,20 | * | Central-American country}
+		{ITEM Wakanda,8,20 | * | Technologically advanced African nation ruled by King T'Challa (Black Panther)}
+		{ITEM Yashonka,8,20 | * | Asian country}
+		{ITEM Zukistan,8,20 | * | Middle-eastern country}
+		{/FOLDER}
+	{FOLDER Streets and Monuments,17,18 | * | The streets and monuments of the Marvel Universe.}
+		{ITEM Yancy Street,5,6 | ../../../locations/marvel/YancyStreet.htm,_page | New York street notorious for its gang activity.}
+	{/FOLDER}
+	{FOLDER Dimensions,17,18 | * | The extra and intra-dimensional realms of the Marvel Universe.}
+		{ITEM Arkon,8,20 | * | Dimension}
+		{ITEM Asgard,5,6 | ../../../locations/marvel/Asgard.htm,_page | Other-dimensional realm populated by gods and creatures of ancient Viking mythology.}
+		{ITEM Beyonder Dimension,8,20 | * | Dimension comprised of and inhabited by the god called the Beyonder.}
+		{ITEM Crossroads,8,20 | * | Dimensional nexus existing at the crossroads of hostile realms.}
+		{ITEM Dark Dimension,8,20 | * | Domain of Dormammu}
+		{ITEM Dimension of Exile,8,20 | * | Dimension used as a prison for metaphysical beings.}
+		{ITEM Dimension of Manifestations,8,20 | * | Dimensional void used by celestial beings are able to meet more easily.}
+		{ITEM Dimension Z,8,20 | * | Parallel universe, although advanced never discovering the secrets of atomic energy.}
+		{ITEM Earth-98,8,20 | * | Alternate dimension where the Fantastic Four formed in 1961.}
+		{ITEM Earth-238,8,20 | * | Alternate Earth ruled by Mad Jim Jaspers known as Crooked World.}
+		{ITEM Earth-313,8,20 | * | Alternate Earth where the age of marvels began during the 1600's.}
+		{ITEM Earth-374,8,20 | * | Alternate Earth ruled by the Gatherers.}
+		{ITEM Earth-460,8,20 | * | Alternate Earth ruled by the Purple Man.}
+		{ITEM Earth-616,5,6 | ../../../locations/marvel/Earth616.htm,_page | Earth of the mainstream Marvel universe.}
+		{ITEM Earth-665,8,20 | * | Alternate universe known as the Marble Universe.}
+		{ITEM Earth-691 [I],8,20 | * | Alternate future inhabited by the Guardians of the Galaxy.}
+		{ITEM Earth-691 [II],8,20 | * | Alternate dimension inhabited by Killraven.}
+		{ITEM Earth-712,8,20 | * | Alternate dimension inhabited by the Squadron Supreme I.}
+		{ITEM Earth-715,8,20 | * | Alternate future where the majority of men were exterminated by women.}
+		{ITEM Earth-721,8,20 | * | Alternate dimension known as Earth A.}
+		{ITEM Earth-772,8,20 | * | Alternate dimension where Spider-Man joined the Fantastic "Five."}
+		{ITEM Earth-811,8,20 | * | Alternate future where mutants are exterminated.}
+		{ITEM Earth-928,8,20 | * | Alternate future set in the year 2099.}
+		{ITEM Earth-982,5,6 | ../../../locations/marvel/m2/Earth982.htm,_page | Alternate future inhabited by the progeny of Earth-616.}
+		{ITEM Earth-1298,8,20 | * | Alternate dimension were the X-Men are villains.}
+		{ITEM Earth-1610,8,20 | * | Alternate dimension commonly known as the Ultimate Universe.}
+		{ITEM Earth-2120,8,20 | * | Alternate dimension inhabited by Killraven.}
+		{ITEM Earth-2149,5,6 | ../../../locations/marvel/ZombieEarth.htm,_page | Alternate reality were the Earth has beeen infected by zombies.}
+		{ITEM Earth-2301,8,20 | * | Alternate reality known as the Mangaverse.}
+		{ITEM Earth-2992,8,20 | * | Alternate future set in the year 2099.}
+		{ITEM Earth-3515,8,20 | * | Alternate reality where Earth is ruled by Norse gods.}
+		{ITEM Earth-4935,8,20 | * | Alternate future ruled by Apocalypse.}
+		{ITEM Earth-5311,8,20 | * | Alternate dimension inhabited by fairy tale versions of Earth's heroes.}
+		{ITEM Earth-5555,8,20 | * | Alternate future set in the 82nd Century.}
+		{ITEM Earth-6311,8,20 | * | Alternate dimension where technology advanced beyond other realities.}
+		{ITEM Earth-7412,8,20 | * | Merging of Earth 74101 & Earth-715.}
+		{ITEM Earth-7484,8,20 | * | Alternate dimension where the age of heroes ended in 1983.}
+		{ITEM Earth-8009,8,20 | * | Alternate dimension ruled by the Sisterhood Republic.}
+		{ITEM Earth-8311,8,20 | * | Alternate dimension inhabited by funny animals version of Earth's heroes.}
+		{ITEM Earth-8410,8,20 | * | Alternate future set in the year 2020.}
+		{ITEM Earth-9511,8,20 | * | Alternate future focusing on the last days of the Avengers.}
+		{ITEM Earth-9907,8,20 | * | Alternate Earth where the Nazis won World War II and Victor von Doom rules the planet.}
+		{ITEM Earth-9910,8,20 | * | Alternate Earth known as the Chronomancer's World.}
+		{ITEM Earth-9930,8,20 | * | Alternate dimension inhabited by Killraven's Avengers.}
+		{ITEM Earth-9997,8,20 | * | Alternate Earth known as Earth X.}
+		{ITEM Earth-15104,8,20 | * | Alternate future where a sentient virus has taken over the planet.}
+		{ITEM Earth-31916,8,20 | * | Alternate reality mirroring that of Earth-S.}
+		{ITEM Earth-74101,8,20 | * | Alternate reality where men are enslaved by women.}
+		{ITEM Earth-88194,8,20 | * | Alternate dimension where a race of shadows evolved parallel to humans.}
+		{ITEM Earth-148611,8,20 | * | Alternate dimension known as the New Universe.}
+		{ITEM Earth-S,8,20 | * | Alternate dimension inhabited by the Squadron Supreme I.}
+		{ITEM Eurth,8,20 | * | Realm where medieval avatars of Earth-616's heroes exist.}
+		{ITEM Fifth Dimension,8,20 | * | Extra-dimensional universe once ruled by Zemu.}
+		{ITEM Hades,8,20 | * | Domain of Mephisto}
+		{ITEM Hel,8,20 | * | Underworld of Norse mythology}
+		{ITEM Hell,8,20 | * | Domain of Mephisto}
+		{ITEM Hive Center,8,20 | * | Capital city of the extra-dimensional empire of Kosmos}
+		{ITEM Jotunheim,8,20 | * | Realm of the Asgardian Giants.}
+		{ITEM Kosmos,8,20 | * | Extra-dimensional empire populated by insect-like creatures.}
+		{ITEM K'un Lun,8,20 | * | Extra-dimensional city}
+		{ITEM Limbo,8,20 | * | Realm between the neither realms and the living universe.}
+		{ITEM Microverse,8,20 | * | Sub-atomic dimension inhabited by the Micronauts.}
+		{ITEM Mojoworld,8,20 | * | Extra-dimensional realm ruled by invertebrates.}
+		{ITEM Muspelheim,8,20 | * | Realm of the Asgardian fire demons and the domain of Surtur}
+		{ITEM Negative Zone,8,20 | * | Dimension composed of anti-matter.}
+		{ITEM New Universe,8,20 | * | Dimension were powers on Earth were granted by the Star Brand.}
+		{ITEM Niffleheim,8,20 | * | Realm of the dishonored dead of Asgard.}
+		{ITEM Purple Dimension,8,20 | * | Extra-dimensional realm accessed via a mystic gem.}
+		{ITEM Raggadorr,8,20 | * | Mystic dimension.}
+		{ITEM Sixth Dimension,8,20 | * | Extra-dimensional realm ruled by the spirit of decay, Tiboro.}
+		{ITEM Sub-Atomica,8,20 | * | Microscopic universe discovered by Reed Richards.}
+		{ITEM Svartalfheim,8,20 | * | Realm of the dark elves of Asgard.}
+		{ITEM Tunnelworld,8,20 | * | Earthlike realm which exist in a cylindrical realm.}
+		{ITEM Valhalla,8,20 | * | Realm of the honored dead of Asgard.}
+		{ITEM Zombie Earth,5,6 | ../../../locations/marvel/ZombieEarth.htm,_page | Alternate reality were the Earth has beeen infected by zombies.}
+	{/FOLDER}
+	{FOLDER Mystical Places,17,18 | * | The magical places of the Marvel Universe.}
+		{ITEM Avalon,8,20 | * | Avalon the mystic isle.}
+		{ITEM Asgard,5,6 | ../../../locations/marvel/Asgard.htm,_page | Other-dimensional realm populated by gods and creatures of ancient Viking mythology.}
+		{ITEM Bifrost,5,6 | ../../../locations/marvel/Asgard.htm,_page | Rainbow bridge leading to Asgard from Earth.}
+		{ITEM Cassidy Keep Ireland,8,20 | * | Irish castle owned by the Cassidy family.}
+		{ITEM New Salem,8,20 | * | Village of witches hidden in the Colorado mountains.}
+		{ITEM Olympus,8,20 | * | Extra Dimensional home of the Greek Gods.}
+		{ITEM Rainbow Bridge,5,6 | ../../../locations/marvel/Asgard.htm,_page | Pathway to Asgard from Earth.}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,17,18 | * | The hidden lands, cities and kingdoms of the Marvel Universe.}
+		{ITEM Aerie Shalan,8,20 | * | City hidden within Pangea populated by humanoid avians.}
+		{ITEM Atlantis,5,6 | ../../../locations/marvel/Atlantis.htm,_page | Under sea kingdom of Namor the Sub-Mariner.}
+		{ITEM Attilan,8,20 | * | Atlantic Ocean island home of the Inhumans.}
+		{ITEM El Dorado,8,20 | * | South American city-state hidden in the Andes Mountains}
+		{ITEM Femizonia,8,20 | * | Hidden island ruled by women.}
+		{ITEM Kaa-U,8,20 | * | Ancient Asian city populated by demons.}
+		{ITEM Lemura,8,20 | * | City hidden within Pangea populated by humanoid felines.}
+		{ITEM New Salem,8,20 | * | Village of witches hidden in the Colorado mountains.}
+		{ITEM Nova Roma,8,20 | * | South American city-state inhabited by descendents of the Roman Empire.}
+		{ITEM Pangea,8,20 | * | Prehistoric land surrounded by a ring of volcanoes in Antarctica.}
+		{ITEM Savage Land,5,6 | ../../../locations/marvel/SavageLand.htm,_page | Prehistoric land surrounded by a ring of Volcanoes in Antarctica.}
+		{ITEM Subterranea,8,80 | * | Under-ground kingdom of the Mole Man.}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,17,18 | * | The businesses and organizations of the Marvel Universe.}
+		{ITEM Bar with no name,8,20 | * | Bar where Scourge killed the first group of super-villains.}
+		{ITEM Bloom Industries,8,20 | * | Weapons technology manufacturer founded by David Bloom.  Company was secretly working on a superhuman program.}
+		{ITEM Commission on Superhuman Activities,8,20 | * | U.S. Government organization that monitors and polices super-humans.}
+		{ITEM Daily Bugle,5,6 | ../../../locations/marvel/DailyBugle.htm,_page | New York newspaper owned by J. Jonah Jameson.}
+		{ITEM Damage Control,8,20 | * | Insurance company and contractor for hire that repairs damage caused by super-human activities.}
+		{ITEM Department H,8,20 | * | Canadian department of national defense.}
+		{ITEM Food Factory,8,20 | * | Restaurant chain}
+		{ITEM Freelance Restorations,8,20 | * | Private investigation firm.}
+		{ITEM Gideon Foundation,8,20 | * | Privately funded exploration firm.}
+		{ITEM Green Cross,8,20 | * | Relief organization established to serve communities damaged by the Hulk.}
+		{ITEM Guardian Life Insurance Company,8,20 | * | Life insurance company that was extorting super-criminals.}
+		{ITEM Kane Construction,8,20 | * | Building construction company.}
+		{ITEM Hell Fire Club,8,20 | * | Elite social club located in Manhattan, secretly run by politically and socially powerful mutants.}
+		{ITEM Intergalactic Council,8,20 | * | Council of galactic empires.}
+		{ITEM Knights Templar,8,20 | * | Secret ancient group of archivist that record human history.}
+		{ITEM Lang Memorial Penitentiary,8,20 | * | Prison utilizing Pym Particles to shrink superhuman criminals to sub-insect size to be guarded by cybernetically controlled ants.  Also known as the Ant Farm.}
+		{ITEM Maria Stark Foundation,8,20 | * | Charitable foundation named for the mother of and funded by Tony Stark.}
+		{ITEM MI-6,8,20 | * | British secret service}
+		{ITEM Mutant Research Center,8,20 | * | Mutant Research Center, Muir Island, Scotland}
+		{ITEM Nightwing Restorations Ltd.,8,20 | * | Private investigation firm founded by Colleen Wing and Misty Knight.}
+		{ITEM O.N.E.,8,20 | * | Office of National Security}
+		{ITEM Patsy-Hedy Entertainment,8,20 | * | Amusement park founded by Hedy Wolfe friend of Patsy Walkder (Hellcat)}
+		{ITEM Parliamech,8,20 | * | Internet service provider founded by Joasua Hoard and taken over by artificial intelligence based on a program he had written (Cache).}
+		{ITEM Pym Experimental Penitentiary,8,20 | * | Prison utilizing Pym Particles to shrink superhuman criminals to a manageable size.  Also known as the Big House.}
+		{ITEM Roxxon Oil Corporation,8,20 | * | An oil company and multi-national conglomerate of dubious ethics.}
+		{ITEM Shaw Industries,8,20 | * | Corporation headed by Shinobi Shaw}
+		{ITEM S.H.I.E.L.D.,5,6 | ../../../teams/marvel/SHIELD.htm,_page | Covert espionage agency chartered with handing treats of a global scale.}
+		{ITEM Skyways Express,8,20 | * | Airline}
+		{ITEM S.T.A.R.,8,20 | * | Superhuman Tactical Activities Response Squad, A United States government division that polices and incarcerates super-villains.}
+		{ITEM Stark-Fujikawa Inc.,8,20 | * | Conglomerate of Stark and Fujikawa International industries.}
+		{ITEM Stark International,8,20 | * | Multi-national corporation owned by Tony Stark.}
+		{ITEM Stark Solutions,8,20 | * | Computer engineering and consultant company owned by Tony Stark.}
+		{ITEM Time Variance Authority,8,20 | * | Pan-dimensional organization which monitors and polices time related anomalies and crimes.}
+		{ITEM Timely Engineering,8,20 | * | Employer of Dr. Phineas Thomas Horton inventor of Human Torch I and Adam-II, owned by Victor Timely (Kang the Conqueror)}
+		{ITEM Unlimited Class Wrestling Foundation,8,20 | * | U.C.W.F. is comprised of superhuman wrestlers that had been barred from competing in matches with normal combatants.}
+		{ITEM (The) Vault I,8,20 | * | High security prison for incarcerating super-powered criminals located in Colorado.}
+		{ITEM (The) Vault II,8,20 | * | High security prison for incarcerating super-powered criminals located in the Negative Zone.}
+		{ITEM Williams Development Co.,8,20 | * | Building contractor}
+		{ITEM Xavier's School for Gifted Youngsters,5,6 | ../../../locations/marvel/XavierInstitute.htm,_page | Training and education center for individuals possessing a mutated physiology located in upstate New York.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,98 @@
+	
+	/*  Common styles for comics database pages */
+	
+	table	{
+		background-color: white;
+		border: solid black 1px;
+		width: 95%;		
+	}
+	
+	.black_cell	{
+		height: auto;
+		background-color: black;		
+		color: white;		
+		font-weight: bold; 
+		vertical-align: top; 
+		text-align: center;
+		margin-bottom: -15px;
+		padding: 4px;
+		cursor: default;		
+	}
+	
+	.white_cell	{
+		height: auto;
+		background-color: white;		
+		color: black;		
+		font-weight: normal;
+		vertical-align: top; 
+		text-align: center;
+		margin-bottom: -15px;
+		padding: 4px;
+		cursor: default;
+	}
+
+	.image_cell	{
+		background-color: black;
+		color: white;		
+		font-weight: bold; 
+		vertical-align: top; 
+		text-align: center;
+		margin-bottom: -15px;		
+		cursor: default;
+	}
+	
+	.image_cell p {
+		max-width: 490px;
+	}
+		
+	.back-to-top {
+		position: fixed;
+		bottom: 20px;
+		right: 5px;
+		display: none
+	}
+	
+	@media screen and (max-width: 800px) {
+		.back-to-top {
+		display: none !important;
+		}
+	}
+	
+	#google_translate_element {
+		float: left;
+		margin: -4px 0px 4px 0px;
+		box-shadow: 0px 2px 2px 0px black;
+	}
+	
+	.listen {
+		position: fixed;
+		right: 0px;
+		top: 5px;
+	}	
+
+	span.bold {		
+		font-weight: bold; 
+	}
+	
+	span.left	{
+		text-align: left;
+	}
+	
+	span.left p	{
+		padding: 0px 4px 4px 10px;
+	}	
+	
+	a, p, td {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 1.6vmax; 
+		font-weight: normal; 
+		font-style: normal; 
+		font-variant: normal; 
+		text-transform: none; 
+		text-decoration: none; 
+		margin-bottom: -15px;
+	}	
+	
+	img	{
+		border:none;
+	}

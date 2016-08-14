@@ -1,0 +1,10 @@
+﻿	
+	@import "import_comics.css";
+
+	/*gijoe_comics*/
+
+	body	{
+		background-image: url('../images/gijoe_cobra01.gif'); 
+		background-repeat: repeat; 
+		background-attachment: fixed;
+	}

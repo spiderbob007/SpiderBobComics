@@ -1,0 +1,58 @@
+/*Spider-Bob's Comic Book History Timeline
+Author: Bob Moser*/
+
+/* styles to control ie_redirect.htm */
+	
+	body	{
+		background-image: url('../images/fadedspider.jpg'); 
+		background-repeat: repeat;	
+		background-attachment: fixed;
+		cursor: default;	
+	}
+	
+	/* styles to control banner */	
+	#banner	{
+		position: relative;
+		top: 5px;
+		text-align: center;	
+		margin-left: 100px;
+		margin-right: 100px;
+	}
+	
+	#home {
+		float: left;	
+		z-index: 1;
+		border: 1px solid black;
+		box-shadow: 5px 5px 5px #888888;
+		background-color: white;
+	}
+	
+	#date p {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 16pt; 
+		font-weight: bold; 
+		color: red; 
+		margin: 2px;
+	}
+
+	/* styles to control comics class */	
+	.comics p {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 12pt; 
+		margin: 0px; 
+		font-weight: normal;
+	}
+	
+	.comics span {
+		font-family: Verdana, Geneva, sans-serif; 
+		font-size: 12.5pt; 
+		font-weight: bold;		
+	}
+	
+	a {		
+		text-decoration: none;		
+	}
+	
+	a img {
+		border: none;	
+	}

@@ -1,0 +1,10 @@
+﻿
+	@import "import_comics.css";
+
+	/*indi_comics*/
+
+	body	{
+	background-image: url('../images/indi.gif'); 
+	background-repeat: repeat; 
+	background-attachment: fixed;
+	}

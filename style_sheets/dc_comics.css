@@ -1,0 +1,10 @@
+﻿
+	@import "import_comics.css";
+
+	/*dc_comics*/
+
+	body	{
+		background-image: url('../images/DC.gif'); 
+		background-repeat: repeat; 
+		background-attachment: fixed;
+	}

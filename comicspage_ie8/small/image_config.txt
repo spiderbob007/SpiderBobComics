@@ -1,0 +1,132 @@
+{BUTTON Small & Indi.,1,2 | * | Small and Independent Press main page.}
+		{/ITEM}
+		{ITEM Home,7,20 | ../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM 2000 AD,17,18 | 2000AD_menu_open.htm,_self | Publisher of magazine style comics in Great Britain.}
+		{ITEM Aardvark-Vanaheim,17,18 | aardvark_menu.htm,_self | Independent publisher owned by Dave Sim.}		
+		{ITEM Cartoons & Television,17,18 | cartoon_menu.htm,_self | Comics based on cartoons or television shows.}
+		{ITEM Chaos,17,18 | chaos_menu.htm,_self | Publisher of horror and wrestling comics.}
+		{ITEM Dark Horse,17,18 | dh_menu.htm,_self | Publisher of creator-owned characters and movie properties.}
+		{ITEM Harris,17,18 | harris_menu.htm,_self | Publisher of Vamparella comics.}
+	{FOLDER ~Image,17,18 | * | Publisher of creator-owned characters.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{FOLDER Fathom,17,18 | * | =}	
+		{ITEM Fathom,5,6 | ../../heroes/indi/Fathom.htm,_page | Aspen Matthews}
+	{/FOLDER}
+	{FOLDER Tomb Raider,17,18 | * | =}
+		{ITEM Laura Croft,5,6 | ../../heroes/indi/TombRaider.htm,_page | =}
+	{/FOLDER}
+	{FOLDER Savage Dragon,17,18 | * | =}
+		{ITEM Savage Dragon,5,6 | ../../heroes/indi/SavageDragon.htm,_page | Unknown}
+	{/FOLDER}
+	{FOLDER GEN-13,17,18 | * | =}
+		{ITEM Burnout,5,6 | ../../heroes/indi/Burnout.htm,_page | Robert (Bobby) Lane}
+		{ITEM Fairchild,5,6 | ../../heroes/indi/Fairchild.htm,_page | Caitlin Fairchild}
+		{ITEM Freefall,8,20 | * | Roxanne (Roxy) Spaulding}
+		{ITEM Grunge,8,20 | * | Percival Edmund Chang}
+		{ITEM Lynch,8,20 | * | John Lynch}
+		{ITEM Rainmaker,8,20 | * | Sarah Rainmaker}
+	{/FOLDER}
+	{FOLDER Spawn,17,18 | * | =}
+		{ITEM Angela,8,20 | * | =}
+		{ITEM Sam,8,20 | * | Detective Sam Burke}
+		{ITEM Spawn,5,6 | ../../heroes/indi/Spawn.htm,_page | Al Simmons}
+		{ITEM Twitch,8,20 | * | Detective Max "Twitch" Williams}
+	{/FOLDER}
+	{FOLDER Witchblade,17,18 | * | =}
+		{ITEM Witchblade,5,6 | ../../heroes/indi/Witchblade.htm,_page | Sara Pezzini}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+	{FOLDER Fathom,3,4 | * | =}	
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Tomb Raider,3,4 | * | =}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Spawn,3,4 | * | =}
+		{ITEM Jason Wynn,8,20 | * | =}
+		{ITEM Malebolgia,8,20 | * | =}
+		{ITEM Overt-Kill,8,20 | * | Unknown}
+		{ITEM Tony Twist,8,20 | * | Antonio Twistelli}
+		{ITEM Violator,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER GEN13,17,18 | * | =}
+		{ITEM Gen13,5,6 | ../../teams/indi/Gen13.htm,_page | Team of superhuman teens hiding from a corrupt government program.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Mirage Studios,17,18 | mirage_menu.htm,_self |  Self published imprint created by Kevin Eastman and Peter Laird.}
+		{ITEM New England Comics (NEC),3,4 | nec_menu.htm,_self | Publisher of Tick comics.}
+		{ITEM Other,17,18 | other_menu.htm,_self | Publisher or publishers of a wide variety of characters.}
+		{ITEM Red Circle,17,18 | red_circle_menu.htm,_self | Publisher of superhero comics.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../dc/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../marvel/index.htm,_top | Marvel Comics main page.}

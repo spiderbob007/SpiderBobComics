@@ -1,0 +1,9 @@
+﻿	
+	@import "import_comics_ref_safari.css";
+	
+	/*indi_comics reference window styles*/
+
+	body	{
+		background-image: url('../images/indi.gif'); 
+		background-repeat: repeat; 
+	}

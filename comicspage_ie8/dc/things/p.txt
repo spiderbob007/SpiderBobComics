@@ -1,0 +1,144 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Pagan,8,20 | * | Marian Mercer}
+		{ITEM Paintball,8,20 | * | Paul Deisinger}
+		{ITEM Papa Midnite,5,6 | ../../../villains/dc/PapaMidnite.htm,_page | Papa Linton Midnite}
+		{ITEM Parallax,5,6 | ../../../villains/dc/Parallax.htm,_page | Harold (Hal) Jordan}
+		{ITEM Parasite,5,6 | ../../../villains/dc/Parasite.htm,_page | Raymond (Rudy) Maxwell Jensen}
+		{ITEM Parsifal,8,20 | * | Unknown}
+		{ITEM Peek-A-Boo,5,6 | ../../../villains/dc/Peekaboo.htm,_page | Lashawn Baez}
+		{ITEM Penguin,5,6 | ../../../villains/dc/Penguin.htm,_page | Oswald Chesterfield Cobblebot}
+		{ITEM Penny Dreadful,8,20 | * | Unknown}
+		{ITEM Per Degaton,5,6 | ../../../villains/dc/PerDegaton.htm,_page | =}
+		{ITEM Pernisius,5,6 | ../../../villains/dc/Pernisius.htm,_page | Lord Pernisius}
+		{ITEM Persuader,5,6 | ../../../villains/dc/Persuader.htm,_page | Cole Parker}
+		{ITEM Phantom of the Fair,8,20 | * | Unknown}
+		{ITEM Phobia,5,6 | ../../../villains/dc/Phobia.htm,_page | Angela Hawkins III}
+		{ITEM Pied Piper,5,6 | ../../../villains/dc/Piedpiper.htm,_page | Hartley Rathaway}
+		{ITEM Pierrot Lunaire,8,20 | * | Unknown}
+		{ITEM (The) Pilgrim,8,20 | * | Unknown}
+		{ITEM Piscator,8,20 | * | Unknown}
+		{ITEM Pistolera,8,20 | * | Unknown}
+		{ITEM Pix,5,6 | ../../../villains/dc/Pix.htm,_page | Ariadne Pinxit}
+		{ITEM Planet Master,8,20 | * | Unknown}
+		{ITEM Planeteer,8,20 | * | Alexander Mason}
+		{ITEM Plant Master,5,6 | ../../../villains/dc/FloronicMan.htm,_page | Dr. Jason Woodrue}
+		{ITEM Plasmus,8,20 | * | Otto Von Furth}
+		{ITEM Plastique,8,20 | * | Bette Sand Souci}
+		{ITEM Plunder,5,6 | ../../../villains/dc/Plunder.htm,_page | Jared Morillo}
+		{ITEM Pocket Pal,8,20 | * | Unknown}
+		{ITEM Poison Ivy,5,6 | ../../../villains/dc/PoisonIvy.htm,_page | Pamela Lillian Isley}
+		{ITEM Polaris,8,20 | * | Dr. Neal Emerson}
+		{ITEM Polestar,8,20 | * | Dr. Ub'x}
+		{ITEM Porto,8,20 | * | =}
+		{ITEM Power Boy II,8,20 | * | Jed Rikaine}
+		{ITEM Power Ring I,8,20 | * | William Bagget evil Green Lantern of Earth-3}
+		{ITEM Power Ring II,8,20 | * | William Bagget evil Green Lantern of Earth-2}
+		{ITEM Prairie Witch,8,20 | * | Abigail Moorland}
+		{ITEM Prankster,5,6 | ../../../villains/dc/Prankster.htm,_page | Oswald Loomis}
+		{ITEM Pravda,8,20 | * | Unknown}
+		{ITEM Predator,5,6 | ../../../villains/dc/StarSapphireII.htm,_page | Carol Ferris}
+		{ITEM President Thawne,8,20 | * | =}
+		{ITEM Preus,5,6 | ../../../villains/dc/Preus.htm,_page | =}
+		{ITEM Privateer,5,6 | ../../../heroes/dc/ManhunterIII.htm,_page | Mark Shaw}
+		{ITEM Professor Fallout,8,20 | * | Manfred Mota}
+		{ITEM Professor Hugo Strange,5,6 | ../../../villains/dc/DrHugoStrange.htm,_page | Dr. Hugo Strange}
+		{ITEM Professor Ivo,8,20 | * | Anthony Ivo}
+		{ITEM Professor Merlin,8,20 | * | Unknown}
+		{ITEM Professor Milo,8,20 | * | Unknown}
+		{ITEM Professor Ojo,8,20 | * | Dr. Ojo}
+		{ITEM Professor Powder,8,20 | * | Dr. Powder}
+		{ITEM Professor Proxon,8,20 | * | =}
+		{ITEM Professor Radium,8,20 | * | Unknown}
+		{ITEM Professor Zoom,5,6 | ../../../villains/dc/ProfessorZoom.htm,_page | Eobard Thawne}
+		{ITEM Prometheus II,8,20 | * | Unknown}
+		{ITEM Prometheus III,5,6 | ../../../villains/dc/Prometheus.htm,_page | Unknown}
+		{ITEM Provoke,8,20 | * | Unknown}
+		{ITEM Psimon,5,6 | ../../../villains/dc/Psimon.htm,_page | Dr. Simon Jones}
+		{ITEM Psychic Enforcer,8,20 | * | Unknown}
+		{ITEM Psycho-Pirate I,5,6 | ../../../villains/dc/Psycho-Pirate.htm,_page | Charles (Charley) Halstead}
+		{ITEM Psycho-Pirate II,5,6 | ../../../villains/dc/Psycho-Pirate.htm,_page | Roger Hayden}
+		{ITEM Psychopomp,8,20 | * | Unknown}
+		{ITEM Pteradon,8,20 | * | Unknown}
+		{ITEM Pulsar Stargrave,8,20 | * | Unknown}
+		{ITEM Punch,8,20 | * | Unknown}
+		{ITEM (The) Pupil,8,20 | * | Adrian Burroughs}
+		{ITEM Puppet Master,8,20 | * | Jordan Weir}
+		{ITEM Puppeteer,8,20 | * | Jordan Weir}
+		{ITEM Purgatory,8,20 | * | Paul Christian}
+		{ITEM Puzzler,8,20 | * | Valerie Van Haaften}
+		{ITEM Pyra III,5,6 | ../../../villains/dc/PyraIII.htm,_page | Roxy Leech}
+	{/FOLDER}
+	{FOLDER (Q),17,18 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),17,18 | r.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Sinestro Corps),17,18 | sincorps.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

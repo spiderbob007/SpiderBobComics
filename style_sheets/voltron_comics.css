@@ -1,0 +1,10 @@
+﻿	
+	@import "import_comics.css";
+	
+	/*autobot_comics*/
+
+	body	{
+		background-image: url('../images/voltron01.gif'); 
+		background-repeat: repeat; 
+		background-attachment: fixed;
+	}

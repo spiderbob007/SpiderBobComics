@@ -1,0 +1,150 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+		{ITEM Races and Species,17,18 | ../races/dc_races_menu.htm,_self |  The diverse beings of the DC Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+	{FOLDER ~Things,17,18 | * | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+	{FOLDER Mystical Animals & Items,17,18 | * | The magical devices items of the DC Universe.}
+		{ITEM Amazonium Bracelets,5,6 | ../../../vehicles_devices/dc/AmazoniumBracelets.htm,_page | Bracelets made of a mystical indestructible metal called Amazonium, which is only found on the island of Themyscira.}
+		{ITEM Book of Souls,8,20 | * | Tome of destiny}
+		{ITEM Emerald Eye of Ekron,5,6 | ../../../vehicles_devices/dc/EmeraldEye.htm,_page | Mystical or scientific object of immense power capable of a wide variety of functions.}
+		{ITEM Green Bell of Uthool,8,20 | * | Mystical key in the shape of a copper bell used to release one of three ancient demons.}
+		{ITEM Haunted Tank,5,6 | ../../../vehicles_devices/dc/HauntedTank.htm,_page | Nickname given to a series of tanks during World War II that were guarded by the Civil War confederate general James Ewell Brown.}
+		{ITEM Heart of Darkness,8,20 | * | Black Diamond imprisoning Eclipso cut into a thousand gems and scattered across Earth.}
+		{ITEM Helmet of Fate,5,6 | ../../../vehicles_devices/dc/HelmetFate.htm,_page | Mystical helmet containing the spirit of the ancient Egyptian sorcerer Nabu, used by mortal hosts to conquer magic spells.}
+		{ITEM HERO Dial,5,6 | ../../../vehicles_devices/dc/HERODial.htm,_page | Alien artifact capable of transforming the dialer into a super-powered being.}
+		{ITEM HERO Dials,5,6 | ../../../vehicles_devices/dc/HERODial.htm,_page | Set of dials created by the original possessor of the HERO Dial, Robby Reed.}
+		{ITEM Lasso of Hestia,5,6 | ../../../vehicles_devices/dc/Lasso_of_Hestia.htm,_page | Magic golden lasso used by Wonder Woman.}
+		{ITEM Red Jar of Calythos,8,20 | * | Mystical key in the shape of a clay jar used to release one of three ancient demons.}
+		{ITEM SHAZAM!,5,6 | ../../../vehicles_devices/dc/SHAZAM!.htm,_page | Mystical word invoked by members of the Marvel Family.}
+		{ITEM Silver Wheel of Nyorlath,8,20 | * | Mystical key in the shape of a wagon wheel used to release one of three ancient demons.}
+		{ITEM Spear of Longinus,8,20 | * | Mystical spear reputed to have pierced the body of Christ.}
+		{ITEM Speed Force,5,6 | ../../../vehicles_devices/dc/SpeedForce.htm,_page | Mystic or natural power that enables creatures not normally fast to achieve super-speed.}
+		{ITEM Starheart,8,20 | * | Meteorite formed into the Lantern used by Green Lantern I.}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,17,18 | * | The natural items and elements of the DC Universe.}
+		{ITEM A39,8,20 | * | Steroid which caused normal vision to be altered to sense other spectrums of light.}
+		{ITEM Batsignal,5,6 | ../../../vehicles_devices/dc/Batsignal.htm,_page | Spotlight used by Gotham police to contact Batman.}
+		{ITEM Black Lantern Ring,8,20 | * | Device used for controlling the Black Light of Death.}
+		{ITEM Blue Lantern Ring,5,6 | ../../../vehicles_devices/dc/BlueLanternRing.htm,_page | Device used for controlling the Blue Light of Hope.}
+		{ITEM Book of Oa,8,20 | * | Tome of Green Lantern History}
+		{ITEM Cosmic Treadmill,5,6 | ../../../vehicles_devices/dc/CosmicTreadmill.htm,_page | Device utilizing cosmic rays and super-speed to propel the user through time.}
+		{ITEM Flash Costume Ring,5,6 | ../../../vehicles_devices/dc/Flash_Ring.htm,_page | Ring containing a compressed costume of Flash II & Flash III.}
+		{ITEM Green Lantern Central Power Battery,5,6 | ../../../vehicles_devices/dc/GLCentralBattery.htm,_page | Large device used to hold the depository of Green Lantern energies.}
+		{ITEM Green Lantern Power Battery,5,6 | ../../../vehicles_devices/dc/GLBattery.htm,_page | Device used to charge a Green Lantern Ring.}
+		{ITEM Green Lantern I Power Battery,8,20 | * | Sentient Device forged from an asteroid known as the Starheart used to Charge the Power Ring of Green Lantern I.}
+		{ITEM Green Lantern Medalian,8,20 | * | Extremely powerful device used for controlling Green Magic, has no effect on objects colored yellow.}
+		{ITEM Green Lantern Ring,5,6 | ../../../vehicles_devices/dc/GreenLanternRing.htm,_page | Device used for controlling the Green Light of Willpower.}
+		{ITEM Kryptonite,5,6 | ../../../vehicles_devices/dc/Kryptonite.htm,_page | Radioactive element from the planet Krypton.}
+		{ITEM Mega-Zeta Beam,8,20 | * | Beam capable of transporting organic and inorganic objects through space.}
+		{ITEM Mother Box,8,20 | * | Portable sentient computer capable of a multitude of functions.}
+		{ITEM Omega Beam,8,20 | * | Energy beam capable of transporting a planetary system amount of mass over interstellar space.}
+		{ITEM Orange Lantern Ring,8,20 | * | Device used for controlling the Orange Light of Avarice.}
+		{ITEM Phantom Zone Projector,8,20 | * | Device capable of accessing the extra-dimensional Phantom Zone.}
+		{ITEM Red Lantern Ring,8,20 | * | Device used for controlling the Red Light of Rage.}
+		{ITEM Sapphire Gem,8,20 | * | Powerful gem used for controlling the Violet Light of Love.}
+		{ITEM Star Sapphire Ring,8,20 | * | Device used for controlling the Violet Light of Love.}
+		{ITEM Starband,8,20 | * | Device used by Evil Star to collect solar energy and create energy blast}
+		{ITEM Utility Belt,8,20 | * | Belt used by Batman and Robin to carry special crime fighting devices}
+		{ITEM Velocity 9,8,20 | * | Addictive drug produced by Vandal Savage allowing the user to obtain super-sonic speed for a brief time}
+		{ITEM Yellow Lantern Ring,8,20 | * | Device used for controlling the Yellow Light of Fear.}
+		{ITEM Zeta Beam,8,20 | * | Energy beam capable of transporting a small amount of mass over interstellar space.}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,17,18 | * | The robots and automatons of the DC Universe.}
+		{ITEM Alloy,8,20 | * | Robot created from the combination of the elemental Metal Men robots.}
+		{ITEM Amazo,5,6 | ../../../villains/dc/Amazo.htm,_page | Android created by Professor Ivo designed to absorb the powers of the Justice League.}
+		{ITEM Automam,8,20 | * | Robot for hire known as Robot #32198 created by Dr. Miller Sterling.}
+		{ITEM Brother Eye,5,6 | ../../../vehicles_devices/dc/BrotherEye.htm,_page | Surveillance satellite controlled by the artificial intelligence Brother Mark I.}
+		{ITEM Brother Power,8,20 | * | Sentient life sized rag doll.}
+		{ITEM Chemo,5,6 | ../../../vehicles_devices/dc/Chemo.htm,_page | Automaton composed of an unknown combination of chemicals.}
+		{ITEM Computo I,5,6 | ../../../vehicles_devices/dc/ComputoI.htm,_page | Tyrannical artificial intelligence accidentally created by Braniac 5.}
+		{ITEM Computo III,5,6 | ../../../vehicles_devices/dc/ComputoI.htm,_page | Original Computo reprogrammed as Braniac 5 to serve as Legionnaire Headquarters majordomo.}
+		{ITEM Chrysalis,8,20 | * | Cyborg utilizing insectsoid abilities.}
+		{ITEM Elektro,8,20 | * | Robot used by the Phantom of the Fair to attempt to assassinate Britain's King George VI & Queen Elizabeth.}
+		{ITEM Fist of the Guardians,8,20 | * | Three robots created by the Guardians of the Universe to apprehend criminal Green Lanterns.}
+		{ITEM G.I. Robot I,8,20 | * | Prototype robot soldier created during World War II, J.A.K.E.1 (Jungle Automatic Killer - Experimental}
+		{ITEM G.I. Robot II,8,20 | * | Prototype robot soldier created during World War II, J.A.K.E.2 (Jungle Automatic Killer - Experimental}
+		{ITEM Gizmoid,8,20 | * | Apokolipian weapon capable of transforming into a giant super weapon.}
+		{ITEM Gold,8,20 | * | Robot created with the properties of the element gold.}
+		{ITEM Hilar-Toy,8,20 | * | Alien toy designed to create laughter, but emits radiation arousing uncontrollable hostility.}
+		{ITEM Imperiex Probe,5,6 | ../../../villains/dc/Imperiex.htm,_page | Powerful entity controlled by the world destroying Imperiex.} 
+		{ITEM Iron,8,20 | * | Robot created with the properties of the element iron.}
+		{ITEM JLAndroids,5,6 | ../../../vehicles_devices/dc/JLAndroids.htm,_page | Justice League members converted into androids by Amazo.}
+		{ITEM Klaash,8,20 | * | Robot created and controlled by Lex Luthor to attack Superman.}
+		{ITEM L-Ron,8,20 | * | L-Ron H*bb*rd, android servant of the galactic capitalist Manga Khan.}
+		{ITEM Lead,8,20 | * | Robot created with the properties of the element lead.}
+		{ITEM Machine Messiah,8,20 | * | Artificial intelligence created at S.T.A.R. Labs bent on proving its superiority to humans.}
+		{ITEM Manhunters,5,6 | ../../../teams/dc/Manhunters.htm,_page | Android agents of the Guardians of the Universe}
+		{ITEM Matrix-Prime,8,20 | * | Robot created by the Council, capable of spawning smaller versions of itself.}
+		{ITEM Mekanique,8,20 | * | Female android created by mad-scientist Rotwang to instigate discord in a labor revolt.}
+		{ITEM Mercury,8,20 | * | Robot created with the properties of the element mercury.}
+		{ITEM Metal Men,5,6 | ../../../teams/dc/MetalMen.htm,_page | Group of androids with powers based upon elemental metals.}
+		{ITEM Mr. Atom,5,6 | ../../../villains/dc/MrAtom.htm,_page | Evil atomic powered sentient robot.}
+		{ITEM OMAC,5,6 | ../../../vehicles_devices/dc/OMAC.htm,_page | One Man Army Corps: Nano-tech infected humans drafted in a war against meta-humans.}
+		{ITEM Platinum,8,20 | * | Robot created with the properties of the element platinum.}
+		{ITEM Psions,8,20 | * | Android agents of the Guardians of the Universe}
+		{ITEM Samaroids,8,20 | * | Robot samurais created by the Japanese mafia.}
+		{ITEM Samurai Robot,8,20 | * | Robot samurai created during World War II.}
+		{ITEM Seeker I,8,20 | * | Android created by inhabitants of Selsia V & VI to destroy Green Lantern II.}
+		{ITEM Seeker II,8,20 | * | Android created by inhabitants of Selsia V & VI to destroy Green Lantern II.}
+		{ITEM Shaggy Man,5,6 | ../../../villains/dc/General.htm,_page | Synthetic creature created as a means of developing artificial tissue and organs.}
+		{ITEM Skeets,5,6 | ../../../vehicles_devices/dc/Skeets.htm,_page | BX9 security robot and companion to Booster Gold.}
+		{ITEM Solaris,5,6 | ../../../gods_monsters/dc/Solaris.htm,_page | Super-intelligent stellar computer plauging centuries 20th through 853rd.}
+		{ITEM Suneater,8,20 | * | Artificial life form capable of consuming entire planets and stars.}
+		{ITEM Super-bot,8,20 | * | Robot designed to look like Superman.}
+		{ITEM Superman Robots,5,6 | ../../../vehicles_devices/dc/SupermanRobots.htm,_page | Robots designed to look like Superman.}
+		{ITEM Tin,8,20 | * | Robot created with the properties of the element tin.}
+		{ITEM Tomorrow Woman,5,6 | ../../../heroes/dc/TomorrowWoman.htm,_page | Android created to infiltrate and destroy the Justice League.}
+		{ITEM Ultivac,8,20 | * | Sentient robot with telepathic powers.}
+		{ITEM Willhunters,8,20 | * | Microscopic robots which subvert the mental control of those they infect.}
+		{ITEM Viroxx Brood Leader,8,20 | * | Being enslaved by the intergalactic parasite Viroxx to lead its cell warriors.}
+		{ITEM Viroxx Cell Warrior,8,20 | * | Being enslaved by the intergalactic parasite Viroxx to act as a warrior.}
+		{ITEM Volcano Men,8,20 | * | Race of synthetic beings patterned after the Volcano Man.}
+		{ITEM Z-1,8,20 | * | Robotic leader of the Missile Men.}
+		{ITEM Zinc,8,20 | * | Robot created with the properties of the element zinc.}
+		{ITEM Zirconium,8,20 | * | Robot created with the properties of the element zirconium.}
+	{/FOLDER}
+	{FOLDER Vehicles,17,18 | * | The transportation of the DC Universe.}
+		{ITEM Arrowcar,5,6 | ../../../vehicles_devices/dc/Arrowcar.htm,_page | Vehicle used by Green Arrow I.}
+		{ITEM Batboat,8,20 | * | =}
+		{ITEM Batcycle,5,6 | ../../../vehicles_devices/dc/Batcycle.htm,_page | Motorcycle design first used by Batwoman, but later adopted by other members of the Batman Family.}
+		{ITEM Batcopter,8,20 | * | =}
+		{ITEM Batjet,8,20 | * | =}
+		{ITEM Batmobile,5,6 | ../../../vehicles_devices/dc/Batmobile.htm,_page | Car used by Batman.}
+		{ITEM Hal Jordan's Starcruiser,8,20 | * | Temporary headquarters of Green Lantern II while exiled from Earth after his Asteroid was destroyed}
+		{ITEM Haunted Tank,5,6 | ../../../vehicles_devices/dc/HauntedTank.htm,_page | Nickname given to a series of tanks during World War II that were guarded by the Civil War confederate general James Ewell Brown.}
+		{ITEM Kharma,8,20 | * | Spacecraft of the pirate Captain Destiny.}
+		{ITEM Robincycle,5,6 | ../../../vehicles_devices/dc/Batcycle.htm,_page | Motorcycle design first used by Batwoman, but later adopted by Batman's sidekick Robin.}
+		{ITEM Superman's Rocketship,5,6 | ../../../vehicles_devices/dc/SupermanRocketship.htm,_page | Spacecraft used to transport Kal-El to the planet Earth.}
+		{ITEM Thunderer II,8,20 | * | Steed used by the New God Lonar.}
+		{ITEM Timeship,5,6 | ../../../vehicles_devices/dc/Timeship.htm,_page | Time and space travel vehicle used by the android Houman III.}
+	{/FOLDER}
+	{FOLDER Weapons,17,18 | * | The offensive and defensive weapons of the DC Universe.}
+		{ITEM Batarang,5,6 | ../../../vehicles_devices/dc/Batarang.htm,_page | Batman's special Boomerang}
+		{ITEM Green Arrow I Trick Arrows,8,20 | * | Arrows used by Oliver Queen}
+		{ITEM Green Lantern Ring,5,6 | ../../../vehicles_devices/dc/GreenLanternRing.htm,_page | Device used for controlling Green Magic.}
+		{ITEM Haunted Tank,5,6 | ../../../vehicles_devices/dc/HauntedTank.htm,_page | Nickname given to a series of tanks during World War II that were guarded by the Civil War confederate general James Ewell Brown.}
+		{ITEM Hugga-Tugga-Thugees,5,6 | ../../../vehicles_devices/dc/HuggaTuggaThugees.htm,_page | Television characters used to hypnotized children into committing murder.}
+		{ITEM Mageddon,8,20 | * | Ancient living weapon created by the Old Gods of Urgrund.}
+		{ITEM Scarface,5,6 | ../../../villains/dc/Scarface.htm,_page | Marionette used by the Ventriloquist to act out his criminal tendencies}
+		{ITEM Spear of Longinus,8,20 | * | Mystical spear reputed to have pierced the body of Christ.}
+		{ITEM Steel's Hammer,5,6 | ../../../vehicles_devices/dc/SteelHammer.htm,_page | Weapon used by Steel II that accelerates the further it is thrown.}
+		{ITEM Void Hound,8,20 | * | Sentient engine of destruction created by the Weaponers of Qward.}
+		{ITEM War Wheel,8,20 | * | Heavily armored spiked wheel created by Nazis during World War II capable of crushing any building or vehicle.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

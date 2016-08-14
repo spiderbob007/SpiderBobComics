@@ -1,0 +1,32 @@
+{BUTTON DC Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/dc_heroes_menu_open.htm,_self | The heroes of the DC Universe.}
+		{ITEM Villains,17,18 | ../villains/dc_villains_menu.htm,_self | The villains of the DC Universe.}
+		{ITEM Gods,17,18 | ../gods/dc_gods_menu.htm,_self |  The gods of the DC Universe.}
+		{ITEM Monsters,17,18 | ../monsters/dc_monsters_menu.htm,_self |  The monsters of the DC Universe.}
+		{ITEM Aliens,17,18 | ../aliens/dc_aliens_menu.htm,_self |  The alien races of the DC Universe.}
+	{FOLDER ~Races and Species,17,18 | * |  The diverse beings of the DC Universe.}
+		{ITEM Atlantians,5,6 | ../../../aliens_races/dc/Atlantian.htm,_page | Race of humanoid and mermoid beings that evolved to withstand life in the oceans.}
+		{ITEM Amazons,5,6 | ../../../aliens_races/dc/Amazons.htm,_page | Race of women charged by the Olympic gods with the task of containing a great evil.}
+		{ITEM Bana-Mighdall,5,6 | ../../../aliens_races/dc/Amazons.htm,_page | Tribe of Amazonians with culture based upon classic Egypt.}
+		{ITEM Empire of Tears,8,20 | * | Immortal race of intergalactic demons capable of sorcery.}
+		{ITEM Feitherans,8,20 | * | Race of avian humans.}
+		{ITEM Gorillas of Gorilla City,5,6 | ../../../aliens_races/dc/Gorillas.htm,_page | Race of super-intelligent gorillas.} 
+		{ITEM H'v'ler'ni,8,20 | * | Race of advanced humans that existed on Earth over 100,000 years ago.}
+		{ITEM Servants of Darkness, 8,20 | * | Race cloned from powerful being from the 20th century by Darkseid.}
+		{ITEM Themysciran,5,6 | ../../../aliens_races/dc/Amazons.htm,_page | Tribe of Amazonians with culture based upon classic Greece.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Supporting Cast,17,18 | ../cast/dc_cast_menu.htm,_self | The cast members of the DC Universe.}
+		{ITEM Teams,17,18 | ../teams/dc_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/dc_places_menu.htm,_self | Contains sub-directories of locations in the DC Universe.}
+		{ITEM Things,17,18 | ../things/dc_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the DC Universe.}
+		{ITEM Events,17,18 | ../events/dc_events_menu.htm,_self | The grand and long-lasting events of the DC Universe.} 
+		{ITEM Other Publications by DC,17,18 | ../publications/dc_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../../marvel/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

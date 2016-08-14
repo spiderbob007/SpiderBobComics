@@ -1,0 +1,270 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+	{FOLDER ~Monsters,17,18 | * |  The monsters of the Marvel Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Abominable Snowman,8,20 | * | Human mutated into an arctic monster by a native curse.}
+		{ITEM Alien Symbiote,5,6 | ../../../vehicles_devices/marvel/AlienSymbiote.htm,_page | Spider-Man's intelligent costume found during Secret Wars I}
+		{ITEM Alpha The Ultimate Mutant,8,20 | * | Bio-engineered energy being able to alter genetic matter}
+		{ITEM Apocalypse Beast,8,20 | * | Alien monster}
+		{ITEM Asteroth,5,6 | ../../../gods_monsters/marvel/Asteroth.htm,_page | Cosmic entity born of the caos of the Universe's formation.}
+		{ITEM Atum,8,20 | * | Demon spawn of the Earth mother Gaea.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ba'al,8,20 | * | Ancient man-demon.}
+		{ITEM Batwing,8,20 | * | James (Jimmy) Santini a boy mutated into a human bat.}
+		{ITEM Behemoth I,8,20 | * | Aquatic monster created by Atlantian scientists}
+		{ITEM Biohazard,8,20 | * | Gelatinous genetic mutation of the brain of John Kelly.}
+		{ITEM Blip,8,20 | * | Electric alien monster.}
+		{ITEM Bombu,5,6 | ../../../gods_monsters/marvel/Monstrollo_Manoo_Bombu.htm,_page | Alien invader impersonating an Amazon witch doctor.}
+		{ITEM Brute I,8,20 | * | Man mutated into a giant ape-like monster.}
+		{ITEM Bruttu,8,20 | * | Human mutated into a giant ape-like monster.}
+	{/FOLDER}
+	{FOLDER (C),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Chtylok,8,20 | * | Giant guardian of the Savage Land.}
+		{ITEM Cobweb,8,20 | * | Psionic creature from the Mindscape dimension}
+		{ITEM (The) Colossus,8,20 | * | Giant robot}
+		{ITEM Creature from Krogarr,8,20 | * | Alien monster}
+		{ITEM Creature from Planet X,8,20 | * | Alien monster}
+		{ITEM (The) Cyclops,8,20 | * | Giant one-eyed man monster.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Dagoth,8,20 | * | Demonic ruler of the ancient city Kalumesh.}
+		{ITEM Demogorge,8,20 | * | Demon spawn of the Earth mother Gaea.}
+		{ITEM Demon in the Dark,8,20 | * | Sub-terranian demon.}
+		{ITEM Devil Hulk,5,6 | ../../../villains/marvel/DevilHulk.htm,_page | Dr. Robert Bruce Banner}
+		{ITEM Devil Dinosaur,5,6 | ../../../gods_monsters/marvel/DevilDinosaur.htm,_page | =}
+		{ITEM Devil's Hearth,8,20 | * | Monsterous heart capable of compelling evil in others.}
+		{ITEM Diablo,8,20 | * | Gasious demon from the 5th Dimension.}
+		{ITEM Dracula,5,6 | ../../../villains/marvel/Dracula.htm,_page | Prince Vlad Tepes Dracula, lord of vampires}
+		{ITEM Dragon Man,5,6 | ../../../gods_monsters/marvel/DragonMan.htm,_page | Large robot resembling both a dragon and a man.}
+		{ITEM Dragoom,8,20 | * | Fire monster.}
+		{ITEM Drang,8,20 | * | Asgardian storm giant.}
+		{ITEM Droog,8,20 | * | Bio-engineered monter dog.}
+		{ITEM Droom,8,20 | * | Lizard mutated into a giant monster.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ego,5,6 | ../../../gods_monsters/marvel/Ego.htm,_page | Ego the Living Planet}
+		{ITEM Ego-Prime,8,20 | * | Spawn of Ego the Living Planet}
+		{ITEM Ero,8,20 | * | Supernatural creature composed of spiders.}
+		{ITEM Elektro,8,20 | * | Giant robotic monster}
+	{/FOLDER}
+	{FOLDER (F),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Face Thief,8,20 | * | Member of the extra-dimensional demon race that possesses others known as the Shinma.}
+		{ITEM Ffurg,8,20 | * | Ape-like monster.}
+		{ITEM Fin Fang Foom,5,6 | ../../../gods_monsters/marvel/FinFangFoom.htm,_page | Extraterrestrial dragon of the species Makluan from the planet Kakaranathara.}
+		{ITEM Fish-Man,8,20 | * | Amphibious monster inhabiting the rivers of South America.}
+		{ITEM Frankenstein's Monster,5,6 | ../../../gods_monsters/marvel/Frankenstein.htm,_page | Monster made from human corpses}
+		{ITEM Freak,8,20 | * | Harold (Happy) Hogan}
+	{/FOLDER}
+	{FOLDER (G),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Galaxy Master,8,20 | * | Extraterrestrial monster bent on galactic domination.}
+		{ITEM Gargantus I,8,20 | * | Giant aquatic monster}
+		{ITEM Gargantus II,8,20 | Giant resembling a neanderthal created by an alien race 80,000 years ago.}
+		{ITEM (The) Genie,8,20 | * | Magical entity}
+		{ITEM Giganto I,5,6 | ../../../gods_monsters/marvel/Giganto_I.htm,_page | Giant sub-terrainian monster controlled by the Mole Man.}
+		{ITEM Giganto II,8,20 | * | Aquatic monster controlled by the Sub-Mariner.}
+		{ITEM Gigantus,8,20 | * | Guard of Monster Island (also known as Goliath, The Monster that walks like a man)}
+		{ITEM (The) Glob,8,20 | * | Muck monster}
+		{ITEM Godzilla,5,6 | ../../../gods_monsters/marvel/Godzilla.htm,_page | Mutated survivor of a pre-historic age.}
+		{ITEM Gog,8,20 | * | Giant monster from another dimension.}
+		{ITEM Golem I,8,20 | * | Guardian fashioned from the clay of the earth.}
+		{ITEM Goliath,8,20 | * | Giant aquatic monster.}
+		{ITEM Golgotha,8,20 | * | Alien parasite which feeds upon psychic emanations.}
+		{ITEM Gomdulla,8,20 | * | Alien mummy.}
+		{ITEM Googam,8,20 | * | Alien monster}
+		{ITEM Goom,8,20 | * | Alien monster}
+		{ITEM Gor-Kill,8,20 | * | Water demon}
+		{ITEM Gorgilla,8,20 | * | Gentle ape monster}
+		{ITEM Gorgolla,8,20 | * | Giant living gargoyle}
+		{ITEM Gorilla Man,8,20 | * | Monster}
+		{ITEM Gormuu,8,20 | * | Alien monster capable of absorbing energy to increase it size, but not mass.}
+		{ITEM (The) Green Thing,8,20 | * | Giant plant monster.}
+		{ITEM Grogg I,8,20 | * | Dragon-man}
+		{ITEM Grogg II,8,20 | * | Crystaline monster.}
+		{ITEM Groot,8,20 | * | Alien monster that resembles a tree.}
+		{ITEM Grottu,8,20 | * | Ant mutated by radiation or a member of the Deviant race.}
+		{ITEM Gruto,8,20 | * | Misunderstood alien.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Hagg,8,20 | * | Alien monster}
+		{ITEM Hellcow,5,6 | ../../../gods_monsters/marvel/Hellcow.htm,_page | Bessie the cow transformed by the bite of a desperate Dracula.}
+		{ITEM Hellphyr,8,20 | * | Demonic guardian of the mystical tome known as the Zhered-Na.}
+		{ITEM Hulk I,8,20 | * | Xemnu the Titan}
+		{ITEM Hunter in Darkness,8,20 | * | Lupine monster which haunts the wildreness of Nothern Alberta.}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM It the Living Colossus,8,20 | * | Giant Russian statue animated by the mind of the alien Kigor.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Kaa,8,20 | * | Shadow monster from another dimension.}
+		{ITEM Kai-Mak,8,20 | * | Kai-Mak Lord of the deep}
+		{ITEM Karriooq,8,20 | * | Karriooq the corrupter}
+		{ITEM Kathulos,8,20 | * | Distant planet possessed by a demonic entity.}
+		{ITEM Khl0G,8,20 | * | Mystical dragon}
+		{ITEM Klagg,8,20 | * | Alien}
+		{ITEM Kolomaq,8,20 | * | Kolomaq the beast of the snows.}
+		{ITEM Korilla,8,20 | * | Alien Man-Beast}
+		{ITEM Kosmos Creature,8,20 | * | Alien monster}
+		{ITEM Kraa,8,20 | * | African tribesman mutated into a jungle monster by radiation.}
+		{ITEM Kraggoom,8,20 | * | Smoke-like alien monster.}
+		{ITEM Krakoa,8,20 | * | Monster that resembles and island.}
+		{ITEM Krang I,8,20 | * | Monster}
+		{ITEM Kurrgo,8,20 | * | Alien leader of Planet X}
+	{/FOLDER}
+	{FOLDER (L),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Leviathan III,8,20 | * | Marina Smallwood}
+		{ITEM Living Gargoyle,8,20 | * | Stone demon used by Baron Mordo.}
+		{ITEM Living Shadows,8,20 | * | Group of aliens from the Shadow Realm.}
+		{ITEM Living Totem,8,20 | * | Alien monster which resembles a Native American totem.}
+		{ITEM Lizard Men,8,20 | * | Race of reptilian creatures serving the Deviant race.}
+		{ITEM Lo-Karr,8,20 | * | Brutish monster}
+		{ITEM Luna Lizards,8,20 | * | Giant alien lizards living on the Moon.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Maa-Gor,8,20 | * | Leader of the Man Ape tribe of the Savage Land.}
+		{ITEM Magneto,8,20 | * | Giant magnetic monster.}
+		{ITEM Magneto,8,20 | * | Circus strongman mutated by cosmic radiation, also known as Magnetor.}
+		{ITEM Magnetor,8,20 | * | Circus strongman mutated by cosmic radiation, also known as Magneto.}
+		{ITEM Man-Thing,5,6 | ../../../gods_monsters/marvel/ManThing.htm,_page | Dr. Theodore (Ted) Sallis}
+		{ITEM Man-Wolf,5,6 | ../../../gods_monsters/marvel/ManWolf.htm,_page | John Jameson}
+		{ITEM Manphibian,8,20 | * | Alien creature trapped beneath the Earth's surface for centuries.}
+		{ITEM Mandoo,8,20 | * | Alien monster}
+		{ITEM Mangog,5,6 | ../../../gods_monsters/marvel/Mangog.htm,_page | Alien being created by the magical union of the billions of alien humanoids of a warlike race.}
+		{ITEM Manoo,5,6 | ../../../gods_monsters/marvel/Monstrollo_Manoo_Bombu.htm,_page | Alien shape-shifting police officer.}
+		{ITEM Mechano,8,20 | * | Giant robot}
+		{ITEM Mega-Hulk,8,20 | * | Amalgam of hundreds of individual hulks created by Diablo from Greek villagers.}
+		{ITEM Metallo,8,20 | * | Giant robotic monster}
+		{ITEM Midnight Monster,8,20 | * | Evil scientist mutated by his own formula.}
+		{ITEM Minotaur I,8,20 | * | Bull monster}
+		{ITEM Minotaur II,8,20 | * | Bull monster killed by Hercules}
+		{ITEM Missing Link,8,20 | * | Neanderthal preserved in suspended animation.}
+		{ITEM Modulus,5,6 | ../../../gods_monsters/marvel/Modulus.htm,_page | Sentient equation from another dimension.}
+		{ITEM Molten Man-Thing,8,20 | * | Lava monster}
+		{ITEM Monsteroso,8,20 | * | Giant alien infant.}
+		{ITEM Monstro I,8,20 | * | Ape-like monster.}
+		{ITEM Monstro II,8,20 | * | Octopus monster}
+		{ITEM Monstrollo,5,6 | ../../../gods_monsters/marvel/Monstrollo_Manoo_Bombu.htm,_page | Robotic movie monster used to repel an alien invasion.}
+		{ITEM Monstrom,8,20 | * | Alien swamp monster.}
+		{ITEM Moomba,8,20 | * | Alien monster that resembled wood.}
+		{ITEM Mummex,8,20 | * | Monster}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM N'Garai,8,20 | * | Race of demonic beings that once ruled the Earth.}
+		{ITEM N'Gabthoth,8,20 | * | Demonic sea creature.}
+		{ITEM (The) Nameless One,8,20 | * | Two-headed extra-dimensional demon.}
+		{ITEM Neolithic,8,20 | * | Stone monster}
+		{ITEM Null the Living Darkness,8,20 | * | Lifeform created over the ages from the collective consious of the extinct S'Raphh race.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM OOG,8,20 | * | Bear-like alien monster.}
+		{ITEM Orm,8,20 | * | Muck monster.}
+		{ITEM Orogo,8,20 | * | Alien monster}
+		{ITEM Orrgo,5,6 | ../../../gods_monsters/marvel/Orrgo.htm,_page | Alien monster of near omnipotent power.}
+	{/FOLDER}
+	{FOLDER (P),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Petrachnus,8,20 | * | Giant stone spider}
+		{ITEM Pildorr,8,20 | * | Alien conqueror}
+		{ITEM Phalanx,8,20 | * | Extraterrestrial techno-organic collective.}
+		{ITEM Protoids,8,20 | * | Humans mutated into monsters by Armin Zola.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ru'tai,8,20 | * | Race of demonic beings capable of controlling magic.}
+		{ITEM Ranaq,8,20 | * | Ranaq the great devourer}
+		{ITEM Robot Colossus,8,20 | * | Giant robotic monster}
+		{ITEM Robot X,8,20 | * | Giant robotic monster}
+		{ITEM Roc,8,20 | * | Alien monster}
+		{ITEM ROE,8,20 | * | Giant robotic monster}
+		{ITEM Rommbu,8,20 | * | Alien monster}
+		{ITEM Rorgg,8,20 | * | Spider-like alien monster}
+		{ITEM Rro,8,20 | * | Giant lizard monster.}
+	{/FOLDER}
+	{FOLDER (S),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Sandman,8,20 | * | Alien monster made of sand.}
+		{ITEM (The) Scarecrow,8,20 | * | Scarecrow animated by radiation.}
+		{ITEM Scarlet Beetle,8,20 | * | Super-intelligent giant beetle.}
+		{ITEM (The) Scorpion,8,20 | * | Scorpion mutated by radiation.}
+		{ITEM (The) Screemies,8,20 | * | Sea gulls mutated by radiation.}
+		{ITEM Shadowmen,8,20 | * | Demons from the sunken city of Kaa-U.}
+		{ITEM Shagg,8,20 | * | Alien monster resembling the Sphinx.}
+		{ITEM Skreeal,8,20 | * | Bird-like monster}
+		{ITEM Sligguth,8,20 | * | Demonic lizard.}
+		{ITEM Somon,8,20 | * | Somon the artificer}
+		{ITEM Space Beasts,8,20 | * | Alien monsters}
+		{ITEM Spragg,8,20 | * | Monster resembling a hill.}
+		{ITEM (The) Spider,8,20 | * | Spider mutated by radiation.}
+		{ITEM (The) Sphinx,8,20 | * | Ancient Egyptian statue brought to life.}
+		{ITEM Spore,8,20 | * | Monster created by the Deviants as a weapon against the Eternals.}
+		{ITEM Sporr,8,20 | * | Squid-like alien monster}
+		{ITEM Spragg,8,20 | * | Alien monster capable of inhabitting soil and rocks.}
+		{ITEM Star-Thief,8,20 | * | Manifestation of a comatose alien child.}
+		{ITEM Sturm,8,20 | * | Asgardian storm giant.}
+		{ITEM Sublime,8,20 | * | Sentient bacteria which subverts the will of its host.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Taboo,8,20 | * | Swamp monster}
+		{ITEM Tanaraq,8,20 | * | =}
+		{ITEM Temax,8,20 | *| Gnomish earth elemental.}
+		{ITEM Terminus,5,6 | ../../../gods_monsters/marvel/Terminus.htm,_page | Entity created to wipe out races spared by the Celestials}
+		{ITEM Thing I,8,20 | * | Swamp monster}
+		{ITEM Thorg,8,20 | * | Alien stone monster, also known as Thorr.}
+		{ITEM Thorr,8,20 | * | Alien stone monster, also known as Thorg.}
+		{ITEM Tim Boo Ba,5,6 | ../../../gods_monsters/marvel/TimBooBa.htm,_page | Alien reptile warrior.}
+		{ITEM Titano,8,20 | * | Monster crab}
+		{ITEM Tolomaq,8,20 | * | Tolomaq the fire beast}
+		{ITEM Torr,8,20 | * | Torr the ape monster}
+		{ITEM Tricephalous,8,20 | * | Three headed monster guardian of Monster Island.}
+		{ITEM Trull,8,20 | * | Alien capable of inhabiting inanimate objects.}
+		{ITEM Tundra,8,20 | * | Tundra the land beast}
+		{ITEM Two-Headed Thing,8,20 | * | Giant two-headed monster.}
+		{ITEM Typhon,5,6 | ../../../gods_monsters/marvel/Typhon.htm,_page | Monstrous Titan born of Gaia and Tartarus.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Undying Ones,8,20 | * | Extra-dimensional demons controlled by the Nameless-One.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Vandoom,8,20 | * | Giant monster.}
+		{ITEM Varnae,8,20 | * | Sorcerous vampire lord.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Weed,8,20 | * | Plant mutated by radiation.}
+		{ITEM Wendigo,5,6 | ../../../gods_monsters/marvel/Wendigo.htm,_page | Manifestation of an ancient Canadian Indian curse that transforms cannibals into a large white savage beast with a hunger for human flesh.}
+		{ITEM Werewolf by Night,5,6 | ../../../gods_monsters/marvel/Werewolf_by_Night.htm,_page | Jack Russell}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM X the Unknowable,8,20 | * | Shapeshifting monster.}
+		{ITEM X-13,8,20 | * | Giant robotic monster}
+		{ITEM Xemnu the Titan,8,20 | * | Alien monster capable of mesmerism.}
+		{ITEM Xorr the God-Jewel,8,20 | * | Sentient gem taken humanoid form.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Yeti,8,20 | * | Creature also known as the Abominable Snowman.}
+	{/FOLDER}
+	{FOLDER (Z),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Zog,8,20 | * | Giant monster.}
+		{ITEM Zombie,5,6 | ../../../gods_monsters/marvel/Zombie.htm,_page | Simon Garth}
+		{ITEM Zzutak,8,20 | * | Giant monster.}
+		{ITEM Zzzax,8,20 | * | Sentient electromagnetic energy being.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

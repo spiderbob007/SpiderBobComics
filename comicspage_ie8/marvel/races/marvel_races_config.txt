@@ -1,0 +1,48 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+	{FOLDER ~Races and Species,17,18 | * |  The diverse beings of the Marvel Universe.}
+		{ITEM Abominations,8,20 | * | Extra-dimensional race.}
+		{ITEM Aerian,8,20 | * | Race of bird-like people living in Pangea.}
+		{ITEM Alpha Primitives,8,20 | * | Slave race to the Inhumans.}
+		{ITEM Ape Men,8,20 | * | Race of sub-humans inhabiting the Savage Land.}
+		{ITEM Atlantians,5,6 | ../../../aliens_races/marvel/Atlantians.htm,_page | Sub-aquatic species capable of surviving the depths of the ocean.}
+		{ITEM Borers,8,20 | * | Large reptilian monsters from the Negative Zone.}
+		{ITEM Botor,8,20 | * | Race of monkey-like humans inhabiting the trees of Pangea.}
+		{ITEM Crawler,5,6 | ../../../aliens_races/marvel/Crawler.htm,_page | Species of clone created from several mutants.}
+		{ITEM Eternals,5,6 | ../../../aliens_races/marvel/Eternals.htm,_page | One of the first races of beings to inhabit Earth.}
+		{ITEM Deviants,8,20 | * | One of the first races of beings to inhabit Earth.}
+		{ITEM Hauk'ka,8,20 | * | Advanced humanoid race directly evolved from dinosaurs.}
+		{ITEM Hellbent,8,20 | * | Species resulting from a genetic mingling of early humans and elder races.}
+		{ITEM H'yulthri,8,20 | * | Extra-dimensional species of sentient plant life.}
+		{ITEM Homo Mermaidus,8,20 | * | Species of sub-aquatic humans.}
+		{ITEM Inhumans,5,6 | ../../../aliens_races/marvel/Inhumans.htm,_page | Race of engineered humans granted super powers from exposure to Terrigen Mists by the Kree.}
+		{ITEM Lava Men,5,6 | ../../../aliens_races/marvel/LavaMen.htm,_page | Race of men comprised of and living in molten magma.}
+		{ITEM Lemuran,8,20 | * | Race of cat-like people living in Pangea.}
+		{ITEM Leopard Men,8,20 | * | =}
+		{ITEM Mindless Ones,8,20 | * | Denizens of Dormammu's dark dimension.}
+		{ITEM Moleoids,8,20 | * | Humaonid race of beings which dwell under the Earth's surface.}
+		{ITEM Pteron,8,20 | * | Race of humanoid pterodactyls inhabiting Pangea.}
+		{ITEM Saurians,8,20 | * | Generic classification for reptilian humanoids that inhabit the Savage Land.}
+		{ITEM Swamp Men,8,20 | * | Race of humans inhabiting the swamps of the Savage Land.}
+		{ITEM Tubanti,8,20 | * | Race of humanoid fish inhabiting the waters of Pangea.}
+		{ITEM Warwolves,8,20 | * | Artificial hunters modeled after wolves created by Mojo I.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

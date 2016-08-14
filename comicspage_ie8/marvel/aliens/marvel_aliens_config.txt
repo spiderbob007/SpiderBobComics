@@ -1,0 +1,200 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+	{FOLDER ~Aliens,17,18 | * |  The alien races of the Marvel Universe.}
+	{FOLDER (A),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM A-Chiltarian,8,20 | * | Alien race with multi-directional eyes from the planet A-Chiltar III}
+		{ITEM A'Askvarii,8,20 | * | Alien race with tentacles from the planet Deneb.}
+		{ITEM Aakon,8,20 | * | Alien race from the planet Oorga.}
+		{ITEM Acanti,8,20 | * | Alien race of space sharks, used by the Brood as starships.}
+		{ITEM Achernonian,8,20 | * | Alien race from the planet Alpha Unakalhai.}
+		{ITEM Alpha Centaurian,8,20 | * | Oceanic alien race from the planet Alpha Centauri A.}
+		{ITEM Aranian,8,20 | * | Alien race from the planet Aran IV}
+		{ITEM Archeopian,8,20 | * | First alien race killed by Galactus.}
+		{ITEM Arcturan,8,20 | * | Alien race from the planet Arcturan IV, with almost equal mutation ration as earthlings.}
+		{ITEM Astran,8,20 | * | Alien race from the planet Mu Cephi}
+		{ITEM Audience,8,20 | * | Alien race}
+		{ITEM Autobots,5,6 | ../../../teams/indi/transformers/Autobots.htm,_page | Group of peace loving extraterrestrial sentient robots primarily disguised as Earth vehicles}
+		{ITEM Autocron,8,20 | * | Computerized alien race from the planet Cron.}
+		{ITEM Axi-Tun,8,20 | * | Alien race with energy-manipulation powers from the planet Tun.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ba-Bani,8,20 | * | Alien race from the planet Ba-Bani.}
+		{ITEM Badoon,8,20 | * | Alien reptilian species bent on galactic domination. Females reside on the planet Lotiaria.  Males reside on the planet Moord.}
+		{ITEM Betans,8,20 | * | Alien race from the planet Beta.}
+		{ITEM Brethren,8,20 | * | Group of alien beings engineered by the Celestials.}
+		{ITEM Brood,5,6 | ../../../aliens_races/marvel/Brood.htm,_page | Alien insectoid race that absorb other beings into their species by embryonic metamorphoses.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Celestials,5,6 | ../../../aliens_races/marvel/Celestials.htm,_page | God-like aliens born of the Universal consciousness, Eternity.}
+		{ITEM Centaurian,8,20 | * | Alien race from the planet Beta Centauri.}
+		{ITEM Centurii,8,20 | * | Alien race from the planet Centauri-VI dispersed by slavery.}
+		{ITEM Chr'Ylites,8,20 | * | Alien race from the planet Chr'Yllalisa}
+		{ITEM Ciegrimites,8,20 | * | Snail like alien race from the planet Ciagrim-VII}
+		{ITEM Clavian,8,20 | * | Alien race from the planet Clarius.}
+		{ITEM Collective Intelligence,8,20 | * | Group of rebel aliens that shared a hive-mind.}
+		{ITEM Colossus II,8,20 | * | Alien invader also known as Agent 7M, collecting Earth specimens.}
+		{ITEM Contraxian,8,20 | * | Color bisected Alien race from the planet Contraxia.}
+		{ITEM Cotati,8,20 | * | Telepathic plant species from the planet Hala, the home world of the Kree.}
+		{ITEM Courga,8,20 | * | Alien race from the planet Courg.}
+		{ITEM Creature from Kosmos,8,20 | * | Viscous alien criminal seeking to enslave Earth.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM D'Bari,8,20 | * | Amphibious aliens from the fourth planet from the sun called D'Bari.}
+		{ITEM Decepticons,5,6 | ../../../teams/indi/transformers/Decepticons.htm,_page | Group of war mongering extraterrestrial sentient robots primarily disguised as Earth vehicles and weapons}
+		{ITEM Dakkamite,8,20 | * | Alien race from the planet Dakkam.}
+		{ITEM Darbien,8,20 | * | Alien race}
+		{ITEM Deonist,8,20 | * | Alien race from the planet Deo.}
+		{ITEM Dire Wraith,8,20 | * | Deviants of the Skrull race that reside in the Dark Nebula.  Males are adept at science, females at sorcery.}
+		{ITEM Druff,8,20 | * | Highly adaptive race from the planet Ryas.}
+	{/FOLDER}
+	{FOLDER (E),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Elan,8,20 | * | Alien race with unlimited psionic energy from the planet Elanis.}
+		{ITEM Entemen,8,20 | * | Tentacled alien race from the planet Entem.}
+		{ITEM Ergon,8,20 | * | Alien race from Ergonar.}
+	{/FOLDER}
+	{FOLDER (F),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Flb'Dbi,8,20 | * | Telepathic alien race from the planet Jhb'Btt.}
+		{ITEM Fomalhaut,8,20 | * | Telepathic alien race from the planet Pumr.}
+		{ITEM Fonabi,8,20 | * | Large alien species from an unknown planet.  Terminus is a Fonabi.}
+		{ITEM Froma,8,20 | * | Telekinetic race from the planet Chize.}
+	{/FOLDER}
+	{FOLDER (G),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Galadorian,8,20 | * | Alien race from the planet Galador.  Rom is a Galadorian.}
+		{ITEM Gargoyles of Stonus V,8,20 | * | Alien species.}
+		{ITEM Gegku,8,20 | * | Alien race from the planet Wilamean.}
+		{ITEM Gix,8,20 | * | Metal eating alien race from the planet Glxx.}
+		{ITEM Gnobians,8,20 | * | Peace race of empathic aliens.}
+		{ITEM Gog,8,20 | * | Giant alien from the planet Tsiln.}
+		{ITEM Googam,8,20 | * | Giant alien from Planet X.}
+		{ITEM Gramosian,8,20 | * | Alien race that can discharge energy from hands from the planet Gramos.}
+		{ITEM Grunds,8,20 | * | Alien race that can project concussive blast from their antennae from the planet Grundar.}
+		{ITEM Guna,8,20 | * | Alien race from the planet Gunava.}
+		{ITEM Gxenu,8,20 | * | Robot of the alien invader MARK VIII.}
+	{/FOLDER}
+	{FOLDER (H),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM H'ylthri,8,20 | * | Species of plant-like aliens.}
+		{ITEM Hecatomb,8,20 | * | Alien weapons created by the Shi'ar Empire.}
+		{ITEM Herm,8,20 | * | Alien race that absorb matter and electromagnetic energy for substance and can transform into beings of pure energy after feeding.  Can travel through intergalactic space as energy.}
+		{ITEM Hiber,8,20 | * | Alien race from the planet Hiberlac.}
+		{ITEM Horusian,8,20 | * | Alien race from the planet Horus IV.}
+		{ITEM Hujah,8,20 | * | Telekinetic aliens from the planet Huj.}
+	{/FOLDER}
+	{FOLDER (I),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Infant Terrible,8,20 | * | Large un-named infant alien.}
+		{ITEM Interdite,8,20 | * | Precognitive aliens from the planet Interdis.}
+		{ITEM Ixar the Invincible,8,20 | * | Alien from the Sirius star system.}
+	{/FOLDER}
+	{FOLDER (J),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Judan,8,20 | * | Large telekinetic aliens from the planet Dyofor.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Kahfan,8,20 | * | Alien species}
+		{ITEM Kakaranathara,8,20 | * | Alien species resembling dragons.}
+		{ITEM Kallusian,8,20 | * | Alien race from the planet Kallu.}
+		{ITEM Kamadu,8,20 | * | Alien race from the planet Mikkaz.}
+		{ITEM Kawa,8,20 | * | Alien from the now destroyed planet Kawa.}
+		{ITEM Klaatu,8,20 | * | Alien monster which absorbs all energy it comes into contact with.}
+		{ITEM Klklk,8,20 | * | Alien race from the planet La'Kll that project disintegrating blast from their antennae.}
+		{ITEM Kodabak,8,20 | * | Alien race from the planet Kodaba.}
+		{ITEM Korbinite,8,20 | * | Alien race from an unknown planet in the Burning Galaxy, Beta Ray Bill is a Korbinite.}
+		{ITEM Kosmosian,8,20 | * | Alien race with limited hypnotic abilities from the planet Kosmos.}
+		{ITEM Kree,8,20 | * | Alien humanoid race from the planet Hala reputed for their militaristic society}
+		{ITEM Kronan,5,6 | ../../../aliens_races/marvel/Kronan.htm,_page | Stone-like alien race from the planet Ria.}
+		{ITEM Krylorian,8,20 | * | Alien race from the planet Krylor.}
+		{ITEM Kt'Kn,8,20 | * | Alien race with a wide range of psionic powers instead of physical ones from the planet Kn'Kn.}
+		{ITEM Kulla,8,20 | * | Alien despot that ruled the dimension known as Slaveworld.}
+		{ITEM Kurrgo,8,20 | * | Alien leader of the doomed Planet X.}
+		{ITEM Kymellian,8,20 | * | Equestrian alien race from the destroyed planet Kymel born with the potential for superhuman abilities.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Landlaks,8,20 | * | Alien race from the planet Marman. Terrax is a Marman.}
+		{ITEM Laxidazian,8,20 | * | Troll-like alien race from the planet Laxidazia. Pip the Troll is a Laxidazian.}
+		{ITEM Lem,8,20 | * | Alien race from the planet Lemista.}
+		{ITEM Levian,8,20 | * | Alien race from the planet Levia.}
+		{ITEM Living Erasers,8,20 | * | Resident of Dimension Z chosen wield the Dimensionizer - capable of transporting things in pieces to Dimension Z.}
+		{ITEM Lockheed,5,6 | ../../../heroes/marvel/Lockheed.htm,_page | Alien being resembling a dragon of Earth legend.}
+		{ITEM Lumina,8,20 | * | Alien race from the planet Lumin.}
+		{ITEM Luphomoid,8,20 | * | Lage blue-skined warrior race from the planet Luphom}
+	{/FOLDER}
+	{FOLDER (M),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Makluans,5,6 | ../../../aliens_races/marvel/Makluan.htm,_page | Alien species of dragons from the planet Maklu IV.}
+		{ITEM Mangog,5,6 | ../../../gods_monsters/marvel/Mangog.htm,_page | Alien being created by the magical union of the billions of alien humanoids of a warlike race.}
+		{ITEM MARK VIII,8,20 | * | Alien invader mistaken for a mindless robot.}
+		{ITEM Meeks,8,20 | * | Aliens from an unknown planet.}
+		{ITEM Mephistoids,8,20 | * | Alien race of cat-like creatures that emit powerful mind-controlling pheromones.}
+		{ITEM Mindless Ones,5,6 | ../../../aliens_races/marvel/MindlessOnes.htm,_page | Powerful creatures which only function is to destroy any life they encounter.}
+		{ITEM Moon Men,8,20 | * | Unnamed alien species using Earth's Moon as a staging ground for world domination.}
+	{/FOLDER}
+	{FOLDER (N),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Orrgo,5,6 | ../../../gods_monsters/marvel/Orrgo.htm,_page | Alien monster of near omnipotent power.}
+		{ITEM Ovoids,8,20 | * | Telekinetic aliens.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM P!ndyr,8,20 | * | Reptilian race from the barren planet Epsilon Seikosha IX.}
+		{ITEM Phalanx,5,6 | ../../../aliens_races/marvel/Phalanx.htm,_page | Extraterrestrial techno-organic collective.}
+		{ITEM Plodex,8,20 | * | Alien warrior race capable of adapting their genetics to defeat native species.}
+		{ITEM Poppupian,8,20 | * | Extraterrestrial shapeshifters from the planet Poppup.}
+		{ITEM Possessors,8,20 | * | Extra-dimensional alien race capable of possessing other sentients.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (R),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Rigellians,8,20 | * | Advanced race of aliens from the planet Rigel}
+	{/FOLDER}
+	{FOLDER (S),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Serayn,8,20 | * | Advanced alien race incapable of leaving their home planet.}
+		{ITEM Shiar,8,20 | * | Alien avian species ruling a vast galactic empire}
+		{ITEM Sidri,8,20 | * | Techno-organic alien species which collects in interstellar colonies.}
+		{ITEM Ska'r,8,20 | * | Alien races of psychic vampires and cannibals.}
+		{ITEM Skrull,5,6 | ../../../aliens_races/marvel/Skrull.htm,_page | Alien reptile species capable of altering form and shape}
+		{ITEM Space Beasts,8,20 | * | Alien warriors.}
+		{ITEM Space Parasite,8,20 | * | Randau from the planet Xeron.}
+		{ITEM Space Phantoms,8,20 | * | Alien race of shape shifters that serve Immortus.}
+		{ITEM Stone Men of Saturn,5,6 | ../../../aliens_races/marvel/Kronan.htm,_page | Stone-like alien race from the planet Ria.}
+		{ITEM Sun Stealer,8,20 | * | Xakku alien solar thief.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Timorians,8,20 | * | Reptilian amphibian alien race from the planet Timor.}
+		{ITEM Titans,5,6 | ../../../aliens_races/marvel/Titans.htm,_page | Branch of the Eternal race of Earth residing on the Saturn moon Titan.}
+		{ITEM Toad Men,8,20 | * | Small un-named alien species possessing advanced technology.}
+		{ITEM Troyans,8,20 | * | Large alien species possessing super powers and advanced technology.}
+	{/FOLDER}
+	{FOLDER (U),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Ufo,8,20 | * | Alien with an ability to control electricity.}
+		{ITEM Uncreated,8,20 | * | Reptilian alien race of violent atheist terrorists.}
+		{ITEM Undying,8,20 | * | Artificial aliens created by the Serayn.}
+	{/FOLDER}
+	{FOLDER (V),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Watchers,5,6 | ../../../aliens_races/marvel/Watchers.htm,_page | Near-omnipotent extraterrestrials devoted to the chronicling of sentient species in the universe.}
+		{ITEM Wobbows,8,20 | * | Imaginary race created by Janet Van Dyne (Wasp).}
+	{/FOLDER}
+	{FOLDER (X),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Z'nox,8,20 | * | Reptilian alien species dedicated to warfare.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,195 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+		{ITEM M2,17,18 | m2.htm,_self | Publications about an alternate future of the Marvel Universe.}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+		{ITEM New Universe,17,18 | new_u.htm,_self | New line of comics created by Marvel.}
+		{ITEM Star Comics,17,18 | star.htm,_self | Comics for children based upon other media properties.}
+		{ITEM Supreme Power,17,18 | supreme_power.htm,_self | Alternate universe resembling that of the Squadron Supreme.}
+	{FOLDER ~Ultimate Universe,17,18 | * | Modern interpertation of the Marvel Universe.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM Angel,5,6 | ../../../heroes/marvel/ultimate/Angel.htm,_page | Warren Worthington III}
+		{ITEM Ant Man,5,6 | ../../../heroes/marvel/ultimate/GiantMan.htm,_page | Dr. Henry (Hank) Pym}
+		{ITEM Beast,5,6 | ../../../heroes/marvel/ultimate/Beast.htm,_page | Henry McCoy}
+		{ITEM Black Cat,5,6 | ../../../heroes/marvel/ultimate/BlackCat.htm,_page | Felicia Hardy}
+		{ITEM Black Widow,5,6 | ../../../heroes/marvel/ultimate/BlackWidow.htm,_page | Natalia Romanova}
+		{ITEM Blade,8,20 | * | Unknown}
+		{ITEM Captain America,5,6 | ../../../heroes/marvel/ultimate/CaptainAmerica.htm,_page | Steve Rogers}
+		{ITEM Captain Britain,5,6 | ../../../heroes/marvel/ultimate/CaptainBritain.htm,_page | Brian Braddock}
+		{ITEM Captain Mahr Vehl,5,6 | ../../../heroes/marvel/ultimate/CaptainMahrVehl.htm,_page | Geheneris HalaSon Mahr Vehl}
+		{ITEM Colossus,5,6 | ../../../heroes/marvel/ultimate/Colossus.htm,_page | Piotr Nikolaievitch Rasputin}
+		{ITEM Cyclops,5,6 | ../../../heroes/marvel/ultimate/Cyclops.htm,_page | Scott Summers}
+		{ITEM Daredevil,8,20 | * | Matthew (Matt) Michael Murdock}
+		{ITEM Dazzler,8,20 | * | Alison Blaire}
+		{ITEM Dr. Strange I,8,20 | * | Steven Strange Sr.}
+		{ITEM Dr. Strange II,8,20 | * | Steven Strange Jr.}
+		{ITEM Falcon,5,6 | ../../../heroes/marvel/ultimate/Falcon.htm,_page | Sam Wilson}
+		{ITEM Gambit,5,6 | ../../../heroes/marvel/ultimate/Gambit.htm,_page | Remy LeBeau}
+		{ITEM Giant Man,5,6 | ../../../heroes/marvel/ultimate/GiantMan.htm,_page | Dr. Henry (Hank) Pym}
+		{ITEM Hawk-Owl,5,6 | ../../../heroes/marvel/ultimate/HawkOwl.htm,_page | Jack Danner}
+		{ITEM Hawkeye,5,6 | ../../../heroes/marvel/ultimate/Hawkeye.htm,_page | Clint Barton}
+		{ITEM Human Torch,5,6 | ../../../heroes/marvel/ultimate/HumanTorch.htm,_page | Johnny Storm}
+		{ITEM Iceman,5,6 | ../../../heroes/marvel/ultimate/Iceman.htm,_page | Robert "Bobby" Drake}
+		{ITEM Invisible Woman,5,6 | ../../../heroes/marvel/ultimate/InvisibleWoman.htm,_page | Susan (Sue) Storm}
+		{ITEM Iron Fist,8,20 | * | Danny Rand}
+		{ITEM Iron Man,5,6 | ../../../heroes/marvel/ultimate/IronMan.htm,_page | Antonio "Tony" Stark}
+		{ITEM Marvel Girl,5,6 | ../../../heroes/marvel/ultimate/MarvelGirl.htm,_page | Jean Grey}
+		{ITEM Master of Kung Fu,8,20 | * | Shang-Chi}
+		{ITEM Mr. Fantastic,5,6 | ../../../heroes/marvel/ultimate/MrFantastic.htm,_page | Reed Richards}
+		{ITEM Nick Fury,8,20 | * | General Nicholas Joseph Fury}
+		{ITEM Nightcrawler,5,6 | ../../../heroes/marvel/ultimate/Nightcrawler.htm,_page | Kurt Wagner}
+		{ITEM Professor X,5,6 | ../../../heroes/marvel/ultimate/ProfessorX.htm,_page | Charles Xavier}
+		{ITEM Psylocke,8,20 | * | Elizabeth (Betsy) Braddock}
+		{ITEM Punisher,8,20 | * | Frank Castle}
+		{ITEM Quicksilver,5,6 | ../../../heroes/marvel/ultimate/Quicksilver.htm,_page | Pietro Lensherr}
+		{ITEM Rogue,5,6 | ../../../heroes/marvel/ultimate/Rogue.htm,_page | Marian}
+		{ITEM Scarlet Witch,5,6 | ../../../heroes/marvel/ultimate/ScarletWitch.htm,_page | Wanda Lensherr}
+		{ITEM Shadowcat,8,20 | * | Katherine (Kitty) Pryde}
+		{ITEM Spider-Man,5,6 | ../../../heroes/marvel/ultimate/SpiderMan.htm,_page | Peter Parker}
+		{ITEM Storm,5,6 | ../../../heroes/marvel/ultimate/Storm.htm,_page | Ororo Munroe}
+		{ITEM Thing,5,6 | ../../../heroes/marvel/ultimate/Thing.htm,_page | Ben Grimm}
+		{ITEM Thor,5,6 | ../../../heroes/marvel/ultimate/Thor.htm,_page | =}
+		{ITEM Wasp,5,6 | ../../../heroes/marvel/ultimate/Wasp.htm,_page | Janet Pym}
+		{ITEM Wolverine,5,6 | ../../../heroes/marvel/ultimate/Wolverine.htm,_page | James Howlett}
+		{ITEM Woody,5,6 | ../../../heroes/marvel/ultimate/Woody.htm,_page | Hank Kippie}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+		{ITEM Abomination,8,20 | * | Chang Lam}
+		{ITEM Black Widow,5,6 | ../../../heroes/marvel/ultimate/BlackWidow.htm,_page | Natalia Romanova}
+		{ITEM Carnage,5,6 | ../../../villains/marvel/ultimate/Carnage.htm,_page | Little Ben}
+		{ITEM Colonel Al-Rahman,8,20 | * | Abdul Al-Rahman}
+		{ITEM Crimson Dynamo,8,20 | * | Alex Su}
+		{ITEM Deadpool,8,20 | * | Unknown}
+		{ITEM Dr. Doom,5,6 | ../../../villains/marvel/ultimate/DrDoom.htm,_page | Victor Von Damme}
+		{ITEM Dr. Octopus,5,6 | ../../../villains/marvel/ultimate/DrOctopus.htm,_page | Dr. Otto Octavius}
+		{ITEM Electro,5,6 | ../../../villains/marvel/ultimate/Electro.htm,_page | Dillon}
+		{ITEM Elektra,5,6 | ../../../heroes/marvel/ultimate/Elektra.htm,_page | Elektra Natchios}
+		{ITEM Fancy Dan,8,20 | * | Dan Rubenstein}
+		{ITEM Gladiator,8,20 | * | Unknown}
+		{ITEM Green Goblin,5,6 | ../../../villains/marvel/ultimate/GreenGoblin.htm,_page | Norman Osborn}
+		{ITEM Hammerhead,8,20 | * | Unknown}
+		{ITEM Hobgoblin,5,6 | ../../../villains/marvel/ultimate/Hobgoblin.htm,_page | Harold "Harry" Osborn}
+		{ITEM Hulk,5,6 | ../../../villains/marvel/ultimate/Hulk.htm,_page | Dr. Bruce Banner}
+		{ITEM Hurricane,8,20 | * | Unknown}
+		{ITEM Justin Hammer,8,20 | * | =}
+		{ITEM Kingpin,8,20 | * | Wilson Fisk}
+		{ITEM Kraven the Hunter,5,6 | ../../../villains/marvel/ultimate/Kraven.htm,_page | Sergei Kravinoff}
+		{ITEM Longshot,5,6 | ../../../villains/marvel/ultimate/Longshot.htm,_page | Arthur Centino}
+		{ITEM Magneto,5,6 | ../../../villains/marvel/ultimate/Magneto.htm,_page | Erik Lensherr}
+		{ITEM Mole Man,8,20 | * | Dr. }
+		{ITEM Montana,8,20 | * | Montana Bale}
+		{ITEM Morbius,8,20 | * | Michael Morbius}
+		{ITEM Nihil,5,6 | ../../../villains/marvel/ultimate/Nihil.htm,_page | =}
+		{ITEM Ox,8,20 | * | Bruno Sanchez}
+		{ITEM Perun,8,20 | * | Unknown}
+		{ITEM Rhino,8,20 | * | Unknown}
+		{ITEM Ringer,8,20 | * | Anthony Davis}
+		{ITEM Sandman,5,6 | ../../../villains/marvel/ultimate/Sandman.htm,_page | Flint Marko}
+		{ITEM Schizoid Man,8,20 | * | Unknown}
+		{ITEM Shocker,8,20 | * | Herman Schultz}
+		{ITEM (The) Swarm,8,20 | * | Unknown}
+		{ITEM Venom,5,6 | ../../../villains/marvel/ultimate/Venom.htm,_page | Edward "Eddie" Brock Jr.}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,17,18 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Carnage,5,6 | ../../../villains/marvel/ultimate/Carnage.htm,_page | Little Ben}
+		{ITEM Man-Thing,5,6 | ../../../gods_monsters/marvel/ultimate/ManThing.htm,_page | Ted Sallis}
+	{/FOLDER}
+	{FOLDER Aliens,17,18 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Vision,5,6 | ../../../aliens_races/marvel/ultimate/Vision.htm,_page | =} 
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Supporting Cast,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM Ben Parker,8,20 | * | =}
+		{ITEM Ben Urich,8,20 | * | =}
+		{ITEM Captain Stacy,8,20 | * | John Stacy}
+		{ITEM Flash Thompson,8,20 | * | Thompson}
+		{ITEM General Ross,8,20 | * | =}
+		{ITEM Gwen Stacy,5,6 | ../../../cast/marvel/ultimate/GwenStacy.htm,_page | =}
+		{ITEM J. Jonah Jameson,8,20 | * | =}
+		{ITEM Jeanne DeWolfe,8,20 | * | =}
+		{ITEM Joe Robertson,8,20 | * | =}
+		{ITEM Kong Harlan,8,20 | * | Clifford Kenneth Harlan}
+		{ITEM Liz Allen,8,20 | * | =}
+		{ITEM Mary Jane Watson,5,6 | ../../../cast/marvel/ultimate/MaryJane.htm,_page | =}
+		{ITEM May Parker,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Defenders,5,6 | ../../../teams/marvel/ultimate/Defenders.htm,_page | Group of wannabe not-so super heroes.}
+		{ITEM Fantastic Four,5,6 | ../../../teams/marvel/ultimate/FantasticFour.htm,_page | Government sanctioned scientific exploration team.}
+		{ITEM S.H.I.E.L.D.,8,20 | * | Government sanctioned espionage agency.}
+		{ITEM Ultimates,5,6 | ../../../teams/marvel/ultimate/Ultimates.htm,_page | Government sanctioned superhuman taskforce.}
+		{ITEM X-Men,5,6 | ../../../teams/marvel/ultimate/XMen.htm,_page | Group of super powered mutants.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Brotherhood of Mutants,8,20 | * | Group of super powered mutants.}
+		{ITEM Enforcers,8,20 | * | Small group of professional criminals.}
+		{ITEM Liberators,8,20 | * | Group of government sponsored super powered terrorists.}
+		{ITEM Ultimate Six,8,20 | * | Group of super powered criminals.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,3,4 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

@@ -1,0 +1,156 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+	{FOLDER ~Villains,17,18 | * | The villains of the DC Universe.}
+	{FOLDER (123),3,4 | 123.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (A),17,18 | a.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (B),17,18 | b.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (C),17,18 | c.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (D),17,18 | d.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (E),17,18 | e.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (F),17,18 | f.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (G),17,18 | g.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (H),17,18 | h.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (I),17,18 | i.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (J),17,18 | j.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (K),17,18 | k.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (L),17,18 | l.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (M),17,18 | m.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (N),17,18 | n.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (O),17,18 | o.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (P),17,18 | p.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Q),3,4 | q.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER ~(R),17,18 | * | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+		{ITEM (The) Rabbit,8,20 | * | Unknown}
+		{ITEM Rabble Rouser,8,20 | * | Weinberg}
+		{ITEM Radioactive Man I,5,6 | ../../../villains/marvel/RadioactiveMan.htm,_page | Dr. Chen Lu}
+		{ITEM Radioactive Man II,8,20 | * | Igor Stancheck}
+		{ITEM Radius,8,20 | * | Jared Corbo}
+		{ITEM Ragar,8,20 | * | =}
+		{ITEM Rakkus,8,20 | * | David Anthony Rice}
+		{ITEM Rama-Tut,5,6 | ../../../villains/marvel/Kang.htm,_page | Nathaniel Richards II}
+		{ITEM Ramades,5,6 | ../../../villains/marvel/Ramades.htm,_page | =}
+		{ITEM Rampage,8,20 | * | Stuart Clarke}
+		{ITEM Ramrod,8,20 | * | Unknown}
+		{ITEM Ranar,8,20 | * | =}
+		{ITEM Rancor,8,20 | * |=}
+		{ITEM Random,5,6 | ../../../villains/marvel/Random.htm,_page | Marshall Evan Stone}
+		{ITEM Rapier,8,20 | * | =}
+		{ITEM Rapture,8,20 | * | Unknown}
+		{ITEM Rattler,8,20 | * | Gustav Kruger}
+		{ITEM Ravager of Worlds,5,6 | ../../../villains/marvel/Abomination.htm,_page | Emil Blonsky}
+		{ITEM Ravenous,8,20 | * | =}
+		{ITEM Ravonna,8,20 | * | =}
+		{ITEM Ravonna II,8,20 | * | Ravonna Lexus Renslayer}
+		{ITEM Razor,8,20 | * | Unknown}
+		{ITEM Razor Cut,8,20 | * | Unknown}
+		{ITEM Razor Fist I,5,6 | ../../../villains/marvel/RazorFist.htm,_page | Unknown}
+		{ITEM Razor Fist II,5,6 | ../../../villains/marvel/RazorFist.htm,_page | Unknown}
+		{ITEM Razor Fist III,5,6 | ../../../villains/marvel/RazorFist.htm,_page | Unknown}
+		{ITEM Reaper,8,20 | * | Unknown}
+		{ITEM Red Barbarian,8,20 | * | =}
+		{ITEM Red Ghost,5,6 | ../../../villains/marvel/RedGhost.htm,_page | Ivan Kragoff}
+		{ITEM Red Guardian IV,8,20 | * | Josef Petkus}
+		{ITEM Red Hood,8,20 | * | =}
+		{ITEM Red Hunter,8,20 | * | Mrs. Redditch}
+		{ITEM Red Raven II,8,20 | * | Raven}
+		{ITEM Red Ronin,8,20 | * | =}
+		{ITEM Red Rosary,8,20 | * | Unknown}
+		{ITEM Red Skull I,5,6 | ../../../villains/marvel/RedSkull.htm,_page | Johann Shmidt}
+		{ITEM Red Skull II,5,6 | ../../../villains/marvel/RedSkull.htm,_page | Albert Malik}
+		{ITEM Red Wizard,8,20 | * | Malgato}
+		{ITEM Red Wolf IV,8,20 | * | Rojahn Smythe}
+		{ITEM Redeemer I,8,20 | * | Craig Saunders}
+		{ITEM Redeemer II,8,20 | * | General Thaddeus Ross}		
+		{ITEM Redstone,8,20 | * | Michael Redstone}
+		{ITEM Reese,8,20 | * | =}
+		{ITEM Reignfire,8,20 | * | Unknown}
+		{ITEM Rem-Ram,8,20 | * | Marcus Andrews}
+		{ITEM Remnant,8,20 | * | Unknown}
+		{ITEM Reptyl Prime,8,20 | * | Reptyl}
+		{ITEM (The) Reverend,8,20 | * | Unknown}
+		{ITEM Reverend Guilt,8,20 | * | Unknown}
+		{ITEM Rhino,5,6 | ../../../villains/marvel/Rhino.htm,_page | Aleksei Mikhailovich Sytsevich}
+		{ITEM Ricadonna,5,6 | ../../../villains/marvel/Ricadonna.htm,_page | Celia Ricadonna}
+		{ITEM Right-Winger,8,20 | * | Jerome (Jerry) Johnson}
+		{ITEM Ringer I,8,20 | * | Anthony Davis}
+		{ITEM Ringer II,8,20 | * | Keith Kraft}
+		{ITEM Ringer III,8,20 | * | Leila Davis}
+		{ITEM Ring-Leader,8,20 | * | Charles Last}
+		{ITEM Ringmaster I,8,20 | * | Fritz Tiboldt}
+		{ITEM Ringmaster II,8,20 | * | Maynard Tiboldt}
+		{ITEM Ringtoss,8,20 | * | Technet member}
+		{ITEM Riptide,8,20 | * | Janos Quested}
+		{ITEM Risque,8,20 | * | Gloria Dolores Munoz}
+		{ITEM Robot Master,8,20 | * | Dr. Mendell Stromm}
+		{ITEM Rock,8,20 | * | Samuel J. LaRoquette}
+		{ITEM Rock Python,8,20 | * | M'Gula}
+		{ITEM Rocket Racer I,5,6 | ../../../villains/marvel/RocketRacer.htm,_page | Robert Farrell}
+		{ITEM Rocket Racer II,8,20 | * | Troy}
+		{ITEM Rockslide,8,20 | * | Unknown}
+		{ITEM Romulus,8,20 | * | Unknown}
+		{ITEM Ronan the Accuser,5,6 | ../../../villains/marvel/Ronan.htm,_page | Ronan}
+		{ITEM Ronan the Annihilator,5,6 | ../../../villains/marvel/Ronan.htm,_page | Ronan}
+		{ITEM Rooster-Man,8,20 | * | Carlos Cabrera}
+		{ITEM Rose I,8,20 | * | Richard Fisk}
+		{ITEM Rose II,8,20 | * | Sergeant Blume}
+		{ITEM Rose III,8,20 | * | Jacob Conover}
+		{ITEM Rose Red,8,20 | * | Unknown}
+		{ITME Roughhouse,8,20 | * | Unknown}
+		{ITEM Ruby Thursday,8,20 | * | Thursday Rubinstein}
+		{ITEM (The) Russian,8,20 | * | Unknown}
+		{ITEM Rust,8,20 | * | =}
+		{ITEM Rustler,8,20 | * | Unknown}
+	{/FOLDER}
+	{FOLDER (S),17,18 | s.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (T),17,18 | t.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (U),17,18 | u.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (V),17,18 | v.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (W),17,18 | w.htm,_self | Contains listings with book icons that have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (X),17,18 | x.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Y),3,4 | y.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{FOLDER (Z),3,4 | z.htm,_self | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+		{ITEM Other Publications by marvel,17,18 | ../publications/marvel_publications_menu.htm,_self | Alternative publications and cross company ventures.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}

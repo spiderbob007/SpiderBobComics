@@ -1,0 +1,551 @@
+{BUTTON Small & Indi.,1,2 | * | Small and Independent Press main page.}
+		{/ITEM}
+		{ITEM Home,7,20 | ../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM 2000 AD,17,18 | 2000AD_menu_open.htm,_self | Publisher of magazine style comics in Great Britain.}
+		{ITEM Aardvark-Vanaheim,17,18 | aardvark_menu.htm,_self | Independent publisher owned by Dave Sim.}	
+	{FOLDER ~Cartoons & Television,17,18 | * | Comics based on cartoons or television shows.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{FOLDER Battle of the Planets,3,4 | * | G-Force (Gatchaman) and related characters.}
+		{ITEM Jason,8,20 | * | Jason/Joe Asakura}
+		{ITEM Keyop,8,20 | * | Keyop/Jinpei}
+		{ITEM Mark,8,20 | * | Mark Cronus/Ken Washio}
+		{ITEM Princess,8,20 | * | Princess/Jun}
+		{ITEM Tiny,8,20 | * | Tiny Harper/Ryu Nakanishi}
+	{/FOLDER}
+	{FOLDER G.I. Joe,17,18 | * | G.I. Joe and related characters.}
+		{ITEM Ace,8,20 | * | Brad J. Armbruster}
+		{ITEM Agent Faces,8,20 | * | =}
+		{ITEM Airborne,8,20 | * | =}
+		{ITEM Airtight,8,20 | * | =}
+		{ITEM Airwave,8,20 | * | =}
+		{ITEM Alpine,8,20 | * | =}
+		{ITEM Ambush,8,20 | * | =}
+		{ITEM Armadillo,8,20 | * | =}
+		{ITEM Avalanche,8,20 | * | =}
+		{ITEM Back-Stop,8,20 | * | =}
+		{ITEM Backblast,8,20 | * | =}
+		{ITEM Banzai,8,20 | * | =}
+		{ITEM Barbeque,8,20 | * | =}
+		{ITEM Barrel Roll,8,20 | * | =}
+		{ITEM Barricade,8,20 | * | =}
+		{ITEM Bazooka,8,20 | * | =}
+		{ITEM Beach Head,8,20 | * | Wayne R. Sneeden}
+		{ITEM Big Ben,8,20 | * | =}
+		{ITEM Big Brawler,8,20 | * | =}
+		{ITEM Blast-Off,8,20 | * | =}
+		{ITEM Blaster,8,20 | * | =}
+		{ITEM Blizzard,8,20 | * | =}
+		{ITEM Blocker,8,20 | * | =}
+		{ITEM Blowtorch,8,20 | * | =}
+		{ITEM Bombstrike,8,20 | * | =}
+		{ITEM Breaker,8,20 | * | Alvin R. Kibbey}
+		{ITEM Budo,8,20 | * | =}
+		{ITEM Bullet-Proof,8,20 | * | =}
+		{ITEM Bullhorn,8,20 | * | =}
+		{ITEM Bushido,8,20 | * | =}
+		{ITEM Cannonball,8,20 | * | =}
+		{ITEM Captain Grid-Iron,8,20 | * | =}
+		{ITEM Chameleon,8,20 | * | =}
+		{ITEM Charbroil,8,20 | * | =}
+		{ITEM Chuckles,8,20 | * | Philip M. Provost}
+		{ITEM Claymore,8,20 | * | =}
+		{ITEM Clean-Sweep,8,20 | * | =}
+		{ITEM Cloudburst,8,20 | * | =}
+		{ITEM Clutch,8,20 | * | Lance J. Steinberg}
+		{ITEM Cold Front,8,20 | * | =}
+		{ITEM Colonel Courage,8,20 | * | =}
+		{ITEM Countdown,8,20 | * | =}
+		{ITEM Cover Girl,8,20 | * | Courtney A. Krieger}
+		{ITEM Crankcase,8,20 | * | =}
+		{ITEM Crazylegs,8,20 | * | =}
+		{ITEM Cross Hair,8,20 | * | =}
+		{ITEM Cross-Country,8,20 | * | =}
+		{ITEM Crossfire,8,20 | * | =}
+		{ITEM Cutter,8,20 | * | =}
+		{ITEM Dart,8,20 | * | =}
+		{ITEM Dee-Jay,8,20 | * | =}
+		{ITEM Deep Six,8,20 | * | =}
+		{ITEM Depth Charge,8,20 | * | =}
+		{ITEM Dial-Tone,8,20 | * | =}
+		{ITEM Doc,8,20 | * | Carl W. Greer}
+		{ITEM Dodger,8,20 | * | =}
+		{ITEM Dogfight,8,20 | * | =}
+		{ITEM Dojo,8,20 | * | =}
+		{ITEM Double Blast,8,20 | * | =}
+		{ITEM Double Clutch,8,20 | * | =}
+		{ITEM Downtown,8,20 | * | =}
+		{ITEM Drop Zone,8,20 | * | =}
+		{ITEM Duke,8,20 | * | Conrad S. Hauser}
+		{ITEM Dusty,8,20 | * | Ronald W. Tadur}
+		{ITEM Effects,8,20 | * | =}
+		{ITEM Falcon,8,20 | * | Vincent R. Falcone}
+		{ITEM Fast Draw,8,20 | * | =}
+		{ITEM Flash,8,20 | * | =}
+		{ITEM Flint,8,20 | * | Dashiell R. Fairborn}
+		{ITEM Footloose,8,20 | * | =}
+		{ITEM Freefall,8,20 | * | =}
+		{ITEM (The) Fridge,8,20 | * | =}
+		{ITEM Frostbite,8,20 | * | =}
+		{ITEM Gears,8,20 | * | =}
+		{ITEM General Flagg,8,20 | * | Lawrence J. Flagg}
+		{ITEM General Rey,8,20 | * | Philip A. Rey}
+		{ITEM G.I. Joe,8,20 | * | Joseph R. Colton}
+		{ITEM Ghostrider,8,20 | * | =}
+		{ITEM Grand Slam,8,20 | * | =}
+		{ITEM Grunt,8,20 | * | Robert W. Graves}
+		{ITEM Gung-Ho,8,20 | * | Ettiene R. LaFitte}
+		{ITEM Hacker,8,20 | * | =}
+		{ITEM Hard Drive,8,20 | * | =}
+		{ITEM Hardball,8,20 | * | =}
+		{ITEM Hardtop,8,20 | * | =}
+		{ITEM Hawk,5,6 | ../../heroes/indi/GIJoe_Hawk.htm,_page | Clayton M. Abernathy}
+		{ITEM Heavy Duty,8,20 | * | =}
+		{ITEM Heavy Metal,8,20 | * | =}
+		{ITEM Hi-Tech,8,20 | * | =}
+		{ITEM Hit & Run,8,20 | * | =}
+		{ITEM Hollow Point,8,20 | * | =}
+		{ITEM Hot Seat,8,20 | * | =}
+		{ITEM Ice Cream Soldier,8,20 | * | =}
+		{ITEM Iceberg,8,20 | * | =}
+		{ITEM Jinx,8,20 | * | Kimi Arashikage}
+		{ITEM Kamakura,8,20 | * | Sean M. Collins}
+		{ITEM Keel-Haul,8,20 | * | =}
+		{ITEM Knockdown,8,20 | * | =}
+		{ITEM Lady Jaye,8,20 | * | Alison R. Faireborn}
+		{ITEM Law,8,20 | * | =}
+		{ITEM Leatherneck,8,20 | * | =}
+		{ITEM Lifeline,8,20 | * | =}
+		{ITEM Lift-Ticket,8,20 | * | =}
+		{ITEM Lightfoot,8,20 | * | =}
+		{ITEM Long Arm,8,20 | * | =}
+		{ITEM Long Range,8,20 | * | =}
+		{ITEM Low-Light,8,20 | * | =}
+		{ITEM Mace,8,20 | * | =}
+		{ITEM Mainframe,8,20 | * | =}
+		{ITEM Major Altitude,8,20 | * | =}
+		{ITEM Major Storm,8,20 | * | =}
+		{ITEM Mariner,8,20 | * | =}
+		{ITEM Maverick,8,20 | * | =}
+		{ITEM Mayday,8,20 | * | =}
+		{ITEM Med Alert,8,20 | * | =}
+		{ITEM Mercer,8,20 | * | =}
+		{ITEM Mirage,8,20 | * | =}
+		{ITEM Muskrat,8,20 | * | =}
+		{ITEM Mutt & Junkyard,8,20 | * | Stanley R. Perlmutter & Junkyard}
+		{ITEM Nunchuk,8,20 | * | =}
+		{ITEM Outback,8,20 | * | =}
+		{ITEM Ozone,8,20 | * | =}
+		{ITEM Pathfinder,8,20 | * | =}
+		{ITEM Payload,8,20 | * | =}
+		{ITEM Psyche-Out,8,20 | * | =}
+		{ITEM Quick Kick,8,20 | * | MacArthur S. Ito}
+		{ITEM Rampage,8,20 | * | =}
+		{ITEM Rampart,8,20 | * | =}
+		{ITEM Rapid-Fire,8,20 | * | =}
+		{ITEM Recoil,8,20 | * | =}
+		{ITEM Recondo,8,20 | * | Daniel M. LeClaire}
+		{ITEM Red Dog,8,20 | * | =}
+		{ITEM Red Spot,8,20 | * | =}
+		{ITEM Repeater,8,20 | * | =}
+		{ITEM Ripcord,8,20 | * | Wallace A. Weems}
+		{ITEM Roadblock,5,6 | ../../heroes/indi/GIJoe_Roadblock.htm,_page | Marvin F. Hinton}
+		{ITEM Rock 'n Roll,8,20 | * | Craig S. McConnel}
+		{ITEM Rollbar,8,20 | * | =}
+		{ITEM Rumbler,8,20 | * | =}
+		{ITEM Salvo,8,20 | * | =}
+		{ITEM Scarlett,5,6 | ../../heroes/indi/GIJoe_Scarlett.htm,_page | Shana Mae O'Hara}
+		{ITEM Sci-Fi,8,20 | * | =}
+		{ITEM Scoop,8,20 | * | =}
+		{ITEM Sgt. Slaughter,8,20 | * | =}
+		{ITEM Shipwreck,8,20 | * | Hector X. Delgado}
+		{ITEM Shockwave,8,20 | * | =}
+		{ITEM Short-Fuze,8,20 | * | =}
+		{ITEM Side Track,8,20 | * | =}
+		{ITEM Sideswipe,8,20 | * | =}
+		{ITEM Sidetrack,8,20 | * | =}
+		{ITEM Skidmark,8,20 | * | =}
+		{ITEM Skydive,8,20 | * | =}
+		{ITEM Skymate,8,20 | * | =}
+		{ITEM Skystriker,8,20 | * | =}
+		{ITEM Slip Stream,8,20 | * | =}
+		{ITEM Snake-Eyes,5,6 | ../../heroes/indi/GIJoe_SnakeEyes.htm,_page | Classified}
+		{ITEM Sneak Peek,8,20 | * | =}
+		{ITEM Snow Job,8,20 | * | Harlan W. Moore}
+		{ITEM Snow Storm,8,20 | * | =}
+		{ITEM Space Shot,8,20 | * | =}
+		{ITEM Sparks,8,20 | * | Alessandro D. Verdi}
+		{ITEM Spearhead,8,20 | * | =}
+		{ITEM Spirit,8,20 | * | Charlie Iron-Knife}
+		{ITEM Stalker,8,20 | * | Lonzo R. Wilkinson}
+		{ITEM Starduster,8,20 | * | =}
+		{ITEM Static Line,8,20 | * | =}
+		{ITEM Steam-Roller,8,20 | * | =}
+		{ITEM Steeler,8,20 | * | =}
+		{ITEM Storm Shadow,5,6 | ../../heroes/indi/GIJoe_StormShadow.htm,_page | Tommy S. Arashikage}
+		{ITEM Stretcher,8,20 | * | =}
+		{ITEM Sub-Zero,8,20 | * | =}
+		{ITEM Super Trooper,8,20 | * | =}
+		{ITEM Sure Fire,8,20 | * | =}
+		{ITEM Switch Gears,8,20 | * | =}
+		{ITEM T'gin-Zu,8,20 | * | =}
+		{ITEM T'Jbang,8,20 | * | =}
+		{ITEM Taurus,8,20 | * | =}
+		{ITEM Thunder,8,20 | * | =}
+		{ITEM Thunderwing,8,20 | * | =}
+		{ITEM Tiger Claw,8,20 | * | =}
+		{ITEM Tollbooth,8,20 | * | =}
+		{ITEM Topside,8,20 | * | =}
+		{ITEM Torpedo,8,20 | * | =}
+		{ITEM Tracker,8,20 | * | =}
+		{ITEM Tripwire,8,20 | * | =}
+		{ITEM Tunnel Rat,8,20 | * | =}
+		{ITEM Updraft,8,20 | * | =}
+		{ITEM Vorona,8,20 | * | =}
+		{ITEM Wet Down,8,20 | * | =}
+		{ITEM Wet-Suit,8,20 | * | =}
+		{ITEM Whiteout,8,20 | * | =}
+		{ITEM Wide Scope,8,20 | * | =}
+		{ITEM Wild Bill,8,20 | * | William S. Hardy}
+		{ITEM Wildcard,8,20 | * | =}
+		{ITEM Windchill,8,20 | * | =}
+		{ITEM Windmill,8,20 | * | =}
+		{ITEM Wreckage,8,20 | * | =}
+		{ITEM Zap,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Battle Cat,8,20 | * | Cringer}
+		{ITEM Bionotops,8,20 | * | =}
+		{ITEM Buzz-Off,8,20 | * | =}
+		{ITEM Clam Champ,8,20 | * | =}
+		{ITEM Extendar,8,20 | * | =}
+		{ITEM Fisto,8,20 | * | =}
+		{ITEM Gwildor,8,20 | * | =}
+		{ITEM He-Man,5,6 | ../../heroes/indi/HeMan.htm,_page | Prince Adam}
+		{ITEM King Randor,8,20 | * | =}
+		{ITEM Man-At-Arms,5,6 | ../../heroes/indi/ManAtArms.htm,_page | Duncan}
+		{ITEM Man-E-Faces,8,20 | * | =}
+		{ITEM Mekaneck,8,20 | * | =}
+		{ITEM Mossman,8,20 | * | =}
+		{ITEM Orko,8,20 | * | =}
+		{ITEM Queen Marlena,8,20 | * | Marlena Glenn}
+		{ITEM Ram Man,8,20 | * | =}
+		{ITEM Rio Blast,8,20 | * | =}
+		{ITEM Roboto,8,20 | * | =}
+		{ITEM Rokkon,8,20 | * | =}
+		{ITEM Rotar,8,20 | * | =}
+		{ITEM She-Ra,5,6 | ../../heroes/indi/SheRa.htm,_page | Princess Adora}
+		{ITEM Snout Spout,8,20 | * | =}
+		{ITEM Sorceress,5,6 | ../../heroes/indi/Sorceress.htm,_page | Teelina}
+		{ITEM Stonedarr,8,20 | * | =}
+		{ITEM Stratos,5,6 | ../../heroes/indi/Stratos.htm,_page | =}
+		{ITEM Sy-clone,8,20 | * | =}
+		{ITEM Teela,5,6 | ../../heroes/indi/Teela.htm,_page | =}
+		{ITEM Turbocactyl,8,20 | * | =}
+		{ITEM Tytus,8,20 | * | =}
+		{ITEM Zoar,8,20 | * | =}
+		{ITEM Zodak,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Space Ghost,17,18 | * | Space Ghost and related characters.}
+		{ITEM Mightor,5,6 | ../../heroes/indi/Mightor.htm,_page | Tor}
+		{ITEM Space Ghost,5,6 | ../../heroes/indi/SpaceGhost.htm,_page | Thaddeus Bach}
+	{/FOLDER}	
+	{FOLDER Thundercats,17,18 | * | =}
+		{ITEM Ben Bali,8,20 | * | =}
+		{ITEM Cheetara,8,20 | * | =}
+		{ITEM Lion-O,5,6 | ../../heroes/indi/Lion-O.htm,_page | =}
+		{ITEM Lynx-O,8,20 | * | =}
+		{ITEM Panthro,8,20 | * | =}
+		{ITEM Pumyra,8,20 | * | =}
+		{ITEM Scooper,8,20 | * | =}
+		{ITEM Snarf,8,20 | * | =}
+		{ITEM Snarfer,8,20 | * | =}
+		{ITEM Tygra,5,6 | ../../heroes/indi/Tygra.htm,_page | =}
+		{ITEM WillyKat,8,20 | * | =}
+		{ITEM WillyKit,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Transformers,3,4 | * | =}
+		{ITEM Blaster,8,20 | * | =}
+		{ITEM Bluestreak,8,20 | * | =}
+		{ITEM Brawn,8,20 | * | =}
+		{ITEM Bumblebee,8,20 | * | =}
+		{ITEM Cliffjumper,8,20 | * | =}
+		{ITEM Gears,8,20 | * | =}
+		{ITEM Hound,8,20 | * | =}
+		{ITEM Huffer,8,20 | * | =}
+		{ITEM Ironhide,8,20 | * | =}
+		{ITEM Jazz,8,20 | * | =}
+		{ITEM Jetfire,8,20 | * | =}
+		{ITEM Mirage,8,20 | * | =}
+		{ITEM Omega Supreme,8,20 | * | =}
+		{ITEM Optimus Prime,8,20 | * | =}
+		{ITEM Preceptor,8,20 | * | =}
+		{ITEM Prowl,8,20 | * | =}
+		{ITEM Ratchet,8,20 | * | =}
+		{ITEM Sideswipe,8,20 | * | =}
+		{ITEM Skyfire,8,20 | * | =}
+		{ITEM Sunstreaker,8,20 | * | =}
+		{ITEM Trailbreaker,8,20 | * | =}
+		{ITEM Wheeljack,8,20 | * | =}
+		{ITEM Windcharger,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Voltron,3,4 | * | =}
+		{ITEM Hunk,8,20 | * | =}
+		{ITEM Keith,8,20 | * | =}
+		{ITEM Lance,8,20 | * | =}
+		{ITEM Pidge,8,20 | * | =}
+		{ITEM Princess Allura,8,20 | * | =}
+		{ITEM Sven,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+	{FOLDER Battle of the Planets,3,4 | * | G-Force (Gatchaman) and related characters.}
+		{ITEM Luminous One,8,20 | * | Generalissimo X/Sosai X}
+		{ITEM Zoltar,8,20 | * | Berg Katse}
+	{/FOLDER}
+	{FOLDER G.I. Joe,17,18 | * | G.I. Joe and related characters.}
+		{ITEM Baroness,5,6 | ../../villains/indi/GIJoe_Baroness.htm,_page | Anastasia DeCobray}
+		{ITEM Cobra Commander,5,6 | ../../villains/indi/GIJoe_CobraCommander.htm,_page | Unknown}
+		{ITEM Copperhead,8,20 | * | =}
+		{ITEM Destro,8,20 | * | James McCullen Destro XXIV}
+		{ITEM Dr. Mindbender,8,20 | * | Unknown}
+		{ITEM Firefly,8,20 | * | Unknown}
+		{ITEM Major Bludd,8,20 | * | Sebastian Bludd}
+		{ITEM Scar-Face,8,20 | * | Unknown}
+		{ITEM Scrap-Iron,8,20 | * | Unknown}
+		{ITEM Serpentor,5,6 | ../../villains/indi/GIJoe_Serpentor.htm,_page | =}
+		{ITEM Storm Shadow,5,6 | ../../heroes/indi/GIJoe_StormShadow.htm,_page | Tommy S. Arashikage}
+		{ITEM Tomax,8,20 | * | Unknown}
+		{ITEM Wild Weasel,8,20 | * | Unknown}
+		{ITEM Xomax,8,20 | * | Unknown}
+		{ITEM Zandar,8,20 | * | =}
+		{ITEM Zanya,8,20 | * | =}
+		{ITEM Zarana,8,20 | * | =}
+		{ITEM Zartan,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Beast Man,5,6 | ../../villains/indi/BeastMan.htm,_page | Biff Beastman}
+		{ITEM Blade,8,20 | *| =}
+		{ITEM Blast-Attak,8,20 | * | =}
+		{ITEM Clawful,8,20 | * | =}
+		{ITEM Dragstor,8,20 | * | =}
+		{ITEM Evil-Lyn,5,6 | ../../villains/indi/EvilLyn.htm,_page | Evelyn Powers}
+		{ITEM Fakor,8,20 | * | =}
+		{ITEM Grizzlor,8,20 | * | =}
+		{ITEM Hordak,8,20 | * | =}
+		{ITEM Jitsu,8,20 | * | =}
+		{ITEM King Hiss,5,6 | ../../villains/indi/KingHiss.htm,_page | =}
+		{ITEM Kobra Khan,8,20 | * | =}
+		{ITEM Leech,8,20 | * | =}
+		{ITEM Manteena,8,20 | * | =}
+		{ITEM Megator,8,20 | * | =}
+		{ITEM Mer-Man,5,6 | ../../villains/indi/MerMan.htm,_page | =}
+		{ITEM Modulok,8,20 | * | =}
+		{ITEM Mosquitor,8,20 | * | =}
+		{ITEM Multi-bot,8,20 | * | =}
+		{ITEM Ninjor,8,20 | * | =}
+		{ITEM Panthor,8,20 | * | =}
+		{ITEM Rattlor,8,20 | * | =}
+		{ITEM Saurod,8,20 | * | =}
+		{ITEM Scare Glow,8,20 | * | =}
+		{ITEM Screeech,8,20 | * | =}
+		{ITEM Skeletor,5,6 | ../../villains/indi/Skeletor.htm,_page | Keldor}
+		{ITEM SnakeFace,8,20 | * | =}
+		{ITEM Spikor,8,20 | * | =}
+		{ITEM SSSQueeze,8,20 | * | =}
+		{ITEM Stinkor,8,20 | * | =}
+		{ITEM Trap Jaw,5,6 | ../../villains/indi/TrapJaw.htm,_page | Kronis}
+		{ITEM Tri-Klops,5,6 | ../../villains/indi/Tri-Klops.htm,_page | Dr. T.E. Scope}
+		{ITEM Tung Lashor,8,20 | * | =}
+		{ITEM Twistoid,8,20 | * | =}
+		{ITEM Two Bad,8,20 | * | =}
+		{ITEM Webstor,8,20 | * | =}
+		{ITEM Whiplash,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Thundercats,17,18 | * | =}
+		{ITEM Amortus,8,20 | * | =}
+		{ITEM Black Widow Shark,8,20 | * | =}
+		{ITEM Burn Out,8,20 | * | =}
+		{ITEM Captin Cracker,8,20 | * | =}
+		{ITEM Captain Shiner,8,20 | * | =}
+		{ITEM Driller,8,20 | * | =}
+		{ITEM Frogman,8,20 | * | =}
+		{ITEM Gorot-Rot,8,20 | * | =}
+		{ITEM Gune the Destoyer,8,20 | * | =}
+		{ITEM Inlamor,8,20 | * | =}
+		{ITEM Jackalman,8,20 | * | =}
+		{ITEM Mad Bubbler,8,20 | * | =}
+		{ITEM Mole Master,8,20 | * | =}
+		{ITEM Mongor,8,20 | * | =}
+		{ITEM Monkian,8,20 | * | =}
+		{ITEM Mud Hog,8,20 | * | =}
+		{ITEM Mumm-Ra,5,6 | ../../villains/indi/Mumm-Ra.htm,_page | =}
+		{ITEM Plutar,8,20 | * | =}
+		{ITEM Queen Tartara,8,20 | * | =}
+		{ITEM Quick Pick,8,20 | * | =}
+		{ITEM Ratar-o,8,20 | * | =}
+		{ITEM Safari Joe,8,20 | * | =}
+		{ITEM Shardowmaster,8,20 | * | =}
+		{ITEM Slithe,8,20 | * | =}
+		{ITEM Tashi,8,20 | * | =}
+		{ITEM Trollark,8,20 | * | =}
+		{ITEM Two Time,8,20 | * | =}
+		{ITEM Vultureman,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Transformers,3,4 | * | =}
+		{ITEM Dirge,8,20 | * | =}
+		{ITEM Frenzy,8,20 | * | =}
+		{ITEM Laserbeak,8,20 | * | =}
+		{ITEM Megatron,8,20 | * | =}
+		{ITEM Ratbat,8,20 | * | =}
+		{ITEM Ramjet,8,20 | * | =}
+		{ITEM Ravage,8,20 | * | =}
+		{ITEM Reflector,8,20 | * | =}
+		{ITEM Rumble,8,20 | * | =}
+		{ITEM Shockwave,8,20 | * | =}
+		{ITEM Skywarp,8,20 | * | =}
+		{ITEM Soundwave,8,20 | * | =}
+		{ITEM Starscream,8,20 | * | =}
+		{ITEM Thrust,8,20 | * | =}
+		{ITEM Thunder Cracker,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Voltron,17,18 | * | =}
+		{ITEM Haggar,8,20 | * | =}
+		{ITEM King Karkon,8,20 | * | =}
+		{ITEM Mela Queen of Darkness,8,20 | * | Queen Mela}
+		{ITEM Prince Lotor,5,6 | ../../villains/indi/PrinceLotor.htm,_page | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{FOLDER Pantheons,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Battle of the Planets,17,18 | * | G-Force (Gatchaman) and related characters.}
+	{FOLDER Heroes,17,18 | * | =}
+		{ITEM G-Force,5,6 | ../../teams/indi/GForce.htm,_page | Science Ninja Team Gatchaman}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | =}
+		{ITEM Spectra,8,20 | * | Alien invaders from the planet Spectra.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER G.I. Joe,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Heroes,17,18 | * | =}	
+		{ITEM G.I. Joe,5,6 | ../../teams/indi/GIJoe.htm,_page | United States military taskforce.}
+		{ITEM October Guard,8,20 | * | Russian military taskforce.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Cobra,8,20 | * | Subversive terrorist group.}
+		{ITEM Crimson Guard,8,20 | * | Elite group of espionage agents.}
+		{ITEM Dreadnoks,8,20 | * | Small group of outlaw biker mercenaries.}
+		{ITEM Phoenix Guard,8,20 | * | Small group of clandestine Cobra agents that infiltrated the U.S. military.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Masters of the Universe,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Heroes,17,18 | * | =}	
+		{ITEM Masters of the Universe,5,6 | ../../teams/indi/MOTU_Masters.htm,_page | Refugees from the planet Thundera.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Forces of Skeletor,8,20 | * | Group of mystical aliens.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Thundercats,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Heroes,17,18 | * | =}	
+		{ITEM Thundercats,5,6 | ../../teams/indi/Thundercats.htm,_page | Refugees from the planet Thundera.}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Lunatacs,8,20 | * | Group of mystical aliens.}
+		{ITEM Mutants,5,6 | ../../teams/indi/Mutants.htm,_page | Group of mutant space pirates.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Transformers,17,18 | * | =}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Autobots,5,6 | ../../teams/indi/transformers/Autobots.htm,_page | Group of peace loving extraterrestrial sentient robots primarily disguised as Earth vehicles}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Decepticons,5,6 | ../../teams/indi/transformers/Decepticons.htm,_page | Group of war mongering extraterrestrial sentient robots primarily disguised as Earth vehicles and weapons}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Voltron,17,18 | * | =}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Voltron Force,5,6 | ../../teams/indi/VoltronForce.htm,_page | Team of space explorers defending the galaxy from King Zarkon.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM ,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,17,18 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Castle Grayskull,5,6 | ../../locations/indi/CastleGrayskull.htm,_page | Mystic castle on the planet Eternia.}
+		{ITEM Snake Mountain,5,6 | ../../locations/indi/SnakeMountain.htm,_page | Mystic stronghold of Skeletor on the planet Infinita.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,17,18 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{FOLDER Voltron,17,18 | * | =}	
+		{ITEM Voltron,5,6 | ../../vehicles_devices/indi/Voltron.htm,_page | Giant robot compossed of five smaller lion-shaped robots.}		
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Chaos,17,18 | chaos_menu.htm,_self | Publisher of horror and wrestling comics.}
+		{ITEM Dark Horse,17,18 | * | Publisher of creator-owned characters and movie properties.}
+		{ITEM Harris,17,18 | harris_menu.htm,_self |  Publisher of Vamparella comics.}
+		{ITEM Image,17,18 | image_menu.htm,_self |  Publisher of creator-owned characters.}
+		{ITEM Mirage Studios,17,18 | mirage_menu.htm,_self |  Self published imprint created by Kevin Eastman and Peter Laird.}
+		{ITEM New England Comics (NEC),3,4 | nec_menu.htm,_self | Publisher of Tick comics.}
+		{ITEM Other,17,18 | other_menu.htm,_self | Publisher or publishers of a wide variety of characters.}
+		{ITEM Red Circle,17,18 | red_circle_menu.htm,_self | Publisher of superhero comics.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../dc/index.htm,_top | Marvel Comics main page.}
+{/BUTTON}
+{BUTTON Marvel Comics,1,2 | ../marvel/index.htm,_top | Marvel Comics main page.}

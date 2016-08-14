@@ -1,0 +1,10 @@
+﻿
+	@import "import_comics_ref_mobile.css";
+	
+	/*marvel_comics reference window styles*/
+
+	body	{
+		background-image: url('../images/marvel.gif'); 
+		background-repeat: repeat; 
+		cursor: default;
+	}

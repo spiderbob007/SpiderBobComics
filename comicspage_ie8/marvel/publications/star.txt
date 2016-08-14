@@ -1,0 +1,305 @@
+{BUTTON Marvel Comics,1,2 | * | =}
+		{ITEM Home,7,20 | ../../../index.php,_top | Home to Spider-Bob's Comic Book Encyclopedia}
+		{ITEM Heroes,17,18 | ../heroes/marvel_heroes_menu_open.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Villains,17,18 | ../villains/marvel_villains_menu.htm,_self | The villains of the Marvel Universe.}
+		{ITEM Gods,17,18 | ../gods/marvel_gods_menu.htm,_self |  The gods of the Marvel Universe.}
+		{ITEM Monsters,17,18 | ../monsters/marvel_monsters_menu.htm,_self |  The monsters of the Marvel Universe.}
+		{ITEM Aliens,17,18 | ../aliens/marvel_aliens_menu.htm,_self | The heroes of the Marvel Universe.}
+		{ITEM Races and Species,17,18 | ../races/marvel_races_menu.htm,_self |  The diverse beings of the Marvel Universe.}
+		{ITEM Supporting Cast,17,18 | ../cast/marvel_cast_menu.htm,_self | The cast members of the Marvel Universe.}
+		{ITEM Teams,17,18 | ../teams/marvel_teams_menu.htm,_self | Contains sub-directories for hero and villain teams.}
+		{ITEM Places,17,18 | ../places/marvel_places_menu.htm,_self | Contains sub-directories of locations in the Marvel Universe.}
+		{ITEM Things,17,18 | ../things/marvel_things_menu.htm,_self | Contains sub-directories of the vehicles, weapons mystical items and scientific devices of the Marvel Universe.}
+		{ITEM Events,17,18 | ../events/marvel_events_menu.htm,_self | The grand and long-lasting events of the Marvel Universe.} 
+	{FOLDER ~Other Publications by Marvel,17,18 | * | Alternative publications and cross company ventures.}
+		{ITEM 2099,17,18 | 2099.htm,_self | Marvel Universe in the year 2099.}
+		{ITEM Epic,17,18 | epic.htm,_self | Creator owned characters published by Marvel.}
+		{ITEM M2,17,18 | m2.htm,_self | Publications about an alternate future of the Marvel Universe.}
+		{ITEM Marvel Adventures,17,18 | adventures.htm,_self | Publications staring Marvel's top characters in all-ages stories.}
+		{ITEM New Universe,17,18 | new_u.htm,_self | New line of comics created by Marvel.}
+	{FOLDER ~Star Comics,17,18 | * | Comics for children based upon other media properties.}
+	{FOLDER Heroes,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display secret identity HERE.}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Battle Cat,8,20 | * | Cringer}
+		{ITEM Bionotops,8,20 | * | =}
+		{ITEM Buzz-Off,8,20 | * | =}
+		{ITEM Clam Champ,8,20 | * | =}
+		{ITEM Extendar,8,20 | * | =}
+		{ITEM Fisto,8,20 | * | =}
+		{ITEM Gwildor,8,20 | * | =}
+		{ITEM He-Man,5,6 | ../../../heroes/indi/HeMan.htm,_page | Prince Adam}
+		{ITEM King Randor,8,20 | * | =}
+		{ITEM Man-At-Arms,5,6 | ../../../heroes/indi/ManAtArms.htm,_page | Duncan}
+		{ITEM Man-E-Faces,8,20 | * | =}
+		{ITEM Mekaneck,8,20 | * | =}
+		{ITEM Mossman,8,20 | * | =}
+		{ITEM Orko,8,20 | * | =}
+		{ITEM Queen Marlena,8,20 | * | Marlena Glenn}
+		{ITEM Ram Man,8,20 | * | =}
+		{ITEM Rio Blast,8,20 | * | =}
+		{ITEM Roboto,8,20 | * | =}
+		{ITEM Rokkon,8,20 | * | =}
+		{ITEM Rotar,8,20 | * | =}
+		{ITEM Snout Spout,8,20 | * | =}
+		{ITEM Sorceress,5,6 | ../../../heroes/indi/Sorceress.htm,_page | Teelina}
+		{ITEM Stonedarr,8,20 | * | =}
+		{ITEM Stratos,5,6 | ../../../heroes/indi/Stratos.htm,_page | =}
+		{ITEM Sy-clone,8,20 | * | =}
+		{ITEM Teela,5,6 | ../../../heroes/indi/Teela.htm,_page | =}
+		{ITEM Turbocactyl,8,20 | * | =}
+		{ITEM Tytus,8,20 | * | =}
+		{ITEM Zoar,8,20 | * | =}
+		{ITEM Zodak,8,20 | * | =}
+	{/FOLDER}	
+	{FOLDER Spider-Ham,17,18 | * | =}
+		{ITEM Ant Ant,8,20 | * | =}
+		{ITEM Aroma,8,20 | * | =}
+		{ITEM Asnine Torch,8,20 | * | =}
+		{ITEM Badger,8,20 | * | =}
+		{ITEM Bee-Dazzler,8,20 | * | =}
+		{ITEM Black Catfish,8,20 | * | =}
+		{ITEM Black Panda,8,20 | * | =}
+		{ITEM Captain Americat,8,20 | * | Steve Mouser}
+		{ITEM Cardigan,8,20 | * | =}
+		{ITEM Collosso-bug,8,20 | * | =}
+		{ITEM Croak,8,20 | * | =}
+		{ITEM Croctor Strange,8,20 | * | Dr. Steamin Strange}
+		{ITEM Deerdevil,8,20 | * | Batt Burdock}
+		{ITEM Goose Rider,8,20 | * | =}
+		{ITEM Hockeypuck,8,20 | * | =}
+		{ITEM Hulk Bunny,8,20 | * | Bruce Bunny}
+		{ITEM Invisible Gorrila,8,20 | * | =}
+		{ITEM Iron Mouse,8,20 | * | =}
+		{ITEM Kitty-bug,8,20 | * | =}
+		{ITEM Kurt-bug,8,20 | * | =}
+		{ITEM Mooster Fantastic,8,20 | * | =}
+		{ITEM Nerdstar,8,20 | * | =}
+		{ITEM Nick Furry Agent of S.H.E.E.P.,8,20 | * | Nick Furry}
+		{ITEM Ororo-bug,8,20 | * | =}
+		{ITEM Pigeon,8,20 | * | =}
+		{ITEM Professor X-bug,8,20 | * | =}
+		{ITEM Punfisher,8,20 | * | Frank Carple}
+		{ITEM Quacksilver,8,20 | * | =}
+		{ITEM Scarlet Pooch,8,20 | * | =}
+		{ITEM Scott-bug,8,20 | * | =}
+		{ITEM Silver Squirrel,8,20 | * | =}
+		{ITEM Simian Torch,8,20 | * | =}
+		{ITEM Snow-Youse,8,20 | * | }
+		{ITEM Spider-Ham,5,6 | ../../../heroes/marvel/star/SpiderHam.htm,_page | Peter J. Porker}
+		{ITEM Squackeye,8,20 | * | =}
+		{ITEM Sub-Marsupial,8,20 | * | =}
+		{ITEM Summersquash,8,20 | * | Walrus Lamebrainski}
+		{ITEM Thang,8,20 | * | Ben Grizzly}
+		{ITEM Thrr,8,20 | * | =}
+		{ITEM Trinket,8,20 | * | Elizabeth Twodeadanimals}
+		{ITEM Waspbunny,8,20 | * | =}
+		{ITEM Wolverine-bug,8,20 | * | =}
+	{/FOLDER}	
+	{FOLDER Thundercats,17,18 | * | =}
+		{ITEM Ben Bali,8,20 | * | =}
+		{ITEM Cheetara,8,20 | * | =}
+		{ITEM Lion-O,5,6 | ../../../heroes/indi/Lion-O.htm,_page | =}
+		{ITEM Lynx-O,8,20 | * | =}
+		{ITEM Panthro,8,20 | * | =}
+		{ITEM Pumyra,8,20 | * | =}
+		{ITEM Scooper,8,20 | * | =}
+		{ITEM Snarf,8,20 | * | =}
+		{ITEM Snarfer,8,20 | * | =}
+		{ITEM Tygra,5,6 | ../../../heroes/indi/Tygra.htm,_page | =}
+		{ITEM WillyKat,8,20 | * | =}
+		{ITEM WillyKit,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display secret identity HERE.}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Beast Man,5,6 | ../../../villains/indi/BeastMan.htm,_page | Biff Beastman}
+		{ITEM Blade,8,20 | *| =}
+		{ITEM Blast-Attak,8,20 | * | =}
+		{ITEM Clawful,8,20 | * | =}
+		{ITEM Dragstor,8,20 | * | =}
+		{ITEM Evil-Lyn,5,6 | ../../../villains/indi/EvilLyn.htm,_page | Evelyn Powers}
+		{ITEM Fakor,8,20 | * | =}
+		{ITEM Grizzlor,8,20 | * | =}
+		{ITEM Hordak,8,20 | * | =}
+		{ITEM Jitsu,8,20 | * | =}
+		{ITEM King Hiss,5,6 | ../../../villains/indi/KingHiss.htm,_page | =}
+		{ITEM Kobra Khan,8,20 | * | =}
+		{ITEM Leech,8,20 | * | =}
+		{ITEM Manteena,8,20 | * | =}
+		{ITEM Megator,8,20 | * | =}
+		{ITEM Mer-Man,5,6 | ../../../villains/indi/MerMan.htm,_page | =}
+		{ITEM Modulok,8,20 | * | =}
+		{ITEM Mosquitor,8,20 | * | =}
+		{ITEM Multi-bot,8,20 | * | =}
+		{ITEM Ninjor,8,20 | * | =}
+		{ITEM Panthor,8,20 | * | =}
+		{ITEM Rattlor,8,20 | * | =}
+		{ITEM Saurod,8,20 | * | =}
+		{ITEM Scare Glow,8,20 | * | =}
+		{ITEM Screeech,8,20 | * | =}
+		{ITEM Skeletor,5,6 | ../../../villains/indi/Skeletor.htm,_page | Keldor}
+		{ITEM SnakeFace,8,20 | * | =}
+		{ITEM Spikor,8,20 | * | =}
+		{ITEM SSSQueeze,8,20 | * | =}
+		{ITEM Stinkor,8,20 | * | =}
+		{ITEM Trap Jaw,5,6 | ../../../villains/indi/TrapJaw.htm,_page | Kronis}
+		{ITEM Tri-Klops,5,6 | ../../../villains/indi/Tri-Klops.htm,_page | Dr. T.E. Scope}
+		{ITEM Tung Lashor,8,20 | * | =}
+		{ITEM Twistoid,8,20 | * | =}
+		{ITEM Two Bad,8,20 | * | =}
+		{ITEM Webstor,8,20 | * | =}
+		{ITEM Whiplash,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Spider-Ham,3,4 | * | =}
+		{ITEM Baron Zebro,8,20 | * | =}
+		{ITEM Bat-Bird,8,20 | * | =}
+		{ITEM Bull-Frog,8,20 | * | =}
+		{ITEM Buzzard,8,20 | * | =}
+		{ITEM Dr. Octopussycat,8,20 | * | =}
+		{ITEM Dragon Lassy,8,20 | * | Joan Collie}
+		{ITEM Ductor Doom,8,20 | * | =}
+		{ITEM Hobgobbler,8,20 | * | =}
+		{ITEM Kangaroo the Conqueror,8,20 | * | =}
+		{ITEM Kingpig,8,20 | * | =}
+		{ITEM Larval Zombie #1,8,20 | * | Jim Salamander}
+		{ITEM Mad Stinker,8,20 | * | =}
+		{ITEM Magsquito,8,20 | * | =}
+		{ITEM (The) Marauder,8,20 | * | =}
+		{ITEM Nagneto,8,20 | * | =}
+		{ITEM Paste Pot Peep,8,20 | * | =}
+		{ITEM Raven the Hunter,8,20 | * | =}
+		{ITEM Sandmanatee,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Thundercats,17,18 | * | =}
+		{ITEM Amortus,8,20 | * | =}
+		{ITEM Black Widow Shark,8,20 | * | =}
+		{ITEM Burn Out,8,20 | * | =}
+		{ITEM Captin Cracker,8,20 | * | =}
+		{ITEM Captain Shiner,8,20 | * | =}
+		{ITEM Driller,8,20 | * | =}
+		{ITEM Frogman,8,20 | * | =}
+		{ITEM Gorot-Rot,8,20 | * | =}
+		{ITEM Gune the Destoyer,8,20 | * | =}
+		{ITEM Inlamor,8,20 | * | =}
+		{ITEM Jackalman,8,20 | * | =}
+		{ITEM Mad Bubbler,8,20 | * | =}
+		{ITEM Mole Master,8,20 | * | =}
+		{ITEM Mongor,8,20 | * | =}
+		{ITEM Monkian,8,20 | * | =}
+		{ITEM Mud Hog,8,20 | * | =}
+		{ITEM Mumm-Ra,5,6 | ../../../villains/indi/Mumm-Ra.htm,_page | =}
+		{ITEM Plutar,8,20 | * | =}
+		{ITEM Queen Tartara,8,20 | * | =}
+		{ITEM Quick Pick,8,20 | * | =}
+		{ITEM Ratar-o,8,20 | * | =}
+		{ITEM Safari Joe,8,20 | * | =}
+		{ITEM Shardowmaster,8,20 | * | =}
+		{ITEM Slithe,8,20 | * | =}
+		{ITEM Tashi,8,20 | * | =}
+		{ITEM Trollark,8,20 | * | =}
+		{ITEM Two Time,8,20 | * | =}
+		{ITEM Vultureman,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Gods,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{FOLDER Spider-Ham,3,4 | * | =}
+		{ITEM Galactypus,8,20 | * | =}
+		{ITEM Watchdog,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Monsters,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{FOLDER Spider-Ham,3,4 | * | =}
+		{ITEM Hogzilla,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Aliens,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Races and Species,3,4 | * |  Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Supporting Cast,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =} 
+	{/FOLDER}
+	{FOLDER Teams,17,18 | * | Contains sub-directories for hero and villain teams.}
+	{FOLDER Masters of the Universe,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Heroes,17,18 | * | =}	
+		{ITEM Masters of the Universe,5,6 | ../../../teams/indi/MOTU_Masters.htm,_page | Refugees from the planet Thundera.}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Forces of Skeletor,8,20 | * | Group of mystical aliens.}
+	{/FOLDER}
+	{/FOLDER}	
+	{FOLDER Spider-Ham,3,4 | * | =}
+	{FOLDER Heroes,3,4 | * | =}	
+		{ITEM Awful Flight,8,20 | * | =}
+		{ITEM Fantastic Fur,8,20 | * | =}
+		{ITEM Scavangers,8,20 | * | =}
+		{ITEM X-Bugs,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Villains,3,4 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Senior Simian Gang,8,20 | * | =}
+		{ITEM Terrible Terriers,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Thundercats,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+	{FOLDER Heroes,17,18 | * | =}	
+		{ITEM Thundercats,5,6 | ../../../teams/indi/Thundercats.htm,_page | Refugees from the planet Thundera.}
+	{/FOLDER}
+	{FOLDER Villains,17,18 | * | Listings with book icons have biography pages. Most listings with page icons display details HERE.}
+		{ITEM Lunatacs,8,20 | * | Group of mystical aliens.}
+		{ITEM Mutants,5,6 | ../../../teams/indi/Mutants.htm,_page | Group of mutant space pirates.}	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Places,17,18 | * | Contains sub-directories of locations in the}
+	{FOLDER Headquarters & Hideouts,17,18 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+	{FOLDER Masters of the Universe,17,18 | * | He-Man and related characters.}
+		{ITEM Castle Grayskull,5,6 | ../../../locations/indi/CastleGrayskull.htm,_page | Mystic castle on the planet Eternia.}
+		{ITEM Snake Mountain,5,6 | ../../../locations/indi/SnakeMountain.htm,_page | Mystic stronghold of Skeletor on the planet Infinita.}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Planets Stars & Systems,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Cities & Countries,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Dimensions,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Mystical Places,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Hidden Lands & Kingdoms,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Businesses and Orginizations,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{FOLDER Things,3,4 | * | The vehicles, weapons mystical items and scientific devices of the }
+	{FOLDER Mystical Items,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Scientific Items & Elements,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Robots & Automatons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Vehicles,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{FOLDER Weapons,3,4 | * | Listings with book icons have biography pages.  Most listings with page icons display information HERE.}
+		{ITEM *,8,20 | * | =}
+	{/FOLDER}
+	{/FOLDER}
+	{/FOLDER}
+		{ITEM Supreme Power,17,18 | supreme_power.htm,_self | Alternate universe resembling that of the Squadron Supreme.}
+		{ITEM Ultimate Universe,17,18 | ultimate.htm,_self | Modern interpertation of the Marvel Universe.}
+{/BUTTON}
+{/BUTTON}
+{/BUTTON}
+{BUTTON DC Comics,1,2 | ../../dc/index.htm,_top | DC Comics main page.}
+{/BUTTON}
+{BUTTON Small & Indi.,1,2 | ../../small/index.htm,_top | Small and Independent Press main page.}
